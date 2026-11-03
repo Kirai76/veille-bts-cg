@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T13:15:33+00:00",
- "last_success": "2026-11-03T13:15:33+00:00",
+ "updated": "2026-11-03T14:25:43+00:00",
+ "last_success": "2026-11-03T14:25:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 32
+   "count": 73
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 100
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Mechkat Slama Khaldi présente les avancées de la facturation électronique et annonce le compte fiscal unifié pour début 2027",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWTZuU0FSLXE0dkg4RURfSWpZS1FaSW1wQzRzUEFYaHVQd3R3RllIZ3I4NzljT1ZKMFptQzQzRFYzamdSanFJQWJxYk0wd3E5ZVRNMXNMeF93THBVTWtoUUMyeWd2OFBfMENvV2ltQ09NUEgyU3lMSXgwMU5NQmJ4cUo4aDFGVHE3QnB3NEptWU5HQUdTZGxjaXNNN3hXYWY3dzVDSTlLaUV5TnBlcG1yekR5N212OEdsa29qQXlCZGNLNVJ6OF93QXQ2ZFVYVXpxdEJDVEhxVnd2ME1DZ0VjMlU3WVFCS2dJaEZ5YVQzWmlsZw?oc=5",
+   "source": "La Presse de Tunisie",
+   "ts": 1793714460,
+   "theme": "fact"
+  },
+  {
+   "title": "Facture électronique : et si votre expert-comptable avait enfin le temps de vous conseiller ?",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3hpQlZEV1JFcHpjMjhwVW1hS2tzQk8zeEZlYm95cjVXU0pUWTZXRkxGYUVuMWNlUkpSYi1Hb3dOeEU0Y3FzanZxM2pVaE5TQ0QxSzhJUlB0UDh4ZmtVQ0JzcjR4SE44Q0JyLWNsODZzYVl1Wl9DRFlZVVUxamszSjRacW5FdzYwNU5Wb0JCVzZTczUyQWxjdkJQVVJoQzZqX2FiUXZkNFZSWmRMOHZzRGhicVRrMUJPZXNNdXFYSUVfcm5kLVhXazBSZUZZZDAw?oc=5",
+   "source": "JDN",
+   "ts": 1793712675,
+   "theme": "fact"
+  },
   {
    "title": "Facturation électronique : Près de 1,8 million de factures reçues et quelque 37 mille factures réglées",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlJPUW10MExWbVJ0MzJIWnUyOG1qd1NHMUpuc0tvMmxHLXY2OEpkSUVodmJpa2dqQUtNXzF5UEJaNC1ZSTBSc1FjZXFvYjBSWWo1ZS1wbE1ZUG5VVUJURndnMGY3Tk1uZFZIWEFjajVMSFJaVjZoaVh5ZnN4bUlLb0RqRjNKM1laRktXc2U5UXctcVJxeWQxSzltSzdFNlZhR09KZkFnX2s2WTNwOTdIREFoVFpNeTdHcVZQUERoTzZUNERJUlE?oc=5",
@@ -212,11 +226,39 @@
    "theme": "fisc"
   },
   {
+   "title": "Budget 2027 : les députés remanient la TVA sur l'électricité et la télé",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjhfbUNJcUk4a3M2UWdHN0VSNWRfX0lJUTlheWNUczZRbndsVUpyWmNCRnhkdGkwemEyb1FzRUh6RDNuN0UyclVIUDNtdFlRT0hLUTJYUkdRVm9ZRzdiLW1zaHhKQVVlcC1YM0FTemtFRWNFS2FDS1l0WW0zM1pQU1dSb3FweTFDcndybmxFRlRxVGN2RGJ0V19rT3pVRmY1dElMNFdpajdNQy1udFZ1ZFlR?oc=5",
+   "source": "Le Figaro",
+   "ts": 1793645639,
+   "theme": "fisc"
+  },
+  {
    "title": "FACTURATION ÉLECTRONIQUE : La réforme, une opportunité ou un fardeau pour les TPE-PME ?",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHd4c2NWM2ttdFBQamF6VHpwTmxLTVlwSjZpNXNUTVNiOXZ0N1l6ZkFTamk0NDJIQW9QN1d3Sk9RUk45NWhlckVmM0pwZHNfYWlzWl9OcGFTU0NTd05rZFFfcTI3THptdWRSYmRkS000MW9WN29MazZxSU1fSUtjdFcwSHJSd0xEbjIxeEFCWUdnY0lpOFNhVkY5RTVWaHV3bnFzVjFoWWUwUnM?oc=5",
    "source": "Presse Agence",
    "ts": 1793640155,
    "theme": "fact"
+  },
+  {
+   "title": "Cognac : l'Assemblée vote un soulagement spécifique de TVA, avec l’appui du gouvernement",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTNGMG54N29TSGlfX0lWS0UwdlJnekZKREdxNmZvdXpwNTNlSk4xTVFGVWhLMlpYbW1NQ2J1ZTRCS0tTSVdMYWtTT25LcGxwR1FPb2kzZDh6UEdBQ0tZT2FKV005SmVIQTg5LUgzUE9ITTRmUjUtbFlzOTFYdGU2RkZOVjZEYW53Zl9rTzF0d0U2OFJwemhoLW41SldmUnFxcV9telJ2ZU9Tb3Y4ZXFBM0d4dDVFSmtYVHYxR180cUVTQQ?oc=5",
+   "source": "Le Figaro",
+   "ts": 1793639499,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : une opportunité pour les TPE-PME ?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
+   "source": "Presse Agence",
+   "ts": 1793638800,
+   "theme": "fisc"
+  },
+  {
+   "title": "Fiscalité au Liban : collecter sans freiner l’activité",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2UkdkOUpxM0FFYVVrNlpCOC16U0wxZ2gxZS1tWHZSbDdMcjVzQnZlS180cWVFREROeW9Ea2lQOUZqNG5rSVhDV180bVRFVFFHWTZ0NXNBa3NSRjRtR1NRTnVIUkM4eDJwM2VUTEV2a2pQWjNDc1p2S2JXbXNDN2M?oc=5",
+   "source": "Libnanews",
+   "ts": 1793632628,
+   "theme": "fisc"
   },
   {
    "title": "Loi de finances 2027, trois défis et une responsabilité partagée",
@@ -262,8 +304,8 @@
   },
   {
    "title": "Un nouvel impôt lourd de conséquences pour la France",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlpfQlZPNm4yWk5DeUVhUmxlTDBObGxrNXp5WDRGSVhRckZUT0lUN3UyclpoNURQWnpZNXY2bkZfZGpKbk9CbEdTTjc0eFRzdlVVd2daSGwxelZXaktUeFRjNEEwTDlEYmVubVN6dGdJQUtqZy1pVmJUZmZWY1B6SHFIV0ZNaExCVWZiU2VNM2U?oc=5",
-   "source": "Journal de l'Economie",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FDcWMwNlZNeHY5SUNFMVN5cTB6NG96cFlhQnNOQ1FENnlUbGRHN2ZEMy1WMWJwdm1KRms1Z1FuVjN6Tm9uU2Z0SlBQdm9QV3BqM2RZcHZzRjEtSG5GZHYwSXM3bkdVZXlqNHRwckRMVTIyWW9xdlB2NHJWanlpUXhpTmdqWGRSUVBBSjZMa2ljbkU?oc=5",
+   "source": "Yahoo Actualités",
    "ts": 1793611200,
    "theme": "fisc"
   },
@@ -373,6 +415,13 @@
    "theme": "fisc"
   },
   {
+   "title": "LMNP : les députés suppriment le plafonnement des amortissements",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUpZbzZBWHUyM241TWI2ZlZjZFNzbTZGWVlvVnllUlVjSTRoRjNrbTFGMVN3eFpVTG9Ia0JuVURMNGFiVWVha2U1YnJjcFdpQmNScGQtOFhXZFdGaFl4dWFnT05RZ05ERjMtNkVXcGJpWDNDa2hmS2pfS2JRMElvZ2R2RlBfRHlpa1NYYmh0VEZCWFJ2U2hqdjlWU0ZnN2dXZ0l2YmE3V3Flczg?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1793463196,
+   "theme": "fisc"
+  },
+  {
    "title": "Santé en cabinet comptable : l'enquête du CEG et de Malakoff Humanis",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
@@ -448,6 +497,13 @@
    "source": "repha.fr",
    "ts": 1793415743,
    "theme": "fact"
+  },
+  {
+   "title": "Les entreprises et les ménages commerciaux bénéficient d'une réduction d'impôt de 30%",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnNQN19MV0dBb3ljekptQnRnRWU2c3ZxcVRmc3lCRjJYQmxZcEVjTG9lVGt3Y2tSeXVYVlhOdkZSS0dCRkdDWFNqV0dIdVZ4Q0s4X1NFcjdoRC1HSjJyRU51R2hYYVpGTFVrTWVzcnlMd0FWYjdpQjlKcHJVOEdkV0hUUWJqb0NsMkVEbHhyWQ?oc=5",
+   "source": "Laodong.vn",
+   "ts": 1793411782,
+   "theme": "fisc"
   },
   {
    "title": "PARIS : Facturation électronique - Un mois après, 19 % des TPE n'ont entamé aucune démarche",
@@ -583,6 +639,13 @@
    "theme": "fact"
   },
   {
+   "title": "Lever les obstacles au remboursement de la TVA, débloquer les sources de capitaux pour les entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1k1Q29Kb1dFSks1TWtyeEZCbjc3TlEzTjZfYk5lT0kzcEE1TEdPVXBmN1RsdDMyLWxBODQ1N1lRSktQdjhBVE5rOV94ZkNPRlNFeHkzNW1kSHQ4QmZldnlMRldGbnZqVDV0TS0tS1hqMFlJY1dMdGpQYS05c2hmQzdOOXJHeER3QXFZbEdIdXhKcHZqNGdaOG5GdTZ4UDkwRmxv?oc=5",
+   "source": "Laodong.vn",
+   "ts": 1793330100,
+   "theme": "fisc"
+  },
+  {
    "title": "La Belgique compte 80 000 sociétés de gestion, mais d'autres estimations vont jusqu'à 150 000. Et quelle est donc la définition exacte d'une « société de gestion » ?",
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOM0YzR19qS01hSlNMc196Y29Mcmx6blVlZHh0QzFNcnVXdlQtNGJPcWRucS1US2M2VGRXelJnQ1drWjhKeC1uRTRya1pCaE5CU1lIcXI4ZW5hQ0IzRk4zaERfUjhRSXlJTGtjQmxqUElQSHlJbkZ5cHJMUEFBckc4OGpFTXFLN21adHFJbnE3cGI4bWh4U1ZxQU50ejdTUkNBZnZVVFRIdTUxRXhLdGg2MGQ3VE1taHFkLU1OUGZ6V3d1UUFiX0FJblFFRjRNQndCNHNCWkpMLU5mUE5Nb1VhR3E2cFgweklHdzR4dW1jVUVDTk9oZGZ2QUNpWWtMQWJSR3dNTzNOSDZqb296?oc=5",
    "source": "Business AM",
@@ -622,7 +685,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "DSN 2027 : une mention supplémentaire à préciser",
@@ -716,16 +779,16 @@
    "theme": "alt"
   },
   {
-   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
-   "source": "Mes Allocs",
+   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
+   "source": "WIZBII",
    "ts": 1793257200,
    "theme": "alt"
   },
   {
-   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
-   "source": "WIZBII",
+   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
+   "source": "Mes Allocs",
    "ts": 1793257200,
    "theme": "alt"
   },
@@ -832,7 +895,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmVQTkJHTjM1YmJCNDFSWjY0VjNvQ2E5elg5amJxYThiX1VSQllCXzZmMmdUdVl5aGRPLUZwRUxlOGNZNTJIY1JOOVdCUENWRmhhMTN6czhiOWJFY1pMTjJqMHdLS2M0UDVNaDlzdHlEdzZsQk1Jdk9XNkRabWlBekFrdXpabjQ5N09UQkJfUk1kUVd5aU9GSi04ODNvZ1gtM29oTTRrcEhCTXJSOWUzaDZOOXpJMHhpbEc5bFRnMkhQS19VM2VCVmhsMGpXajNJQXc?oc=5",
    "source": "Siècle Digital",
    "ts": 1793204837,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Un géant français de l'expertise comptable rachète un cabinet lyonnais",
@@ -1010,6 +1073,20 @@
    "theme": "fisc"
   },
   {
+   "title": "Facturation électronique : pourquoi les commerçants de L’Aigle se sentent un peu perdus ?",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGxwOVBVcllQZkhNRmEtYWZJaVRGYk9heEdYeXQ4TmItMzcxbjVzZTZLTlJ5Ykx1ZDJQUGhaYnNRTk44N19MQ193MEJIc19relJMQTlXeGpxZHo2bWpCVWtSOV84MWpPZEVOUksyVWFORWMwaWNWRENBRDFXN0dCLXY5OW9vaFdxTWhGX2NLS0VxbmtpYU11dHlQaU96ME1tZnhCb1YtUU1PTUlQMlZneWNLSGdrOFlqVl9RVXBkcWNocUttX1RXSWt3N2J4MGhDek1GS1VB?oc=5",
+   "source": "Actu.fr",
+   "ts": 1793124002,
+   "theme": "fisc"
+  },
+  {
+   "title": "Gouvernance : l’OCDE passe au crible la réforme des EEP",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEZCYVZXNDZYaG93NGFLQ1ZvT3J6T3dYU2Z5TVBuVTNKd1BfRnpxQ1dIU0ZNdkh3NGZxVzJ5MjBrOXp2YzhqZzJFajE2blBfYVFGci0zazJfUjdCUGNyOW0wWFpIS1JmeXRHU2FRTEZMN1o4Y2NGeTl4UkZkaE5Cci1rQjJlMHZNdHpGZg?oc=5",
+   "source": "LesEco.ma",
+   "ts": 1793119411,
+   "theme": "fisc"
+  },
+  {
    "title": "Facturation électronique : l’AIFE cible les rejets entre plateformes",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVlhT1laT3ZPN3R0Zk1WYktaUnFOWml3MERPcnhKVjQwdWE5WFNIRHV2SklMNmpmRUF5MWY0MGk0clphOUhXU1RvM1N0Z0dPNEllYWFyWXVqeUlCVGUwb1pUZHVCdEt3NTZpNC1Ld0VqLTROM25QbUMtNnJMQk9lY295MEhCaVgtZnFXOEdXUG4?oc=5",
    "source": "ITforBusiness.fr",
@@ -1024,94 +1101,17 @@
    "theme": "alt"
   },
   {
+   "title": "Facturation au Maroc : les entreprises sont-elles prêtes à ce qui les attend ?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNE9aQXozTXFZTk43RjY0YzVoUEdkRVZkZVRvdmJPMHc1SW9keXFxbWk5bS1BaWt4eVVQblo4amxfTi1uckpUM3hjUjVqWEcyQWRVV3pnNzJCTWhzYnpGXzZmT1Uwb0NCYjh4S0J6Q3JrcHlucF83V25jM3ZHQndibXhKUGxOdVBfOVZOcjYxOVZmMHd2dndId3YzNnNYeEF6TDVmUlBvVGFnUQ?oc=5",
+   "source": "Maroc Diplomatique",
+   "ts": 1793114077,
+   "theme": "fisc"
+  },
+  {
    "title": "Convention fiscale France – Émirats arabes unis : votre société à Dubaï est-elle vraiment à l'abri de l'impôt français",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGRtSlFJZTcwdlUtOF9lcndoZWRXekFtb2MzWUZBV2dhOEJjcHBoU01PbExPSDZIMGk2T0U1R016RENEb0lKbFF1OHhRYjBiUjIyTWVqTVRIU0dfb3dBdmdLeUFLcUgxZHp4MGNwM2JtbjRKT1V3V3NWeXFTay1oUjZqMENkYW1WUmRrMzZsaXNHVDNOeDdnWnhVa0JVQmhnNTlGTEZ1TU9uVTBKMXZER1I2anVsdjI1Vm9abUY2OW9LSGZ6N0E?oc=5",
    "source": "Kohen Avocats",
    "ts": 1793113560,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique 2026 : ce que la reforme change pour les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNVVXV1dPSE40c2lhRFFURG9qaTFPQVdFelZqM19EbVAwclFkWk9JeU03QmM0OF9sMlBmSTI0SFVaemNmUHZoaEFYOENMSU1mQUR5cndKN2ZPSW9MMmxVV1M3eFp1U1ZkOUZJWGQ0RlFOTGI3N2JENUs4TFFoajZXWno3aHpGQWdMbVZoZkpSTUhRS0l0STVUU0Z2LTllM0hXZUFYaEl3cHpHeHhya3lzVU9JMXFYa0N5ZUdlNllTRUhVSXdZNjh4Y3JsMXB6U2s3U1RpVGZPTXZwSlRJazNV?oc=5",
-   "source": "La Tribune",
-   "ts": 1793109617,
-   "theme": "fisc"
-  },
-  {
-   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
-   "source": "Compta Online",
-   "ts": 1793107121,
-   "theme": "compta"
-  },
-  {
-   "title": "Apprentissage dans le supérieur : un recul de 11 % dans l’académie de Bordeaux",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUG14dHZrbE5JQV9jLTBVY2U4V3NMWlVOUkllSG9hY3BRcW9nUGdHTlpBSjBCa0N0eC0tUnM1M016dU5DY1dzSjUxR2RPTmtRdkNMUzd0eUlLUmNQZXhVYm02d1dhSUxDUGRfMWZGb2M5dHh1Z1BBakVmdmhPNjk3V1JMQldudWFVMTNFcm5kQW5vN21wZ2VHUy1tck5VRXAwMTdZam5rR0tIMTFfeEVYY2d0ZjlPeW8?oc=5",
-   "source": "Bouger à Bordeaux",
-   "ts": 1793099501,
-   "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : pourquoi il n’est pas si évident de choisir sa plateforme agréée",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSjlNTFY2dHZNR21qVDFScVBRbW5USWV1eGtnTlRYNEVWbVB6b3BoMHltRHpFUkF2OV9rUnIzTDJsVGlJa0htWk9tSnp1a2IwcDc3cU5peDAtSDZadlN5NFpkMDVjUjN4NTJrTjYyWGpvNXdVNnBnREU1UFlvelhZMHhLLVhnNXdFQmVOVHJjYzlyS3RDZDVEYlN3YUZMQjhOc3lkb09RYVMxYWcxN1pJc2dxQ0VMcE5hQlJEZlkta2ZqNU1ydlhSZ0N6d1oyTDJT?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793098800,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : le 1er septembre n’était que le début",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmF2bkdsMjFibWdOSUdScG5GNk42YnE1eGNYLWJId0Q5V3NHSHJXZmpkMmczR0JvaVFNNmZESVBXVW5GWnpBRTdZMnNibzB0MEgwNC16M2dKQmhNRUwxOU5uelJIdFF3MURhMWtpWTdTUlB0TzFhTHJiWENoVUlwbkZQd0dkdVJuSllCVTRka1kxSjNxdlFVT21pMA?oc=5",
-   "source": "L'Essentiel de l'Éco",
-   "ts": 1793095547,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture éléctronique : les impayés sous surveillance",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2NUVWo3aUs0SExWOV91R2kxOG4ydXRzZVBEbVk0dFlOQW5ublJUQTJGQTFKS2pNLUl6SzJiN2cySE1jOWVUOGtUZjkwM0hlSWJyeUk1TzRrWGt4RGZYbVRYVG5MZThrdGVwM1ZsWHpwNFBxdmZPQkotN3IzUEFOSHpxakdyNWtaMHF6RmlkTW9uMWhVeWtJcmxkQ0QzYTZtTFRGVnA5WnBUVzc4dkFkMm9oVdIBuAFBVV95cUxQcFZULXFMV19QUHRMdGFaV29leFRManNZMFZ6c2UxZHRZSk1xXzBHTTE3VkJJRy1tOGhZZG1SaVdhNkZERzlIVC1uVzJ4ek9LeWhZaXpPajhFdGE1UE50WkFwVzI2SllTYUFUSUFLN0pnVTcyOFFxa3YxdHpFbldpdDhUZUJubmQ1b1N2VGZWWHVTcHNkYU83Z1pRVG1JYmVwaFdwZldPVGJwZ2pEaTVoREFMWjZFNmtw?oc=5",
-   "source": "Beaboss.fr le site des dirigeants de petites et moyennes entreprises",
-   "ts": 1793087808,
-   "theme": "fact"
-  },
-  {
-   "title": "Fermer sa société à Dubaï depuis la France : radiation de la freezone, boni de liquidation et impôt français, comment contester le redressement",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaHdob0tZUXpWajJwVHFEdEVEN1lqdDUtQ2Y3YU16RnQxS0ZaQmxLNVZEZHdvemZzSmh0OTZpX3h6VXVTX0U2SnNWWlJzQ0wxNGVHV25BZXBmVGhPMDJYSTliOGtIb1k2azdRMTVzR08tR040MmFJV2hQeHJWaVRSRl9uYXdqenhjY0l5M0VmMWh2MGlKbkhlWnNSS3l1em1sc2ZBS0NsQ0JWbkNEWXQ5U1puLXhEZjYtSmdPTTQyOFE2dDVUQlZtNA?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1793084580,
-   "theme": "fisc"
-  },
-  {
-   "title": "Une nouvelle circulaire précise le précompte mobilier relatif à la taxe sur les plus-values",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY0oyeFdRSUF5cHNhTDM3dU9UVEFsaUJMaEd1OFVFMFNLY2xtYklhTDV4TERhR3VvZWR0YXRJN1pMeDdPeGkyX1E3R0lwTlVyZ1FsYzBrYkQtTTVoa2w2dnFnNGNvSFNNRFpMZUFLRjhGM1VjQnI2OEYtQklCV3F2Tm1lY3dtQ1VybDB5RzVpQ1hfb2ZZQ3dyUGtybGxCbHdXVjNNR3dKajVJaEhwTk92eFVSQXRJQ19ndllwRjN1R3Y3V1plVmFTU2hXd1QwUWRFaFpFQUtkUWpUekFGLUstVVlVWjI4Z2ZrRGtCSTJzZXhaWTVIeGM4?oc=5",
-   "source": "kpmg.com",
-   "ts": 1793084400,
-   "theme": "fisc"
-  },
-  {
-   "title": "Alternance : les salaires des apprentis pourraient encore baisser après le vote du budget",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSjF1NkZVSllNaHhzbE9GU3VqMEpDQXVzQmNjQjdiSkY0RHZ1QnJsVzFwSmoyank3NGpVZGlxQUZDazE5Nl9xLVhFOVdwNTBCQWZMSWIzdm9RLTBtZm9uWkNjQ3RGOVBUNExzVjM3X2F6SDVhektqUlhKOXpTSF85cjBDbDNLUFpUZVVKU2lCOFE2V2M5cE5ZZTlwMU5BSVBRdnNLSWlHWGpQQ28zZHpweVRsQmpLeFlKckR0ZA?oc=5",
-   "source": "L'Etudiant",
-   "ts": 1793073600,
-   "theme": "alt"
-  },
-  {
-   "title": "PARIS : Formation professionnelle - La réforme de la TVA sur les OPCO modifie les circuits de paiement",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHI0QnhTS0RKamh3R2xYV0p1V3VDUTM3ZjdXNVpEWjYzOFBiTm9GdFpQX3FPX2tFTE1NMUtDS3gxM0lFXy01cUcxT2pEWGt5dVIyalpLRU1pR0k0Wk9QUWJUN0pmNWVpcVoySnN2b1FIQ1FEYmZVMEo1VXZxV1NhYUVQMGFRQnNzcDlMLVlnUE92RTIwbDhwT21PVDBTcDRwaHJNdGI3MVhfbHVodzFFRi14T0xHWW9ZRWlHMGV3djY?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793059200,
-   "theme": "fisc"
-  },
-  {
-   "title": "TROYES : Expertise comptable - implid prend appui sur le cabinet Prieur pour conquérir le Grand Est",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEROeExwbmRqdGEtQXFna2FnNWg3OGZyQ2haWWtBaGVBTWRCMkNmOFFSS0VtaFdyTWpFdXhPd25jYzJqSUE5dThJZEQzdjB1X05DQkFPQ2RJTndqTEs5eEMxVHpFRmhpallQNmJQc09aTGVBUTBHMjQyX0lrbVUxRXBnZXJTUVhCXzBsZ09fWkZLaG9RUlQ4VFZJNXBYRDhhMndURk04SG5SclN1dnpXQ2gtdDlRZUNST1hSSA?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793059200,
-   "theme": "compta"
-  },
-  {
-   "title": "Société étrangère : la fermeture d'un établissement stable en France exclut le bénéfice du carry-back",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXRvMFdJQmE5VDUtVXk4aVZEZnljU1NhNDFBRmFIdnZ0OGEwejJtMXU3TXhZWTJqSDI3Smk3MTdEMWtqQWxBMkZxdGdRZnVVeWRWYUJnX0tmWUdhVjEtZ0tRWm82ZGNFZ25GaVdDMjFnME01M29fNjR3ZjF5NFk5cmpDRXRuYkVHaVc3OVBWdThuWF9LS0t0VHI5YURfMTA?oc=5",
-   "source": "Fiscalonline",
-   "ts": 1793053800,
    "theme": "fisc"
   }
  ]
