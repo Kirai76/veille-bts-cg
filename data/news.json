@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-03T16:00:37+00:00",
- "last_success": "2026-11-03T16:00:37+00:00",
+ "updated": "2026-11-03T17:06:18+00:00",
+ "last_success": "2026-11-03T17:06:18+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 70
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 73
+   "count": 32
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 62
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 24
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Réforme de la consigne: arrêter maintenant avant de frapper un mur",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUQ5T1RpYm01anp2UGRLRzlUUVROQTZnTlcyOHlrNVBxdndHaHc2UnZGZ2NKTXBxSmxQQ0RxbTg0a0otUGVxVDVaRWQ3WHRPZkZLVy0zMHZjaWFNVURRcm1sb3BneDdaeGs3d2gtbFpqSTZNRUdmd2E5MnR1TDBKbzB1N0xoRTlaaVJ2S1UzOF9oUWNmMjVpLTFUdGhWMVVCZnFaN0M5OA?oc=5",
+   "source": "TVA Nouvelles",
+   "ts": 1793717937,
+   "theme": "fisc"
+  },
   {
    "title": "Mechkat Slama Khaldi présente les avancées de la facturation électronique et annonce le compte fiscal unifié pour début 2027",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wSDJZLXl3V3RUdHJfYXRfZ2lWNFRldGhqdXJQZlB1bE1CU2FTcTJxUUg2WTc4ZXlLRUxUdTJRcllxZVQ5WkxfWHBB?oc=5",
@@ -91,6 +98,13 @@
    "source": "African Manager",
    "ts": 1793709095,
    "theme": "fact"
+  },
+  {
+   "title": "TGS France distingué parmi les meilleurs cabinets d'expertise comptable en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVdyMDRvN3BKZzZlbUo5OUtVRXhMWWItOFhnZVNtUDJURTJIT3RDN3I1VVVlMHBmMXUyQkNHblRUdHRQQnRmTVpsWTNydkxZSmdMZVBkSEh5WXVqQVRBV040NXdNWXZLejdxcXhQVElBX3o5T0t1VnRKTjJhTlZ6eDByMHFsdGdPRWlQWEJ3dF94OWRHbVV0U21HeFFkQ0RibUwwbWx5VVlTNUFFU202amx5and0Q0Vl?oc=5",
+   "source": "TGS France",
+   "ts": 1793707971,
+   "theme": "compta"
   },
   {
    "title": "Facturation électronique en Tunisie : 1,8 million de factures",
@@ -433,7 +447,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -713,7 +727,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "DSN 2027 : une mention supplémentaire à préciser",
@@ -807,16 +821,16 @@
    "theme": "alt"
   },
   {
-   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
-   "source": "WIZBII",
+   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
+   "source": "Mes Allocs",
    "ts": 1793257200,
    "theme": "alt"
   },
   {
-   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
-   "source": "Mes Allocs",
+   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
+   "source": "WIZBII",
    "ts": 1793257200,
    "theme": "alt"
   },
@@ -923,7 +937,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmVQTkJHTjM1YmJCNDFSWjY0VjNvQ2E5elg5amJxYThiX1VSQllCXzZmMmdUdVl5aGRPLUZwRUxlOGNZNTJIY1JOOVdCUENWRmhhMTN6czhiOWJFY1pMTjJqMHdLS2M0UDVNaDlzdHlEdzZsQk1Jdk9XNkRabWlBekFrdXpabjQ5N09UQkJfUk1kUVd5aU9GSi04ODNvZ1gtM29oTTRrcEhCTXJSOWUzaDZOOXpJMHhpbEc5bFRnMkhQS19VM2VCVmhsMGpXajNJQXc?oc=5",
    "source": "Siècle Digital",
    "ts": 1793204837,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Un géant français de l'expertise comptable rachète un cabinet lyonnais",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzR3T3NQeEtwc1JKcE13UUFqeXhCYXVyU1p6YUVockVuQ19xMXFNS1daejJJdnp4cGNlalJZNlpPMUxxaDFWNmxvVl9MWVozWGtmMGw5cnFNblE3a1o3Q2dkZ0JKRUZHdFp0TkpLSDdFU19HTUpBT1hyVGFoQWRsaUw1WVAwYk1EaHdBOWk0LVhuaTZYdWpaQUtfWGFHWGJlRlZIT3k0QzQ1dTNuSTludWdaZmo?oc=5",
    "source": "LCP-Assemblée nationale",
    "ts": 1793164025,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027: les députés suppriment la surtaxe des grandes entreprises, contre l’avis du gouvernement",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkFtcHRVMEVnTUdBS2l5azk4TjRrWnJETEs3dDMzUk13Mnp6VmV2YjluOTZzLUVuNHM4Wmx6d3lSRzZDMFBxT1ZETkpfWHFkYWRZcnlsQ0hsM3h3R3MwalZ1cHctcXQtemRMYS1wQ2F4RldBalBWYWdZUFE3bUJVRHdYb1VZY0lGTEZaSzV0WFBNbmQ5NjY1clZoNDd6RUxLTDZWZlh5NWNmTUZWcWVaaFp4VElxbDdyZXZJVEI2cVhSUFhSTzFwaWZKb0NqcmszWTVYaUVmZnl2Y3dU?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793135586,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : pourquoi les commerçants de L’Aigle se sentent un peu perdus ?",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGxwOVBVcllQZkhNRmEtYWZJaVRGYk9heEdYeXQ4TmItMzcxbjVzZTZLTlJ5Ykx1ZDJQUGhaYnNRTk44N19MQ193MEJIc19relJMQTlXeGpxZHo2bWpCVWtSOV84MWpPZEVOUksyVWFORWMwaWNWRENBRDFXN0dCLXY5OW9vaFdxTWhGX2NLS0VxbmtpYU11dHlQaU96ME1tZnhCb1YtUU1PTUlQMlZneWNLSGdrOFlqVl9RVXBkcWNocUttX1RXSWt3N2J4MGhDek1GS1VB?oc=5",
-   "source": "Actu.fr",
-   "ts": 1793124002,
    "theme": "fisc"
   }
  ]
