@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-03T19:59:55+00:00",
- "last_success": "2026-11-03T19:59:55+00:00",
+ "updated": "2026-11-03T20:56:54+00:00",
+ "last_success": "2026-11-03T20:56:54+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 74
+   "count": 73
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 100
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 24
+   "count": 28
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : une opportunité pour les TPE-PME ?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
+   "source": "Presse Agence",
+   "ts": 1793736000,
+   "theme": "fact"
+  },
+  {
+   "title": "Ministère des Finances : 1,8 million de factures reçues via la plateforme de facturation électronique, dont près de 37 000 réglées",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbDFkZmswSWQ5aGZTLUUtSmFZSm5XeTBINWlXM3RLVk1fNmM2TDFmcFp4anMyQU56UUdqR3VPMkdQZk1kT3NXclpaaDNUZzNZRTVhSFotN3ZBTGZrZHV2X09sUC04ZWtMbjQ0aU11Wmc2RUROV1YwZnBwbUR4ckdETlpQMm1nSDJuUzZyTWtmSS1ZYVNERnVhX0NEVFNEcnQxVktfSEU5QS1aUF84Mmw1NWJ3M0NqbktIU1hPTkRaY2xvNE5sMHVrLTRjaXFsZ1B4ZGE1cVZsX2dhdUtZeWRoclpHU01iNml2RFZZNXdQbjY5UQ?oc=5",
+   "source": "Tunisie Numerique",
+   "ts": 1793734200,
+   "theme": "fact"
+  },
   {
    "title": "Facturation électronique : « Les commerçants qui ne sont pas prêts risquent de perdre des clients",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlZ2cjBPZGo1QWdnOTFCYmotVkJYNXA1NmpIcnNCdExJWU1GRzQzLTM0RnRRUWtqMXdiZWVBQ2cxRlZKd0ZXc2JzVEtkMWFnNzVESWJhaWVxUmM5ZUFqeXlRcEpkSzd2QVBGcUdtVjdLa3lUdkI3MC1BQjV1QXI5alZoRUNYYjlSNzlJcUVuVy1UTS1DaU5sbllMVGQzTU1zamxhQWNMYkh1OUZaWUxpUFFud3p1ZHhScVE?oc=5",
@@ -108,22 +122,22 @@
   },
   {
    "title": "Mechkat Slama Khaldi présente les avancées de la facturation électronique et annonce le compte fiscal unifié pour début 2027",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wSDJZLXl3V3RUdHJfYXRfZ2lWNFRldGhqdXJQZlB1bE1CU2FTcTJxUUg2WTc4ZXlLRUxUdTJRcllxZVQ5WkxfWHBB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWTZuU0FSLXE0dkg4RURfSWpZS1FaSW1wQzRzUEFYaHVQd3R3RllIZ3I4NzljT1ZKMFptQzQzRFYzamdSanFJQWJxYk0wd3E5ZVRNMXNMeF93THBVTWtoUUMyeWd2OFBfMENvV2ltQ09NUEgyU3lMSXgwMU5NQmJ4cUo4aDFGVHE3QnB3NEptWU5HQUdTZGxjaXNNN3hXYWY3dzVDSTlLaUV5TnBlcG1yekR5N212OEdsa29qQXlCZGNLNVJ6OF93QXQ2ZFVYVXpxdEJDVEhxVnd2ME1DZ0VjMlU3WVFCS2dJaEZ5YVQzWmlsZw?oc=5",
    "source": "La Presse de Tunisie",
-   "ts": 1793714460,
+   "ts": 1793714735,
    "theme": "fact"
-  },
-  {
-   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
-   "source": "Consultor",
-   "ts": 1793714400,
-   "theme": "fisc"
   },
   {
    "title": "TVA sur les immeubles en stock : précisions concernant la",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
    "source": "Fiscalonline",
+   "ts": 1793714400,
+   "theme": "fisc"
+  },
+  {
+   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
+   "source": "Consultor",
    "ts": 1793714400,
    "theme": "fisc"
   },
@@ -324,13 +338,6 @@
    "theme": "fisc"
   },
   {
-   "title": "Facturation électronique : une opportunité pour les TPE-PME ?",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793638800,
-   "theme": "fisc"
-  },
-  {
    "title": "Fiscalité au Liban : collecter sans freiner l’activité",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2UkdkOUpxM0FFYVVrNlpCOC16U0wxZ2gxZS1tWHZSbDdMcjVzQnZlS180cWVFREROeW9Ea2lQOUZqNG5rSVhDV180bVRFVFFHWTZ0NXNBa3NSRjRtR1NRTnVIUkM4eDJwM2VUTEV2a2pQWjNDc1p2S2JXbXNDN2M?oc=5",
    "source": "Libnanews",
@@ -388,8 +395,8 @@
   },
   {
    "title": "Un nouvel impôt lourd de conséquences pour la France",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlpfQlZPNm4yWk5DeUVhUmxlTDBObGxrNXp5WDRGSVhRckZUT0lUN3UyclpoNURQWnpZNXY2bkZfZGpKbk9CbEdTTjc0eFRzdlVVd2daSGwxelZXaktUeFRjNEEwTDlEYmVubVN6dGdJQUtqZy1pVmJUZmZWY1B6SHFIV0ZNaExCVWZiU2VNM2U?oc=5",
-   "source": "Journal de l'Economie",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FDcWMwNlZNeHY5SUNFMVN5cTB6NG96cFlhQnNOQ1FENnlUbGRHN2ZEMy1WMWJwdm1KRms1Z1FuVjN6Tm9uU2Z0SlBQdm9QV3BqM2RZcHZzRjEtSG5GZHYwSXM3bkdVZXlqNHRwckRMVTIyWW9xdlB2NHJWanlpUXhpTmdqWGRSUVBBSjZMa2ljbkU?oc=5",
+   "source": "Yahoo Actualités",
    "ts": 1793611200,
    "theme": "fisc"
   },
@@ -415,16 +422,16 @@
    "theme": "compta"
   },
   {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
+   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
+   "source": "Presse Agence",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -510,7 +517,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "compta"
+   "theme": "fact"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -790,7 +797,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "DSN 2027 : une mention supplémentaire à préciser",
@@ -1000,7 +1007,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmVQTkJHTjM1YmJCNDFSWjY0VjNvQ2E5elg5amJxYThiX1VSQllCXzZmMmdUdVl5aGRPLUZwRUxlOGNZNTJIY1JOOVdCUENWRmhhMTN6czhiOWJFY1pMTjJqMHdLS2M0UDVNaDlzdHlEdzZsQk1Jdk9XNkRabWlBekFrdXpabjQ5N09UQkJfUk1kUVd5aU9GSi04ODNvZ1gtM29oTTRrcEhCTXJSOWUzaDZOOXpJMHhpbEc5bFRnMkhQS19VM2VCVmhsMGpXajNJQXc?oc=5",
    "source": "Siècle Digital",
    "ts": 1793204837,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Un géant français de l'expertise comptable rachète un cabinet lyonnais",
@@ -1106,13 +1113,6 @@
    "source": "Tout Sur Mes Finances",
    "ts": 1793184362,
    "theme": "alt"
-  },
-  {
-   "title": "France : les députés suppriment la surtaxe sur les grandes entreprises prévue au budget 2027",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTZLS0RCZTk3d3ZRZmg2N3BNNW1Denk3UzV0NW1YZHN0cEJVQ3hsZzh6aEFpMzN1Rk1sMVlLaEFBN2dnWGhJQ294RVlvOWVEQ3FGSDlqRXpRbHhCX3pneUY2OVAtb0ZxMXI0SEM4MVNQSmtSaEN6amJnZFBYdVdsWG5OZVdsY2FCc3FKa0hCZFJqVnBlU0EtRVVVV1dYU0VTM1Jlc3hvVWo5NnlWalk1ZHhvY25hYkxzdmZDb1BhZkVBa0lhRmNTRFRlU0FGSkZ3UzhhSEpsSzk?oc=5",
-   "source": "Anadolu Ajansı",
-   "ts": 1793178557,
-   "theme": "fisc"
   }
  ]
 }
