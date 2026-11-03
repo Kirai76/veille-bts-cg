@@ -1,0 +1,384 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Journal de veille BTS CG : comptabilité, fiscalité, paie, alternance</title>
+<meta name="description" content="Veille quotidienne pour alternant BTS Comptabilité Gestion : facturation électronique, loi de finances 2027, TVA, paie, aides à l'apprentissage, échéances et sources officielles.">
+<link rel="canonical" href="{{SITE_URL}}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Journal de veille BTS CG">
+<meta property="og:description" content="Actualités comptables, fiscales et sociales pour alternant BTS CG, mises à jour toutes les heures.">
+<meta property="og:url" content="{{SITE_URL}}">
+<meta name="theme-color" content="#1E6B57">
+<!-- GOOGLE-VERIFICATION : colle ici la balise meta donnée par Google Search Console (voir le README) -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Journal de veille BTS CG","url":"{{SITE_URL}}","inLanguage":"fr","description":"Veille comptabilité, fiscalité, paie et alternance pour les étudiants en BTS Comptabilité Gestion."}
+</script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+/* Concept : un grand livre. Les actualités s'écrivent comme des écritures datées (date en mono, libellé, thème),
+   les montants et dates sont en chasse fixe, un filet double marque les totaux. Rouge = à retenir (encre de correction). */
+:root{
+  color-scheme:light;
+  --bg:#F2F4F1; --surface:#FFFFFF; --ink:#15241F; --muted:#586963; --rule:#D3DBD6; --soft:#E4EDE8;
+  --accent:#1E6B57; --accent-ink:#FFFFFF; --alert:#B3261E;
+  --f-display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --f-body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E1613; --surface:#15201C; --ink:#E6EEEA; --muted:#98AAA3; --rule:#27362F; --soft:#1B2B25;
+    --accent:#5CC2A4; --accent-ink:#0E1613; --alert:#FF8F86; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0E1613; --surface:#15201C; --ink:#E6EEEA; --muted:#98AAA3; --rule:#27362F; --soft:#1B2B25;
+  --accent:#5CC2A4; --accent-ink:#0E1613; --alert:#FF8F86; color-scheme:dark;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+img{max-width:100%}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.55;
+  padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px));padding-block:0 56px}
+.wrap{max-width:960px;margin:0 auto}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;line-height:1.12}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+
+header.top{padding-block:40px 28px;border-bottom:3px double var(--ink);
+  background-image:repeating-linear-gradient(to bottom,transparent 0 31px,var(--rule) 31px 32px);background-position:0 8px}
+.kicker{font-family:var(--f-mono);font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-size:clamp(2.1rem,6vw,3.6rem);font-weight:700;letter-spacing:-.02em;margin-block:10px 14px;background:var(--bg);display:inline-block;padding-right:12px}
+.lede{max-width:60ch;margin:0;background:var(--bg);display:inline-block;padding-right:10px}
+
+nav.bar{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--rule)}
+nav.bar .wrap{display:flex;gap:4px;overflow-x:auto;padding-block:8px;scrollbar-width:none}
+nav.bar a{flex:none;text-decoration:none;color:var(--ink);font-family:var(--f-mono);font-size:14px;padding:7px 12px;border-radius:6px}
+nav.bar a:hover{background:var(--soft)}
+
+section{padding-block:44px 8px;scroll-margin-top:56px}
+.sec-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 16px;margin-bottom:18px}
+h2{font-size:clamp(1.5rem,3.6vw,2rem);font-weight:700}
+.sec-note{color:var(--muted);font-size:15px;margin:0;min-width:0}
+
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.chip{font-family:var(--f-mono);font-size:13px;padding:6px 12px;border:1px solid var(--rule);background:var(--surface);color:var(--ink);border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+
+.ledger{border-top:3px double var(--ink);border-bottom:1px solid var(--ink);background:var(--surface)}
+.entry{display:grid;grid-template-columns:128px minmax(0,1fr);gap:4px 20px;padding:18px 16px;border-top:1px solid var(--rule)}
+.ledger>.entry:first-child{border-top:0}
+.e-date{font-family:var(--f-mono);font-size:14px;font-variant-numeric:tabular-nums;color:var(--muted);padding-top:3px}
+.e-date b{display:block;color:var(--ink);font-weight:500;font-size:15px}
+.pill{display:inline-block;margin-top:6px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:4px;border:1px solid var(--rule);color:var(--muted)}
+.pill.next{border-color:var(--accent);color:var(--accent)}
+.e-body{min-width:0}
+.e-body h3{font-size:1.18rem;font-weight:600;margin-bottom:6px;overflow-wrap:anywhere}
+.entry.news .e-body h3 a{color:var(--ink);text-decoration:none}
+.entry.news .e-body h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.e-body p{margin:0 0 8px}
+.theme{font-family:var(--f-mono);font-size:12px;color:var(--accent);text-transform:uppercase;letter-spacing:.06em}
+.retenir{margin:8px 0 0;padding-left:12px;border-left:2px solid var(--alert);font-size:16px}
+.retenir strong{color:var(--alert);font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;margin-right:6px}
+.src{font-size:14px;color:var(--muted);margin-top:8px}
+.src a{margin-right:12px}
+.empty{padding:24px 16px;color:var(--muted)}
+.fresh{font-family:var(--f-mono);font-size:13px;color:var(--muted);margin:12px 0 0}
+
+.table-scroll{overflow-x:auto;background:var(--surface);border-top:3px double var(--ink);border-bottom:1px solid var(--ink)}
+table{border-collapse:collapse;width:100%;min-width:560px}
+th,td{text-align:left;padding:12px 16px;border-top:1px solid var(--rule);vertical-align:top}
+thead th{border-top:0;font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+td.d{font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.left{color:var(--accent);font-family:var(--f-mono);font-size:13px;white-space:nowrap}
+.fine{font-size:14px;color:var(--muted);margin:10px 0 0}
+
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.panel{background:var(--surface);border:1px solid var(--rule);border-radius:10px;padding:20px;min-width:0}
+.panel h3{font-size:1.15rem;margin-bottom:10px}
+.panel p{margin:0 0 10px}
+.big{font-family:var(--f-mono);font-size:clamp(1.8rem,5vw,2.4rem);font-weight:500;font-variant-numeric:tabular-nums;margin:6px 0}
+label{display:block;font-size:14px;color:var(--muted);margin-bottom:4px}
+select,input[type=text],input[type=url],textarea{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--bg);border:1px solid var(--rule);border-radius:6px;padding:9px 10px}
+.row{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:12px}
+button.btn{font-family:var(--f-body);font-weight:600;font-size:15px;background:var(--accent);color:var(--accent-ink);border:0;border-radius:6px;padding:10px 16px;cursor:pointer}
+button.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+button.link{background:none;border:0;color:var(--muted);cursor:pointer;font-size:14px;text-decoration:underline;padding:0}
+
+.src-group{margin-bottom:22px}
+.src-group h3{font-size:.85rem;font-family:var(--f-mono);font-weight:500;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:8px}
+.src-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:0 24px;margin:0;padding:0;list-style:none;border-top:1px solid var(--ink)}
+.src-list li{padding:10px 0;border-bottom:1px solid var(--rule);min-width:0}
+.src-list a{font-weight:600}
+.src-list span{display:block;font-size:14px;color:var(--muted)}
+
+.check{display:flex;gap:10px;align-items:flex-start;padding:8px 0;border-bottom:1px solid var(--rule)}
+.check input{margin-top:6px;accent-color:var(--accent)}
+.check label{margin:0;font-size:17px;color:var(--ink)}
+.notes{list-style:none;margin:16px 0 0;padding:0;border-top:3px double var(--ink);background:var(--surface)}
+.note{padding:14px 16px;border-top:1px solid var(--rule)}
+.note:first-child{border-top:0}
+.note .meta{font-family:var(--f-mono);font-size:12px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center}
+.note p{margin:6px 0;overflow-wrap:anywhere}
+.tag-ex{color:var(--alert)}
+
+footer{margin-top:56px;padding-top:18px;border-top:3px double var(--ink);color:var(--muted);font-size:14px}
+@media (max-width:560px){
+  .entry{grid-template-columns:minmax(0,1fr)}
+  .e-date b{display:inline;margin-right:10px}
+  .pill{margin-top:0}
+}
+@media (prefers-reduced-motion:no-preference){ html{scroll-behavior:smooth} }
+</style>
+</head>
+<body>
+
+<header class="top"><div class="wrap">
+  <div class="kicker">Comptabilité · Fiscalité · Social · Alternance</div>
+  <h1>Journal de veille BTS CG</h1>
+  <p class="lede">Ce qui change pour une entreprise et pour un alternant en comptabilité et gestion : facturation électronique, loi de finances, paie, aides à l'apprentissage. Actualités mises à jour toutes les heures.</p>
+</div></header>
+
+<nav class="bar" aria-label="Sections"><div class="wrap">
+  <a href="#actus">Actualités</a><a href="#journal">Repères</a><a href="#echeances">Échéances</a><a href="#alternance">Alternance</a><a href="#sources">Sources</a><a href="#carnet">Mon carnet</a>
+</div></nav>
+
+<main class="wrap">
+
+<section id="actus">
+  <div class="sec-head"><h2>Dernières actualités</h2><p class="sec-note">Articles de presse et sites spécialisés des 30 derniers jours, collectés automatiquement.</p></div>
+  <div class="chips" data-target="news-list" role="group" aria-label="Filtrer les actualités par thème"></div>
+  <div class="ledger" id="news-list">
+<!--NEWS-->
+  </div>
+  <p class="fresh">Page générée le {{UPDATED_LONG}} à {{UPDATED_HOUR}} (heure de Paris). {{COLLECT_LINE}}</p>
+</section>
+
+<section id="journal">
+  <div class="sec-head"><h2>Repères</h2><p class="sec-note">Les changements de fond, sélectionnés et résumés. Chaque ligne renvoie à ses sources.</p></div>
+  <div class="chips" data-target="journal-list" role="group" aria-label="Filtrer les repères par thème"></div>
+  <div class="ledger" id="journal-list">
+<!--JOURNAL-->
+  </div>
+</section>
+
+<section id="echeances">
+  <div class="sec-head"><h2>Échéances</h2><p class="sec-note">Dates uniques et repères du mois, avec le temps restant.</p></div>
+  <div class="table-scroll"><table>
+    <thead><tr><th>Date</th><th>Échéance</th><th>Reste</th></tr></thead>
+    <tbody id="deadlines"></tbody>
+  </table></div>
+  <h3 style="margin:28px 0 10px;font-size:1.1rem">Repères qui reviennent chaque mois</h3>
+  <div class="table-scroll"><table>
+    <thead><tr><th>Quand</th><th>Quoi</th><th>À vérifier</th></tr></thead>
+    <tbody>
+      <tr><td class="d">5 ou 15</td><td>Dépôt de la DSN du mois précédent</td><td>Le 5 pour les employeurs de 50 salariés et plus, le 15 en dessous.</td></tr>
+      <tr><td class="d">15 au 24</td><td>Déclaration et paiement de la TVA (CA3, régime mensuel)</td><td>Le jour exact figure dans l'espace professionnel du dossier.</td></tr>
+      <tr><td class="d">15 mars, 15 juin, 15 sept., 15 déc.</td><td>Acomptes d'impôt sur les sociétés (exercice égal à l'année civile)</td><td>Le solde se paie le 15 mai suivant la clôture.</td></tr>
+    </tbody>
+  </table></div>
+  <p class="fine">Repères généraux issus du droit commun. Les dates changent selon l'effectif, le régime d'imposition et la clôture : confirme-les sur le dossier de ton entreprise.</p>
+</section>
+
+<section id="alternance">
+  <div class="sec-head"><h2>Alternance</h2><p class="sec-note">Ta rémunération et ce que l'employeur touche.</p></div>
+  <div class="grid2">
+    <div class="panel">
+      <h3>Ma rémunération brute</h3>
+      <div class="row">
+        <div><label for="age">Âge</label>
+          <select id="age"><option value="a">18 à 20 ans</option><option value="b">21 à 25 ans</option><option value="c">26 ans et plus</option></select></div>
+        <div><label for="annee">Année de BTS</label>
+          <select id="annee"><option value="1">1re année</option><option value="2">2e année</option></select></div>
+      </div>
+      <div class="big" id="brut">783,90 €</div>
+      <p class="fine" id="brut-detail" style="margin:0 0 8px">43 % du Smic, soit 1 823,03 € brut par mois pour 35 h.</p>
+      <p class="fine">Grille relevée dans la plaquette BTS CG 2026-2027 d'un établissement, avec le Smic au 1er janvier 2026 (12,02 € de l'heure). Le Smic peut être revalorisé : vérifie sur service-public.gouv.fr.</p>
+    </div>
+    <div class="panel">
+      <h3>L'aide à l'embauche en 2026</h3>
+      <p>Le décret n° 2026-168 du 6 mars 2026 a rétabli l'aide pour les contrats d'apprentissage conclus à partir du 8 mars 2026. Le montant va de 750 à 6 000 € selon la taille de l'entreprise et le niveau préparé.</p>
+      <p>Exemple publié pour une PME de 30 salariés qui embauche un apprenti en BTS : <span class="mono">4 500 €</span> maximum, sur la première année.</p>
+      <p class="fine">Pour la suite en 2027, tout dépend du budget en cours de discussion.</p>
+      <p class="src" style="margin:0"><a href="https://www.sage.com/fr-fr/blog/aide-embauche-apprentis-2026/" target="_blank" rel="noopener noreferrer">Sage</a><a href="https://www.economie.gouv.fr/entreprises/aides-embauche-apprenti" target="_blank" rel="noopener noreferrer">economie.gouv.fr</a></p>
+    </div>
+  </div>
+</section>
+
+<section id="sources">
+  <div class="sec-head"><h2>Sources à suivre</h2><p class="sec-note">Les sites officiels d'abord. Mets-les en favoris ou active leurs alertes e-mail.</p></div>
+  <div class="src-group"><h3>Fiscalité</h3><ul class="src-list">
+    <li><a href="https://www.impots.gouv.fr" target="_blank" rel="noopener noreferrer">impots.gouv.fr</a><span>Espace professionnel, TVA, IS, facturation électronique.</span></li>
+    <li><a href="https://bofip.impots.gouv.fr" target="_blank" rel="noopener noreferrer">BOFiP-Impôts</a><span>La doctrine de l'administration fiscale, mise à jour en continu.</span></li>
+    <li><a href="https://www.legifrance.gouv.fr" target="_blank" rel="noopener noreferrer">Légifrance</a><span>Lois, décrets et Code général des impôts.</span></li>
+  </ul></div>
+  <div class="src-group"><h3>Comptabilité</h3><ul class="src-list">
+    <li><a href="https://www.anc.gouv.fr" target="_blank" rel="noopener noreferrer">ANC</a><span>Autorité des normes comptables : plan comptable général et règlements.</span></li>
+    <li><a href="https://www.cnoec.fr" target="_blank" rel="noopener noreferrer">CNOEC</a><span>Ordre des experts-comptables : actualités et publications de la profession.</span></li>
+  </ul></div>
+  <div class="src-group"><h3>Social et paie</h3><ul class="src-list">
+    <li><a href="https://www.urssaf.fr" target="_blank" rel="noopener noreferrer">Urssaf</a><span>Cotisations, taux et dates de déclaration.</span></li>
+    <li><a href="https://entreprendre.service-public.gouv.fr" target="_blank" rel="noopener noreferrer">entreprendre.service-public.gouv.fr</a><span>Fiches pratiques pour les employeurs.</span></li>
+  </ul></div>
+  <div class="src-group"><h3>Alternance et budget</h3><ul class="src-list">
+    <li><a href="https://www.economie.gouv.fr/entreprises/aides-embauche-apprenti" target="_blank" rel="noopener noreferrer">economie.gouv.fr</a><span>Aides à l'embauche d'un apprenti.</span></li>
+    <li><a href="https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B3210.html" target="_blank" rel="noopener noreferrer">Projet de loi de finances 2027</a><span>Texte déposé le 1er octobre 2026 à l'Assemblée nationale.</span></li>
+    <li><a href="https://www.senat.fr" target="_blank" rel="noopener noreferrer">Sénat</a><span>Suivi des amendements et du calendrier budgétaire.</span></li>
+  </ul></div>
+</section>
+
+<section id="carnet">
+  <div class="sec-head"><h2>Mon carnet de veille</h2><p class="sec-note">Note ce que tu retiens, avec la source. Il reste dans ce navigateur.</p></div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h3>Ma routine de la semaine</h3>
+      <div id="routine"></div>
+      <p class="fine">Les cases se réinitialisent avec le bouton ci-dessous.</p>
+      <button class="link" id="reset-routine" type="button">Tout décocher</button>
+    </div>
+    <form class="panel" id="note-form">
+      <h3>Ajouter une note</h3>
+      <div class="row">
+        <div><label for="n-title">Sujet</label><input type="text" id="n-title" required placeholder="Ex. TVA sur les services de télévision"></div>
+        <div><label for="n-theme">Thème</label>
+          <select id="n-theme"><option>Facturation</option><option>Fiscalité</option><option>Social</option><option>Alternance</option><option>Comptabilité</option></select></div>
+      </div>
+      <label for="n-src">Source (lien)</label><input type="url" id="n-src" placeholder="https://" style="margin-bottom:12px">
+      <label for="n-text">Ce que j'en retiens</label><textarea id="n-text" rows="3" required style="margin-bottom:12px"></textarea>
+      <button class="btn" type="submit">Ajouter au carnet</button>
+    </form>
+  </div>
+
+  <ul class="notes" id="notes"></ul>
+  <p style="margin:14px 0 0;display:flex;gap:14px;flex-wrap:wrap;align-items:center">
+    <button class="btn ghost" id="copy-notes" type="button">Copier mes notes</button><span class="fine" id="copy-status" style="margin:0" role="status"></span>
+  </p>
+</section>
+
+<footer>
+  Les actualités sont des liens vers des articles publiés par leurs éditeurs, repérés via Google Actualités. Les repères sont résumés à partir de sources publiques. Pour un devoir, un dossier ou une décision, reviens au texte officiel.
+</footer>
+</main>
+
+<script>
+(function(){
+  var THEMES={fact:"Facturation",fisc:"Fiscalité",soc:"Social",compta:"Comptabilité",alt:"Alternance"};
+  var DEADLINES=[
+    ["2026-12-15","Dernier acompte d'IS de l'année (exercice égal à l'année civile)"],
+    ["2026-12-31","Dernier jour pour débuter un contrat d'apprentissage couvert par l'aide exceptionnelle 2026"],
+    ["2027-03-15","Premier acompte d'IS de 2027"],
+    ["2027-09-01","Émission obligatoire des factures électroniques pour PME, TPE et micro-entreprises"]
+  ];
+  var ROUTINE=["Lire les actualités ci-dessus (10 min)","Parcourir le BOFiP et l'Urssaf pour les nouveautés","Noter un sujet dans mon carnet","Relier un sujet à mon entreprise d'accueil"];
+  var today=new Date(); today.setHours(0,0,0,0);
+
+  function pd(s){var p=s.split("-");return new Date(+p[0],+p[1]-1,+p[2]);}
+  function fd(s){return pd(s).toLocaleDateString("fr-FR",{day:"numeric",month:"short",year:"numeric"});}
+  function el(tag,cls,txt){var e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e;}
+  function store(k,v){try{if(v===undefined){var r=localStorage.getItem(k);return r?JSON.parse(r):null;}localStorage.setItem(k,JSON.stringify(v));}catch(e){return null;}}
+
+  /* Filtres par thème (les listes sont déjà écrites dans la page) */
+  document.querySelectorAll(".chips").forEach(function(box){
+    var list=document.getElementById(box.getAttribute("data-target"));
+    if(!list)return;
+    var present={};list.querySelectorAll(".entry").forEach(function(e){present[e.getAttribute("data-t")]=true;});
+    var keys=Object.keys(THEMES).filter(function(k){return present[k];});
+    function draw(cur){
+      box.innerHTML="";
+      [["all","Tout"]].concat(keys.map(function(k){return [k,THEMES[k]];})).forEach(function(p){
+        var b=el("button","chip",p[1]);b.type="button";b.setAttribute("aria-pressed",String(cur===p[0]));
+        b.onclick=function(){apply(p[0]);};box.appendChild(b);
+      });
+    }
+    function apply(cur){
+      list.querySelectorAll(".entry").forEach(function(e){e.hidden=!(cur==="all"||e.getAttribute("data-t")===cur);});
+      draw(cur);
+    }
+    apply("all");
+  });
+
+  /* Échéances */
+  (function(){
+    var tb=document.getElementById("deadlines");tb.innerHTML="";
+    DEADLINES.forEach(function(d){
+      var tr=document.createElement("tr"),days=Math.round((pd(d[0])-today)/86400000);
+      tr.appendChild(el("td","d",fd(d[0])));tr.appendChild(el("td",null,d[1]));
+      tr.appendChild(el("td","left",days<0?"passée":days===0?"aujourd'hui":"dans "+days+" j"));tb.appendChild(tr);
+    });
+  })();
+
+  /* Rémunération */
+  var PCT={a:{1:43,2:51},b:{1:53,2:61},c:{1:100,2:100}},SMIC=1823.03;
+  function calc(){
+    var a=document.getElementById("age").value,y=document.getElementById("annee").value,p=PCT[a][y];
+    var v=SMIC*p/100;
+    document.getElementById("brut").textContent=v.toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2})+" €";
+    document.getElementById("brut-detail").textContent=p+" % du Smic, soit 1 823,03 € brut par mois pour 35 h.";
+  }
+  document.getElementById("age").onchange=calc;document.getElementById("annee").onchange=calc;
+
+  /* Routine */
+  function renderRoutine(){
+    var box=document.getElementById("routine");box.innerHTML="";
+    var st=store("veille-routine")||{};
+    ROUTINE.forEach(function(t,i){
+      var w=el("div","check"),c=document.createElement("input");c.type="checkbox";c.id="r"+i;c.checked=!!st[i];
+      c.onchange=function(){var s=store("veille-routine")||{};s[i]=c.checked;store("veille-routine",s);};
+      var l=el("label",null,t);l.setAttribute("for","r"+i);w.appendChild(c);w.appendChild(l);box.appendChild(w);
+    });
+  }
+  document.getElementById("reset-routine").onclick=function(){store("veille-routine",{});renderRoutine();};
+
+  /* Carnet */
+  var EXAMPLE=[{ex:true,title:"Facturation électronique : mes dates",theme:"Facturation",src:"https://www.sage.com/fr-fr/blog/calendrier-facture-electronique/",text:"Réception obligatoire pour tous depuis septembre 2026. Émission pour mon entreprise d'accueil à vérifier : septembre 2027 si c'est une PME."}];
+  var notes=store("veille-notes");if(!Array.isArray(notes))notes=EXAMPLE.slice();
+  function safeUrl(u){return /^https?:\/\//i.test(u||"");}
+  function renderNotes(){
+    var ul=document.getElementById("notes");ul.innerHTML="";
+    notes.forEach(function(n,i){
+      var li=el("li","note"),m=el("div","meta");
+      if(n.ex)m.appendChild(el("span","tag-ex","EXEMPLE"));
+      m.appendChild(el("span",null,n.theme));
+      var rm=el("button","link","Supprimer");rm.type="button";rm.onclick=function(){notes.splice(i,1);store("veille-notes",notes);renderNotes();};
+      m.appendChild(rm);li.appendChild(m);
+      var h=el("h3",null,n.title);h.style.fontSize="1.05rem";li.appendChild(h);
+      li.appendChild(el("p",null,n.text));
+      if(safeUrl(n.src)){var a=el("a",null,n.src);a.href=n.src;a.target="_blank";a.rel="noopener noreferrer";a.style.fontSize="14px";a.style.overflowWrap="anywhere";li.appendChild(a);}
+      ul.appendChild(li);
+    });
+    if(!notes.length){ul.appendChild(el("li","empty","Ton carnet est vide. Ajoute une première note avec le formulaire."));}
+  }
+  document.getElementById("note-form").addEventListener("submit",function(ev){
+    ev.preventDefault();
+    var t=document.getElementById("n-title").value.trim(),x=document.getElementById("n-text").value.trim();
+    if(!t||!x)return;
+    var src=document.getElementById("n-src").value.trim();
+    notes=notes.filter(function(n){return !n.ex;});
+    notes.unshift({title:t,theme:document.getElementById("n-theme").value,src:src,text:x});
+    store("veille-notes",notes);this.reset();renderNotes();
+  });
+  document.getElementById("copy-notes").onclick=function(){
+    var txt=notes.map(function(n){return "["+n.theme+"] "+n.title+"\n"+n.text+(n.src?"\n"+n.src:"");}).join("\n\n");
+    var st=document.getElementById("copy-status");
+    function done(m){st.textContent=m;}
+    function fallback(){
+      var ta=document.createElement("textarea");ta.value=txt;ta.style.position="fixed";ta.style.opacity="0";document.body.appendChild(ta);ta.select();
+      var ok=false;try{ok=document.execCommand("copy");}catch(e){}
+      document.body.removeChild(ta);done(ok?"Notes copiées.":"La copie a échoué : sélectionne le texte à la main.");
+    }
+    if(navigator.clipboard&&navigator.clipboard.writeText){
+      navigator.clipboard.writeText(txt).then(function(){done("Notes copiées.");},fallback);
+    }else fallback();
+  };
+
+  calc();renderRoutine();renderNotes();
+})();
+</script>
+</body>
+</html>
