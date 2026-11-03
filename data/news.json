@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-03T22:54:53+00:00",
- "last_success": "2026-11-03T22:54:53+00:00",
+ "updated": "2026-11-03T23:47:58+00:00",
+ "last_success": "2026-11-03T23:47:58+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 36
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 32
+   "count": 72
   },
   {
    "query": "impôt sur les sociétés",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 26
   }
  ],
  "items": [
@@ -69,7 +69,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
    "source": "Presse Agence",
    "ts": 1793736000,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Ministère des Finances : 1,8 million de factures reçues via la plateforme de facturation électronique, dont près de 37 000 réglées",
@@ -261,6 +261,13 @@
    "theme": "fact"
   },
   {
+   "title": "OPINION. « 929 milliards de pertes de recettes annuelles cumulées entre 2018 et 2025 »",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGVRMzB5aXQzekprWUQzY0RWUHExQkRBUDFGOGU2Wi1HSW1LVEE3emRuME1OOC04X3ZBYTdpVjdMcWhYQjFuSWNhUG5LQUJ4QWRZZ2Yyc3dOcWJXdTJ3QTVNUUR0cDlZSUtjRzczSzRMQjVoYjFjZ1FseVdpYTlUUF8wd252R3E0bFROaDVtQTJjTG5BamlEbkJfcEMzZVpWTWFIMWo0NGxLVTByZUQtM1B4Rk1waV83NWhkZmV6c2dXVFowOW85eVNmNVp6T21n?oc=5",
+   "source": "La Tribune",
+   "ts": 1793687401,
+   "theme": "fisc"
+  },
+  {
    "title": "Facturation électronique : les CGV à l’épreuve de la réforme",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXk0aEdYclBPdlMzS3pGdkhmZ2JaWmttaXBrUzZoSG9qc29YdzRCaVdhS3hoUERLc2VJTmdnMkl2a0hkQTh4MmNNbWhuX3pkUW1LWkNTU0tIcFNlNUVFZ2pjcGJsMHlDYnpJcUhidm5leVFFdWlhVXZzY1JCZ0pyU1VtblNfYUo4QjhFTU1YS2ZFaHlRLUtWalFHR2JOVHRqUDlHNS1RS0JiZw?oc=5",
    "source": "Informateur Judiciaire",
@@ -429,16 +436,16 @@
    "theme": "compta"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
+   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
+   "source": "Presse Agence",
    "ts": 1793602800,
    "theme": "fisc"
   },
   {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -524,7 +531,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -1106,13 +1113,6 @@
    "source": "Kohen Avocats",
    "ts": 1793185860,
    "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : pourquoi cette réforme a fait basculer les comptabilités dans un nouveau monde",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzVJZDM4Z2dnbnpWd3NubmVFRXYyTWFsUGY4WF9TNFVteW9wSV9ZTG5ZVFhULUhIZnFqdmFsdXhyc1FLdi1YT0FFRkQ2V19RN2pDeUVpUHRycFJ5YUR3NHdib2Zkb2FBeTg1UU1JbVBtdlNicXVWYWJZalpqY2VpVFVtb2k1cWtIaDFVUFdDbUtOTUJybU96SVZXc25HcWJOYTdpeHFrcElhMnNUcF9NUWV2d2k5NnVHbTd3UWhpVzJWOXI5akRRX0tpblBuZVBWTTRGQjhmWU1JMjBWckhlcm9mdw?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793185200,
-   "theme": "fisc"
   }
  ]
 }
