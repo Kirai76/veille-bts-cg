@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-03T11:56:40+00:00",
- "last_success": "2026-11-03T11:56:40+00:00",
+ "updated": "2026-11-03T13:15:33+00:00",
+ "last_success": "2026-11-03T13:15:33+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 40
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 100
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 20
   },
   {
    "query": "DSN employeurs paie",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 37
+   "count": 62
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 17
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 24
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -65,10 +65,31 @@
  ],
  "items": [
   {
+   "title": "Facturation électronique : Près de 1,8 million de factures reçues et quelque 37 mille factures réglées",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlJPUW10MExWbVJ0MzJIWnUyOG1qd1NHMUpuc0tvMmxHLXY2OEpkSUVodmJpa2dqQUtNXzF5UEJaNC1ZSTBSc1FjZXFvYjBSWWo1ZS1wbE1ZUG5VVUJURndnMGY3Tk1uZFZIWEFjajVMSFJaVjZoaVh5ZnN4bUlLb0RqRjNKM1laRktXc2U5UXctcVJxeWQxSzltSzdFNlZhR09KZkFnX2s2WTNwOTdIREFoVFpNeTdHcVZQUERoTzZUNERJUlE?oc=5",
+   "source": "African Manager",
+   "ts": 1793709095,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique en Tunisie : 1,8 million de factures",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOC1KSC1sVF9mMmpPV3hsU0tPNFRWb1VicmhGbTYyclU5RTYxMzFzRHJjcm0wOWdmRWRyVURJblFqOTRXX29mQ1pKYnJRa3RZSmc2UnJxdndFbnNKM1FYUDBYV2xLUGVvN1hqeEJJQ09YbTEtbHZwdTRQWndLX3NMdHFkOGJtTHYzbGR5cjVWbVhyRTRYeGd6bFNQYkQwVHNsT0VDT3VmU2rSAa4BQVVfeXFMUERHbUlGOXNXX29hVjZReW5POTZ0TUZTYnBvSXk5STlLLVlHOFVjOEFiWlZUbExRY2ZJZWJKR0tRQTdoRWNFcXhoRWVFdHdLd0x0Nm5xTmJKY1d3Y3JQOFkxLVpqNGtrTlVuOWVLVUVDd0NWX0RJc08waGJPSjN2WHVGMG5zYUpPRElxUDRBb182T2JjRWpOeVVPaFJicVZMVW05V1BpbXRWckI5dlZB?oc=5",
+   "source": "Nessma TV",
+   "ts": 1793704680,
+   "theme": "fact"
+  },
+  {
    "title": "Facture électronique : ce que les auto-entrepreneurs devront vraiment faire en septembre 2027",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGkwb19vc2t0a1Q5NjY3eExqRXVxOEpzTlVPRGtRQmY1enljd0YzNEN2SGR3VDRHWWJocjlSb29Gb3plNm1DQ0ljNUotZDRXRFFCWTVyN3ZZeFJSNXVrTFdZR1JaLV9jbjV3UmVlMnZ5b1pocHFDaFJkLXVPQVQ4OFdiSW1lYW1mZV91R2ZxWUtuNmIzMlAyRE1wNTRmTGJyUkFWYU1lOXh0RlVXeUtaamdHTjJMWEc3ZHNybWhka1BUcmFMcTJSRF9rY0VMazlrNDJV?oc=5",
    "source": "JDN",
    "ts": 1793704038,
+   "theme": "fact"
+  },
+  {
+   "title": "PARIS : Marvin Ndiaye : « La facture électronique pénalise les TPE qui ne fraudent pas",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZ2dTdtQkxHMDd2SHVaMGR1VE5lOThMb1A4OVhRd2cxLUhuYnpRZ3hTa2JDbWJKU1FkRmhzZnhyNTk5NG5nTXhlWXYzMF8tQ2NoMkJiNDA5Q2o1bl9rVVI4dnlUMTc5VWRndnFISjF5Skx2YlF3bmVfUV8xMURHbEkwLUJveGFyZk1yam5yN0U5SXZFMUJ0c0NESVBxNXA3VnVxc1VISkE?oc=5",
+   "source": "Presse Agence",
+   "ts": 1793703600,
    "theme": "fact"
   },
   {
@@ -77,6 +98,13 @@
    "source": "Vietnam.vn",
    "ts": 1793701525,
    "theme": "fact"
+  },
+  {
+   "title": "[VIDEO] Expert-comptable : une profession en pleine mutation",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmYtc1YxVDNUbDlCV2tGODBXenZIaTlmQ1g0NHRJTWtTWjRnd1NFQWktVlIzNXhJUmpUdnpaRzN1VzlwelJ4N1dTMmFCaUduX29nQ3E0Yy1yUkRYZXBsN3A2cGtpY3ZaODRuTUdRT3NyRlFGN25pSmlOX3pZVXhLVFRYSlpWa1Q5eXo5d0VPZXFjejVGRzk5VFdxMWJoUFRrdEFXQW5YVE5MdXI5LTdadkV0MTkxbUU?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1793700759,
+   "theme": "compta"
   },
   {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
@@ -128,6 +156,13 @@
    "theme": "fact"
   },
   {
+   "title": "Facturation électronique : les CGV à l’épreuve de la réforme",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXk0aEdYclBPdlMzS3pGdkhmZ2JaWmttaXBrUzZoSG9qc29YdzRCaVdhS3hoUERLc2VJTmdnMkl2a0hkQTh4MmNNbWhuX3pkUW1LWkNTU0tIcFNlNUVFZ2pjcGJsMHlDYnpJcUhidm5leVFFdWlhVXZzY1JCZ0pyU1VtblNfYUo4QjhFTU1YS2ZFaHlRLUtWalFHR2JOVHRqUDlHNS1RS0JiZw?oc=5",
+   "source": "Informateur Judiciaire",
+   "ts": 1793687400,
+   "theme": "fact"
+  },
+  {
    "title": "Facturation électronique : 2 mois après le lancement, voici les premiers bugs qui donnent du fil à retordre",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV005bC1vRXg2UUhFWFgxcVBHLXlSOXpmQkFVckZ0dzlkcVJEcFBfZjBjMWNnZDViRkp4clktQmtrX01FbjdfcHh4cFNmcVItUDRVYk50S3ZOS1VBb2ZXWFV3Qy1SN0VqOXhYUU1qLUROVE5PTEZVMWNNdFBpQml0cFo3X2NtQ3Y0ZWt2MFpaS0FkUWFwN1R1WlEyOWZSaEhKblJtRzRHMUtRbUM2RXhmck1pMHVVRTBDVVB5Yy1GNXdzWnNnMGpXMVhnTng0UVFhTFpqNUdqV2RZVlNJTUpwZw?oc=5",
    "source": "Le Figaro",
@@ -149,10 +184,10 @@
    "theme": "alt"
   },
   {
-   "title": "[VIDEO] Expert-comptable : une profession en pleine mutation",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmYtc1YxVDNUbDlCV2tGODBXenZIaTlmQ1g0NHRJTWtTWjRnd1NFQWktVlIzNXhJUmpUdnpaRzN1VzlwelJ4N1dTMmFCaUduX29nQ3E0Yy1yUkRYZXBsN3A2cGtpY3ZaODRuTUdRT3NyRlFGN25pSmlOX3pZVXhLVFRYSlpWa1Q5eXo5d0VPZXFjejVGRzk5VFdxMWJoUFRrdEFXQW5YVE5MdXI5LTdadkV0MTkxbUU?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1793678445,
+   "title": "Agnès Bricard : \"Doubler le nombre d'experts-comptables entrant dans cette profession\"",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDZPUVpFVENUeldrbW5FUmg2Y0d6OE1Mb2VFYTRURnlHTURDRFV6alVDaFduNGxJMjVzUFkwQmRjbk45ZHhwOEhUMXdYQnJtVzh4eUN5VkVCUFRxOU1PTzVqNTQxVS1vekV5Nmp0RElzRXlsZzFKMmJNeEN3eDhUWHRuLWZKa092V0ZyZHlJMEpmM2JBMzY3TEt3UHBlV0tDU0NYS2JMeXJYdEEzeTNqTFJJWHl0S3JqQ1JTLVE5U2x0RWVLVTNTUXJ5MXhpUEhO?oc=5",
+   "source": "Le nouvel Économiste",
+   "ts": 1793667228,
    "theme": "compta"
   },
   {
@@ -182,6 +217,13 @@
    "source": "Presse Agence",
    "ts": 1793640155,
    "theme": "fact"
+  },
+  {
+   "title": "Loi de finances 2027, trois défis et une responsabilité partagée",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWRoeE4tUkM1NmpDdm9uRk93Q3BwdEM4R2N1TGZ1NzhnSW1nYmhBeWxlWG95MlpBbkRqelNOLTc5M2FzeXE0VktMRV9jWXdfT09PTERhZ0JrWHgweGM3VzhORVdCczdtSHpRQlVjQXNNNC1ibFJ0VzBOcG9lQzItNFhPLXgtY3ZnZ1FWcUFEMUtSaFJRT1E?oc=5",
+   "source": "African Manager",
+   "ts": 1793630339,
+   "theme": "fisc"
   },
   {
    "title": "Expertise comptable : le Lyonnais Endrix change d’identité et vise 300 millions d’euros en 2030",
@@ -220,8 +262,8 @@
   },
   {
    "title": "Un nouvel impôt lourd de conséquences pour la France",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FDcWMwNlZNeHY5SUNFMVN5cTB6NG96cFlhQnNOQ1FENnlUbGRHN2ZEMy1WMWJwdm1KRms1Z1FuVjN6Tm9uU2Z0SlBQdm9QV3BqM2RZcHZzRjEtSG5GZHYwSXM3bkdVZXlqNHRwckRMVTIyWW9xdlB2NHJWanlpUXhpTmdqWGRSUVBBSjZMa2ljbkU?oc=5",
-   "source": "Yahoo Actualités",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlpfQlZPNm4yWk5DeUVhUmxlTDBObGxrNXp5WDRGSVhRckZUT0lUN3UyclpoNURQWnpZNXY2bkZfZGpKbk9CbEdTTjc0eFRzdlVVd2daSGwxelZXaktUeFRjNEEwTDlEYmVubVN6dGdJQUtqZy1pVmJUZmZWY1B6SHFIV0ZNaExCVWZiU2VNM2U?oc=5",
+   "source": "Journal de l'Economie",
    "ts": 1793611200,
    "theme": "fisc"
   },
@@ -231,6 +273,13 @@
    "source": "Webmarketing & co'm",
    "ts": 1793608596,
    "theme": "fact"
+  },
+  {
+   "title": "Orcom accueille le cabinet lyonnais A&A et ses 43 collaborateurs",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yUEFqbmlGbkgwNmNpbWlsRkFLRVlwQnZDWmk5LU54cm1JTXVRRXYxYWUwNDIyWWh5ZzAzaVkwc2d1VjhPRG0takZncVNUaV9LV3lpWVc3UGtjZnU1LTRXWjhIVFdzQl9Zb191al85Y0taeVAwcHhj?oc=5",
+   "source": "Compta Online",
+   "ts": 1793606400,
+   "theme": "compta"
   },
   {
    "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
@@ -259,6 +308,13 @@
    "source": "Actu.fr",
    "ts": 1793596681,
    "theme": "compta"
+  },
+  {
+   "title": "Budget 2027 : les députés étendent à Pomas les dégrèvements fiscaux prévus pour les entreprises sinistrées",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckVIZTJ1cXRSTFM1VXh2aUxXZzZVcUpud0ZQQXRiYW8tRjdkTW9NSUhTdUVCc2ZreEExWHc4clJzOHo4LXRRd1N0bXZTYUd2SW8xYmF5Rnh1RFRIMnEwS3AwX3E3WXNFeWs5ZjZicWU2ODVicnVqTk4tLXJXbUE2azl4bnNpTnB1Q1ZvNFJVRUpKd2lSMHU0c21BSGI?oc=5",
+   "source": "Economie Matin",
+   "ts": 1793590776,
+   "theme": "fisc"
   },
   {
    "title": "Quand le maire socialiste de Paris appelle le gouvernement à adopter le budget 2027 par ordonnances",
@@ -321,7 +377,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "compta"
+   "theme": "fact"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -492,6 +548,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Un nombre record de starters, mais les experts-comptables restent rares",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSWJDRUYzQmZDelgwQmktNUk0QXczR0tRc2hrTFd6MU9oRm5NRVJKMFMyaDNmRW5CdlZFa29lNldNemFDRTd6eUwzS0Z3WFFIdDRvNjEwQkdiYk5iUk0xbGU0MUtNdy1GOUtpYW04NHlEMmhnVHU3TVo0SlVfTHhVcEoyZzBVTVhOS3VlbnpEYmZWcEN6QkxSNmlYVlJXcnpjMS12UkZsRV9lWnVJbmpiOXVGLWtIb1V2a1d3RUxwcHFQbWpLRXJ6RXkyVm9IaE84SlJmTFZua0Nldw?oc=5",
+   "source": "newsroom.ing.be",
+   "ts": 1793345400,
+   "theme": "compta"
+  },
+  {
    "title": "PLF 2027 : 100 emplois menacés dans les entreprises adaptées",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2dVVDVRU05WM1k3QkxRUXpFWlR4YS1qUHRmeUlkUUR0dDR6aFBhSUtzUkZHR0Q0NWpoWWh4TzdmLTVmcGw5WUZGTGZ1R3poVmJQR1ZTekV1N0UxMUVndkw4WEtpaTZWOTRFc1AtM0hpRzh5SWhXS0VJZTE0WHlBbm5XemYyMENHS1JUWnN4Q1FFVUdEU0d5RDhVWEhCSG1kZHRINUJR?oc=5",
    "source": "Handicap.fr",
@@ -499,18 +562,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
-   "source": "Mes Allocs",
-   "ts": 1793343600,
-   "theme": "alt"
-  },
-  {
    "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
    "source": "Editions Tissot",
    "ts": 1793343600,
    "theme": "soc"
+  },
+  {
+   "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
+   "source": "Mes Allocs",
+   "ts": 1793343600,
+   "theme": "alt"
   },
   {
    "title": "Facturation électronique : changer de plateforme, c'est possible, mais pas toujours simple",
@@ -632,6 +695,13 @@
    "theme": "soc"
   },
   {
+   "title": "CSM Expertise, à la pointe de l’innovation et du conseil",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVlViZmJjSG0tcm5fSVJqYzRoaExXbFBoYUs3UHBRbVNodzZ6T081amtqOFpUWEVBYzVselF3NWt2OFFpREV1aG1DRnlEQ0YxVGMzVUZQc0F5MnRtOXVUUVYxVHhMT1laOF9DMEowU243cmI5VGNSck5JZURISzJud1FPc0tLS3Y5M0lFXzhGUC1GOUpCZDZPWWc3YnBiR2FrbjJBcFJBX3pZT2R6SEhtQTY0NA?oc=5",
+   "source": "Le Point",
+   "ts": 1793260800,
+   "theme": "compta"
+  },
+  {
    "title": "Facturation électronique : « A terme, il pourrait ne rester qu'une trentaine ou une cinquantaine de plateformes agréées",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQmtYRjQ5UE1tTkp0S1ZjUWxfMkRTcDlMZU9EMzYyNnhmeHdXcVgzTnRWaDlBWUFHY1dwYUZTWGlvVjdGeUJ0MDhFNkg4cGRkM3FKNEZpczdmR1dRcXFQVUhXS01xMENEbDdnLUR6cGZjMWluNGdSQUhqZ2drWnlUSDNSakJmV2hWUDF4SHVJQzFpTUtPRDdqSzRkOFk3SGk1c2FzYlo3dXllYjFZN1FPQXBudW9fVWxEMWZ6V2dfenR2ejZBV1pfLXdBTE1Za1ZYMGlBUUNGQWJPcDZDT25INGhrX3ZQLVk3UkZnUFBpWlZJZw?oc=5",
    "source": "Les Echos",
@@ -646,16 +716,16 @@
    "theme": "alt"
   },
   {
-   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
-   "source": "WIZBII",
+   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
+   "source": "Mes Allocs",
    "ts": 1793257200,
    "theme": "alt"
   },
   {
-   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
-   "source": "Mes Allocs",
+   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
+   "source": "WIZBII",
    "ts": 1793257200,
    "theme": "alt"
   },
@@ -821,6 +891,13 @@
    "theme": "fact"
   },
   {
+   "title": "Budget 2027 : les députés rejettent la surtaxe sur les grandes entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcVRyMXpsazlPbW9PdTlZZW9jRGFqekNZdmZhOU9QR1JZRDFCenFnWkRlS0E0ZTJ6eUpVN2FYRGNGM3VvWUxCb3NxUzBzM3p2akt2dFczX3JFNl8wOWVSVkxDYXBIRVRUY2NmSEFvTkYxUW1QLVRzSDVEQ3UzZzdyRGozaF9kb1NVTTM2akxfQXpSYlVwc3JMdnRVVXNIX1lfZkZENHpJMHdQVDE3NFdlakhEemVHNVYxQld2eU1hQ1k3ZXcwUEU0eTVUR3RPa1NwS3VTMnMxVjcwTDg2?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1793192708,
+   "theme": "fisc"
+  },
+  {
    "title": "Taxe sur les transactions financières (TTF) : les 121 valeurs concernées en 2026",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXR3OGVscTRnZlMzdjlXWmw5Nm03MnNlTW1ZWm51TjV5a2ktdzJDT2lKeGxUVEdDdHFaaDFYeFlvVlNqRGZ5akhjU3ZTR1FibF9xQUM0clhTOV9RWkxKd0FsVVJuSkxsbXA2R1NSWEJiU19Ic3dfcFN0VnoxNG8tWGlWRDF2ZGhz?oc=5",
    "source": "Tout Sur Mes Finances",
@@ -958,7 +1035,7 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNVVXV1dPSE40c2lhRFFURG9qaTFPQVdFelZqM19EbVAwclFkWk9JeU03QmM0OF9sMlBmSTI0SFVaemNmUHZoaEFYOENMSU1mQUR5cndKN2ZPSW9MMmxVV1M3eFp1U1ZkOUZJWGQ0RlFOTGI3N2JENUs4TFFoajZXWno3aHpGQWdMbVZoZkpSTUhRS0l0STVUU0Z2LTllM0hXZUFYaEl3cHpHeHhya3lzVU9JMXFYa0N5ZUdlNllTRUhVSXdZNjh4Y3JsMXB6U2s3U1RpVGZPTXZwSlRJazNV?oc=5",
    "source": "La Tribune",
    "ts": 1793109617,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
@@ -1036,83 +1113,6 @@
    "source": "Fiscalonline",
    "ts": 1793053800,
    "theme": "fisc"
-  },
-  {
-   "title": "Lyon. Orcom rachète le cabinet lyonnais d’expertise comptable A & A et s’implante dans le Rhône",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3VCcGJBRkt1UU1KLU9aWksxblpZRmhmU0dGVlM1amlGYU5xUnpUWjNkakFhdVl5a1dlc2NESXZlTmxjTU1CX3dnSGxIS3VNUXNFRGRZcWpEdjhVZmtDR2ZPQVJKenhpRWxGMGUzMnZuTzhIQjlsQnlCdmxhOTIwY1FlTVlRYUR6R0ZpUHQ4WHJwV3puMnZQYjk2MkkwY3RUa3ZHdzZvSXZKaVhvbXlsdTY2eWh6Uk85RFFwWWU4cEhVNTJrY01iWTcxOFI?oc=5",
-   "source": "Le Progrès",
-   "ts": 1793023200,
-   "theme": "compta"
-  },
-  {
-   "title": "« Stop aux experts-comptables clonés »",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMUViNk9vRVVxbkVSa1ludlItMDZOQW81T0U3WjBBMi14YjB4RWlsZWdNQ1htWi1DM3BleDNSZFhFV3dQdldPX1A3ZzBWYmJYY2dVQkxYbk5HS1VJTFZ4SE5HbDQyOW1oVHNZWkRPazBXZFVDLXVQTW9PdWlMYUZ6QU96NVIyeElrSF9Jd1ZCZw?oc=5",
-   "source": "Les Echos",
-   "ts": 1793022609,
-   "theme": "compta"
-  },
-  {
-   "title": "Hydrocarbures : le Maroc envisage de porter à 40 % l'impôt sur les sociétés des grands opérateurs",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGJMdkt3OWpUemZRbE1jaEFfbXo1cTY5WXl6RlVFdHlKdU9iVGJZTjcwT2huVm11cEN0dnBvb3NMcUpMMTdBRHdVR0dkbFhEeDhMTTZGdnhNR19HbjZKTUxwMDNfekJTSmYzWS1ORHFJUEdDN0kyY0E4VFVmS003UGw2T0plN2tUOWlraTJpRDJqTUJKd0ZpWmNaNmE0ejdSQ3VJQXhiemxPYTlKZnJnRXR6bHpCZw?oc=5",
-   "source": "Industrie du Maroc",
-   "ts": 1793022594,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : l’IS, principal moteur de la hausse des recettes fiscales",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjB1a0hhbnltbmNpWkdqeEhKaTVtb1otcm1sYldGUWFuVlR3T0M1aXU1U1djSTJLd3hULVEwNWw3STZmS2syV1FMd2ludlZ3QTY2S2pvdV8tVVFjdkY1VGVxajczWEtmZVZyUnZEaWlheFk2emxFWlBUM3RwVjRjeXlVNlNlNDF3SUxsbkNSajRjbV9ES0RGbg?oc=5",
-   "source": "LesEco.ma",
-   "ts": 1793021975,
-   "theme": "fisc"
-  },
-  {
-   "title": "Apprentissage : après Parcoursup, le compte à rebours des jeunes sans employeur",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QYnV2bkdrcDZOZ3VIcmtWZjNmUzhyZWJYY3NkQTRMamdpM09jMkhnLWF1VnlRMzNPNWRfUnVrUHA0b1pFYmJQTGw3QzBHMURvMjZkc2hBMU5wYV8za0pLT2QzZFFBYUVQNnRELVI1TWpDb3ZHR1E?oc=5",
-   "source": "Unidivers",
-   "ts": 1793020201,
-   "theme": "alt"
-  },
-  {
-   "title": "Apprenti à 17, 20 ou 24 ans : que reste-t-il après le loyer ?",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aOUxZd1ZJZlZxd0Z0Y1V6Nlh6cHhVaGRVajVZampjWFdRS1BHLWtseWxwdHotd1ZOQWxUZnY5elZoa2x1S25kakZoYXp3ZGU3YnEyc2JuekZPa3ZnVzFaMklGU2xJN1ViQVE?oc=5",
-   "source": "Unidivers",
-   "ts": 1793020182,
-   "theme": "alt"
-  },
-  {
-   "title": "Transférer le siège de sa SAS à Dubaï en restant diriger depuis Paris : exit tax, impôt français et contestation du redressement",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQmt2QmI0YVRTR3lzUzVadlR1amsydEVtSFp3T2FZNjd6bktTUHAzUWh4WVpYbnk4VUdLM08xb25LYWxwR0loWUhaWWYwWmlyTVREb0dXbnNhRFBST1Fid3NXTEtIZE02VzBSZWV0VmI4NUFsRU9WU3NZLVVTR0ZxdVZMMkd1TVlMVl95NXNPVHBJc2ZscEozOXQwa2Vld3hLSUZZSkc4TERFQjcyY2JsT0ZqQmlSX2NjNlpYYWpMT3d1a1RBa09fQk1TRGpET3Jmek9UU2FvQXItWXpTU0tqbQ?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1793019120,
-   "theme": "fisc"
-  },
-  {
-   "title": "Fiscalité du patrimoine : les hausses et les baisses d’impôt du PLF 2027",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRIRlI5NnB4Y3RwX3dWdnM1bk1qamdPdlkzME5YYmF1X3ZQdTQwc2dNcURMc191a1VocVEyMzNPRkxZQUp6UXVrd1dwTzM1U09sX0JSMHhrYm5lbjFBOEl2S3pqeV9VenVIMUIzSTVVUUNHRkNCc0FfXzJremw1NkVjejJ1RlpBczNUY2hyYU02clRkb0NV?oc=5",
-   "source": "Tout Sur Mes Finances",
-   "ts": 1793014229,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique : 10 réponses aux questions des entreprises sur le démarrage de la réforme",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3I3UUFhNjRQQTVxX3lkNTFodUlkNk52QmVuaGtDQlphNmpmRUdENGNoY1otUFd3eFhHTGFBWk1pQk5FT1REOWhJQWw2VVd5QUJ6XzEwUks4THZqQVlvTk11YmhXYjByT2FOQjk5aXdmTVc0ejVSRmlKanNwdnljM01udGRvUQ?oc=5",
-   "source": "Compta Online",
-   "ts": 1793006702,
-   "theme": "fact"
-  },
-  {
-   "title": "Quand des données contradictoires ébranlent la preuve d’un impôt sur les milliardaires",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRFh1RVZjR1h2SnQtN0dlNlE1NVdwY21QaENFNEN2SjdqdGsxWEdNXzZabnZoWG14RzVyVUx6NDVPRlJlRXZNRjZBSTFCdzRPeUZyS2RCVk1EWTVTNFg2em1rX3NJSEdoTFBLbmY3d2JQdElsR2ZJM3Jvc1kxTGNmY1NaRXAxSklYSGZ3QUVTUW56U1BTdC1IWlhtRldJV2tBYnZKTUhBaUtIdmVFbFdOQ0RTc0ttMjFLOHpNUUVpSlRSRUU2NEJpRHBxLVJjdlM3SFY4Umwtd3dNdmUybXVISTV6YnZEeFRucmxBcWVxTVJmbEk?oc=5",
-   "source": "Atlantico",
-   "ts": 1793002287,
-   "theme": "fisc"
-  },
-  {
-   "title": "Artisanat en 2026 : pénurie de main-d’œuvre record et coup de rabot sur l’apprentissage",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95bUUzV3U1SlhGbWRDaTU0Mkc4S09vLXVJaFM0Qld2dzdnRHY3eHJaTm85anE3eTZibE1ndmRwczlES29UaVdaZ2ZpVG9KQ2dFYnowNUFscFVta2U3Mm4zdzZ4ZnVOTmN0X29ickZKLUdEb05jVWJVb1B0MTlQaTQ?oc=5",
-   "source": "N9ws.com",
-   "ts": 1793001758,
-   "theme": "alt"
   }
  ]
 }
