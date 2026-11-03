@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-03T17:57:34+00:00",
- "last_success": "2026-11-03T17:57:34+00:00",
+ "updated": "2026-11-03T19:04:16+00:00",
+ "last_success": "2026-11-03T19:04:16+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 37
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 23
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 25
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : « Les commerçants qui ne sont pas prêts risquent de perdre des clients",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlZ2cjBPZGo1QWdnOTFCYmotVkJYNXA1NmpIcnNCdExJWU1GRzQzLTM0RnRRUWtqMXdiZWVBQ2cxRlZKd0ZXc2JzVEtkMWFnNzVESWJhaWVxUmM5ZUFqeXlRcEpkSzd2QVBGcUdtVjdLa3lUdkI3MC1BQjV1QXI5alZoRUNYYjlSNzlJcUVuVy1UTS1DaU5sbllMVGQzTU1zamxhQWNMYkh1OUZaWUxpUFFud3p1ZHhScVE?oc=5",
+   "source": "L'echommerces",
+   "ts": 1793728897,
+   "theme": "fact"
+  },
   {
    "title": "Dix Opco demandent de revoir le périmètre de la plateforme nationale de l'apprentissage prévue par le PLF",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVmROUzhxcmlzTXA5bzR4ckhScUV4cjhDWWNFcEhHVUR6LWZydU81YWZxRXBmazNUSVQ4b2RPZHB6OWRBeDQzc2JhZHJxdw?oc=5",
@@ -331,6 +338,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Budget 2027 : les députés RN suppriment la hausse de taxe sur les contrats d’assurance auto mais renforcent le financement des services de pompiers",
+   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPVTluUlNtODlvYnZVUG1zQW9ZQmZDaHpoLWJNVTRqeThENkZ6ZGRHb1dTcUI3dXJsUWMzWkY1ZnpucjVuc0drUldsbk5xVFA5c1FGSWY4Ny1WUDRYbzRKSzhMTHVhU0p5LVpUZHJ6LWdfMEZIR29oMFRVNktGQ1lhbm1MSHA3MHI1Z1R2QlhaV1luVnBmY0dMQ1R5dkRwUmhnLWFFSFk4Zi1OVGt0SnNtZU5Hb2JzZ0xnYlhaSzlKZTFIVHMyRUJKNWpKSXZ5NEs2WWRVelRKa1Zrdk9DUG1MeE50WkxBZ3FkWHFGZTUzRWxZMVNuLUNxTTdiZlZlcnYxdk91RHFQWG9FSWZIM0tJNFVWcVdkU3VEbTBiYU5WZnYtOU95SDdGUlFKaTBjZXlzbll4OFprYzJ0UXBWZVZrUzJFcUZSdHNLTEthY1laUWtmYVEtdXllcGUwY3JTSjg?oc=5",
+   "source": "L'Argus de l'assurance",
+   "ts": 1793630390,
+   "theme": "fisc"
+  },
+  {
    "title": "Loi de finances 2027, trois défis et une responsabilité partagée",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWRoeE4tUkM1NmpDdm9uRk93Q3BwdEM4R2N1TGZ1NzhnSW1nYmhBeWxlWG95MlpBbkRqelNOLTc5M2FzeXE0VktMRV9jWXdfT09PTERhZ0JrWHgweGM3VzhORVdCczdtSHpRQlVjQXNNNC1ibFJ0VzBOcG9lQzItNFhPLXgtY3ZnZ1FWcUFEMUtSaFJRT1E?oc=5",
    "source": "African Manager",
@@ -387,6 +401,13 @@
    "theme": "fact"
   },
   {
+   "title": "Orcom accueille le cabinet lyonnais A&A et installe un associé sur place",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yUEFqbmlGbkgwNmNpbWlsRkFLRVlwQnZDWmk5LU54cm1JTXVRRXYxYWUwNDIyWWh5ZzAzaVkwc2d1VjhPRG0takZncVNUaV9LV3lpWVc3UGtjZnU1LTRXWjhIVFdzQl9Zb191al85Y0taeVAwcHhj?oc=5",
+   "source": "Compta Online",
+   "ts": 1793606400,
+   "theme": "compta"
+  },
+  {
    "title": "Orcom accueille le cabinet lyonnais A&A et ses 43 collaborateurs",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yUEFqbmlGbkgwNmNpbWlsRkFLRVlwQnZDWmk5LU54cm1JTXVRRXYxYWUwNDIyWWh5ZzAzaVkwc2d1VjhPRG0takZncVNUaV9LV3lpWVc3UGtjZnU1LTRXWjhIVFdzQl9Zb191al85Y0taeVAwcHhj?oc=5",
    "source": "Compta Online",
@@ -394,16 +415,16 @@
    "theme": "compta"
   },
   {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
+   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
+   "source": "Presse Agence",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -489,7 +510,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -688,18 +709,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
-   "source": "Editions Tissot",
-   "ts": 1793343600,
-   "theme": "soc"
-  },
-  {
    "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
    "source": "Mes Allocs",
    "ts": 1793343600,
    "theme": "alt"
+  },
+  {
+   "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
+   "source": "Editions Tissot",
+   "ts": 1793343600,
+   "theme": "soc"
   },
   {
    "title": "Facturation électronique : changer de plateforme, c'est possible, mais pas toujours simple",
@@ -769,7 +790,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "DSN 2027 : une mention supplémentaire à préciser",
@@ -979,7 +1000,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmVQTkJHTjM1YmJCNDFSWjY0VjNvQ2E5elg5amJxYThiX1VSQllCXzZmMmdUdVl5aGRPLUZwRUxlOGNZNTJIY1JOOVdCUENWRmhhMTN6czhiOWJFY1pMTjJqMHdLS2M0UDVNaDlzdHlEdzZsQk1Jdk9XNkRabWlBekFrdXpabjQ5N09UQkJfUk1kUVd5aU9GSi04ODNvZ1gtM29oTTRrcEhCTXJSOWUzaDZOOXpJMHhpbEc5bFRnMkhQS19VM2VCVmhsMGpXajNJQXc?oc=5",
    "source": "Siècle Digital",
    "ts": 1793204837,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Un géant français de l'expertise comptable rachète un cabinet lyonnais",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTZLS0RCZTk3d3ZRZmg2N3BNNW1Denk3UzV0NW1YZHN0cEJVQ3hsZzh6aEFpMzN1Rk1sMVlLaEFBN2dnWGhJQ294RVlvOWVEQ3FGSDlqRXpRbHhCX3pneUY2OVAtb0ZxMXI0SEM4MVNQSmtSaEN6amJnZFBYdVdsWG5OZVdsY2FCc3FKa0hCZFJqVnBlU0EtRVVVV1dYU0VTM1Jlc3hvVWo5NnlWalk1ZHhvY25hYkxzdmZDb1BhZkVBa0lhRmNTRFRlU0FGSkZ3UzhhSEpsSzk?oc=5",
    "source": "Anadolu Ajansı",
    "ts": 1793178557,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : les députés suppriment la prolongation de la surtaxe exceptionnelle d’impôt sur les sociétés pour les grandes entreprises",
-   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOeW9rXy0zdVFXeWlVYWtmVmdfeENmMnduaUhodFpLa05LR3RTUm1Xa2VqanVRUWl2NjYzY2hiUGl2aUVZcGVDcVh1WHRCY1hLdTBxQzhjTWZsdFZlME8yYzR2QWZlMklYS3ZGdmtzc1JiUDEwLWZkd0htdXBGSXE3WF8tSXl0VkRuTi1veHRWdnRWZzExTWlMSTljLU85eDNQYUhycm5VWEpmenBYc3pDSWRfcTQxeFVfX0pkdGxXLUUxbjIxUFVXczAzSUtfQlhCVFNNaTI2SDBKUzJUeVlFWnh6Nk1XdmhDUGoyQ2dsQ2NyTzRxWnhoYTc3SklBbWQ0SjlhR1d3cjZ3ODhya2VmMXlDck13Z09PY2ZIdU9BYkhwUW94RTFGNld4MXFmS3huMG95cWNBT2JnU19MSFBGVzZuTWxOQlgxdWNTUWNVWQ?oc=5",
-   "source": "L'Argus de l'assurance",
-   "ts": 1793177312,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : « Les apprentis pourraient perdre entre 48 et 89 euros nets par mois », Baptiste Martin, ANAF",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN09QeWQxUHQxUmNSOWlpVmphN2tqTEktVHgzZXRIaTVDcG9wRUphMlVWeFVPZzZaV05KNi1CWUNKeVllNzZpakFFSFhMQjRHWHdIQTZwTkp0Zmtkd0x2RGFYRzVrU2Q2SHJWQWhWbGVna0R0aHdJbDA4OTBxZ1dwamkyM3VqOGhwQjIya0pCczZ2TXVxSUpudW1yblZTd0lZVmlidDJfUm9sejlIUDZRdnJjMFRnSmlvLUxMQW5ZRUNxdw?oc=5",
-   "source": "Studyrama.com",
-   "ts": 1793176524,
-   "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : les députés suppriment la surtaxe sur les grandes entreprises, un énorme manque à gagner",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDlfYXVJMjB3SjN4UURaeU8wb2ZrcWt6RjZVUTM3bFp4cXRnWjN5X3hRbi16d2JFSk9NRzhqcnhwZWdTbjBSRkpIZFlOLU9TWVhBRmdVbkM5NVB3SEJCMUNZTFdJQUphVjdLenlLVWRnRExEeWdCYmFKTVpwN1ozaTBVcGtVN2ZWR25Dd2kzNWt5dlFHaGRsU2wtanJRdWw3WEZaQ3pYTkFzQVQxZlBHVlNVcDRpZGJKSjJvdnZlS3ZJN21jeGNZZFU0b1hxVzdsSktMTlZqVWk?oc=5",
-   "source": "Planet.fr",
-   "ts": 1793175556,
    "theme": "fisc"
   }
  ]
