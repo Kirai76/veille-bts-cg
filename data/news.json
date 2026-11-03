@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-03T14:25:43+00:00",
- "last_success": "2026-11-03T14:25:43+00:00",
+ "updated": "2026-11-03T16:00:37+00:00",
+ "last_success": "2026-11-03T16:00:37+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 70
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 40
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "query": "DSN employeurs paie",
@@ -50,26 +50,33 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 24
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 25
+   "count": 24
   }
  ],
  "items": [
   {
    "title": "Mechkat Slama Khaldi présente les avancées de la facturation électronique et annonce le compte fiscal unifié pour début 2027",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWTZuU0FSLXE0dkg4RURfSWpZS1FaSW1wQzRzUEFYaHVQd3R3RllIZ3I4NzljT1ZKMFptQzQzRFYzamdSanFJQWJxYk0wd3E5ZVRNMXNMeF93THBVTWtoUUMyeWd2OFBfMENvV2ltQ09NUEgyU3lMSXgwMU5NQmJ4cUo4aDFGVHE3QnB3NEptWU5HQUdTZGxjaXNNN3hXYWY3dzVDSTlLaUV5TnBlcG1yekR5N212OEdsa29qQXlCZGNLNVJ6OF93QXQ2ZFVYVXpxdEJDVEhxVnd2ME1DZ0VjMlU3WVFCS2dJaEZ5YVQzWmlsZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wSDJZLXl3V3RUdHJfYXRfZ2lWNFRldGhqdXJQZlB1bE1CU2FTcTJxUUg2WTc4ZXlLRUxUdTJRcllxZVQ5WkxfWHBB?oc=5",
    "source": "La Presse de Tunisie",
    "ts": 1793714460,
    "theme": "fact"
+  },
+  {
+   "title": "TVA sur les immeubles en stock : précisions concernant la",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
+   "source": "Fiscalonline",
+   "ts": 1793714400,
+   "theme": "fisc"
   },
   {
    "title": "Facture électronique : et si votre expert-comptable avait enfin le temps de vous conseiller ?",
@@ -107,6 +114,13 @@
    "theme": "fact"
   },
   {
+   "title": "Facture électronique obligatoire : ce qui change pour les indépendants et les petites entreprises",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWY3eVVjUDhWeTN4T205Tk1uUWVaU2ZxMXZYOVV0S1lnRHo2RW13T1FUSE8wNmNlRnhfSlktMks2WXl4bDVsN3A4d1pSTkkxZjNPU0JiVUxyNFlCVU1VSmdyYnoxU2xHaXpoUHNkNU5BT1RiR2pBSGJiYVdhZFBlSTlZRlFLbjVLQXlUMDg5Rk1ETy1FVk5HODVkWkVFVWdMb1J4SEhQaWp1TVh0NmYzd0Z3?oc=5",
+   "source": "Webmarketing & co'm",
+   "ts": 1793702277,
+   "theme": "fact"
+  },
+  {
    "title": "La Conférence vietnamienne sur le commerce électronique 2026 est sur le point d'avoir lieu et réunira 3 000 délégués et vendeurs.",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVViUnNBYUdTNFdhc3F2eng4bFE0Rk1uX2kwSURzc3BSVXJORElvX1RVSVh1djJXSTJhYVV5OFRaWWpBMkRJQk0wN0RRV3lIWGNvbTY5QlVYZUNsTTA0MGVGckFMZVFPOGtWTEJpeGp5U0pLX0loN1pHaVRTZThoalItdG1KaFMzLUF2cldXdnd1bHBqLVg0ZGltZDVhZjAwSHE2bFViM1lIM2tGYzFBdHpuN3V3QWZI?oc=5",
    "source": "Vietnam.vn",
@@ -133,13 +147,6 @@
    "source": "Les Echos",
    "ts": 1793696452,
    "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique obligatoire : ce qui change pour les indépendants et les petites entreprises",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWY3eVVjUDhWeTN4T205Tk1uUWVaU2ZxMXZYOVV0S1lnRHo2RW13T1FUSE8wNmNlRnhfSlktMks2WXl4bDVsN3A4d1pSTkkxZjNPU0JiVUxyNFlCVU1VSmdyYnoxU2xHaXpoUHNkNU5BT1RiR2pBSGJiYVdhZFBlSTlZRlFLbjVLQXlUMDg5Rk1ETy1FVk5HODVkWkVFVWdMb1J4SEhQaWp1TVh0NmYzd0Z3?oc=5",
-   "source": "Webmarketing & co'm",
-   "ts": 1793694866,
-   "theme": "fact"
   },
   {
    "title": "Quels sont les critères à prendre en compte par les entreprises pour bénéficier d'une réduction de 30 % sur leur impôt sur le revenu ?",
@@ -527,6 +534,13 @@
    "theme": "fisc"
   },
   {
+   "title": "PLF 2027 : les TPE-PME et autoentrepreneurs réclament plus que des ajustements fiscaux",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajA5UUQ0RUFNa2ZpYXZpdGJVdGtUTmhXRjNvTmwyOWhsQWhzTXRNVGx3QTQwLXNUa2VySERraWhDMmpkNnNnNXlJNDg1ZUl1bTZKa1YwcnRSWGxad2hoTUEydy1vRk8yaERiRm4waUs2M2d1MGtNeGhUWVRtemROZ0xZV1A1ZHFWSEptNUkwSHpNRjBBOFVXVmU3VU1lV1hfOGZiNmJqbHJva2JuT3haQmo1NmpkSTgybFBHMzRQSjNMajhDNHQ2OA?oc=5",
+   "source": "Telquel.ma",
+   "ts": 1793379689,
+   "theme": "fisc"
+  },
+  {
    "title": "Les particuliers et les entreprises dont le chiffre d'affaires est inférieur à 10 milliards de VND sont éligibles à une réduction d'impôt de 30 %.",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHNDVFczZThiQTFnSDNLdEpMcjJaUzdWQXZWS0RTWFBGYkJiaVVFbVYxbVJVY0lKcVVMZThQX2pVcmdqeDdxSHFkeTdvVU5oUGluekRFY1gxN0wzZUk4ajJLWW5tbkc1dXI3Y2tUaGpjd3NJWXQzeVBUajdseG9Nc0hxYjd0MUJleVVvdVBiN1dBbDlaN2tvQlMyTGxmRlNGbHhr?oc=5",
    "source": "Vietnam.vn",
@@ -660,6 +674,13 @@
    "theme": "compta"
   },
   {
+   "title": "On ne s'est pas encore fâchés »﻿ : le patronat et les syndicats lancent les négociations sur la réforme des arrêts maladie",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaXU4YmhDOFhQRXdhY0lQSmZUN18zLXRSSDlnMEhUb1lzQ1lKWXc3U3E3Y3NWR3FVU2xjNFdnR3RvS0Y0dFJ6RFFiazlDUzBwN1M2b1REeUxMQkhWczFhVGtwUG9OQlhPWktOek9Mc0U1RFc0NURTREtTTGFHVDFLZnZPTUxPT1BWMFlfVHZfX0tFY0Y4ZEJxeW9PamxEc3FQZVoydndYUS0tUlBRc1VKcjU5c3p3U19yMTNpb1BtN2V5TV9PZDFOTEJUX2swTDNqYUh4QTdQUHNBbWlPd0VlR2F0WjJXQlBiRjl3U0tINDZubFl5U3Z3bUtwajVhS3ky?oc=5",
+   "source": "Les Echos",
+   "ts": 1793293876,
+   "theme": "alt"
+  },
+  {
    "title": "Alors que TotalEnergies vient d'engranger des bénéfices records de 7,4 milliards d’euros en 3 mois, le RN sabote la taxe sur les superprofits",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPXzM4clhYSER3Uzd1UDZsNE0xS0dzLWdPclQ5UmIzeGp5bUVydGtiaFZYMVdER1RjbGg2MXlodS1pOTh2QzRJZ0lkRUdMS1U4bTJFaUExT2VDQkFIcW5yWWNReVR5SWc5R1RCemVGMFFyYV9fQWJPS04zZkN4Ynl5OF8xREZUQjhHVFhOU0JNQWxrZVliNlh3TVhWSEliY3dNMHJraEUwTTR0eU1RZ1VTQmxLZEwyYlhGS3BLTGdXRnZBSlpfSXd6d0Q4d0JmMER0OTRIcmpzMmpqM3hWWmRwSEtvOWZaajZocTBEREoybHZsMF9yY3ZCNGJWYw?oc=5",
    "source": "La Relève et La Peste",
@@ -679,6 +700,13 @@
    "source": "Vietnam.vn",
    "ts": 1793283678,
    "theme": "fisc"
+  },
+  {
+   "title": "Prime de partage de la valeur (PPV) : règles, montant et fiscalité en 2026",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkExaFN0TkpyNkhpSjVlTDcybHhzTHViblZTd1RZMWk3bjMwdUw2YkRjVTBTT1VtcTBGcDVZb0hKNVpsR0EzaTVHMlBOemIyNlVHcmJvVnVlOFFHUG9VdnRDdzZSRWVSUGtvdDVETDJCMEJwdjFvb2dmVmFhc1lnaVJpa1VDa3BfeWdRcnZ2NGlwVk5zZDBJeGdjcC1IS3Zh?oc=5",
+   "source": "groupe SVP",
+   "ts": 1793282400,
+   "theme": "soc"
   },
   {
    "title": "Facture électronique : voici l’astuce pour vérifier en 5 minutes si vous pouvez bien recevoir vos factures",
@@ -1017,6 +1045,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Budget 2027 : « Les apprentis pourraient perdre entre 48 et 89 euros nets par mois », Baptiste Martin, ANAF",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN09QeWQxUHQxUmNSOWlpVmphN2tqTEktVHgzZXRIaTVDcG9wRUphMlVWeFVPZzZaV05KNi1CWUNKeVllNzZpakFFSFhMQjRHWHdIQTZwTkp0Zmtkd0x2RGFYRzVrU2Q2SHJWQWhWbGVna0R0aHdJbDA4OTBxZ1dwamkyM3VqOGhwQjIya0pCczZ2TXVxSUpudW1yblZTd0lZVmlidDJfUm9sejlIUDZRdnJjMFRnSmlvLUxMQW5ZRUNxdw?oc=5",
+   "source": "Studyrama.com",
+   "ts": 1793176524,
+   "theme": "alt"
+  },
+  {
    "title": "Budget 2027 : les députés suppriment la surtaxe sur les grandes entreprises, un énorme manque à gagner",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDlfYXVJMjB3SjN4UURaeU8wb2ZrcWt6RjZVUTM3bFp4cXRnWjN5X3hRbi16d2JFSk9NRzhqcnhwZWdTbjBSRkpIZFlOLU9TWVhBRmdVbkM5NVB3SEJCMUNZTFdJQUphVjdLenlLVWRnRExEeWdCYmFKTVpwN1ozaTBVcGtVN2ZWR25Dd2kzNWt5dlFHaGRsU2wtanJRdWw3WEZaQ3pYTkFzQVQxZlBHVlNVcDRpZGJKSjJvdnZlS3ZJN21jeGNZZFU0b1hxVzdsSktMTlZqVWk?oc=5",
    "source": "Planet.fr",
@@ -1077,41 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTGxwOVBVcllQZkhNRmEtYWZJaVRGYk9heEdYeXQ4TmItMzcxbjVzZTZLTlJ5Ykx1ZDJQUGhaYnNRTk44N19MQ193MEJIc19relJMQTlXeGpxZHo2bWpCVWtSOV84MWpPZEVOUksyVWFORWMwaWNWRENBRDFXN0dCLXY5OW9vaFdxTWhGX2NLS0VxbmtpYU11dHlQaU96ME1tZnhCb1YtUU1PTUlQMlZneWNLSGdrOFlqVl9RVXBkcWNocUttX1RXSWt3N2J4MGhDek1GS1VB?oc=5",
    "source": "Actu.fr",
    "ts": 1793124002,
-   "theme": "fisc"
-  },
-  {
-   "title": "Gouvernance : l’OCDE passe au crible la réforme des EEP",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEZCYVZXNDZYaG93NGFLQ1ZvT3J6T3dYU2Z5TVBuVTNKd1BfRnpxQ1dIU0ZNdkh3NGZxVzJ5MjBrOXp2YzhqZzJFajE2blBfYVFGci0zazJfUjdCUGNyOW0wWFpIS1JmeXRHU2FRTEZMN1o4Y2NGeTl4UkZkaE5Cci1rQjJlMHZNdHpGZg?oc=5",
-   "source": "LesEco.ma",
-   "ts": 1793119411,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : l’AIFE cible les rejets entre plateformes",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVlhT1laT3ZPN3R0Zk1WYktaUnFOWml3MERPcnhKVjQwdWE5WFNIRHV2SklMNmpmRUF5MWY0MGk0clphOUhXU1RvM1N0Z0dPNEllYWFyWXVqeUlCVGUwb1pUZHVCdEt3NTZpNC1Ld0VqLTROM25QbUMtNnJMQk9lY295MEhCaVgtZnFXOEdXUG4?oc=5",
-   "source": "ITforBusiness.fr",
-   "ts": 1793116940,
-   "theme": "fact"
-  },
-  {
-   "title": "Parcoursup et réforme Blanquer-Mathiot : organiser la pénurie, mettre la jeunesse en concurrence, marchandiser l’éducation",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUkNZM3BDWEx0cjQzbUVqR2RVaUE3UGdBZkpubHNFcU12NGR2Y1JxdGlhUk82cmF1VEUycnM4RkVKczJHX3hBNk9fVXZWdG5nbFJBRUh0aDdaSWlaTjVmQUtKVWVrQ1gzbWxQeHl1VFJSWlBZNFdzTl9pa3JtUFZmWXJOelBLUmlxUndTcVd4VldBSmxBNHJXSk4tWEtrODFodWdwNGZsS0UxSmJVSmZKTnIyaGIzTnNuTGwzeEFWOFJEZ01NNi0ydkRwWDd6QzdjWElaWjZCeVVyZTlSWDdyQmMydjczSTFkSENnM3pKOGtVSVYyQUFuelZYMA?oc=5",
-   "source": "- INITIATIVE COMMUNISTE",
-   "ts": 1793114788,
-   "theme": "alt"
-  },
-  {
-   "title": "Facturation au Maroc : les entreprises sont-elles prêtes à ce qui les attend ?",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNE9aQXozTXFZTk43RjY0YzVoUEdkRVZkZVRvdmJPMHc1SW9keXFxbWk5bS1BaWt4eVVQblo4amxfTi1uckpUM3hjUjVqWEcyQWRVV3pnNzJCTWhzYnpGXzZmT1Uwb0NCYjh4S0J6Q3JrcHlucF83V25jM3ZHQndibXhKUGxOdVBfOVZOcjYxOVZmMHd2dndId3YzNnNYeEF6TDVmUlBvVGFnUQ?oc=5",
-   "source": "Maroc Diplomatique",
-   "ts": 1793114077,
-   "theme": "fisc"
-  },
-  {
-   "title": "Convention fiscale France – Émirats arabes unis : votre société à Dubaï est-elle vraiment à l'abri de l'impôt français",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGRtSlFJZTcwdlUtOF9lcndoZWRXekFtb2MzWUZBV2dhOEJjcHBoU01PbExPSDZIMGk2T0U1R016RENEb0lKbFF1OHhRYjBiUjIyTWVqTVRIU0dfb3dBdmdLeUFLcUgxZHp4MGNwM2JtbjRKT1V3V3NWeXFTay1oUjZqMENkYW1WUmRrMzZsaXNHVDNOeDdnWnhVa0JVQmhnNTlGTEZ1TU9uVTBKMXZER1I2anVsdjI1Vm9abUY2OW9LSGZ6N0E?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1793113560,
    "theme": "fisc"
   }
  ]
