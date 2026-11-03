@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-03T21:55:03+00:00",
- "last_success": "2026-11-03T21:55:03+00:00",
+ "updated": "2026-11-03T22:54:53+00:00",
+ "last_success": "2026-11-03T22:54:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 71
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 73
+   "count": 32
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 60
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 25
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 21
   }
  ],
  "items": [
@@ -69,7 +69,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
    "source": "Presse Agence",
    "ts": 1793736000,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Ministère des Finances : 1,8 million de factures reçues via la plateforme de facturation électronique, dont près de 37 000 réglées",
@@ -87,7 +87,7 @@
   },
   {
    "title": "Dix Opco demandent de revoir le périmètre de la plateforme nationale de l'apprentissage prévue par le PLF",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVmROUzhxcmlzTXA5bzR4ckhScUV4cjhDWWNFcEhHVUR6LWZydU81YWZxRXBmazNUSVQ4b2RPZHB6OWRBeDQzc2JhZHJxdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmNaODZ1cDVGME10WkNDSkxvYWFCeTNCXzhyOURFVVdSSUt2QW4waHZNaHBseXQxMVJRR21ZYVFZLUVwRklkMWJ0UGw3NTRwUEdwLUFGazNBTC1rcXZnRlEwNXNFX0RsVGdBeHRoSEFLb3AzOFJhUFhqUVpYRndHQl9wVGZ6QzRfaUJ5NTNIT21GaVVQYXp5QWpDbW9Bb2JOX0djZk5lUzJ0b2lTbGVpMXVlV09xT0xJQ0s2aGRBVDBGWkZWbDFkRVhtcU1ZUjcyVWRvV1pkQmxyZw?oc=5",
    "source": "AEF info",
    "ts": 1793727290,
    "theme": "alt"
@@ -110,7 +110,7 @@
    "title": "E-facturation : 37 000 factures réglées sur près de 1,8 million reçues (Ministre des finances)",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjFLM01NZFBnZlFZbUVfaDVic2M3djVaRzByVWNMOVJOdk44S1hjZHNFUV9uUTFsWU1XUThRTVE3MzZKcS0xMEtXTFV4Uloxa0pzd1MxUEZYNnZieVBKT2t4aDNBYzlQdTFrcUdJTEpCX0hfck1talRDT3RaMEVyc25JVElLRTlYMW1sZkE0RGJZdTU2SjdhQVA4WUd0WllEcmtsenprV3ZYTlBNaWdaN3dGVTkxNTlQemRrV1Y0QmQ1c0s2SmF3S2ZtWFRLeFpkVXVXRA?oc=5",
    "source": "Leconomiste Maghrebin",
-   "ts": 1793721782,
+   "ts": 1793725292,
    "theme": "fact"
   },
   {
@@ -210,6 +210,13 @@
    "source": "Éditions Francis Lefebvre",
    "ts": 1793700759,
    "theme": "compta"
+  },
+  {
+   "title": "Impôts : la France sur le toit de la fiscalité européenne",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzdHc0l6RXpBSXJ2NXhldVIwX0NBejI4Nm45OUdTVV9kenlOSzhGTzRUOV8xVDFBVmZqX21SVU9pb2MwdHV3N1pnbHhmTlpOSTVZQXQxS25LaGFyRERrZEpORzZSRW40NW80UTg3ZXhTT1ZnZFNDYjRHM3Z6MEFvZUZiVG9hZEVQSUhIc2toOF96MmhCZTZ6RFdlb3NDaDlaZUNJ?oc=5",
+   "source": "Contribuables Associés",
+   "ts": 1793700719,
+   "theme": "fisc"
   },
   {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
@@ -517,7 +524,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "compta"
+   "theme": "fact"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -1106,13 +1113,6 @@
    "source": "Le Figaro",
    "ts": 1793185200,
    "theme": "fisc"
-  },
-  {
-   "title": "Prime d'activité 2025-2026 : conditions, demande, montant, revalorisation",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUZ1aWUxa0gxNXlnVGhCeXdsOGVCOEdSMVIwdXVkUUUtUXZKTk5qUk5jTEg3Tl85cGVkVGVmU2FsY2thYm8xUUhrb1NnczU1blZ5cXpqWGcyRTBza0lXT1l4S2poLS02NEdRSGU0MFN4cHFOVFRRdV9odWtsNjg5bDBaSEUwbVpvS0J0TFF4TTQ?oc=5",
-   "source": "Tout Sur Mes Finances",
-   "ts": 1793184362,
-   "theme": "alt"
   }
  ]
 }
