@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-04T14:28:30+00:00",
- "last_success": "2026-11-04T14:28:30+00:00",
+ "updated": "2026-11-04T16:20:22+00:00",
+ "last_success": "2026-11-04T16:20:22+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 70
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 13
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,17 +20,17 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 74
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 100
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 30
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -40,30 +40,58 @@
   {
    "query": "plan comptable général ANC",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 24
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 28
+   "count": 24
   }
  ],
  "items": [
+  {
+   "title": "Facture électronique : gel de la réforme pour les TPE et les PME",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2J5Z2x1cFp0TVhsdVVKLWRiV08ySFlDLWxIUndmWXB1TnlFNGJwQnhna2FOR3RGVW16TjZPd0RPWmZfY09acGhjSHViQ3lkOXhNTkwxVEFxbklHSUtnYnA4ckhpWDdkdFdpRERDdkhCdC0tR3I3cV8wSDZyWGpxMVZpdGN1MHJWakJSQTZPajFWXzFZT1ZFVE5UcVlfZkVtZmc?oc=5",
+   "source": "Solutions-Numeriques",
+   "ts": 1793807413,
+   "theme": "fact"
+  },
+  {
+   "title": "Presse: 247 millions de dirhams prévus en 2027, six années d’un soutien vital aux entreprises et aux journalistes",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1LWG8zbE1XNTMwVGJnQXh2OFAxdjlfRnpjRmxNU19pajlmN1NlTFdCT0NDWWJWM3hJZV9IX1VlRkU?oc=5",
+   "source": "La Releve.ma",
+   "ts": 1793805327,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : les quatre mentions à vérifier sur les factures en 2026",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmxwVHlaSWh2SHFkaExnUTJMbFNoUHk0cDJVTWUzbGtDOWhjd1BNTnRpdkZGRDFFOW8tUnNhQ0N6Wjh6SnNJdDB0WUR3Y1gzNXQzajI2ZGpldjNMdGJscVRWUEs1aS00eGxYaGhNMTVKZWo1RndDRUJobTlMX2pSdmR6aVYzUWhRZ1QtTV95d3BuRmdqcXdjcFZGVWs?oc=5",
+   "source": "Economie Matin",
+   "ts": 1793804476,
+   "theme": "fact"
+  },
+  {
+   "title": "« Gen Z regelt » : la jeunesse allemande dans la rue",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVdFcnBENDk4aGNuOTZ2bUF2VnFuaXZxOHRoNXhuenNPZnFXaHFqaEhBR0pzTGdSbkhqdWltZ2pHcG1Sa2ZhRzJGOVdaMzJwWEhMMS1UR3dSMGREVUJZeDRmRUxMS2JVX2FBMG9RUXVsQzRtdmRTNlZmWFo5aHF3M01WRQ?oc=5",
+   "source": "Reforme",
+   "ts": 1793803500,
+   "theme": "alt"
+  },
   {
    "title": "Abdelkader Boukhriss: “L’export doit être considéré comme une priorité de politique économique à part entière”",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQem93YjFhLU15SDNRaXp3VkhmRzRJMFVKQWh0eHhIVXhLdUQyaDIyc1VCMndzeG9PSHJCNnA0Qm9GdFFMQlgxLVVCTm5YUFJBR0ZZOUxNRWFQRXREMV85bU1Pam1CUnpKRzZlM2xiLTlCLXRkN1JZWkhkX2VlMlMtRXZzZzRYMi1va21NUDVoTjNqZi0wWTBOWUl5Z25KUWNpWTJGUzZqc05sWS1sY3lFZWs4Nmp0MTVBd3FSYzk2OG9Mb1lLS0xwMW5wU0pXLXlqV3hIRg?oc=5",
@@ -96,7 +124,7 @@
    "title": "Facturation électronique : l'Assemblée vote un moratoire pour les PME en l'absence de portail public",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1lCOWwwSFpISy1HS0IxdEltbDF0ckhSM0t4cGVEOGp6VmQ2clBDWkVqOUZES3hPS21vc0dqU25JSEx4d3RqeTJrZ0lpUWR3c2I4ZEV0N2E3RDhyTVRCZzJWRnIwM18zNjNZY0lUNmNiVGN6dWNBcGwyR3hOcVZzVFd1Q05sZk0wSjBWU3MtYnIxUWhEeXhWNXVHeC1kbTF2c25kaGp6d3E0UjRsVFhvUGVXVnd2Q1JXcTdIOVVUbm1zV1F3VWFYNmVveHQ?oc=5",
    "source": "LégiFiscal",
-   "ts": 1793788478,
+   "ts": 1793788527,
    "theme": "fact"
   },
   {
@@ -912,18 +940,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
-   "source": "Editions Tissot",
-   "ts": 1793343600,
-   "theme": "soc"
-  },
-  {
    "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
    "source": "Mes Allocs",
    "ts": 1793343600,
    "theme": "alt"
+  },
+  {
+   "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
+   "source": "Editions Tissot",
+   "ts": 1793343600,
+   "theme": "soc"
   },
   {
    "title": "Facturation électronique : changer de plateforme, c'est possible, mais pas toujours simple",
@@ -1085,34 +1113,6 @@
    "source": "Contribuables Associés",
    "ts": 1793260878,
    "theme": "soc"
-  },
-  {
-   "title": "CSM Expertise, à la pointe de l’innovation et du conseil",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVlViZmJjSG0tcm5fSVJqYzRoaExXbFBoYUs3UHBRbVNodzZ6T081amtqOFpUWEVBYzVselF3NWt2OFFpREV1aG1DRnlEQ0YxVGMzVUZQc0F5MnRtOXVUUVYxVHhMT1laOF9DMEowU243cmI5VGNSck5JZURISzJud1FPc0tLS3Y5M0lFXzhGUC1GOUpCZDZPWWc3YnBiR2FrbjJBcFJBX3pZT2R6SEhtQTY0NA?oc=5",
-   "source": "Le Point",
-   "ts": 1793260800,
-   "theme": "compta"
-  },
-  {
-   "title": "Facturation électronique : « A terme, il pourrait ne rester qu'une trentaine ou une cinquantaine de plateformes agréées",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQmtYRjQ5UE1tTkp0S1ZjUWxfMkRTcDlMZU9EMzYyNnhmeHdXcVgzTnRWaDlBWUFHY1dwYUZTWGlvVjdGeUJ0MDhFNkg4cGRkM3FKNEZpczdmR1dRcXFQVUhXS01xMENEbDdnLUR6cGZjMWluNGdSQUhqZ2drWnlUSDNSakJmV2hWUDF4SHVJQzFpTUtPRDdqSzRkOFk3SGk1c2FzYlo3dXllYjFZN1FPQXBudW9fVWxEMWZ6V2dfenR2ejZBV1pfLXdBTE1Za1ZYMGlBUUNGQWJPcDZDT25INGhrX3ZQLVk3UkZnUFBpWlZJZw?oc=5",
-   "source": "Les Echos",
-   "ts": 1793257533,
-   "theme": "fact"
-  },
-  {
-   "title": "Aide étudiant alternance 2026 : le guide pour la rentrée",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Rc3kyMHA1Z0F5Z3p2Z1NKOC1MWm5HVGozbHZxbmhiV1VFdHFUblpVbVlvWGJfeFFNcDdiUmNTTjc5bWp0S1Y0YXNUWUtKak9FMGVwMGdnWnEtcktZRVRpQzVPLTNFSFFUS3VNV1l0VEUtM3JJUkZoOWRncG5tUQ?oc=5",
-   "source": "WIZBII",
-   "ts": 1793257200,
-   "theme": "alt"
-  },
-  {
-   "title": "Alternance : ai-je droit à des aides financières ?",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVMxeG9RNDdxa0dBWFdLSVR2cWZLNzVTcUF2YmUwb0FiSVUtUlNGQ0VhelBTMzJvS0oxU1ZHSk1sNnVlNzk5LWE4UzFWck9ZZlJucklBY25ZSlhpR2FhN25DZHNnSVlWdFZvcjJlY2FKeHNsUzhadjJGYmhocGY3cXhMMHJEdw?oc=5",
-   "source": "WIZBII",
-   "ts": 1793257200,
-   "theme": "alt"
   }
  ]
 }
