@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T06:09:03+00:00",
- "last_success": "2026-11-04T06:09:03+00:00",
+ "updated": "2026-11-04T07:28:02+00:00",
+ "last_success": "2026-11-04T07:28:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 72
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,27 +15,27 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 32
+   "count": 72
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 100
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 27
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 24
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Le salariat recule, le nombre d’auto-entrepreneurs explose",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODdHTDd0R3duZlZjNWFFSVpZckJsWm40OE9RRHVNU0dpRjZrVkxtNUFacnY5R3YxQXdMME1BcWNiVV9sb3V4TUNMU05GSmNHMFhoMktfMm0yUi1zRFlDVVZMaHlycUdMdTV5cFhqZnBXWlhPY3pOUHF6VTNOU291TXdpa1drcWhDM2kzOTZZLVZSQm1W?oc=5",
+   "source": "L'Essentiel de l'Éco",
+   "ts": 1793775600,
+   "theme": "soc"
+  },
+  {
+   "title": "Budget 2027 : l’Assemblée nationale vote le gel de la facturation électronique, quel impact concret pour les TPE",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQjRVUGc2UzhkVXJnaXFpMVdfYi1zZEgyVmNiai0wU3cwMEo1WVBYVEFmdWNHcVcyeE00SjRnZTJ5MnlSZWFKMHZkLUdUTjdLelEzMjRIQkRWUEczeURrdklNRnJ0V1ItakxZVTEwNzUxQzdOWWM0Smk1VWEtRXdNc094TTVtWk50Z2Z4WHFZMkpsNjBHNmRGMXNveGlUQnlpbXE0emtzNHNnbFUxbzJfWC1oX0x6cDR0UkZ5bm9IMzFHS0JkUmNLd0hVUEpMSmN5WTQ1bEY0QTNFUXBkUXNmTEpCWXJyWXF4STNpSF9BMWU3Y1BBTmRlQg?oc=5",
+   "source": "TheSiteOueb",
+   "ts": 1793773704,
+   "theme": "fact"
+  },
   {
    "title": "Lignes directrices pour la réduction de l'impôt sur le revenu des personnes physiques et des entreprises dont le chiffre d'affaires est inférieur à 10 milliards de VND.",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmtPTEVjZGZTSU1kZjZoeHhZOUpGR3FHU3NvQjVyMkJ3dWhYNmNnVGd2YnBqS3pYblZsdFpYU2wxLTZMVWtwUm1zdEdhVWNPZ01LeC1LbTJBNHBhMUNoRVR2b003blJSakpTY0xOSzN4eFRrYVNCakhVRUhNUldTZzh1YXZQREVEMGhiSnJ1SGppM21qQU5NUGdkRDFhV1hzSU51Um9pYWt4bHQ2UF9XalVBMlNSUUE?oc=5",
@@ -142,16 +156,16 @@
    "theme": "fact"
   },
   {
-   "title": "TVA sur les immeubles en stock : précisions concernant la",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
-   "source": "Fiscalonline",
+   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
+   "source": "Consultor",
    "ts": 1793714400,
    "theme": "fisc"
   },
   {
-   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
-   "source": "Consultor",
+   "title": "TVA sur les immeubles en stock : précisions concernant la",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
+   "source": "Fiscalonline",
    "ts": 1793714400,
    "theme": "fisc"
   },
@@ -412,7 +426,7 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTBBb0dLa1NYclc3b3dqQldRbHFHT3hkT0F3anBxRVZCdmJXeEV0U18tSnNfaEZ3UjZuVjZPQ01TLW1kQ1pSb1VSbWlSdldpWTlyTUN6bUV5LV9GUjIzZ1VzbVd0a0pfVW5EZ01nZGVqNVlLX2treWRzR0s2OXV6d3BuSTBOTFlkZFVsMWNmRGpMTmdCMGxqOXhB?oc=5",
    "source": "Compta Online",
    "ts": 1793615451,
-   "theme": "compta"
+   "theme": "fact"
   },
   {
    "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
@@ -423,8 +437,8 @@
   },
   {
    "title": "Un nouvel impôt lourd de conséquences pour la France",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FDcWMwNlZNeHY5SUNFMVN5cTB6NG96cFlhQnNOQ1FENnlUbGRHN2ZEMy1WMWJwdm1KRms1Z1FuVjN6Tm9uU2Z0SlBQdm9QV3BqM2RZcHZzRjEtSG5GZHYwSXM3bkdVZXlqNHRwckRMVTIyWW9xdlB2NHJWanlpUXhpTmdqWGRSUVBBSjZMa2ljbkU?oc=5",
-   "source": "Yahoo Actualités",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlpfQlZPNm4yWk5DeUVhUmxlTDBObGxrNXp5WDRGSVhRckZUT0lUN3UyclpoNURQWnpZNXY2bkZfZGpKbk9CbEdTTjc0eFRzdlVVd2daSGwxelZXaktUeFRjNEEwTDlEYmVubVN6dGdJQUtqZy1pVmJUZmZWY1B6SHFIV0ZNaExCVWZiU2VNM2U?oc=5",
+   "source": "Journal de l'Economie",
    "ts": 1793611200,
    "theme": "fisc"
   },
@@ -450,16 +464,16 @@
    "theme": "compta"
   },
   {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
+   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
+   "source": "Presse Agence",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -758,18 +772,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
-   "source": "Mes Allocs",
-   "ts": 1793343600,
-   "theme": "alt"
-  },
-  {
    "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
    "source": "Editions Tissot",
    "ts": 1793343600,
    "theme": "soc"
+  },
+  {
+   "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
+   "source": "Mes Allocs",
+   "ts": 1793343600,
+   "theme": "alt"
   },
   {
    "title": "Facturation électronique : changer de plateforme, c'est possible, mais pas toujours simple",
@@ -846,7 +860,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "DSN 2027 : une mention supplémentaire à préciser",
@@ -1063,7 +1077,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmVQTkJHTjM1YmJCNDFSWjY0VjNvQ2E5elg5amJxYThiX1VSQllCXzZmMmdUdVl5aGRPLUZwRUxlOGNZNTJIY1JOOVdCUENWRmhhMTN6czhiOWJFY1pMTjJqMHdLS2M0UDVNaDlzdHlEdzZsQk1Jdk9XNkRabWlBekFrdXpabjQ5N09UQkJfUk1kUVd5aU9GSi04ODNvZ1gtM29oTTRrcEhCTXJSOWUzaDZOOXpJMHhpbEc5bFRnMkhQS19VM2VCVmhsMGpXajNJQXc?oc=5",
    "source": "Siècle Digital",
    "ts": 1793204837,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Un géant français de l'expertise comptable rachète un cabinet lyonnais",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFZ5TU5TR2xnbWZDRXFkdFE2Q1FDbXZOSjhHeHU4dlpJYy1oVEVXVXYwdlExb1dJWTZfT2RvNldFcUZWOVd2dmxRUVVLWWpwNFRxOXdERVRBOTVoYmd6ZG1xaTNuOU9WQl9lTXZQdXFqeUFzcnl5Z2duLWg0bi1XeTBKQ0w2SVZpdTdUOFBJLXBtUUdCM0VvVTJMUXBDQXV2RVlERVA0SHdReWFVZ21TbFJuV1R1OXg5bXk0?oc=5",
    "source": "JeChange",
    "ts": 1793197800,
-   "theme": "fisc"
-  },
-  {
-   "title": "Études de santé : ce qui va changer pour les futurs étudiants dès 2027",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTFrUTd4Mm9qaDUtbXphRDd5VEYzd2FlbE0yRXliOFZDSS1iT2RnZ3FpRWJkYzFudFRyOFBrcjlibUpUbTR3dXBqYlIyUDF0U1VaVWFuTDh6d0szZzBNMnYyekc2amduU1pkTnpTNXdhOFVSRjlMaGtOQXlmSV9LNVZmUTFIS1U2YWN6azNlQ0ZoSnhndHprbDNfZmpNQUJLczQ1Q2FUQnBCbEVGY3lmRXNlczNIb0w4STJvVVoyYmFGclQzelQ5VVUtZnN3XzQ?oc=5",
-   "source": "L'Etudiant",
-   "ts": 1793197560,
-   "theme": "alt"
-  },
-  {
-   "title": "La Finance décryptée : les mesures fiscales du PLF 2027",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRXprZFRHUkNEczFyLWN5bVhobnlnMzBhV3VQLS1vRGdBMlk3UkMxdGZQUmRsazNIT0EweU5mb2pkeEs5SWZENTBFNmpwcGExYzhZbUFkXzVpaTE4WUMycVI5aVQwZ2RaTG12MjBndnc5M2gxWGlITXIybEJhWmNrT3RqZEh1ZUEzOVhn?oc=5",
-   "source": "Daf-Mag.fr",
-   "ts": 1793196828,
    "theme": "fisc"
   }
  ]
