@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T21:00:26+00:00",
- "last_success": "2026-11-04T21:00:26+00:00",
+ "updated": "2026-11-04T21:57:18+00:00",
+ "last_success": "2026-11-04T21:57:18+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 74
+   "count": 76
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -50,20 +50,34 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 24
   }
  ],
  "items": [
+  {
+   "title": "PLF 2027 : facturation électronique et éolien en débat",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzU0M3JzSE8xeVFVaWNqZlpUSGRyNzE4ZVBZb2U0NUtTNnhzcmhmdUZYeEFVel9JaWUxbzNWX0pkaWJRa3Y2bFl2LXN5SWhjdTh3T3d4bjhDY2Rpdm44X3p0dEhOVk1VMjVsdnl3elZ4X0xkRk1Pd1B3LWRmUHZjcE9sYVk2S0k1WDNvaFVFa05tNi15eFVlaUdkQkFlbWhWUFRseFdB?oc=5",
+   "source": "Batiweb",
+   "ts": 1793829264,
+   "theme": "fact"
+  },
+  {
+   "title": "Parcoursup : première réunion de travail lundi, la délicate réforme est lancée",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3VOTno1NFF2ZXc4TDh4MFh3R2ItQmRtMFI2bEJVU0hDdkZEQ2FrQ3pwVGR4LVh2MmNSd3FsWmgtT2dFbnBUNFYyYWZMSXF1RlRsRmxIR0Zrc29hcTgtYjV2NXpoYTRfSXN4MG5TVktfb3FLdFhFaVR0MW44UTFiX3NxM091aG15VGloSUd5SlFCcXZXZUNmVDdEdm1Qc1UxOGdxVGd0SGtCc1J5OUxwVzZBR2MySWZyelo2YUE1TU5kampwaEU3MEZTTVp1MVlwcUN2TWFTWDlKTG1ZOVd3R3hUTGVnbGp1Z3ByN2FkWFFpNHNiaDhKYVZTeUg1V0lVbDBF?oc=5",
+   "source": "Ouest-France",
+   "ts": 1793818323,
+   "theme": "alt"
+  },
   {
    "title": "PLF 2027 : l’État de plus en plus dépendant de l’IS",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU05CRFcxTWpsUDZsa1M0dmM2NXdMNHNhaDAyT1RxZm9wVEVhWDVVNnFKRWdESy1YMk5XMUh4WHAwdTg1cDMtc0xlR2wtNEE1YUxpY2wyUGpQZElRWU1PMWU2T2E1dVJrd181MF9wR0ZUMG1MYUl2NGFQcDVQOW42MUtWRjlOQXo3ZHVZMm5n?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPXzM4clhYSER3Uzd1UDZsNE0xS0dzLWdPclQ5UmIzeGp5bUVydGtiaFZYMVdER1RjbGg2MXlodS1pOTh2QzRJZ0lkRUdMS1U4bTJFaUExT2VDQkFIcW5yWWNReVR5SWc5R1RCemVGMFFyYV9fQWJPS04zZkN4Ynl5OF8xREZUQjhHVFhOU0JNQWxrZVliNlh3TVhWSEliY3dNMHJraEUwTTR0eU1RZ1VTQmxLZEwyYlhGS3BLTGdXRnZBSlpfSXd6d0Q4d0JmMER0OTRIcmpzMmpqM3hWWmRwSEtvOWZaajZocTBEREoybHZsMF9yY3ZCNGJWYw?oc=5",
    "source": "La Relève et La Peste",
    "ts": 1793288514,
-   "theme": "fisc"
-  },
-  {
-   "title": "URSSAF et LMNP : quand la déclaration est-elle obligatoire en 2026 ?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWndPLW82b2VITnN0MVFIN01xZnlnMmlpQXpiWlVrbnZfbGRPZEJiTEEwU29GZkFhMjY5R0o5aF9LSDBhSEpxMHpVTHE3YmI1eV9DR2JCb2c0RjNMeXdlUVRTZEVtZUlkM3oxNVZMYTJMa2o3cjlwajFoYkNkV19HQk1ZRWs0YkhzRVVBMWlfa29rdDN4T0ppZ3NZS3VKRXhva05UeWtmNDAyOTBXdEN0bA?oc=5",
-   "source": "Gererseul",
-   "ts": 1793285239,
-   "theme": "soc"
-  },
-  {
-   "title": "Aider les entreprises à améliorer leur efficacité opérationnelle dès la phase initiale.",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXFCU1lzeEs0Q0lSMlZTbTJNWVRZX2FEVEtuZ3dNUVNLNVNfMzB6WFU2TkUweld6LVFESC1jb09ZZm16M1VWVV9sbHFZZXc2cklxWmYyT1REQzczdmN5NEhZcTc1bEo1NlFETEdrYlNKMGM4QmVGTjFOdWxmS1YzWjg2Z2VqZ1FUVGRWQzBfT3UxbzlkbEg2MGJULUR4S0VxYVE?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793283678,
    "theme": "fisc"
   }
  ]
