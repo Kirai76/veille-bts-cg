@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T01:16:21+00:00",
- "last_success": "2026-11-04T01:16:21+00:00",
+ "updated": "2026-11-04T02:12:28+00:00",
+ "last_success": "2026-11-04T02:12:28+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,12 +15,12 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 37
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 60
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "query": "apprentissage alternance réforme",
@@ -436,16 +436,16 @@
    "theme": "compta"
   },
   {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
+   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
+   "source": "Presse Agence",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -650,6 +650,13 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEo4MUVXd2xMbDNqMmhFQWZBZm5OSkhyRVROcmkyeFlNdGVUdlgtcHF3NUpfUnFMUVBLbmhGS3pmWThJYW9pNnowSHBtNGtBY1B0dUMxZjc3c2hXTDFrV2EycDg1OURZN190ckFBV2NFbHQ0U0F2R0tXTy1lMzQtQlZtaFNuUmtaMTVwQXpEVnFxWXM?oc=5",
    "source": "Vietnam.vn",
    "ts": 1793376772,
+   "theme": "fisc"
+  },
+  {
+   "title": "Budget 2027 : plusieurs taxes sur les grandes entreprises adoptées par les députés",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0tqUDdlM2JIb1JIWHNDY0tBNmhWRFkwRHcyZ0hfcGxBaEM0c0hzeUVPeGJ3eC1BdkkyY1Vlb2VNSEx4ZjhoMUI3b1d3c2t2NlVZTWMxaVRjcmJKV0xDRVdnRnRwWXFRWFJSYi1CNXpwV1F2SmRyc3c2NVRqVXVMMVRGU3BwbW9JTDlkMmU3VVZZUHIyZzF1S0t1Y3NUUFZVQ0luTGFUZnhoSnBkZ3o2RHhmelJnSVE2dnZ6aHQtNWNEcTBn?oc=5",
+   "source": "TF1 Info",
+   "ts": 1793374179,
    "theme": "fisc"
   },
   {
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWFrakUtSHlOc3RHR0R6cW9NYzFqSU9vY2N4ZlJNNnpadlZIbDlHN2RhbG5TQ0tyWmlDQ2lIYVZrd2MxU3FqTTJtRlRtMDZvY1RScjlWNjZnclpWSGZYdHc1dzhkX05mc21FNzZlbXp0dTBHQ1FSd1VmNDlaTE5ta3hOQkI4Z1E0LXotZnRhV09CRjE0N2w1alBQUHYwWUtMcXNsTWRpQ1hXS1JMaTdyOUJ5WF9FeElsMHJILTdiaDdxcllwQmtiVjllaw?oc=5",
    "source": "BFM",
    "ts": 1793188485,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique obligatoire 2026-2027 : pour qui, à quelle date et que faire en cas de rejet ou de sanction",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnBGYk8tVUE1LXJ0anNYSV9oQzBwQ1M1ZWI5SWFZbjhCc2xjaXM4eTlLU1VPX09qU05ISFdjVDd6RmFNaENHUWNOVG92Snd1LXJNMTRiY0x1MkZZaEd3alFTemtxekQ2M1V3ZWwwYXlkTE16eExteDFQZ3VzY29FUndFOWtZbm1Ba2VkMTA1NGhlVVRfOE9Ha1ZFZzlLeGU1eFVacWQ0MXlZbDV5VTV0a1ZvN0w?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1793185860,
    "theme": "fact"
   }
  ]
