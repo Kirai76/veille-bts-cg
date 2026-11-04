@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T05:08:15+00:00",
- "last_success": "2026-11-04T05:08:15+00:00",
+ "updated": "2026-11-04T06:09:03+00:00",
+ "last_success": "2026-11-04T06:09:03+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 73
+   "count": 72
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,12 +15,12 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 38
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 27
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 24
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 27
   }
  ],
  "items": [
@@ -450,16 +450,16 @@
    "theme": "compta"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
+   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
+   "source": "Presse Agence",
    "ts": 1793602800,
    "theme": "fisc"
   },
   {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -758,18 +758,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
-   "source": "Editions Tissot",
-   "ts": 1793343600,
-   "theme": "soc"
-  },
-  {
    "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
    "source": "Mes Allocs",
    "ts": 1793343600,
    "theme": "alt"
+  },
+  {
+   "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
+   "source": "Editions Tissot",
+   "ts": 1793343600,
+   "theme": "soc"
   },
   {
    "title": "Facturation électronique : changer de plateforme, c'est possible, mais pas toujours simple",
