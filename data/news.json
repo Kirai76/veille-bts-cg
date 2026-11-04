@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T23:47:58+00:00",
- "last_success": "2026-11-03T23:47:58+00:00",
+ "updated": "2026-11-04T01:16:21+00:00",
+ "last_success": "2026-11-04T01:16:21+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,17 +10,17 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 72
+   "count": 32
   },
   {
    "query": "impôt sur les sociétés",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 26
+   "count": 22
   }
  ],
  "items": [
