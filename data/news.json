@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-04T09:06:07+00:00",
- "last_success": "2026-11-04T09:06:07+00:00",
+ "updated": "2026-11-04T11:26:55+00:00",
+ "last_success": "2026-11-04T11:26:55+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 39
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 73
+   "count": 32
   },
   {
    "query": "impôt sur les sociétés",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 60
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,31 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 28
+   "count": 29
   }
  ],
  "items": [
+  {
+   "title": "“On casse les codes de l’expertise comptable”",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ESjY3OExkRE9yUEZuVWNFT1FCUVgzYUg1Wi1xbm9XcGFfRnpjT3FqZ09Ea2ozMXVsaEhOZ20yQnI1dENYNmRoaTdYMGEzXzcwTjNNN1pCZG5vOFFnZkVWczdPTkk4UGtkNFR5NmFEOUttd1U2b0E?oc=5",
+   "source": "Mag2Lyon",
+   "ts": 1793789544,
+   "theme": "compta"
+  },
+  {
+   "title": "Facturation électronique : l'Assemblée vote un moratoire pour les PME en l'absence de portail public",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1lCOWwwSFpISy1HS0IxdEltbDF0ckhSM0t4cGVEOGp6VmQ2clBDWkVqOUZES3hPS21vc0dqU25JSEx4d3RqeTJrZ0lpUWR3c2I4ZEV0N2E3RDhyTVRCZzJWRnIwM18zNjNZY0lUNmNiVGN6dWNBcGwyR3hOcVZzVFd1Q05sZk0wSjBWU3MtYnIxUWhEeXhWNXVHeC1kbTF2c25kaGp6d3E0UjRsVFhvUGVXVnd2Q1JXcTdIOVVUbm1zV1F3VWFYNmVveHQ?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1793788478,
+   "theme": "fact"
+  },
+  {
+   "title": "PLF 2027 : les mesures fiscales en discussion pour les entrepreneurs",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjNiRmFvRlB5VXBHTWFVZXFINF9KYldXZWNVVUZzcHdXZkdBUEk4RWQ2TklnQ3ZIQi1lVlh1WWRCQTdLbF84eTU5cjR6Ti1vb0EtalpKVHprU1M1Snhnd241NFJYMzVqVm5GNmR3bU5SN0VvNEJKbG1WZXFlQzRmdlpwY1h2TTA2T3VSbHVxTzNaVncza2k0S0c1WExPRFdFQTd5QjNFRnpEa2J2VUhDb1lXNTVmWXZjTDMyRlE3eWFEOWNmQTJWTzNHajZadw?oc=5",
+   "source": "BFM",
+   "ts": 1793785336,
+   "theme": "fisc"
+  },
   {
    "title": "ENOES : 90 ans d’expertise au service des métiers du chiffre",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWhidDdfc0doRVdETFFPMWRNWmI1d0NmRmVxOHFlME02ZGctbEREOUJZN0VQRHM1U1Q4N2daZ2E4WkdscDZqb3A3UjBkbXlhcm1KclJfQ0tzNlVlbFhycVpWMXNQeFp0YVc0bXlZaXVvNVNSQUxCSENCcEhjcXpVRXVCbjFucjM4OFFoTnJhZzQyeXdXUTRQZTNMbmV5Unk3SXc?oc=5",
@@ -84,6 +105,13 @@
    "source": "Le Figaro",
    "ts": 1793779200,
    "theme": "compta"
+  },
+  {
+   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDRfREx1VkxUcHhmMkttcnFoYnJ0MWhVZlJMQXZkZFVSelR0bkxGd0pSLWstcV9nWU1LTXk0LWtNcTJtdWhoYnpidFRiT1dwUHVRRmZ3ZVpIWmkwblFjMWRPZG01NTdhbXo1ZUhVUWhKZEZZcFhHVHNITVBkUGdlTWpEeVJOaVdsQl9tVDcyVmZhZnNQWHRNdGF5UE9ZRV9lWjMxREZiZGU0UnBNN1JKbDk5Ymh0RWNHcE9EMjUzRXVybm9OcEl0bkJtWXNYcktqbGQwenoydDVORGo1T2cyTU41MF8?oc=5",
+   "source": "Burkina24.com",
+   "ts": 1793778055,
+   "theme": "fact"
   },
   {
    "title": "Le salariat recule, le nombre d’auto-entrepreneurs explose",
@@ -139,7 +167,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
    "source": "Presse Agence",
    "ts": 1793736000,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Ministère des Finances : 1,8 million de factures reçues via la plateforme de facturation électronique, dont près de 37 000 réglées",
@@ -182,6 +210,13 @@
    "source": "L'Économiste Maghrébin",
    "ts": 1793725292,
    "theme": "fact"
+  },
+  {
+   "title": "Optimisation fiscale : ce que la chasse aux riches fait oublier",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnNWLWljaEhpaFFiSktGTkRlQjRGLXV5MGd4NHBzU2wyeGphZG5CRjJIT3NGUUtKWjVFcTRvNXJ4MTZYMmJJcG83NFRzRFdNakxGZmdkZnZmNG16dXlBMVN6MER2WDg2b2NFWFowX0JNc1VBTjFmVzRsT0VTZlVra0xVV2x5Z2hCWlBGWS1jbnBoTW5TT3EzRnMtZmI2RnlKNXhsLTN3UHFhYWo3Zl9BYURwVHpxQlRxSkFuSy13?oc=5",
+   "source": "Le Point",
+   "ts": 1793725200,
+   "theme": "fisc"
   },
   {
    "title": "Réforme de la consigne: arrêter maintenant avant de frapper un mur",
@@ -461,13 +496,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTBBb0dLa1NYclc3b3dqQldRbHFHT3hkT0F3anBxRVZCdmJXeEV0U18tSnNfaEZ3UjZuVjZPQ01TLW1kQ1pSb1VSbWlSdldpWTlyTUN6bUV5LV9GUjIzZ1VzbVd0a0pfVW5EZ01nZGVqNVlLX2treWRzR0s2OXV6d3BuSTBOTFlkZFVsMWNmRGpMTmdCMGxqOXhB?oc=5",
    "source": "Compta Online",
    "ts": 1793615451,
-   "theme": "compta"
-  },
-  {
-   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVjRZS3psWFNuUnRJNDBUd3FxUFJQcWFkY0ZudVZtQVlvdkcyRmtfVDJUcXNrNTR4bnVTWXRPb0t6RnVrZjYweENFSEFCNVlzUFFRaVpSNTFtWVdYYUdqZVVwaFRVcnQ1TzhzMTFXNWRIdlA0SkZRTTFqUTRoQkpjTGlnMzNIYWMwSVkwUEJNUjJBR2ZxQlpCdzFuVzNBNjNHTzFJZ3RxMDFtMEI5dC1jbGtYcDZLc2dvMEJLXzB2aE1TOXY1a3VJS09YenM5M3c1bndaa1ZNVTEtRUZUX3dWTVdn?oc=5",
-   "source": "Burkina24.com",
-   "ts": 1793612154,
    "theme": "fact"
   },
   {
@@ -601,7 +629,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "compta"
+   "theme": "fact"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -1085,34 +1113,6 @@
    "source": "- Rezo Nòdwès",
    "ts": 1793220031,
    "theme": "alt"
-  },
-  {
-   "title": "Incendie au lycée Nelson-Mandela à Nantes : réouverture partielle le 16 novembre, internat fermé toute l’année",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQdFZtTjlFamlPUk1CbTE0T0lGWFlJaEJlTmRBdF9XZTdaM2NweUphZnd6STdPOFhMUW51czdwN2lXdzZ6RU14VHFuX3BEOEpuUjNOZ3dsRHBpUFo4QUJ5ZXFER2I4YXZsVFRSYVFueURYNzZYX3FNb3JHY2FSVkdzQktOSEZoeUhGY2ZqZy1yOG8zV2JiWVpoYlpIUTYzd1hFNzR0aEpYOFhtSXdLOVZJNUVCb1JqODBHYjh5dks0b0NKSGo5bk92VUxQOUJPRTFINmd6OUxrbzR2SUFucm1aczBnUldpeUUwYnZNLXd5TkdGVGVoTnlEbEtnNXZfVXV5M1hBTnUyaWtpcDhkcmptbmFremM5a2NjTzBGWUVTVGQ3X09uS3BDLXpqQlk1QQ?oc=5",
-   "source": "Ouest-France",
-   "ts": 1793211601,
-   "theme": "alt"
-  },
-  {
-   "title": "Jean-Pierre Farandou défend les arbitrages du PLF 2027 pour la formation et évoque des sujets \"compliqués\" avec les Opco",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUpNSFA0dUI3bVgwVU1udkFxM1dDT0ZNbjdCeUU1OWdzX3d5U1FZYlJ1RkRoVV96dVkxTnJUQm0xVmdOMDJ3Yy1PTzJBdHg2TTMyU2JnUzFFUHNYQ1RyN1FsZWNEWkpoRXNxRTlaMlBlNTNLNkplM2JZV2hPN2pNTGZzeXFEOXdqQnM1R0tSQUEycWFyN21leVRia0VPNkJqcUdGQ3E4NkllbEVYWTlZVmNQdUVZdm1sUC1UTFJTR0o4NGdXTUdXNW53Zl8zZDRlT3RHNEFmc2RnUk1sQldlcG9vRHFETnQtYWVpNg?oc=5",
-   "source": "AEF info",
-   "ts": 1793210100,
-   "theme": "alt"
-  },
-  {
-   "title": "Le palmarès des meilleurs cabinets d’expertise comptable 2027",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXAyd0tfY2VVekZqNFpVYlY3NEdnZTU0Z1o4eEloeC1lWVVzYzJFWXRTX3JiZXYxRExPOWVjTU1zVVhCZTk2TDBDWjBBSXpvY01KTnZ4NHRiQmtkenVyTTZxWmUwN3FNMHVrTGl3TFlxYXVNOWpWSWM5anMxanZCVmctVTdON0k0NTBjYVExQnNjWDdEM21ScDhKb2R6RFJtSGViVmhVNmpNaEQtRkZPaDVBNmlfWFpaemoxYw?oc=5",
-   "source": "Le Point",
-   "ts": 1793208600,
-   "theme": "compta"
-  },
-  {
-   "title": "Pourquoi les cabinets d’experts-comptables doivent s’adapter",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY3NRZXlmenBHTnljV1dLUVdhOTk0QjRudTVSbFZ3akY1SjBMMG5jOGVhMWszN2c4c2lySzg5ZjNpVURnOHZUdlA2LXEzVGZLdFc4Rmc1aTZBbklWcEZiYUZqOUs2QldOWllXQ01hX213WDE4cEtDYzZZUVVVVy1ac0g4b2ZBTThTQjRnS0dOSC1UNTVTMnh3UTMtM3lWYmdqLVdsVnJOQmtCeFZnRXJvdlBjUWpxOGIzVE1jU0NyMS1vYXRBdFJaTTBHTmZGbTBiNEVvelRqanhhQzZfZl94NQ?oc=5",
-   "source": "Le Point",
-   "ts": 1793208600,
-   "theme": "compta"
   }
  ]
 }
