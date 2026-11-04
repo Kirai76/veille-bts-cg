@@ -1,36 +1,36 @@
 {
- "updated": "2026-11-04T07:28:02+00:00",
- "last_success": "2026-11-04T07:28:02+00:00",
+ "updated": "2026-11-04T09:06:07+00:00",
+ "last_success": "2026-11-04T09:06:07+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 37
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 72
+   "count": 73
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "query": "DSN employeurs paie",
@@ -40,17 +40,17 @@
   {
    "query": "plan comptable général ANC",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 60
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,31 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 27
+   "count": 28
   }
  ],
  "items": [
+  {
+   "title": "ENOES : 90 ans d’expertise au service des métiers du chiffre",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWhidDdfc0doRVdETFFPMWRNWmI1d0NmRmVxOHFlME02ZGctbEREOUJZN0VQRHM1U1Q4N2daZ2E4WkdscDZqb3A3UjBkbXlhcm1KclJfQ0tzNlVlbFhycVpWMXNQeFp0YVc0bXlZaXVvNVNSQUxCSENCcEhjcXpVRXVCbjFucjM4OFFoTnJhZzQyeXdXUTRQZTNMbmV5Unk3SXc?oc=5",
+   "source": "Le Figaro",
+   "ts": 1793781908,
+   "theme": "alt"
+  },
+  {
+   "title": "Facturation électronique : un premier bilan encourageant",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0NJYlBWNTV5dk1sNmo3cU11SGw0eG5Xa0Q4REVrVmRGbTJWOVpVYW1YMG91XzZvZm1WNXdxR1VzOFdJUWRZcFF4NWdZX2NRNWNLNFQ1ZFRZX3hxWHlaSEJmeWo5d2wwSTcxMkFhN1J1WDJXSE02Mms2N010bjZqd2ttbmIySTFYZlRFZnF5NlRCMGlWR1lxLQ?oc=5",
+   "source": "La Gazette France",
+   "ts": 1793779763,
+   "theme": "fact"
+  },
+  {
+   "title": "NYMANIA EXPERTISE : un cabinet d’expertise comptable parisien implanté auprès de la communauté asiatique d’Île-de-France",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbjE3eXhvX1pPLWxua2lnd0U5cmpfeHRGa3J2UThrUzBfSzdVeDdpUk01dWJQb1VWZ0lWdlVMVDVzY1c3TEZoMm5sQzI0a2w5bWNDZE5heWoxVTVLY20yNk9MOEhtNkhGbGRnSkdMM3dYazhrOGdlYWRwbGw0UmFBWmtSNU1IVk41d1FvaThJWmZFNzA1MkRmcFMzV054TkJQeTRucHZ5LVBFcllMV0xXZnFuLUx3c1FGTGl0NmRGaE1GLTRkaEZpdlhKMmN6TzdkU3NpeEd3YTB6b3lfUU1HLUM5Ml9VTjk4elh2TzV1czN6dw?oc=5",
+   "source": "Le Figaro",
+   "ts": 1793779200,
+   "theme": "compta"
+  },
   {
    "title": "Le salariat recule, le nombre d’auto-entrepreneurs explose",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODdHTDd0R3duZlZjNWFFSVpZckJsWm40OE9RRHVNU0dpRjZrVkxtNUFacnY5R3YxQXdMME1BcWNiVV9sb3V4TUNMU05GSmNHMFhoMktfMm0yUi1zRFlDVVZMaHlycUdMdTV5cFhqZnBXWlhPY3pOUHF6VTNOU291TXdpa1drcWhDM2kzOTZZLVZSQm1W?oc=5",
@@ -76,6 +97,27 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQjRVUGc2UzhkVXJnaXFpMVdfYi1zZEgyVmNiai0wU3cwMEo1WVBYVEFmdWNHcVcyeE00SjRnZTJ5MnlSZWFKMHZkLUdUTjdLelEzMjRIQkRWUEczeURrdklNRnJ0V1ItakxZVTEwNzUxQzdOWWM0Smk1VWEtRXdNc094TTVtWk50Z2Z4WHFZMkpsNjBHNmRGMXNveGlUQnlpbXE0emtzNHNnbFUxbzJfWC1oX0x6cDR0UkZ5bm9IMzFHS0JkUmNLd0hVUEpMSmN5WTQ1bEY0QTNFUXBkUXNmTEpCWXJyWXF4STNpSF9BMWU3Y1BBTmRlQg?oc=5",
    "source": "TheSiteOueb",
    "ts": 1793773704,
+   "theme": "fact"
+  },
+  {
+   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
+   "source": "https://horticulture-abadie-pyrenees.com/",
+   "ts": 1793772796,
+   "theme": "alt"
+  },
+  {
+   "title": "Mécanisme du report en arrière du déficit",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjR4SDJoeUNBWFNwZ2wxcHhyVERhVk1WY3pkSEVwN1ZHRVdiLUhodW1GaUZRc1Bxb1VBWklNZ3JpYk9adWViR1VfRnhPZE1qS3VVZzhULTR1NTA5ZHppbFJUeHJmeXVibkk5eFBJeTVFa2NzNEZzOHh5ajJHTUpuT3pWQ1JaVDdYRDJNcjRkQngwS0NDM0hR?oc=5",
+   "source": "Revue Fiduciaire",
+   "ts": 1793768400,
+   "theme": "fisc"
+  },
+  {
+   "title": "[VIDEO] Facturation électronique : quels premiers enseignements pour les experts-comptables ?",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS2l1VTEtSlFmOFBoNTVYN3lVZUtnSWYzUmlxWm9qNk9Cc2xnUkpDMzFQeERtckwzRWxldkczbUMwU0Rtenp4ZGh6SFNNaDFwTS1NMW1GQ2RhWlVnQTlENnoyZFpCNVY3dHpkVDgzLWxNV2NlQ0l3Q0JscTRmWlprSVhvUzRXdlJlUzZMekx5OGlCVXJZNlhSbVNHRHhCcXRINWxzaVJlUjBjOGlMbFUtdE1WWmFzdWNqYXBGUm9pc1FHRU1BVmZObGlOR0tyWWwxaDdhTU9R?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1793764720,
    "theme": "fact"
   },
   {
@@ -97,7 +139,7 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
    "source": "Presse Agence",
    "ts": 1793736000,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Ministère des Finances : 1,8 million de factures reçues via la plateforme de facturation électronique, dont près de 37 000 réglées",
@@ -245,13 +287,6 @@
    "source": "Contribuables Associés",
    "ts": 1793700719,
    "theme": "fisc"
-  },
-  {
-   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
-   "source": "https://horticulture-abadie-pyrenees.com/",
-   "ts": 1793697338,
-   "theme": "alt"
   },
   {
    "title": "La réduction d'impôt Madelin pour les souscriptions au capital de jeunes entreprises innovantes est prolongée jusqu'en 2028",
@@ -426,7 +461,7 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTBBb0dLa1NYclc3b3dqQldRbHFHT3hkT0F3anBxRVZCdmJXeEV0U18tSnNfaEZ3UjZuVjZPQ01TLW1kQ1pSb1VSbWlSdldpWTlyTUN6bUV5LV9GUjIzZ1VzbVd0a0pfVW5EZ01nZGVqNVlLX2treWRzR0s2OXV6d3BuSTBOTFlkZFVsMWNmRGpMTmdCMGxqOXhB?oc=5",
    "source": "Compta Online",
    "ts": 1793615451,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
@@ -566,7 +601,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -751,6 +786,13 @@
    "theme": "compta"
   },
   {
+   "title": "Budget 2027 : les députés adoptent en commission une hausse de 20 % du salaire des enseignants",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYUFDc0swWHc1VC1FNEVJNVZRYUxuQlhvVGpybUk5alo5aHcycDVSTk9kLVFsN2k1NDFIOGdHMzZ5eXlpU3NFX0VVa2VlaV8yUmwxMW5GLXNLd0F5TTk4eDZja002VkNKel9OWERlOGgyQlJac29HUlRpXzc3Vkt0UUpMdy1ZV24xWTRCc2cwZW8yQ3pCWUxzcnQyS0ZISFNkVUxadDdaa0V0QmdvZFlELWttOW91dXJKYlVUazBiSlp5UUQxNG04ZmRLOElnMExUMmtyaGJFaXdVN2V2RHE1Qg?oc=5",
+   "source": "Sud Ouest",
+   "ts": 1793349796,
+   "theme": "fisc"
+  },
+  {
    "title": "La proposition suggère une exonération fiscale de 3 ans, à compter du moment où l'entreprise devient rentable.",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazFwQzd6Zi1kRW5RZUJjcUxLX2w3dDRJNlNsa0ZKQXI1cTRsT1NoSGVhY1YtV1U4TUhHTklJelZFdkluQ3JqVzIybGdfYzdlbkE3R2l4N0FMay1zTW5nTWlGdzE5NmdTd1F6dzBnWWVISE5YUmVUUUpJbmcxd1VkemxLVGNBcXR1?oc=5",
    "source": "Vietnam.vn",
@@ -814,6 +856,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Aides publiques 2027 : malgré la dette, l’État maintient son soutien aux entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqRjlYcktFR1lnU3RVazZpX0JodTA5eVo1TFkxcXhmS2pPRFNxM2F3bF83UndvMm1BcV80NUwydE1zYnhiR1I3dGFiTDNqQXEwSmRjTzA5cURQZTU1Q2tF?oc=5",
+   "source": "Tarbes Infos",
+   "ts": 1793305350,
+   "theme": "fisc"
+  },
+  {
    "title": "In Extenso Amiens inaugure sa nouvelle agence d'expertise-comptable à Dury",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTB4ZU1hdzI3NkJGMFZCUUNqZWdFQ0szOEJTTVQzTHRSSDVPeXhlbjVPanJKanIxSGZHdXBxM2hndlU3YWExMXktbDFXUHhERkJBZ2FjS3FXdnZoU1IwaUdYZUtCeU1NMG8zQ0FERlhjX1lxeldkMnVKVWhweEwtM1h1alR0X2V2Wkp1aE80bC1EQjVraWlFUzFfVUhoS1U4OUNTekZEb2NpSFZqVmxIMlBYZw?oc=5",
    "source": "La Gazette France",
@@ -860,7 +909,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "DSN 2027 : une mention supplémentaire à préciser",
@@ -1064,55 +1113,6 @@
    "source": "Le Point",
    "ts": 1793208600,
    "theme": "compta"
-  },
-  {
-   "title": "« Le système fiscal le moins compétitif de l'OCDE » : la France 38e sur 38 pays, ce qui nous plombe selon les experts",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeW1RZEdCX04tT3FpOThRdzF5R0hTVm1HOGg3VVpXUlkxb3BoaUZRYndUazVtUlYwUlhfQU12QjFaekRLSEhpV1JlTl9HeVlpb1BjMnhMU3o5d1pPc3pENllnYXNFWlU5WGhmMkY1aVc0TDhieTJZNDhQRFBCVnZlVWxqX1Mybk92eG1wdlRfQ0F2VjdHN3lzVG11TzJsU1VPX0Nsa2JrSVp0NHhoQ3RJag?oc=5",
-   "source": "JeChange",
-   "ts": 1793206800,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique 2026 : en retard sur la conformité ? Votre expert-comptable peut encore vous aider",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmVQTkJHTjM1YmJCNDFSWjY0VjNvQ2E5elg5amJxYThiX1VSQllCXzZmMmdUdVl5aGRPLUZwRUxlOGNZNTJIY1JOOVdCUENWRmhhMTN6czhiOWJFY1pMTjJqMHdLS2M0UDVNaDlzdHlEdzZsQk1Jdk9XNkRabWlBekFrdXpabjQ5N09UQkJfUk1kUVd5aU9GSi04ODNvZ1gtM29oTTRrcEhCTXJSOWUzaDZOOXpJMHhpbEc5bFRnMkhQS19VM2VCVmhsMGpXajNJQXc?oc=5",
-   "source": "Siècle Digital",
-   "ts": 1793204837,
-   "theme": "fisc"
-  },
-  {
-   "title": "Un géant français de l'expertise comptable rachète un cabinet lyonnais",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0h3OGIzUktZUEZOMGZtaHdWZFhIenhqaGstdGxodnd0bE8zcDU2Yzk4LWZ1UGJKYXljSjZYYkRab0lFUVZwYzRMTHFZUURFNmxzc0FkM01WcVN6VkM1clR2STRKWFB3bkxlNFg3OWxMZzdseWFhSDVSN0JrYklTQm5TMUZBeWV6UnBxcDdWWXVvM3hlRi1BUTJicWJaUTBQbUlKZzREMWQ1eTluR0E?oc=5",
-   "source": "Lyon Mag",
-   "ts": 1793203320,
-   "theme": "compta"
-  },
-  {
-   "title": "Impôts 2026 : comment déclarer les frais de garde d’enfants",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmhHR0hDNWxZSk9meHFLeDVsWHFRdE54elJoSjFhc2dLQlJGc3VsZDd0OFdDeklGS3F3aWtnME5TZXYzRE0yMjFfakl3enl0Y0FibW41dFc5YlZrMFhlVTFkVy15V2dodmlaZE5iaU4wMlprTlR4bHZ3elBJU2tRbmZVdTVCT3VMa1U5cnJuYjJqREVBa2Mtejh5dTd1eTg?oc=5",
-   "source": "Tout Sur Mes Finances",
-   "ts": 1793201212,
-   "theme": "soc"
-  },
-  {
-   "title": "Quelles sont les aides aux transports en 2025 ? Liste, demande, conditions, montant",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWxSZ25RZHJfM3NVVWhiakI0dWJ6ZGlGeVBkMGZ0UXQxMW5hUmxaQU5oUDNKOGNVV0JmakFsdXIxOF9mc2Fnc3J6R1dZMGdKZmVfaGVqZWFzV0N3dmlVYlFnWkdZZy1ZbGNCYXNkUUVJRTBZcVNsSjNxd1pjUnBaZVJxWUNjYnRPLUlSTVVudGxKMUlSOHVwVjI5MzlWQi1pMkx5M3R4dWYtRXREMWNZbERDUnU?oc=5",
-   "source": "Tout Sur Mes Finances",
-   "ts": 1793201165,
-   "theme": "alt"
-  },
-  {
-   "title": "L’Arizona envisage de taxer davantage les sociétés unipersonnelles? \"Une mesure absurde\"",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUdkT1MwazV2SVduVHVZZERMdmdJUXRDZVludms2bmhyR2N1MjB6Y2I2YU9BNFg4RElwa281SjZCSzZPeWY0dEF0T2V2QXZoX0NrbXZWbVdMTnpjN0x4Z3RSMjFxX2FrWXN6OXZmNnlVQ0wxSTlnNjZxTW1sR0szaERETEFLZzJjSmxveUhCX1o0cHFaN211VHduZ3Fka19lQ1ItQlk1ZXpwUEJLU3J5X0ZoSzJxU295dUh3aWtwSW9na3A1RjViWmJ3?oc=5",
-   "source": "Trends-Tendances",
-   "ts": 1793199965,
-   "theme": "fisc"
-  },
-  {
-   "title": "De l'entreprise à la caisse : sur 100 € gagnés, l'État encaisse 55 € en cotisations, impôts, flat tax et TVA",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFZ5TU5TR2xnbWZDRXFkdFE2Q1FDbXZOSjhHeHU4dlpJYy1oVEVXVXYwdlExb1dJWTZfT2RvNldFcUZWOVd2dmxRUVVLWWpwNFRxOXdERVRBOTVoYmd6ZG1xaTNuOU9WQl9lTXZQdXFqeUFzcnl5Z2duLWg0bi1XeTBKQ0w2SVZpdTdUOFBJLXBtUUdCM0VvVTJMUXBDQXV2RVlERVA0SHdReWFVZ21TbFJuV1R1OXg5bXk0?oc=5",
-   "source": "JeChange",
-   "ts": 1793197800,
-   "theme": "fisc"
   }
  ]
 }
