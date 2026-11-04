@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-04T13:16:36+00:00",
- "last_success": "2026-11-04T13:16:36+00:00",
+ "updated": "2026-11-04T14:28:30+00:00",
+ "last_success": "2026-11-04T14:28:30+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,17 +20,17 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 73
+   "count": 74
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 100
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "query": "DSN employeurs paie",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 24
+   "count": 28
   }
  ],
  "items": [
+  {
+   "title": "Abdelkader Boukhriss: “L’export doit être considéré comme une priorité de politique économique à part entière”",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQem93YjFhLU15SDNRaXp3VkhmRzRJMFVKQWh0eHhIVXhLdUQyaDIyc1VCMndzeG9PSHJCNnA0Qm9GdFFMQlgxLVVCTm5YUFJBR0ZZOUxNRWFQRXREMV85bU1Pam1CUnpKRzZlM2xiLTlCLXRkN1JZWkhkX2VlMlMtRXZzZzRYMi1va21NUDVoTjNqZi0wWTBOWUl5Z25KUWNpWTJGUzZqc05sWS1sY3lFZWs4Nmp0MTVBd3FSYzk2OG9Mb1lLS0xwMW5wU0pXLXlqV3hIRg?oc=5",
+   "source": "LesEco.ma",
+   "ts": 1793801725,
+   "theme": "fisc"
+  },
+  {
+   "title": "Histoire de la facture : de l'argile à la facture électronique",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFV4RlpKT0xkanlBVks2NGktdGV4U1Azbl8xbzRHblE3Q3VnWm5pQ192cnZzcWRDSHJxU1ByWU15eExYMWdxUmZlb3NwQm40SEZUaXlITVNnZFIzUTZVX3NXUjlTUEszaWxRWlkwbTdaUVFaNWk4d2Y5VWdhV3pGN3FoNGtwSWduOVBldmpYd0I?oc=5",
+   "source": "Compta Online",
+   "ts": 1793799143,
+   "theme": "fact"
+  },
   {
    "title": "LMNP, gîte, résidence de services : 3 profils de loueurs face à la facture électronique",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45RlZlODJwS3liRnNHZzVfZlZkWkhYNFV5QmVYbGNydUhnUmRFZ01zaklraVFsc2dYWm1Nbmd1YnBTb3B3ZzZjNmdIY2RqblF2dWFWTndTaFZVTUs0SmhUbkNsQkNXSkZDVmdoUExIUFIzZ1BtazUtdw?oc=5",
@@ -107,6 +121,13 @@
    "theme": "alt"
   },
   {
+   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDRfREx1VkxUcHhmMkttcnFoYnJ0MWhVZlJMQXZkZFVSelR0bkxGd0pSLWstcV9nWU1LTXk0LWtNcTJtdWhoYnpidFRiT1dwUHVRRmZ3ZVpIWmkwblFjMWRPZG01NTdhbXo1ZUhVUWhKZEZZcFhHVHNITVBkUGdlTWpEeVJOaVdsQl9tVDcyVmZhZnNQWHRNdGF5UE9ZRV9lWjMxREZiZGU0UnBNN1JKbDk5Ymh0RWNHcE9EMjUzRXVybm9OcEl0bkJtWXNYcktqbGQwenoydDVORGo1T2cyTU41MF8?oc=5",
+   "source": "Burkina24.com",
+   "ts": 1793782060,
+   "theme": "fact"
+  },
+  {
    "title": "ENOES : 90 ans d’expertise au service des métiers du chiffre",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWhidDdfc0doRVdETFFPMWRNWmI1d0NmRmVxOHFlME02ZGctbEREOUJZN0VQRHM1U1Q4N2daZ2E4WkdscDZqb3A3UjBkbXlhcm1KclJfQ0tzNlVlbFhycVpWMXNQeFp0YVc0bXlZaXVvNVNSQUxCSENCcEhjcXpVRXVCbjFucjM4OFFoTnJhZzQyeXdXUTRQZTNMbmV5Unk3SXc?oc=5",
    "source": "Le Figaro",
@@ -118,7 +139,7 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0NJYlBWNTV5dk1sNmo3cU11SGw0eG5Xa0Q4REVrVmRGbTJWOVpVYW1YMG91XzZvZm1WNXdxR1VzOFdJUWRZcFF4NWdZX2NRNWNLNFQ1ZFRZX3hxWHlaSEJmeWo5d2wwSTcxMkFhN1J1WDJXSE02Mms2N010bjZqd2ttbmIySTFYZlRFZnF5NlRCMGlWR1lxLQ?oc=5",
    "source": "La Gazette France",
    "ts": 1793779763,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "NYMANIA EXPERTISE : un cabinet d’expertise comptable parisien implanté auprès de la communauté asiatique d’Île-de-France",
@@ -128,10 +149,10 @@
    "theme": "compta"
   },
   {
-   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDRfREx1VkxUcHhmMkttcnFoYnJ0MWhVZlJMQXZkZFVSelR0bkxGd0pSLWstcV9nWU1LTXk0LWtNcTJtdWhoYnpidFRiT1dwUHVRRmZ3ZVpIWmkwblFjMWRPZG01NTdhbXo1ZUhVUWhKZEZZcFhHVHNITVBkUGdlTWpEeVJOaVdsQl9tVDcyVmZhZnNQWHRNdGF5UE9ZRV9lWjMxREZiZGU0UnBNN1JKbDk5Ymh0RWNHcE9EMjUzRXVybm9OcEl0bkJtWXNYcktqbGQwenoydDVORGo1T2cyTU41MF8?oc=5",
-   "source": "Burkina24.com",
-   "ts": 1793778055,
+   "title": "Facturation électronique : deux mois après le lancement, les bugs compliquent la vie des entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObmM0eGowdjNkbG5fMjlkUXRoSEVoU0hZN2hpUVV3NGxzOGZpN20zZGJid0ZOM3M3U1ZLd3ozYmZsajBNSWd4di1aOFJEYzMxZ1g1ZUh6dk9BdEs3bFRHRW1DUHlJOGxwb0R5REpaLTUteG9qNnJpQUg5eGotUFpCMTBGbnRxSDhoaWZVSWN1NnpDdGVXSTl5eEpzRXJUVHN2N0UxTkhxQnVaeFlYVkRXWV81RGtNeTdFYkVEWWlaMHlheE1WNHQ5UkI5cDU1aXloT0E?oc=5",
+   "source": "Epoch Times",
+   "ts": 1793777243,
    "theme": "fact"
   },
   {
@@ -268,16 +289,16 @@
    "theme": "fact"
   },
   {
-   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
-   "source": "Consultor",
+   "title": "TVA sur les immeubles en stock : précisions concernant la",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
+   "source": "Fiscalonline",
    "ts": 1793714400,
    "theme": "fisc"
   },
   {
-   "title": "TVA sur les immeubles en stock : précisions concernant la",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
-   "source": "Fiscalonline",
+   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
+   "source": "Consultor",
    "ts": 1793714400,
    "theme": "fisc"
   },
@@ -535,8 +556,8 @@
   },
   {
    "title": "Un nouvel impôt lourd de conséquences pour la France",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlpfQlZPNm4yWk5DeUVhUmxlTDBObGxrNXp5WDRGSVhRckZUT0lUN3UyclpoNURQWnpZNXY2bkZfZGpKbk9CbEdTTjc0eFRzdlVVd2daSGwxelZXaktUeFRjNEEwTDlEYmVubVN6dGdJQUtqZy1pVmJUZmZWY1B6SHFIV0ZNaExCVWZiU2VNM2U?oc=5",
-   "source": "Journal de l'Economie",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FDcWMwNlZNeHY5SUNFMVN5cTB6NG96cFlhQnNOQ1FENnlUbGRHN2ZEMy1WMWJwdm1KRms1Z1FuVjN6Tm9uU2Z0SlBQdm9QV3BqM2RZcHZzRjEtSG5GZHYwSXM3bkdVZXlqNHRwckRMVTIyWW9xdlB2NHJWanlpUXhpTmdqWGRSUVBBSjZMa2ljbkU?oc=5",
+   "source": "Yahoo Actualités",
    "ts": 1793611200,
    "theme": "fisc"
   },
@@ -783,6 +804,13 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEo4MUVXd2xMbDNqMmhFQWZBZm5OSkhyRVROcmkyeFlNdGVUdlgtcHF3NUpfUnFMUVBLbmhGS3pmWThJYW9pNnowSHBtNGtBY1B0dUMxZjc3c2hXTDFrV2EycDg1OURZN190ckFBV2NFbHQ0U0F2R0tXTy1lMzQtQlZtaFNuUmtaMTVwQXpEVnFxWXM?oc=5",
    "source": "Vietnam.vn",
    "ts": 1793376772,
+   "theme": "fisc"
+  },
+  {
+   "title": "Hướng dẫn chi tiết giảm 30% số thuế TNCN, thuế TNDN phải nộp từ kinh doanh có doanh thu không quá 10 tỉ đồng",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnRQZEpPdUozMFhaNGZfdy1GVWxxUU9JR1RyaHk2RUtUbUpuMGZFc093SWtqeWluQUs5THJDSlBkMzZrY0tYYl9PbHB3YnIxSTFYSF9hcS1zUV90QlZnUk5PX0NfcnlMSlZSd1ZDTDYzZVlJUlh1aDdlVno1NnFSLTFoV1dGUmE4TTNhaHgzV2J1NDliRVNNdzNtb3NkaDN4cGpMXzcwNVJkUTE3TEFiVngta3dSVGlnX3p2cWlXbTJSZC1CdmZNQTBnWXY?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1793375584,
    "theme": "fisc"
   },
   {
@@ -1038,6 +1066,13 @@
    "theme": "fact"
   },
   {
+   "title": "La France affiche 36,1 % d’impôt sur les sociétés, le taux le plus élevé de l’OCDE",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3lVUTc2MG8zRDM0dWdoMTFPdzZnU1FsZmNuTW5MY2gzRGVwM002ektLMDBEenJTOXp1NlJha3FUeWNvbGFwOGVIWXZnWkl5aVV5SklDRVNWS1hCTkZQaWo1RmJHX1M0QThndVpxckIwZEtTOHppMlJLNjhSM0h0TXRuS0MwaUxFSEVvTFZKaU1VN1hkcmpmOHZqdEY4dw?oc=5",
+   "source": "NLTO",
+   "ts": 1793262243,
+   "theme": "fisc"
+  },
+  {
    "title": "Facturation électronique : « La réforme fonctionnera que si toutes les entreprises jouent le jeu",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjEwZ0x0bHNWQ2N6ZmtXSkExYkx5UXRUMEtRcE90Q0o0QkUtSkpoU0VDVU9aVVNZLTgyVGxQamNYZmRjQ0tHNzQ1Vm4yYWVLdWkyUnI2bGRhMzhvUDNNUHdsZzc4ZjJLQ0g5N0djTktFQTFocVB0TC1ia2VEeGRLZjNITlJLLTdsQWpCWGl1WnJ4dlpNY2RDZE5BTGhrbzNuUXlrTDVYZHVxVUhUZWJCVEtZVXhtd2kzb1JOMVJBdGhXNW1uXzljLVFJbjhrNEdlT1lnMGpn?oc=5",
    "source": "Les Echos",
@@ -1078,41 +1113,6 @@
    "source": "WIZBII",
    "ts": 1793257200,
    "theme": "alt"
-  },
-  {
-   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
-   "source": "Mes Allocs",
-   "ts": 1793257200,
-   "theme": "alt"
-  },
-  {
-   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
-   "source": "WIZBII",
-   "ts": 1793257200,
-   "theme": "alt"
-  },
-  {
-   "title": "Les salaires en alternance en 2026 : grilles et montants",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SeUU3YlRzQlhEMWhVVzdMcmVGZnFsdXEyVUFoR2QydzB6dzQ0Z015aDVWTHRROGpfZDNZWHdnRXhzYWpHU0lWRC1NWWpMcEZhTHFLZVZ5allZcXZkVUJobw?oc=5",
-   "source": "WIZBII",
-   "ts": 1793257200,
-   "theme": "alt"
-  },
-  {
-   "title": "Quelles aides financières pour les jeunes de moins de 25 ans ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVY1RHFOZnNOdzBEZ19McUdxTXB2RHdhbmhndllEY0RENkhkMjEyX0FXODhCbm9qZm5QRXlvNTI1NXB6Y2lUWGttT0ZnQVZReGlJQUtXRERIUlE2S2hUcjNsYU1GdFVJU1RONWcwV3lnM1FTaXgzaVA5UHFieDRxNExKQm82aWJC?oc=5",
-   "source": "WIZBII",
-   "ts": 1793257200,
-   "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : Bouygues Telecom se félicite d'un quasi-sans-faute",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0piTEFINTJkLUFkZ1dJMlNCejVPSTVHTDA0UW52MThfZktZbjdORWYtNXpNT1N4VnZTczZCNDRWdGRZVV9IcU1qSFNIeUhqcFhFR2VNbElJLVljYk9TZnJhWFlzaENTbnVKOFEyVWp4Vkk5Tkd0RnZYVWIzQmNzdF91UFd0eEczX1VYRnRPTXFqbEJfTEJZbktVQnpQYU1Mdm8tYlJxRG5PUzAxVk1XM1V1ZlZwcEZEQUZQaVJR?oc=5",
-   "source": "Les Echos",
-   "ts": 1793254528,
-   "theme": "fact"
   }
  ]
 }
