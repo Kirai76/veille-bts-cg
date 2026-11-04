@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T16:20:22+00:00",
- "last_success": "2026-11-04T16:20:22+00:00",
+ "updated": "2026-11-04T17:04:27+00:00",
+ "last_success": "2026-11-04T17:04:27+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 70
+   "count": 75
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "query": "TVA entreprises réforme",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : une première étape vers sa suppression votée à l’Assemblée nationale",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFczMFQwT2tDaWUxajNuNGNWamtkZy1GNVhXYW8yNE8wWGZBN050d1Q0WHFSb2xDek9QaTBxVUJVc3FXOXdNdEdOV0gwZUFDYi1oeTR0RTBtX0xqUV9tNUVxYUV2SzZpUjhTMWY0X3JZNnNzeWRNWUFuUDB6aHVMMWk3SmM4X0l3RGNnV1pnV00?oc=5",
+   "source": "Juristique",
+   "ts": 1793810628,
+   "theme": "fact"
+  },
+  {
+   "title": "Landes : « sans l’Aide sociale à l’enfance, je serais à la rue », aujourd’hui, Benjamin Tchiepi est Meilleur apprenti de France",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxON1NtNjhnZUpoMHFRM2JuMHJmaFh2eF9tUGVQY2hfTkxuZnR3QlVkdmdkYjF5TE5iS016c2FQZ2tPbXozcHRHanJwbDFPUm5USmFiT0NZYkxWSF9JaVFHdnlILTlqQ0d2dDlnaHZ2Q1djLUZtUnlVRUFta1MzcTNOc090ZWhpUnNRZ0hZdEE3WlF1WkJZVlU1ZVI2QkFWWFhvbkRXYkt4azJPVHJDQmdjemJaTVBVUXduN1dqejBmdHRVN0NkTGlHZGlJWWI2TjlBaklkTk5JRWcxY1lSVjZVTnk0ODVGdHVQY3dORmUydnFPeGxfZG9lM2xqTUd5NzRuRzVEOFRRZmk?oc=5",
+   "source": "Sud Ouest",
+   "ts": 1793809800,
+   "theme": "alt"
+  },
   {
    "title": "Facture électronique : gel de la réforme pour les TPE et les PME",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2J5Z2x1cFp0TVhsdVVKLWRiV08ySFlDLWxIUndmWXB1TnlFNGJwQnhna2FOR3RGVW16TjZPd0RPWmZfY09acGhjSHViQ3lkOXhNTkwxVEFxbklHSUtnYnA4ckhpWDdkdFdpRERDdkhCdC0tR3I3cV8wSDZyWGpxMVZpdGN1MHJWakJSQTZPajFWXzFZT1ZFVE5UcVlfZkVtZmc?oc=5",
@@ -100,6 +114,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Facturation électronique : la suspension demandée par des députés",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUUNXbk9XeVlMVFo0cmtwTEVjSl8yV3lhc1AtWmQyWm5mUmV4c3lVclMxMjhaS2x5RDFyaDVSUlEwenhVOXZSZWlmVENlYmthMDZINW1JeGJSbWJPSjlkOWxoc1RsSkpWS25CSDlRNWlkMF9JSUxBRFJmLXhGMjQ?oc=5",
+   "source": "reinformation.tv",
+   "ts": 1793799420,
+   "theme": "fact"
+  },
+  {
    "title": "Histoire de la facture : de l'argile à la facture électronique",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFV4RlpKT0xkanlBVks2NGktdGV4U1Azbl8xbzRHblE3Q3VnWm5pQ192cnZzcWRDSHJxU1ByWU15eExYMWdxUmZlb3NwQm40SEZUaXlITVNnZFIzUTZVX3NXUjlTUEszaWxRWlkwbTdaUVFaNWk4d2Y5VWdhV3pGN3FoNGtwSWduOVBldmpYd0I?oc=5",
    "source": "Compta Online",
@@ -114,6 +135,13 @@
    "theme": "fact"
   },
   {
+   "title": "Facturation électronique : les députés votent sa suspension pour les petites entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1IxWExTUmxCMU1COUZralBfZzdHMGxfVVJSVHZBbmZuQ1FTelJxdFczX1c2SkxXTFUxVGNvNW5mbFNCdlVDRkhnT2V3RmJKQVBVUW1jWmUwV0xKNERRc1lTeHk4QjBLNEZZNnVjV3c5VmpYSS1rSDRLaHg1SXRGQ3BoOEd1TWNqWkdBSVVXZ2pQX0tNQmVmNFlLU1l6dndmWU1xZzByVzJlSHN3THlhZDNSVEwzZUJFbUE?oc=5",
+   "source": "FrenchBreaches",
+   "ts": 1793791320,
+   "theme": "fact"
+  },
+  {
    "title": "“On casse les codes de l’expertise comptable”",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ESjY3OExkRE9yUEZuVWNFT1FCUVgzYUg1Wi1xbm9XcGFfRnpjT3FqZ09Ea2ozMXVsaEhOZ20yQnI1dENYNmRoaTdYMGEzXzcwTjNNN1pCZG5vOFFnZkVWczdPTkk4UGtkNFR5NmFEOUttd1U2b0E?oc=5",
    "source": "Mag2Lyon",
@@ -121,10 +149,10 @@
    "theme": "compta"
   },
   {
-   "title": "Facturation électronique : l'Assemblée vote un moratoire pour les PME en l'absence de portail public",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1lCOWwwSFpISy1HS0IxdEltbDF0ckhSM0t4cGVEOGp6VmQ2clBDWkVqOUZES3hPS21vc0dqU25JSEx4d3RqeTJrZ0lpUWR3c2I4ZEV0N2E3RDhyTVRCZzJWRnIwM18zNjNZY0lUNmNiVGN6dWNBcGwyR3hOcVZzVFd1Q05sZk0wSjBWU3MtYnIxUWhEeXhWNXVHeC1kbTF2c25kaGp6d3E0UjRsVFhvUGVXVnd2Q1JXcTdIOVVUbm1zV1F3VWFYNmVveHQ?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1793788527,
+   "title": "Facturation électronique: l'Assemblée vote un moratoire pour les PME en l'absence de portail public",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0plSDFGX1hEZG1HZDB2WHQtWWNsZUcyS2RWRHkxRVpycU9LZ0VrSDB5MUgycVdmc25pd0pRcEN4VmUyZFFPcEhuSlpkRUE2UWVTMy0wN1pyMFplVkhwakpKNXFrazZKS1Q1Q2ZZQTFVMTMzSTktZzBFejdrMW9XUzlCUnplMEU2OHVvbVNZYmFNR2sxSnFDa0UwbE5MNUFoWG44NG5R?oc=5",
+   "source": "cedarnews.net",
+   "ts": 1793788964,
    "theme": "fact"
   },
   {
@@ -223,6 +251,13 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjR4SDJoeUNBWFNwZ2wxcHhyVERhVk1WY3pkSEVwN1ZHRVdiLUhodW1GaUZRc1Bxb1VBWklNZ3JpYk9adWViR1VfRnhPZE1qS3VVZzhULTR1NTA5ZHppbFJUeHJmeXVibkk5eFBJeTVFa2NzNEZzOHh5ajJHTUpuT3pWQ1JaVDdYRDJNcjRkQngwS0NDM0hR?oc=5",
    "source": "Revue Fiduciaire",
    "ts": 1793768400,
+   "theme": "fisc"
+  },
+  {
+   "title": "Budget 2027 : devant l’impasse des débats, Sébastien Lecornu explore la voie des ordonnances",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbEd6Y0MydGYwQmVsSDR6aEZIYWNCdkFoQllwcjVZNXpiTE1wdWJsbUtkNU9fTE4xcm4yeng5a0hHMURoYTdCaHV6Tkk3eHpmQ3Z5U19VR1Vick5ubTgxUlhDbzVxT0llb2xOYXg3M2s2dFZ5VWtsNTBZSmwwcTl2dkxXY2xnNFA5ekVnbGY3Y25GY1pJc2FVNWlmcHMtTENRZnlwOTg3N2QzX0M3aHFjRl9DbFp4M1lUQ3lTZVhuVEhBekhNNlotZkwySVdHUlZELTZnZUlaRG5WLUtSVnBGZzBlWGdlVHFhNnJIUHdKdURxMkk?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1793766601,
    "theme": "fisc"
   },
   {
@@ -478,6 +513,13 @@
    "theme": "alt"
   },
   {
+   "title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYXgxR194c1RtV1k1bERIS1E1ZWZub1dTeGk0dzEwb1QxSGtvbmwwMU0xbmJES3RJeEM0NHRoQ0EyQ3ZWWF9JVVN0Wm9GVG80blVjVVpWY0lDM01IQzlBNF9wTTlib2xHOVBESHFhenNqMElFbldQa2hka3JZeG9hNVcyY3dKN3hTZFBXWEFtYVlTVXU0R1FFRWxOX1BOdTU1R2J0M21UcXVPblNuRDFfWmppaDBfVWtKbndFUmZYMEFzTnM0T0hUSjNwTWU1M1lFc3NXNG9vdXg4MFI3cUMtNGR0UmJPZHFlT19IT2VLa3J4cXBz?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1793678419,
+   "theme": "fisc"
+  },
+  {
    "title": "Agnès Bricard : \"Doubler le nombre d'experts-comptables entrant dans cette profession\"",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDZPUVpFVENUeldrbW5FUmg2Y0d6OE1Mb2VFYTRURnlHTURDRFV6alVDaFduNGxJMjVzUFkwQmRjbk45ZHhwOEhUMXdYQnJtVzh4eUN5VkVCUFRxOU1PTzVqNTQxVS1vekV5Nmp0RElzRXlsZzFKMmJNeEN3eDhUWHRuLWZKa092V0ZyZHlJMEpmM2JBMzY3TEt3UHBlV0tDU0NYS2JMeXJYdEEzeTNqTFJJWHl0S3JqQ1JTLVE5U2x0RWVLVTNTUXJ5MXhpUEhO?oc=5",
    "source": "Le nouvel Économiste",
@@ -594,6 +636,13 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOTVMLTkzZThjQTQ4ZzNyVVBTdlJjNEhJT1Q0UEozaDNkTDN0Y0NXek1yT3hqMkUwbkR0c3dubEJJWHcwUUhTUjdSeEZJUVd6Um5oamh1SC0taDNDenZ4SkNaVlBGa0R1blhQVzJza1ZZSGhFTTUwaDdrR0NxOHVNZWJVbHBqZkJaOTBr?oc=5",
    "source": "Webmarketing & co'm",
    "ts": 1793608596,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : cinq actions pour réussir sa montée en charge",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTZrNHBZOWp4YUlUcnJMYkpLNTI3XzlkVURtWkVUWDhhMl85QlRXbWJ0WUxHcThrdnEycEtTbndzSndvVWVxQzdSZnhLZ3ZXajFzRzBKM1psWjFmVmFfRTdoaVV4QTl2Q0FvZ2Q5MVRBQ04yOEMyNENHOFNFYVQyZU5NOE5ZZ2tuQUd3b1F1cUFFNDBDSnc?oc=5",
+   "source": "EY",
+   "ts": 1793606400,
    "theme": "fact"
   },
   {
@@ -1064,55 +1113,6 @@
    "source": "Réussir",
    "ts": 1793273891,
    "theme": "fisc"
-  },
-  {
-   "title": "IA et experts-comptables : les chiffres du baromètre 2026",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oN1pDZkFBU3E3dDNwZzZvb3I1b3hMemZXRnhmT3FBMFNlWVl3STY2RDcza0pDV2htVXg0LVlVOERYbFZXamFQejhraF9RZEhoUXVSdjdzV3hnYVNrVm1qWi15MA?oc=5",
-   "source": "Compta Online",
-   "ts": 1793269427,
-   "theme": "fact"
-  },
-  {
-   "title": "Il est proposé d'exempter d'impôts les entreprises nouvellement créées pendant 3 ans à compter de leur rentabilité.",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUN6MUNPa3hFR1Zmd2swUHRmUTVtWnc5d1pVa1NtOXhTdnBmMlBzOUhNbzJxc3EwTXZtT2MxdFhsMEVZRjBMNllURzFKTkFkY1h4dHRNTGdXd0VJeHVHNTdHcnlYSEJtLWRpNzBMZVZCN1BpU2dTUjE5bjdrOXBCNS02UzMxVG5ZSzNSVUdYRlZKNTNkQVNuVndjSQ?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793269396,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique: vignerons, êtes-vous prêts pour 2027 ?",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQ2UzVEtxX3NzZFJBdGJSQjd0MGpSV29pUklHNUo4NmlrQmh6Ujh6bjQ0dXlKaGh3VWVSdTQtNl9OamgzN1JqazdQUVdvQnlHbk9SLVJBSm9SYXdBbXp6SElBR2QyMW9GdVZuU0N5TTI1Y0RjRGR4a0JqRXNGc2JZaFNxLTBmbXRRb0R4NHJpc3FwUThVN3ZUYlYyUW1LbDdfU2REXzYwSnpiZzlXSmt4VFpKbHF6TG9valVoMldaV215akQ4eDdMRnBwWHFpVVNKcGFRZnRkNHpwemZnaVFTOERtbWlzU1V3djdLQmtNdWVZV3JRU1daVGtaekZjQkJyQjZ0SmRZZkx5dw?oc=5",
-   "source": "Vitisphere",
-   "ts": 1793269200,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : quelques dysfonctionnements rencontrés par les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUFuU3ZGQUlqWXNHNnprb25FX24ya2NSNXNCUzFjV1Q2OUNnQTl3OXVhdEo0UEFvQzZmc3FzQmM3NGd0REgzTUpIcS1LekpGLXgxMVgyOFpvN09BckZ4TU51STFDT0JSeTVLXzJpckVfYWVMck5rczlQdGV4WkcyTUZNU1QzZDNiWjFFcmEtQW5pRUtaOEpDSlg1SWRxRjByelhfRXpuS0xCRHdaOHFrYklFUnhIT0d1WGZtMVp5MXFGaGNHbDZxTTJB?oc=5",
-   "source": "Les Echos",
-   "ts": 1793262308,
-   "theme": "fact"
-  },
-  {
-   "title": "La France affiche 36,1 % d’impôt sur les sociétés, le taux le plus élevé de l’OCDE",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3lVUTc2MG8zRDM0dWdoMTFPdzZnU1FsZmNuTW5MY2gzRGVwM002ektLMDBEenJTOXp1NlJha3FUeWNvbGFwOGVIWXZnWkl5aVV5SklDRVNWS1hCTkZQaWo1RmJHX1M0QThndVpxckIwZEtTOHppMlJLNjhSM0h0TXRuS0MwaUxFSEVvTFZKaU1VN1hkcmpmOHZqdEY4dw?oc=5",
-   "source": "NLTO",
-   "ts": 1793262243,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : « La réforme fonctionnera que si toutes les entreprises jouent le jeu",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjEwZ0x0bHNWQ2N6ZmtXSkExYkx5UXRUMEtRcE90Q0o0QkUtSkpoU0VDVU9aVVNZLTgyVGxQamNYZmRjQ0tHNzQ1Vm4yYWVLdWkyUnI2bGRhMzhvUDNNUHdsZzc4ZjJLQ0g5N0djTktFQTFocVB0TC1ia2VEeGRLZjNITlJLLTdsQWpCWGl1WnJ4dlpNY2RDZE5BTGhrbzNuUXlrTDVYZHVxVUhUZWJCVEtZVXhtd2kzb1JOMVJBdGhXNW1uXzljLVFJbjhrNEdlT1lnMGpn?oc=5",
-   "source": "Les Echos",
-   "ts": 1793261724,
-   "theme": "fact"
-  },
-  {
-   "title": "« Moins on gagne par son travail, plus on paie sur son patrimoine » : le témoignage d'un auto-entrepreneur étranglé par l'Urssaf",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVHcwM3R4TkNBeHFlaDZLZk9QajRhYVB6NnpWeWtKc3JyV01USjlNbzdydWc2MFdyalJJOTU0dEVHZkFOSG9XRlpqN01pSHl4cE16M2Nub1ZiUTRiUnlxeDNNZ1g2UjhIVV9oZE1IeFZrcXk0QkhPMlM4UU1wdHdLakFKZ2x5R0xLdks2UDFNd2xCd3VYd2dnRndESnJXT2UwR255NHRBUkZHZjlnV2UxTFNaS1RSSFc5dFVNV0t2VVRZNXlWZllpN0lOZ1RsZ3pTbUpKanBhWHBIdWVQanpRMXJ0aDJvRGVZZFF2MG9tVEQxaG1jZGY1bQ?oc=5",
-   "source": "Contribuables Associés",
-   "ts": 1793260878,
-   "theme": "soc"
   }
  ]
 }
