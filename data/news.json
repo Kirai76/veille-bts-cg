@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T04:02:19+00:00",
- "last_success": "2026-11-04T04:02:19+00:00",
+ "updated": "2026-11-04T05:08:15+00:00",
+ "last_success": "2026-11-04T05:08:15+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 27
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -70,6 +70,13 @@
    "source": "Vietnam.vn",
    "ts": 1793762019,
    "theme": "fisc"
+  },
+  {
+   "title": "Il obtient un logement social de la RATP en sept jours grâce à une fraude : six ans plus tard, la justice le rattrape",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWXlZT3U3WVkyT2RTWXhXZHFBV2NTcHd2R2tfdklfWHF2ay1RSGlhZWhLWW01S2kxSHotUFRiRUNVcmZuN2ZOZUo0dUFjQXN4ZnFBZnVRVUJBX1p5U09BelgzaFFmMjJmeWVCVGwxU3V6WjBlMTlJRnpZZ0VfOElHaVllbXdidWhIczRRbnNHc2FHZDBjcjFiZVdDay11cTFYcm9vYWJvZElRdkVZU3hSem9sbDZHLVplSkYzTkhKNnNEd0t5R3dRLTVISVFLSUQ2aEMyZXVrOHl5bVhSS1dUNjdxN3RPSTBzaDhxWjBn?oc=5",
+   "source": "Actu.fr",
+   "ts": 1793736962,
+   "theme": "soc"
   },
   {
    "title": "Facturation électronique : une opportunité pour les TPE-PME ?",
@@ -116,7 +123,7 @@
   {
    "title": "E-facturation : 37 000 factures réglées sur près de 1,8 million reçues (Ministre des finances)",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjFLM01NZFBnZlFZbUVfaDVic2M3djVaRzByVWNMOVJOdk44S1hjZHNFUV9uUTFsWU1XUThRTVE3MzZKcS0xMEtXTFV4Uloxa0pzd1MxUEZYNnZieVBKT2t4aDNBYzlQdTFrcUdJTEpCX0hfck1talRDT3RaMEVyc25JVElLRTlYMW1sZkE0RGJZdTU2SjdhQVA4WUd0WllEcmtsenprV3ZYTlBNaWdaN3dGVTkxNTlQemRrV1Y0QmQ1c0s2SmF3S2ZtWFRLeFpkVXVXRA?oc=5",
-   "source": "Leconomiste Maghrebin",
+   "source": "L'Économiste Maghrébin",
    "ts": 1793725292,
    "theme": "fact"
   },
@@ -275,16 +282,16 @@
    "theme": "fisc"
   },
   {
-   "title": "Facturation électronique : les CGV à l’épreuve de la réforme",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXk0aEdYclBPdlMzS3pGdkhmZ2JaWmttaXBrUzZoSG9qc29YdzRCaVdhS3hoUERLc2VJTmdnMkl2a0hkQTh4MmNNbWhuX3pkUW1LWkNTU0tIcFNlNUVFZ2pjcGJsMHlDYnpJcUhidm5leVFFdWlhVXZzY1JCZ0pyU1VtblNfYUo4QjhFTU1YS2ZFaHlRLUtWalFHR2JOVHRqUDlHNS1RS0JiZw?oc=5",
-   "source": "Informateur Judiciaire",
+   "title": "Facturation électronique : 2 mois après le lancement, voici les premiers bugs qui donnent du fil à retordre",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV005bC1vRXg2UUhFWFgxcVBHLXlSOXpmQkFVckZ0dzlkcVJEcFBfZjBjMWNnZDViRkp4clktQmtrX01FbjdfcHh4cFNmcVItUDRVYk50S3ZOS1VBb2ZXWFV3Qy1SN0VqOXhYUU1qLUROVE5PTEZVMWNNdFBpQml0cFo3X2NtQ3Y0ZWt2MFpaS0FkUWFwN1R1WlEyOWZSaEhKblJtRzRHMUtRbUM2RXhmck1pMHVVRTBDVVB5Yy1GNXdzWnNnMGpXMVhnTng0UVFhTFpqNUdqV2RZVlNJTUpwZw?oc=5",
+   "source": "Le Figaro",
    "ts": 1793687400,
    "theme": "fact"
   },
   {
-   "title": "Facturation électronique : 2 mois après le lancement, voici les premiers bugs qui donnent du fil à retordre",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV005bC1vRXg2UUhFWFgxcVBHLXlSOXpmQkFVckZ0dzlkcVJEcFBfZjBjMWNnZDViRkp4clktQmtrX01FbjdfcHh4cFNmcVItUDRVYk50S3ZOS1VBb2ZXWFV3Qy1SN0VqOXhYUU1qLUROVE5PTEZVMWNNdFBpQml0cFo3X2NtQ3Y0ZWt2MFpaS0FkUWFwN1R1WlEyOWZSaEhKblJtRzRHMUtRbUM2RXhmck1pMHVVRTBDVVB5Yy1GNXdzWnNnMGpXMVhnTng0UVFhTFpqNUdqV2RZVlNJTUpwZw?oc=5",
-   "source": "Le Figaro",
+   "title": "Facturation électronique : les CGV à l’épreuve de la réforme",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXk0aEdYclBPdlMzS3pGdkhmZ2JaWmttaXBrUzZoSG9qc29YdzRCaVdhS3hoUERLc2VJTmdnMkl2a0hkQTh4MmNNbWhuX3pkUW1LWkNTU0tIcFNlNUVFZ2pjcGJsMHlDYnpJcUhidm5leVFFdWlhVXZzY1JCZ0pyU1VtblNfYUo4QjhFTU1YS2ZFaHlRLUtWalFHR2JOVHRqUDlHNS1RS0JiZw?oc=5",
+   "source": "Informateur Judiciaire",
    "ts": 1793687400,
    "theme": "fact"
   },
@@ -476,6 +483,13 @@
    "source": "Economie Matin",
    "ts": 1793590776,
    "theme": "fisc"
+  },
+  {
+   "title": "Avocat contentieux URSSAF à Paris",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teUJKSlM1UzI5bEVmdy1od1NTRG5Vb2NreHFidzJhd3dZNVY1RFotQWF5UksyUlB3NVFBR2tQeUdzamFaZnk1aXhLbFBfMDJqYmgycVJ2SDQ5cEF6RHcwT0V5Z085N28?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1793573007,
+   "theme": "soc"
   },
   {
    "title": "Quand le maire socialiste de Paris appelle le gouvernement à adopter le budget 2027 par ordonnances",
@@ -744,18 +758,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
-   "source": "Mes Allocs",
-   "ts": 1793343600,
-   "theme": "alt"
-  },
-  {
    "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
    "source": "Editions Tissot",
    "ts": 1793343600,
    "theme": "soc"
+  },
+  {
+   "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
+   "source": "Mes Allocs",
+   "ts": 1793343600,
+   "theme": "alt"
   },
   {
    "title": "Facturation électronique : changer de plateforme, c'est possible, mais pas toujours simple",
@@ -919,15 +933,15 @@
    "theme": "fact"
   },
   {
-   "title": "Alternance : ai-je droit à des aides financières ?",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVMxeG9RNDdxa0dBWFdLSVR2cWZLNzVTcUF2YmUwb0FiSVUtUlNGQ0VhelBTMzJvS0oxU1ZHSk1sNnVlNzk5LWE4UzFWck9ZZlJucklBY25ZSlhpR2FhN25DZHNnSVlWdFZvcjJlY2FKeHNsUzhadjJGYmhocGY3cXhMMHJEdw?oc=5",
+   "title": "Aide étudiant alternance 2026 : le guide pour la rentrée",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Rc3kyMHA1Z0F5Z3p2Z1NKOC1MWm5HVGozbHZxbmhiV1VFdHFUblpVbVlvWGJfeFFNcDdiUmNTTjc5bWp0S1Y0YXNUWUtKak9FMGVwMGdnWnEtcktZRVRpQzVPLTNFSFFUS3VNV1l0VEUtM3JJUkZoOWRncG5tUQ?oc=5",
    "source": "WIZBII",
    "ts": 1793257200,
    "theme": "alt"
   },
   {
-   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
+   "title": "Alternance : ai-je droit à des aides financières ?",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVMxeG9RNDdxa0dBWFdLSVR2cWZLNzVTcUF2YmUwb0FiSVUtUlNGQ0VhelBTMzJvS0oxU1ZHSk1sNnVlNzk5LWE4UzFWck9ZZlJucklBY25ZSlhpR2FhN25DZHNnSVlWdFZvcjJlY2FKeHNsUzhadjJGYmhocGY3cXhMMHJEdw?oc=5",
    "source": "WIZBII",
    "ts": 1793257200,
    "theme": "alt"
@@ -936,6 +950,13 @@
    "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
    "source": "Mes Allocs",
+   "ts": 1793257200,
+   "theme": "alt"
+  },
+  {
+   "title": "Mobili Jeune 2026 : Aide pour les étudiants en alternance",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFNN1QtYjJ5YWJsT2MzdTVTQkl2TXhRZTJ6TjU3dWcxcUVKQUhKTldpcS1WWnpGbVFQQTc4YkhIRlBuNEM5M0xZcmRRYWMwdG5JekRvMUc3VmJOSVJnZG01ajJ1c09NbWViWGJUcUhUNWZlV3prQlNNY3F2VXBfQQ?oc=5",
+   "source": "WIZBII",
    "ts": 1793257200,
    "theme": "alt"
   },
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRXprZFRHUkNEczFyLWN5bVhobnlnMzBhV3VQLS1vRGdBMlk3UkMxdGZQUmRsazNIT0EweU5mb2pkeEs5SWZENTBFNmpwcGExYzhZbUFkXzVpaTE4WUMycVI5aVQwZ2RaTG12MjBndnc5M2gxWGlITXIybEJhWmNrT3RqZEh1ZUEzOVhn?oc=5",
    "source": "Daf-Mag.fr",
    "ts": 1793196828,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les notes de frais, ce casse-tête qui contrarie les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUGpsaW45SlF1dWlHNDZLSVo0QV9TbHlrU1hVcldXX05pSjRDOS1NVG9mbC0yUDVXRDBXakE3MXE5NzdQbHVUWHJ0QTR5MWZkZzFFMnJwN0dpWXNWYkFObXFwODhDb0dFYlp3eFZPb0hBYXJNdERTZnl1NjBtN2VDaF85cjNDNWtiZnFnYzk3RGdoUVhHWkl4amJERFRCSGk0ZnhZQUJXQTZSWU5XVTdzSXFsT0xnQnRETGVJeUtKYURkeUVtOURzVU94S3dOVnNuM2Zza2paclA4eUZsYkpwbkwzMzFFTjZLemNtMw?oc=5",
-   "source": "Les Echos",
-   "ts": 1793193012,
-   "theme": "fact"
-  },
-  {
-   "title": "Budget 2027 : les députés rejettent la surtaxe sur les grandes entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcVRyMXpsazlPbW9PdTlZZW9jRGFqekNZdmZhOU9QR1JZRDFCenFnWkRlS0E0ZTJ6eUpVN2FYRGNGM3VvWUxCb3NxUzBzM3p2akt2dFczX3JFNl8wOWVSVkxDYXBIRVRUY2NmSEFvTkYxUW1QLVRzSDVEQ3UzZzdyRGozaF9kb1NVTTM2akxfQXpSYlVwc3JMdnRVVXNIX1lfZkZENHpJMHdQVDE3NFdlakhEemVHNVYxQld2eU1hQ1k3ZXcwUEU0eTVUR3RPa1NwS3VTMnMxVjcwTDg2?oc=5",
-   "source": "Le Monde.fr",
-   "ts": 1793192708,
-   "theme": "fisc"
-  },
-  {
-   "title": "Taxe sur les transactions financières (TTF) : les 121 valeurs concernées en 2026",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXR3OGVscTRnZlMzdjlXWmw5Nm03MnNlTW1ZWm51TjV5a2ktdzJDT2lKeGxUVEdDdHFaaDFYeFlvVlNqRGZ5akhjU3ZTR1FibF9xQUM0clhTOV9RWkxKd0FsVVJuSkxsbXA2R1NSWEJiU19Ic3dfcFN0VnoxNG8tWGlWRDF2ZGhz?oc=5",
-   "source": "Tout Sur Mes Finances",
-   "ts": 1793192162,
    "theme": "fisc"
   }
  ]
