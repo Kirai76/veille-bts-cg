@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T17:59:13+00:00",
- "last_success": "2026-11-04T17:59:13+00:00",
+ "updated": "2026-11-04T19:08:55+00:00",
+ "last_success": "2026-11-04T19:08:55+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "query": "TVA entreprises réforme",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 24
   }
  ],
  "items": [
+  {
+   "title": "PLF 2027 : l’État de plus en plus dépendant de l’IS",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU05CRFcxTWpsUDZsa1M0dmM2NXdMNHNhaDAyT1RxZm9wVEVhWDVVNnFKRWdESy1YMk5XMUh4WHAwdTg1cDMtc0xlR2wtNEE1YUxpY2wyUGpQZElRWU1PMWU2T2E1dVJrd181MF9wR0ZUMG1MYUl2NGFQcDVQOW42MUtWRjlOQXo3ZHVZMm5n?oc=5",
+   "source": "Telquel.ma",
+   "ts": 1793815253,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation électronique : une première étape vers sa suppression votée à l’Assemblée nationale",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFczMFQwT2tDaWUxajNuNGNWamtkZy1GNVhXYW8yNE8wWGZBN050d1Q0WHFSb2xDek9QaTBxVUJVc3FXOXdNdEdOV0gwZUFDYi1oeTR0RTBtX0xqUV9tNUVxYUV2SzZpUjhTMWY0X3JZNnNzeWRNWUFuUDB6aHVMMWk3SmM4X0l3RGNnV1pnV00?oc=5",
@@ -72,18 +79,18 @@
    "theme": "fact"
   },
   {
+   "title": "Facture électronique : gel de la réforme pour les TPE et les PME",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2J5Z2x1cFp0TVhsdVVKLWRiV08ySFlDLWxIUndmWXB1TnlFNGJwQnhna2FOR3RGVW16TjZPd0RPWmZfY09acGhjSHViQ3lkOXhNTkwxVEFxbklHSUtnYnA4ckhpWDdkdFdpRERDdkhCdC0tR3I3cV8wSDZyWGpxMVZpdGN1MHJWakJSQTZPajFWXzFZT1ZFVE5UcVlfZkVtZmc?oc=5",
+   "source": "Solutions-Numeriques",
+   "ts": 1793810597,
+   "theme": "fact"
+  },
+  {
    "title": "Landes : « sans l’Aide sociale à l’enfance, je serais à la rue », aujourd’hui, Benjamin Tchiepi est Meilleur apprenti de France",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxON1NtNjhnZUpoMHFRM2JuMHJmaFh2eF9tUGVQY2hfTkxuZnR3QlVkdmdkYjF5TE5iS016c2FQZ2tPbXozcHRHanJwbDFPUm5USmFiT0NZYkxWSF9JaVFHdnlILTlqQ0d2dDlnaHZ2Q1djLUZtUnlVRUFta1MzcTNOc090ZWhpUnNRZ0hZdEE3WlF1WkJZVlU1ZVI2QkFWWFhvbkRXYkt4azJPVHJDQmdjemJaTVBVUXduN1dqejBmdHRVN0NkTGlHZGlJWWI2TjlBaklkTk5JRWcxY1lSVjZVTnk0ODVGdHVQY3dORmUydnFPeGxfZG9lM2xqTUd5NzRuRzVEOFRRZmk?oc=5",
    "source": "Sud Ouest",
    "ts": 1793809800,
    "theme": "alt"
-  },
-  {
-   "title": "Facture électronique : gel de la réforme pour les TPE et les PME",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2J5Z2x1cFp0TVhsdVVKLWRiV08ySFlDLWxIUndmWXB1TnlFNGJwQnhna2FOR3RGVW16TjZPd0RPWmZfY09acGhjSHViQ3lkOXhNTkwxVEFxbklHSUtnYnA4ckhpWDdkdFdpRERDdkhCdC0tR3I3cV8wSDZyWGpxMVZpdGN1MHJWakJSQTZPajFWXzFZT1ZFVE5UcVlfZkVtZmc?oc=5",
-   "source": "Solutions-Numeriques",
-   "ts": 1793807413,
-   "theme": "fact"
   },
   {
    "title": "Presse: 247 millions de dirhams prévus en 2027, six années d’un soutien vital aux entreprises et aux journalistes",
@@ -275,6 +282,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Budget 2027 : le vote attendu mercredi ou jeudi, compte tenu de l’avancée des débats",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ3ppbWtIRkRVS05INk0teW8tcVFQam5BdGJnaXc0ZUlIUFEtTEU4Skp1NmExMHdEdXI4RGJLdkN4cXdNZ1Zrc2M2ci1sS09WN0VIUldyVG5oYm4yazdpSHpTcWdoelJCeDZnTXBqeUVfMHNzdEFqektneVVRSHJJNVM1Zl9IMjl4VjB6YVNJdHA4RTZfaEd4YnhLQ2E2Q2xCaG8yUHlSYTF4M19hUEYxWjBVUjk0VEVqUjd5WEpqdHZyNXo3dFR5ZXhJcWlGOVNTc0V1dzZLMXp3Z1luZkpjdHJMSk5uT0drYVhrcjNlN2VRdWpCb093bg?oc=5",
+   "source": "Ouest-France",
+   "ts": 1793753123,
+   "theme": "fact"
+  },
+  {
    "title": "Il obtient un logement social de la RATP en sept jours grâce à une fraude : six ans plus tard, la justice le rattrape",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWXlZT3U3WVkyT2RTWXhXZHFBV2NTcHd2R2tfdklfWHF2ay1RSGlhZWhLWW01S2kxSHotUFRiRUNVcmZuN2ZOZUo0dUFjQXN4ZnFBZnVRVUJBX1p5U09BelgzaFFmMjJmeWVCVGwxU3V6WjBlMTlJRnpZZ0VfOElHaVllbXdidWhIczRRbnNHc2FHZDBjcjFiZVdDay11cTFYcm9vYWJvZElRdkVZU3hSem9sbDZHLVplSkYzTkhKNnNEd0t5R3dRLTVISVFLSUQ2aEMyZXVrOHl5bVhSS1dUNjdxN3RPSTBzaDhxWjBn?oc=5",
    "source": "Actu.fr",
@@ -304,7 +318,7 @@
   },
   {
    "title": "Dix Opco demandent de revoir le périmètre de la plateforme nationale de l'apprentissage prévue par le PLF",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVmROUzhxcmlzTXA5bzR4ckhScUV4cjhDWWNFcEhHVUR6LWZydU81YWZxRXBmazNUSVQ4b2RPZHB6OWRBeDQzc2JhZHJxdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmNaODZ1cDVGME10WkNDSkxvYWFCeTNCXzhyOURFVVdSSUt2QW4waHZNaHBseXQxMVJRR21ZYVFZLUVwRklkMWJ0UGw3NTRwUEdwLUFGazNBTC1rcXZnRlEwNXNFX0RsVGdBeHRoSEFLb3AzOFJhUFhqUVpYRndHQl9wVGZ6QzRfaUJ5NTNIT21GaVVQYXp5QWpDbW9Bb2JOX0djZk5lUzJ0b2lTbGVpMXVlV09xT0xJQ0s2aGRBVDBGWkZWbDFkRVhtcU1ZUjcyVWRvV1pkQmxyZw?oc=5",
    "source": "AEF info",
    "ts": 1793727290,
    "theme": "alt"
@@ -377,6 +391,13 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3hpQlZEV1JFcHpjMjhwVW1hS2tzQk8zeEZlYm95cjVXU0pUWTZXRkxGYUVuMWNlUkpSYi1Hb3dOeEU0Y3FzanZxM2pVaE5TQ0QxSzhJUlB0UDh4ZmtVQ0JzcjR4SE44Q0JyLWNsODZzYVl1Wl9DRFlZVVUxamszSjRacW5FdzYwNU5Wb0JCVzZTczUyQWxjdkJQVVJoQzZqX2FiUXZkNFZSWmRMOHZzRGhicVRrMUJPZXNNdXFYSUVfcm5kLVhXazBSZUZZZDAw?oc=5",
    "source": "JDN",
    "ts": 1793712675,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : 1,8 million reçues et 37 mille réglées",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlJPUW10MExWbVJ0MzJIWnUyOG1qd1NHMUpuc0tvMmxHLXY2OEpkSUVodmJpa2dqQUtNXzF5UEJaNC1ZSTBSc1FjZXFvYjBSWWo1ZS1wbE1ZUG5VVUJURndnMGY3Tk1uZFZIWEFjajVMSFJaVjZoaVh5ZnN4bUlLb0RqRjNKM1laRktXc2U5UXctcVJxeWQxSzltSzdFNlZhR09KZkFnX2s2WTNwOTdIREFoVFpNeTdHcVZQUERoTzZUNERJUlE?oc=5",
+   "source": "African Manager",
+   "ts": 1793709095,
    "theme": "fact"
   },
   {
@@ -644,6 +665,13 @@
    "source": "EY",
    "ts": 1793606400,
    "theme": "fact"
+  },
+  {
+   "title": "Logiciel de Paie: les 13 Meilleurs outils Gestion de Paie en 2026",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIVGJzVHowNTBpU2dESnFUcTFoWXhqeENRLWZ3Y1ZGMDVDWEJiMVdqcEN6UGlRdldxczlrSk40eFRPTVZXVWtTNzhjV3h0eFo2T1FibmRTak5kMGEwRnc?oc=5",
+   "source": "Culture RH",
+   "ts": 1793606400,
+   "theme": "soc"
   },
   {
    "title": "Orcom accueille le cabinet lyonnais A&A et installe un associé sur place",
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fisc"
-  },
-  {
-   "title": "DSN 2027 : une mention supplémentaire à préciser",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWF5ZHpvNW8tZ2Z0VjAzdVY0ZGExZ2hqRVNtWWJXbzR3dlJSQVlGVXpycy1mNjB2QVktWVUxcV9JdkM0eEVxMzZLMVZGWXZ4aGhPbGdyM1hnd2cwVTJaR2kxN3dhb0xXSnF5MkJFM3pTZ09TX1pNMFE2V1V3eThYNTh5TlVnVE5MYlVTT2hn?oc=5",
-   "source": "www.weblex.fr",
-   "ts": 1793279418,
-   "theme": "soc"
-  },
-  {
-   "title": "Facturation électronique : les premiers pas en demi-teinte de Prud'homme Transmissions",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNkdaWDVjSzRlYnBKRXdhNXl2YUVMOTkwUjBvd0RNU1YzS3Q0TUxieEEwb1UzcE85UEx4aHRZOU4tRU5lUGJhR0xVTWNKLTNaeG5RSlRuMjlwZVQyTnlVUEx2eEhKQ3djVHd5Q29ONV9vOEFTell2YnhkTHVPM0tCRi1yVXB3NDBJb1ZOTjZkdGxVSDZVdXkxVG9UVkxwdXFSSjRFeC1yZG1WdlQ0ajN2N08tOU4tNUxYMDdNa2lwQXBXZUlpR1NvT0luVThzUmdyeVFfX0dnQ2R0TWFzVUtWMjhkUDBaUlE?oc=5",
-   "source": "Les Echos",
-   "ts": 1793279409,
-   "theme": "fact"
-  },
-  {
-   "title": "Ce réseau d’expertise comptable lavallois vise 300 millions d’euros de chiffre d’affaires avec un nouvel investisseur",
-   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOa0FUZTJpZ0Rhejl2ekpzVTFnZTdtOXlBa25GaE5UMHFwSHBVSVM1d2pDdmFfWWdDNmRsZFJGSDlMeVNZd21MUS1hc0tuTml0N3B5NXRRUjJrb2xnazg5emE5a0lKdVktQ2psMEpHb09RdW5uT3RlZVE1SlBXTGF0cjVpM2VMQzB6b2NzcFhwcWlkS1FaNTJzaG9EaWV5MW43LXE5eGtOQmZHYU5xSk5jTkNISXlYX2hBcXFYQlhSLWZDdl9tcXRZTmxGRUh1STdudUU5N3pWQ3hPSUJZS084dWY1NGc3NnhzRTRUR0ZVQmJlQlRsbkNZbkNkZUdyM0tEbXgycXN1RFNUSkQtMjcySHNBVy1KZk1HOVFBbzJUdlRNMF9meWlLM2RpRldhS2F0UFE?oc=5",
-   "source": "Ouest-France",
-   "ts": 1793278592,
-   "theme": "compta"
-  },
-  {
-   "title": "Transmission agricole : la Pacte Genevard s’esquisse à travers deux amendements au PLF 2027",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWdQLTVRU3BFdHFONkpKY2hfSE0wQ3NBaldoTXZqbGhydVk5ZWdnTTRnMU0tQUNaUFc2SlZJOWZKZkdEVzNzeUg4MkxFU201enVUNENoendTUTVVOWRnNkxvTHl3V0VhQXktbGFTYk9xUlpOVEEwM1BqTjBJV0pPOHI1UUN6dThWbUlZaTQ2OG9QOEJiMV9iZ2JibGxJNDVKcGkwaVJPRmxrczRVVlU0YkxYLUJTZEhnMmc?oc=5",
-   "source": "Réussir",
-   "ts": 1793273891,
    "theme": "fisc"
   }
  ]
