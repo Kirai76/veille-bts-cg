@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T11:26:55+00:00",
- "last_success": "2026-11-04T11:26:55+00:00",
+ "updated": "2026-11-04T13:16:36+00:00",
+ "last_success": "2026-11-04T13:16:36+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,17 +10,17 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 32
+   "count": 73
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -45,25 +45,32 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 24
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 29
+   "count": 24
   }
  ],
  "items": [
+  {
+   "title": "LMNP, gîte, résidence de services : 3 profils de loueurs face à la facture électronique",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45RlZlODJwS3liRnNHZzVfZlZkWkhYNFV5QmVYbGNydUhnUmRFZ01zaklraVFsc2dYWm1Nbmd1YnBTb3B3ZzZjNmdIY2RqblF2dWFWTndTaFZVTUs0SmhUbkNsQkNXSkZDVmdoUExIUFIzZ1BtazUtdw?oc=5",
+   "source": "Actual Immo",
+   "ts": 1793792700,
+   "theme": "fact"
+  },
   {
    "title": "“On casse les codes de l’expertise comptable”",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ESjY3OExkRE9yUEZuVWNFT1FCUVgzYUg1Wi1xbm9XcGFfRnpjT3FqZ09Ea2ozMXVsaEhOZ20yQnI1dENYNmRoaTdYMGEzXzcwTjNNN1pCZG5vOFFnZkVWczdPTkk4UGtkNFR5NmFEOUttd1U2b0E?oc=5",
@@ -79,11 +86,25 @@
    "theme": "fact"
   },
   {
+   "title": "Le Premier ministre a demandé une étude urgente sur la réforme de la TVA.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzdoT3BZbzdZNmEyNDE5OW1FclZfLThaZnhsUDJJajZVVmFOS2dOMUZKemVEcV9Xd0l4QXNucG1iWkNfam8xdFo5VWdzcktyRHdYOTRtTHRqaFdYZHNZdW56Y1U0aDA3XzItWXBxdUYzRzdscG9ZaDRWQTMxQzBHbHFodjRFX0hmbGxrMg?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1793788305,
+   "theme": "fisc"
+  },
+  {
    "title": "PLF 2027 : les mesures fiscales en discussion pour les entrepreneurs",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjNiRmFvRlB5VXBHTWFVZXFINF9KYldXZWNVVUZzcHdXZkdBUEk4RWQ2TklnQ3ZIQi1lVlh1WWRCQTdLbF84eTU5cjR6Ti1vb0EtalpKVHprU1M1Snhnd241NFJYMzVqVm5GNmR3bU5SN0VvNEJKbG1WZXFlQzRmdlpwY1h2TTA2T3VSbHVxTzNaVncza2k0S0c1WExPRFdFQTd5QjNFRnpEa2J2VUhDb1lXNTVmWXZjTDMyRlE3eWFEOWNmQTJWTzNHajZadw?oc=5",
    "source": "BFM",
    "ts": 1793785336,
    "theme": "fisc"
+  },
+  {
+   "title": "Belleville : Natacha Marin signe son premier thriller",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDBadmZyU21iRmlJN0xqbHhhUjNtbXp4bWdyMWhJMEZEYjcwLTZrTXFFSjVEcV85cFR1MzRQVlBjZmY0Z1VFeEhWWG9hYTBwNWlCdHEyb05jUmlQanhmWG9UOE1UbXREbVhhYS1qVVBwWTlYSEx2R09GOHlSVVFGRU5FcVloYVZiR2U1bWFpbW1fUGJDbi1rMGhJQkd4Z2FTenc?oc=5",
+   "source": "mesinfos",
+   "ts": 1793784300,
+   "theme": "alt"
   },
   {
    "title": "ENOES : 90 ans d’expertise au service des métiers du chiffre",
@@ -114,6 +135,13 @@
    "theme": "fact"
   },
   {
+   "title": "« Les jeunes qui ont appris un métier manuel seront à l’abri » : dix clichés sur la voie pro",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaWhEZnhrX1BaeXNqNk1yLUNZSHNNcW0zdENxYmpxdU5LNU40Y3JIR1gza0E5c2x5V3k0TjNkeDZBd3JXWFY3a0QtT29VUHpiT3FHWjdRVjhkejZ2RWpzRmVJLW9jLXlIb2NhcVo1aXc2cnF2Sm4tdERrTHdBTUl0TlhGbmN0bDJVTUp5Sm9JOXpCTnZpRUFlSDRLajVXaTQtTGlJNWowdkpFWFo5cTJJekhTOTRKb1h4SF9KOExxZ2ZaU1RUM1dYRkFNN2NJc3hRQVZ4VmhDQnk1Y1YzbVd4MFBuWTdVcExwUFV6MW45SWhmVTA5SkZsVFp3?oc=5",
+   "source": "Le Parisien",
+   "ts": 1793775720,
+   "theme": "alt"
+  },
+  {
    "title": "Le salariat recule, le nombre d’auto-entrepreneurs explose",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODdHTDd0R3duZlZjNWFFSVpZckJsWm40OE9RRHVNU0dpRjZrVkxtNUFacnY5R3YxQXdMME1BcWNiVV9sb3V4TUNMU05GSmNHMFhoMktfMm0yUi1zRFlDVVZMaHlycUdMdTV5cFhqZnBXWlhPY3pOUHF6VTNOU291TXdpa1drcWhDM2kzOTZZLVZSQm1W?oc=5",
    "source": "L'Essentiel de l'Éco",
@@ -133,6 +161,13 @@
    "source": "https://horticulture-abadie-pyrenees.com/",
    "ts": 1793772796,
    "theme": "alt"
+  },
+  {
+   "title": "« Cette proposition de taxation est assez délirante » : la trésorerie des holdings à nouveau dans le viseur",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX3BkcUFPbHF1NzlQTzBrN2owMjVkOWJzcTVRVWQzRTZyMUl0SnFZejRBcm51V18tNEpfWl85aXdWbS10SUJGY0Q4RFhJRVdtdVlERG1HdmVuTlpRLVRYajZUQ1JpcEN1WnQtaElwcDBhNkYyVmEtS0t6TVFiSDBLT0tQZzN6Tl8tbTVzYnhrdTJIQlVuR1d1ZFBFNGxEbXNsZEtJN0UyZVlpV3pSNktIbGJCVFVzZWFTcjVfUmVfZ3ByRGZ1bFBGdFh3S2NYLWstMk45WlczTDJ3d21UNWxxSUxNTnZqdw?oc=5",
+   "source": "Les Echos",
+   "ts": 1793771408,
+   "theme": "fisc"
   },
   {
    "title": "Mécanisme du report en arrière du déficit",
@@ -185,7 +220,7 @@
   },
   {
    "title": "Dix Opco demandent de revoir le périmètre de la plateforme nationale de l'apprentissage prévue par le PLF",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmNaODZ1cDVGME10WkNDSkxvYWFCeTNCXzhyOURFVVdSSUt2QW4waHZNaHBseXQxMVJRR21ZYVFZLUVwRklkMWJ0UGw3NTRwUEdwLUFGazNBTC1rcXZnRlEwNXNFX0RsVGdBeHRoSEFLb3AzOFJhUFhqUVpYRndHQl9wVGZ6QzRfaUJ5NTNIT21GaVVQYXp5QWpDbW9Bb2JOX0djZk5lUzJ0b2lTbGVpMXVlV09xT0xJQ0s2aGRBVDBGWkZWbDFkRVhtcU1ZUjcyVWRvV1pkQmxyZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVmROUzhxcmlzTXA5bzR4ckhScUV4cjhDWWNFcEhHVUR6LWZydU81YWZxRXBmazNUSVQ4b2RPZHB6OWRBeDQzc2JhZHJxdw?oc=5",
    "source": "AEF info",
    "ts": 1793727290,
    "theme": "alt"
@@ -835,6 +870,13 @@
    "theme": "compta"
   },
   {
+   "title": "La facturation électronique : micro-entrepreneurs, ne tardez plus à vous y conformer !",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVBjNUNBNmVtTGlXbW40eUVOeWFQcWRvSWxKYkJWZ0lRUnA3YzZTeEw3cWE3VXAxLTVFMGdicGxOS21STEhIYWxrejBfN3NkTmU4UkVxY3RqSTZyNzgxdDJnODNQU3h5Yl9XMW1GWVhXbHZWZE5ub1R4MUJ1Z3g0NS0zbnYyX2FDYXpRT0RXV3VUQWZucUNFdkpGQl9nZFhBTFZiZXRtU0dsWjJGS1JoVVp2VFNXc1laTm0zRlZtSjZTN0tWQ2RUVjk4Wk4?oc=5",
+   "source": "Carnet Le Parisien",
+   "ts": 1793344678,
+   "theme": "fact"
+  },
+  {
    "title": "PLF 2027 : 100 emplois menacés dans les entreprises adaptées",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2dVVDVRU05WM1k3QkxRUXpFWlR4YS1qUHRmeUlkUUR0dDR6aFBhSUtzUkZHR0Q0NWpoWWh4TzdmLTVmcGw5WUZGTGZ1R3poVmJQR1ZTekV1N0UxMUVndkw4WEtpaTZWOTRFc1AtM0hpRzh5SWhXS0VJZTE0WHlBbm5XemYyMENHS1JUWnN4Q1FFVUdEU0d5RDhVWEhCSG1kZHRINUJR?oc=5",
    "source": "Handicap.fr",
@@ -937,7 +979,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793281800,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "DSN 2027 : une mention supplémentaire à préciser",
@@ -1071,48 +1113,6 @@
    "source": "Les Echos",
    "ts": 1793254528,
    "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : retards techniques et « perte de productivité » chez Actia Automotive",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQWp6a2h2c1NQVnBpSkF6VmpSVHZLUGo0ZXNOTVRGaUpCTFV5TVVCMXp4Z1JObUJleG5UMkg5ajAteFM2UjlMbXdOUkZiMzdIQi1ZNDVUdkItN2pHbl9XUkswSUlHc3pIV2tuR0Fxb3p5Zlo3b0tKbExkNGp2OG5RMHdNaEd5XzRUcjlFazNpaWpJdUJrb2dBYWd4c1A0dk1vMk1lQUw4QnNkbnZvTDY1bm0xcEJrdUxpSzljRmpqZWV4NldlTk9DdzZZeVA0SHBWS0c0?oc=5",
-   "source": "Les Echos",
-   "ts": 1793252727,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : une première étape franchie pour les petites entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZG9MbENUSk0tdVk3Y01vSUJPWk1PY05nUndtZ0c2azV3eGEwbTBaOFdnSHNjUHVyNFFpOGJVTzJubWFYTmtqTm80RW1BTnV5TmxfUmlUejZCTGZuMWI3MmUxV0R1WjVlR2tKakkyQWxjNXVkZmhhNGxla3l4XzFlSnJVejRfTHNJSTBtVlcxQ1V1ZHFxUFRQd1dIU1huTng5SzBvV2ZDQXpRTDZzMzlZX1p2QkJOcDhvVWJCZ3JiZzBEX2RPT09VbWdPWm9zMENnRFJCWTJ4aUVSLVRpSWNpclhWdnM?oc=5",
-   "source": "Les Echos",
-   "ts": 1793252708,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : les ETI toujours en rodage, deux mois après le coup d'envoi",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmlKX1Y5RktWY2NHTGN1TURTejl2OXAzaHdTX2lvSXFpbDVoRWVCcTVya1Z3Rnd3RG1sSExDNVZWaEQ0Z2pwMXFLUjBzbnJmOTNydERsWHlfSURiWk1nNXA2U2ZkZjVDc0NjakdKeFh5RkZDQXRZUDY1X0ZkMEZ2NXBkR2NORk5PVmFVMkx1N2ZHNnNvMklvTUZRSmJOR3plUEhURWpXbDRDMnlxUjkwUVdXMmVIbERhTnhrY1BYbEREeVRlRDhDYQ?oc=5",
-   "source": "Les Echos",
-   "ts": 1793252408,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique et notes de frais : Arkema revoit ses procédures comptables",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWtSWHJzV2hQeGtSdThydXpxckM5UnVFR3NSMDdQbmpkQWkxeE5fbGlqQ1FpZkJvU3dOeXotTFZuSmd4N2VlRElaOVlPSVZ1UGlPUldVR0dVVklTQVRJX1JFUGhpd05JY3VGY1haSGVTMlJkV1JubDlNMTYzTFQycnlCTm00NzdDaU9VWjVGa0FNNUFSV2hpX1pUUlVNOHltR3hqR1EzT2tMUTlNM0M0NmhpS29hbUxQbnozSnRLcU5tVXNKRWdMVQ?oc=5",
-   "source": "Les Echos",
-   "ts": 1793251831,
-   "theme": "fact"
-  },
-  {
-   "title": "PLF 2027 : les députés adoptent une nouvelle taxation des multinationales mais écartent la hausse de la taxe sur les géants du numérique",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxPMzlIalVYUjJUQmpzTUlwQnVhQWY2TVBDR3d4WkFNSG9MUTFfbUpqS3NzQmdjcW55dlBkU2R0WUVLYVFobFNaUnNkOHVVTjJoYkV3eVhDaXk4T1Fsamp4Qy00OTFHR2hZb2hrUFczRWVJYmxVSTdudWhDSThjT0xfeHFBaTV4ZFJManhtOEVVb1c2aW5RdTFEajNCSnBwbVV2OS1tVUVBS1d2QVlyS3RPblFuWE5DU0E?oc=5",
-   "source": "CB News",
-   "ts": 1793249103,
-   "theme": "fisc"
-  },
-  {
-   "title": "Changement d’heure : le Québec envisage de tourner définitivement la page, Haïti continuera-t-elle de reculer ses horloges",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMENCTzNHSVJtREozUFZOd2c2WERaTlJ5OGlBSmxocm1LVGJZVnVNNXpSZVpTYUx2UEdTNFVsMUhZU0N4UUFnMERkMVpjdzBhUHZLQS1FMzVVZHlnaS15bHVQc09pMlZTSXFoUzBHNFFYU295ejFlcFBfTFgzR2NlUXlSLWxkaVZxTjBJbnU1d1YySlczWkpOTk5tUDc1S1FVU3dZTEYtMjl1a1doc3RBbGFtUlpwNkUzcHd2aS1LVy1PSmpwRVJvejdkaENMV2ttU0NiUUZEWS1YamNWZ0hFcFpUeDU?oc=5",
-   "source": "- Rezo Nòdwès",
-   "ts": 1793220031,
-   "theme": "alt"
   }
  ]
 }
