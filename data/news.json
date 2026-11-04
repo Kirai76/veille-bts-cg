@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T19:08:55+00:00",
- "last_success": "2026-11-04T19:08:55+00:00",
+ "updated": "2026-11-04T20:05:47+00:00",
+ "last_success": "2026-11-04T20:05:47+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 76
+   "count": 75
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -72,6 +72,13 @@
    "theme": "fisc"
   },
   {
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
+   "source": "Le Matin.ma",
+   "ts": 1793814180,
+   "theme": "fisc"
+  },
+  {
    "title": "Facturation électronique : une première étape vers sa suppression votée à l’Assemblée nationale",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFczMFQwT2tDaWUxajNuNGNWamtkZy1GNVhXYW8yNE8wWGZBN050d1Q0WHFSb2xDek9QaTBxVUJVc3FXOXdNdEdOV0gwZUFDYi1oeTR0RTBtX0xqUV9tNUVxYUV2SzZpUjhTMWY0X3JZNnNzeWRNWUFuUDB6aHVMMWk3SmM4X0l3RGNnV1pnV00?oc=5",
    "source": "Juristique",
@@ -91,6 +98,13 @@
    "source": "Sud Ouest",
    "ts": 1793809800,
    "theme": "alt"
+  },
+  {
+   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDRfREx1VkxUcHhmMkttcnFoYnJ0MWhVZlJMQXZkZFVSelR0bkxGd0pSLWstcV9nWU1LTXk0LWtNcTJtdWhoYnpidFRiT1dwUHVRRmZ3ZVpIWmkwblFjMWRPZG01NTdhbXo1ZUhVUWhKZEZZcFhHVHNITVBkUGdlTWpEeVJOaVdsQl9tVDcyVmZhZnNQWHRNdGF5UE9ZRV9lWjMxREZiZGU0UnBNN1JKbDk5Ymh0RWNHcE9EMjUzRXVybm9OcEl0bkJtWXNYcktqbGQwenoydDVORGo1T2cyTU41MF8?oc=5",
+   "source": "Burkina24.com",
+   "ts": 1793807230,
+   "theme": "fact"
   },
   {
    "title": "Presse: 247 millions de dirhams prévus en 2027, six années d’un soutien vital aux entreprises et aux journalistes",
@@ -125,6 +139,13 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUUNXbk9XeVlMVFo0cmtwTEVjSl8yV3lhc1AtWmQyWm5mUmV4c3lVclMxMjhaS2x5RDFyaDVSUlEwenhVOXZSZWlmVENlYmthMDZINW1JeGJSbWJPSjlkOWxoc1RsSkpWS25CSDlRNWlkMF9JSUxBRFJmLXhGMjQ?oc=5",
    "source": "reinformation.tv",
    "ts": 1793799420,
+   "theme": "fact"
+  },
+  {
+   "title": "De la tablette d'argile à la facture électronique : 5 000 ans d'histoire",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFV4RlpKT0xkanlBVks2NGktdGV4U1Azbl8xbzRHblE3Q3VnWm5pQ192cnZzcWRDSHJxU1ByWU15eExYMWdxUmZlb3NwQm40SEZUaXlITVNnZFIzUTZVX3NXUjlTUEszaWxRWlkwbTdaUVFaNWk4d2Y5VWdhV3pGN3FoNGtwSWduOVBldmpYd0I?oc=5",
+   "source": "Compta Online",
+   "ts": 1793799143,
    "theme": "fact"
   },
   {
@@ -182,13 +203,6 @@
    "source": "mesinfos",
    "ts": 1793784300,
    "theme": "alt"
-  },
-  {
-   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDRfREx1VkxUcHhmMkttcnFoYnJ0MWhVZlJMQXZkZFVSelR0bkxGd0pSLWstcV9nWU1LTXk0LWtNcTJtdWhoYnpidFRiT1dwUHVRRmZ3ZVpIWmkwblFjMWRPZG01NTdhbXo1ZUhVUWhKZEZZcFhHVHNITVBkUGdlTWpEeVJOaVdsQl9tVDcyVmZhZnNQWHRNdGF5UE9ZRV9lWjMxREZiZGU0UnBNN1JKbDk5Ymh0RWNHcE9EMjUzRXVybm9OcEl0bkJtWXNYcktqbGQwenoydDVORGo1T2cyTU41MF8?oc=5",
-   "source": "Burkina24.com",
-   "ts": 1793782060,
-   "theme": "fact"
   },
   {
    "title": "ENOES : 90 ans d’expertise au service des métiers du chiffre",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXFCU1lzeEs0Q0lSMlZTbTJNWVRZX2FEVEtuZ3dNUVNLNVNfMzB6WFU2TkUweld6LVFESC1jb09ZZm16M1VWVV9sbHFZZXc2cklxWmYyT1REQzczdmN5NEhZcTc1bEo1NlFETEdrYlNKMGM4QmVGTjFOdWxmS1YzWjg2Z2VqZ1FUVGRWQzBfT3UxbzlkbEg2MGJULUR4S0VxYVE?oc=5",
    "source": "Vietnam.vn",
    "ts": 1793283678,
-   "theme": "fisc"
-  },
-  {
-   "title": "Prime de partage de la valeur (PPV) : règles, montant et fiscalité en 2026",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkExaFN0TkpyNkhpSjVlTDcybHhzTHViblZTd1RZMWk3bjMwdUw2YkRjVTBTT1VtcTBGcDVZb0hKNVpsR0EzaTVHMlBOemIyNlVHcmJvVnVlOFFHUG9VdnRDdzZSRWVSUGtvdDVETDJCMEJwdjFvb2dmVmFhc1lnaVJpa1VDa3BfeWdRcnZ2NGlwVk5zZDBJeGdjcC1IS3Zh?oc=5",
-   "source": "groupe SVP",
-   "ts": 1793282400,
-   "theme": "soc"
-  },
-  {
-   "title": "Facture électronique : voici l’astuce pour vérifier en 5 minutes si vous pouvez bien recevoir vos factures",
-   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOam9FdEJmQmMzYWJ6ZFJ1cUVMcG5zY2VtOUdSS19fV0RBbFp3U1NzNDhKZjdEQ0JuQ1VoSDl1Sy1YY2lQNjNKWnBydWVWdEo4MmdkVWgzQi1EZWRwbTJWRVpEdndWd0NhZUExNXZjNHNkaWxiX3piMWJDZXB2aXNlWUI2ZUxGQ1RBcHRmeDZsYVBzSEthTXV0eVRRcnBtaHBsUWktNUQ4MlJ4Z1JxSGZrZ2k4bm10cVlac1RCMTFfME9aNFFfZ3BGcnVTSWZ0dFpYNkVhNUJZckJFamFPbkJvZGpJaDNTMlZzaWpaXzRhU2JXMGhiUG5MS1dCSFZObVdaeGR0dmxIS24yQXdXSlVqcGE4b0htSkhJdDh5Wk9hRjJWbGQtMHJDN2xnc0ZqeGMxa3FVWFB2MnY3MjA?oc=5",
-   "source": "Le Parisien",
-   "ts": 1793281800,
    "theme": "fisc"
   }
  ]
