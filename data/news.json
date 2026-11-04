@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04T02:59:23+00:00",
- "last_success": "2026-11-04T02:59:23+00:00",
+ "updated": "2026-11-04T04:02:19+00:00",
+ "last_success": "2026-11-04T04:02:19+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 39
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 100
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
@@ -55,21 +55,28 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 24
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "items": [
+  {
+   "title": "Lignes directrices pour la réduction de l'impôt sur le revenu des personnes physiques et des entreprises dont le chiffre d'affaires est inférieur à 10 milliards de VND.",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmtPTEVjZGZTSU1kZjZoeHhZOUpGR3FHU3NvQjVyMkJ3dWhYNmNnVGd2YnBqS3pYblZsdFpYU2wxLTZMVWtwUm1zdEdhVWNPZ01LeC1LbTJBNHBhMUNoRVR2b003blJSakpTY0xOSzN4eFRrYVNCakhVRUhNUldTZzh1YXZQREVEMGhiSnJ1SGppM21qQU5NUGdkRDFhV1hzSU51Um9pYWt4bHQ2UF9XalVBMlNSUUE?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1793762019,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation électronique : une opportunité pour les TPE-PME ?",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
    "source": "Presse Agence",
    "ts": 1793736000,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Ministère des Finances : 1,8 million de factures reçues via la plateforme de facturation électronique, dont près de 37 000 réglées",
@@ -128,16 +135,16 @@
    "theme": "fact"
   },
   {
-   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
-   "source": "Consultor",
+   "title": "TVA sur les immeubles en stock : précisions concernant la",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
+   "source": "Fiscalonline",
    "ts": 1793714400,
    "theme": "fisc"
   },
   {
-   "title": "TVA sur les immeubles en stock : précisions concernant la",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
-   "source": "Fiscalonline",
+   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
+   "source": "Consultor",
    "ts": 1793714400,
    "theme": "fisc"
   },
@@ -409,8 +416,8 @@
   },
   {
    "title": "Un nouvel impôt lourd de conséquences pour la France",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlpfQlZPNm4yWk5DeUVhUmxlTDBObGxrNXp5WDRGSVhRckZUT0lUN3UyclpoNURQWnpZNXY2bkZfZGpKbk9CbEdTTjc0eFRzdlVVd2daSGwxelZXaktUeFRjNEEwTDlEYmVubVN6dGdJQUtqZy1pVmJUZmZWY1B6SHFIV0ZNaExCVWZiU2VNM2U?oc=5",
-   "source": "Journal de l'Economie",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FDcWMwNlZNeHY5SUNFMVN5cTB6NG96cFlhQnNOQ1FENnlUbGRHN2ZEMy1WMWJwdm1KRms1Z1FuVjN6Tm9uU2Z0SlBQdm9QV3BqM2RZcHZzRjEtSG5GZHYwSXM3bkdVZXlqNHRwckRMVTIyWW9xdlB2NHJWanlpUXhpTmdqWGRSUVBBSjZMa2ljbkU?oc=5",
+   "source": "Yahoo Actualités",
    "ts": 1793611200,
    "theme": "fisc"
   },
@@ -436,16 +443,16 @@
    "theme": "compta"
   },
   {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
+   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
+   "source": "Presse Agence",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -531,7 +538,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "compta"
+   "theme": "fact"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -756,6 +763,13 @@
    "source": "Les Echos",
    "ts": 1793337908,
    "theme": "fact"
+  },
+  {
+   "title": "En ciblant les sociétés sans personnel, l'Arizona toucherait des centaines de milliers d'entrepreneurs",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDUySzJMRGpFc3oxZENJdDR2TE9vZGdXNHZIZ1lEaVR3cFowVng2SnZtRlgxU0I0LWF0dFUwSGZ1Z1ZDZk8tZXI3c2RSb0lUSFoyTEN2b3VraXpzOXJPd0diLUlHRnVnWkpxQjJSSEpGWWEyX0psVE5PZ3lIR295SGZIUTVvNkpFMnNWVDBYT1lYM2RiUVE4MHAzYjNUOHBXOVRQX3JmZHBiMW03dmViSWVadVBLMUxXWFRZdnpXbENjVHpRX1lMeG1JSVg1Vk9TakhWaG1sNWdfSGtlTXhfcG0xWlpkRTNiSnZhWUtabw?oc=5",
+   "source": "L'Echo",
+   "ts": 1793332800,
+   "theme": "fisc"
   },
   {
    "title": "Lever les obstacles au remboursement de la TVA, débloquer les sources de capitaux pour les entreprises",
@@ -1099,20 +1113,6 @@
    "source": "Tout Sur Mes Finances",
    "ts": 1793192162,
    "theme": "fisc"
-  },
-  {
-   "title": "Surtaxe des grandes entreprises rejetée : impôt sur les sociétés 2026-2027, que paie votre entreprise et que faire de l'acompte de décembre",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTlzSjNGWlRGMWFtc1labHFyd0ZxVVhYOUJxM1p3Njd5ZHJvVkZKTDh5dENPRUY4UEdhOFllT2trVktJcUVZbUhvS0dySG5BQVZ4bTRjaU1uT3ctbnJkc2g1YWV5QkR5el95aXV3RE5JT1NUZ0EyZG9EU0VQakhYQ1U4SjZ2ZkRhRkhfNVZ6YS1rX3UyLUt5R1NIRjBHZXVQb0QzNXp4Yl9CTGd3bUltUXFVTnh2aTA?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1793189820,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique obligatoire : les étapes avant septembre 2027",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWFrakUtSHlOc3RHR0R6cW9NYzFqSU9vY2N4ZlJNNnpadlZIbDlHN2RhbG5TQ0tyWmlDQ2lIYVZrd2MxU3FqTTJtRlRtMDZvY1RScjlWNjZnclpWSGZYdHc1dzhkX05mc21FNzZlbXp0dTBHQ1FSd1VmNDlaTE5ta3hOQkI4Z1E0LXotZnRhV09CRjE0N2w1alBQUHYwWUtMcXNsTWRpQ1hXS1JMaTdyOUJ5WF9FeElsMHJILTdiaDdxcllwQmtiVjllaw?oc=5",
-   "source": "BFM",
-   "ts": 1793188485,
-   "theme": "fact"
   }
  ]
 }
