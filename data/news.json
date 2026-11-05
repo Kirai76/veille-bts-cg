@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-05T11:17:25+00:00",
- "last_success": "2026-11-05T11:17:25+00:00",
+ "updated": "2026-11-05T13:23:55+00:00",
+ "last_success": "2026-11-05T13:23:55+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 80
+   "count": 79
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 44
+   "count": 42
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Pour un budget 2027 utile : la voix des entreprises",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZE9tdFlOY0FuMTNlOTl6X1QtODhDVktLaGpWbnNMUmo0WThZSnhEdGVRZ3Nsd2VnQ29mYmVOT0loTXB1aHRZTEVtOXhCU0x2dFFyUjZ2ZVJSckx6aW4tWnF3WVJuZzJ2dmVnSHBWOHFDVk02UlZ3SWI4UVE2VC1HSHJ2MVZoY0JSNEw0b1pYM0pzX0JkbDVQVHZIYk5CVzNYSXlLSA?oc=5",
+   "source": "Direct Sénat",
+   "ts": 1793880908,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : quels points de vigilance pour les comités d’audit ?",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRUOWJoay01VkpIeVBvQ3N0dGFEdmNGMjQ4RXJtc09tZGpuS2lxODM3OElRQWJYWG1BeDVydkllZHR2WEpOQnFpUzhsak45b0dzdWdxdUpwekhVUEpxZHdxTlRTdjZXUmlYZ3ZjMzA4SmkxTXNJTG84RDJnSHBaVy13aHRFMXpFbTlXS0lTVUJXQzU3elJQX0ppZFZQTF94UUtSYUxGX0RId1lUZFRBelN2dlVxTUJyZEhDTlZiQQ?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1793878465,
+   "theme": "fact"
+  },
+  {
+   "title": "PLF 2027 : facturation électronique et éolien en débat",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzU0M3JzSE8xeVFVaWNqZlpUSGRyNzE4ZVBZb2U0NUtTNnhzcmhmdUZYeEFVel9JaWUxbzNWX0pkaWJRa3Y2bFl2LXN5SWhjdTh3T3d4bjhDY2Rpdm44X3p0dEhOVk1VMjVsdnl3elZ4X0xkRk1Pd1B3LWRmUHZjcE9sYVk2S0k1WDNvaFVFa05tNi15eFVlaUdkQkFlbWhWUFRseFdB?oc=5",
+   "source": "Batiweb",
+   "ts": 1793877199,
+   "theme": "fact"
+  },
   {
    "title": "Facturation électronique : les députés votent une suspension pour les TPE et PME",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWJMWm11V2hPS0dVWWV3c2FBZVllS2NfdjJUdVJ4bG9kQ2JxVTdwQXAxU0x0eHJMU0t0dkdtSVpfWDQzOWhNalFKVUFnekxEdXJ2VWRLRkdkNzBjNV83LUFpWVdZREdYY3lWcWxHemhlQ0hYbEVraExOZHZTVkVuSHZKRkNqRlYwVzY3R2dvbFQ3Zk9UZmxfNVhkaFpFVVFfd0FtMU84eHBWR1ZCZTZXcGcxM3I0NjlDRHhfRDBHeWkxTS1BVzRv?oc=5",
@@ -86,6 +107,13 @@
    "theme": "fact"
   },
   {
+   "title": "Nouvelle fiscalité régionale : alerte sur les conséquences pour les entreprises artisanales",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45bk04MFM0Wk03UmVST2YxclBEdE9mdWtLX01wZ0RPbmV3dkZpa0JUTWtJZ2kySlpJbG1RbW5rbDF3eUktcldGenYxb3hKN2R1NXhCUHJZalI4eXo5M3R3N3QzamRzYkpQWm1KVFZEa2hNbkZ3d2NxNVQ2SQ?oc=5",
+   "source": "Imaz Press",
+   "ts": 1793863146,
+   "theme": "fisc"
+  },
+  {
    "title": "Nouvelle fiscalité régionale : la CMA Réunion alerte sur les conséquences pour les entreprises artisanales",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45bk04MFM0Wk03UmVST2YxclBEdE9mdWtLX01wZ0RPbmV3dkZpa0JUTWtJZ2kySlpJbG1RbW5rbDF3eUktcldGenYxb3hKN2R1NXhCUHJZalI4eXo5M3R3N3QzamRzYkpQWm1KVFZEa2hNbkZ3d2NxNVQ2SQ?oc=5",
    "source": "Imaz Press",
@@ -105,13 +133,6 @@
    "source": "Le Parisien",
    "ts": 1793862060,
    "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : quels points de vigilance pour les comités d’audit ?",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRUOWJoay01VkpIeVBvQ3N0dGFEdmNGMjQ4RXJtc09tZGpuS2lxODM3OElRQWJYWG1BeDVydkllZHR2WEpOQnFpUzhsak45b0dzdWdxdUpwekhVUEpxZHdxTlRTdjZXUmlYZ3ZjMzA4SmkxTXNJTG84RDJnSHBaVy13aHRFMXpFbTlXS0lTVUJXQzU3elJQX0ppZFZQTF94UUtSYUxGX0RId1lUZFRBelN2dlVxTUJyZEhDTlZiQQ?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1793860970,
-   "theme": "fact"
   },
   {
    "title": "Budget 2027 : sans aucune voix pour, les députés enterrent leur propre copie",
@@ -139,13 +160,6 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dWc3MXV0X3NYMm01eTJPLWpEeTRsT0d2THFrdlZQdTBZX1dyZzNReVdxRWFoa3gwVnE4cWRlQTVtSjR2TFZfRW5TSW5meGhqT2g2Z3ZfSDdWTllhZlVkUF9QVQ?oc=5",
    "source": "Bretagne Économique",
    "ts": 1793855256,
-   "theme": "fact"
-  },
-  {
-   "title": "PLF 2027 : facturation électronique et éolien en débat",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzU0M3JzSE8xeVFVaWNqZlpUSGRyNzE4ZVBZb2U0NUtTNnhzcmhmdUZYeEFVel9JaWUxbzNWX0pkaWJRa3Y2bFl2LXN5SWhjdTh3T3d4bjhDY2Rpdm44X3p0dEhOVk1VMjVsdnl3elZ4X0xkRk1Pd1B3LWRmUHZjcE9sYVk2S0k1WDNvaFVFa05tNi15eFVlaUdkQkFlbWhWUFRseFdB?oc=5",
-   "source": "Batiweb",
-   "ts": 1793850865,
    "theme": "fact"
   },
   {
@@ -202,6 +216,13 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFczMFQwT2tDaWUxajNuNGNWamtkZy1GNVhXYW8yNE8wWGZBN050d1Q0WHFSb2xDek9QaTBxVUJVc3FXOXdNdEdOV0gwZUFDYi1oeTR0RTBtX0xqUV9tNUVxYUV2SzZpUjhTMWY0X3JZNnNzeWRNWUFuUDB6aHVMMWk3SmM4X0l3RGNnV1pnV00?oc=5",
    "source": "Juristique",
    "ts": 1793810628,
+   "theme": "fact"
+  },
+  {
+   "title": "Mise à jour – Facture électronique : gel de la réforme pour les TPE et les PME",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2J5Z2x1cFp0TVhsdVVKLWRiV08ySFlDLWxIUndmWXB1TnlFNGJwQnhna2FOR3RGVW16TjZPd0RPWmZfY09acGhjSHViQ3lkOXhNTkwxVEFxbklHSUtnYnA4ckhpWDdkdFdpRERDdkhCdC0tR3I3cV8wSDZyWGpxMVZpdGN1MHJWakJSQTZPajFWXzFZT1ZFVE5UcVlfZkVtZmc?oc=5",
+   "source": "Solutions-Numeriques",
+   "ts": 1793810597,
    "theme": "fact"
   },
   {
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMU5kZ2VKLUowV0NZVEtzS0lnVl9lSGd0SDVFWjdhMG41aEY0VzFEUURXQXN4dllDanU1MG9LVm9YWEZCXzJYckJNQlc1d1BWWkp4TWMta1BYMWcwNWk5ZXVtNnZxbXNuTWUwQ2hTc0FPSGVzRDlEaERGZThuQ0lTV0VNY1g1WjdjdHVydmE3ZWFYQnNjbEg4Y3U0TnNPQkhGYUVsb0QwdW1qMnlzRy1wbGhDT3dGeHRMVXRLYi1kOUN2dEQxUHNlOWh6di1Jd2x2LXlSOXd6d1VsODNxYjhaajF0NTlPUFlBR3NvRnBaOWtyVWwzQXVnR2otRTdscnkxU2FDTGptMA?oc=5",
    "source": "Le Monde.fr",
    "ts": 1793373402,
-   "theme": "fisc"
-  },
-  {
-   "title": "Youssef Chraibi : “Il faut mobiliser la richesse créée aujourd’hui, sans freiner celle de demain”",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm5rTnNiQnVMUVBOZVFSS2ktSWpwMDdfbkdQejRiRlNSejR2ZjVMNV9Kakp2ckV2WUpmeXREQkp4MjVqYUx6RHhkV0xQT3ppREU2VmdDMi1ISG9SdzZwTkVvLUdoQjMyeF9hcGlvRlN0TXhCa1FlaFpRU0tsd0REVFhhQW5xMHREcTBpRTVxZWZwZmFGcTVrdFlueEdjOUtTNlhXNThGQkdCQWFqeTlQc0dOamR6NjQ0UE1TNGp1TjQzMUpYS3RoNjd6WTEyTV96dEE?oc=5",
-   "source": "Telquel.ma",
-   "ts": 1793372393,
-   "theme": "fisc"
-  },
-  {
-   "title": "L'impôt sur le revenu est officiellement réduit de 30 % pour les particuliers dont le chiffre d'affaires est inférieur à 10 milliards de VND.",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUplQ3ItSDZQUjViUk9uRTk5VTV5WDlFTnM0OWpkUkFobXQ3SWV2WG9lTk5PbG9rVV91Y2RGT095SWExNFAzNjVjUHFPcXRiWnpEOW1keGx6ZmRub2pwZVJ5eGNfUUthaUEwT19VR1ZMWlBBMDBWSlhDQnpuLVptdng3S2NpT2pDLXRSa24ta2p5N19vamMtX2lHRzJHanVIcUFUM0NLY0tpY0hDTlpiXw?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793368950,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : premiers perdants, les retraités porteraient près de 60 % de l’effort demandé aux ménages",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1ZESHVleE9RUGl1V0F4djZ0UkFZYTV1Q2FUcW8yLWJWS1UtMHlwajVKakM2c3YwUThhcmEtcE1USGtiaktNRF9mMGJfVHZYMFBlZy14aEhxSzJpVkFfclgzZjNCbUdfTFl4b2Q5cUlhU3FFVWxiOGtmNUtYTWhUS1QxckxqcUVSVmFUVGxmbldic2RLQWlRZDdBMXZBZU10d2FzSUdUU1JPMS1lcGE2QTBpVFpoTVpaM3UwMHQ2MHFtS2Y1OGplbThlalNRSVNPU3NLRWNQM3cwMGdzQmVXbTVQYw?oc=5",
-   "source": "L'Indépendant",
-   "ts": 1793359560,
    "theme": "fisc"
   }
  ]
