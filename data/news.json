@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05T15:08:11+00:00",
- "last_success": "2026-11-05T15:08:11+00:00",
+ "updated": "2026-11-05T16:14:31+00:00",
+ "last_success": "2026-11-05T16:14:31+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 79
+   "count": 77
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "query": "TVA entreprises réforme",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 19
+   "count": 21
   }
  ],
  "items": [
@@ -74,7 +74,7 @@
   {
    "title": "Expertise comptable : l’Algérie veut prolonger jusqu’en 2030 un régime provisoire créé en 2010",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDRiLXc4dnJQZ1JGeF9TQ1NYQnFGWURCSlJVQURBY0FrRjFoc3JzU3FXMm9hbDRHdHhvMHUxOG5BT1JEWWo4YnpYYVZWc3lCYkRhb2lzTEpBZk5qRXZNT3AtN3gzV25iSTNOV2hQZU1zSHNEVTlYUXctOEZHMzJ4MFoxcVktMHJxNGZORlB6cGU?oc=5",
-   "source": "twala.info",
+   "source": "Twala",
    "ts": 1793890020,
    "theme": "compta"
   },
@@ -84,6 +84,13 @@
    "source": "JeChange",
    "ts": 1793885400,
    "theme": "alt"
+  },
+  {
+   "title": "Plainte, marges écrasées, \"impôt indu\" : les stations-service ripostent",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3M3cFEtWm11ODJ0XzMwTFd0aEhENzkxdG5hYk1XXzZDZjFUXzl3dmlrNkg1Y2NzendVTUoxMkJDMGJ2LXZFamlONDIxbUQ2Y1A4YzIybVVVQzk0SHplMVgyblFpMV9mRjNxT2hWQVFROEowNlJjallzRDcyM0tnMC1FUHN4QzU5ZW8tcjlqSFBueURhbFU3a1Q3Qmkta1FRRElRMG16WVduQQ?oc=5",
+   "source": "Medias24",
+   "ts": 1793881440,
+   "theme": "fisc"
   },
   {
    "title": "Pour un budget 2027 utile : la voix des entreprises",
@@ -238,6 +245,13 @@
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
+  },
+  {
+   "title": "Études de santé : la réforme de la première année pourrait faire disparaître 20 % des places",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTlBpODlIN0YxeWFwWjVXbUtKamEwY2VxWDg0SUJCMmI5eWlwdXFEUFpyUmJjRkR6dTMwQ1hxZGlDNjJDcjlvX0RuM2huRjUxR1h6bWl6QnlXZkpvNzV4cHVwV2ppYXBVOG5yNHg5cWcxQm44N0hyNXhQV2FkaUVhSE1RYnZXSXJLRHNfbkZPYll0Q3lBZzNVekFZZmtrLVhqd2xjWDRZeHBmQkJpM213aDZjOEh1cE9iRGhvTGlqaFNuV0s5ODNVWnROd2lrYjJ0dm5RY3dIZXZhRnZnbGk1Z2YwTmVwcXZqODFDTjBLdkRXZC1FczBxa2UyZTd1UF9VaXZybXdRa3V0Vm1rN2VN?oc=5",
+   "source": "Le Parisien",
+   "ts": 1793811162,
+   "theme": "alt"
   },
   {
    "title": "Facturation électronique : une première étape vers sa suppression votée à l’Assemblée nationale",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajA5UUQ0RUFNa2ZpYXZpdGJVdGtUTmhXRjNvTmwyOWhsQWhzTXRNVGx3QTQwLXNUa2VySERraWhDMmpkNnNnNXlJNDg1ZUl1bTZKa1YwcnRSWGxad2hoTUEydy1vRk8yaERiRm4waUs2M2d1MGtNeGhUWVRtemROZ0xZV1A1ZHFWSEptNUkwSHpNRjBBOFVXVmU3VU1lV1hfOGZiNmJqbHJva2JuT3haQmo1NmpkSTgybFBHMzRQSjNMajhDNHQ2OA?oc=5",
    "source": "Telquel.ma",
    "ts": 1793379689,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les particuliers et les entreprises dont le chiffre d'affaires est inférieur à 10 milliards de VND sont éligibles à une réduction d'impôt de 30 %.",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHNDVFczZThiQTFnSDNLdEpMcjJaUzdWQXZWS0RTWFBGYkJiaVVFbVYxbVJVY0lKcVVMZThQX2pVcmdqeDdxSHFkeTdvVU5oUGluekRFY1gxN0wzZUk4ajJLWW5tbkc1dXI3Y2tUaGpjd3NJWXQzeVBUajdseG9Nc0hxYjd0MUJleVVvdVBiN1dBbDlaN2tvQlMyTGxmRlNGbHhr?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793379472,
-   "theme": "fisc"
-  },
-  {
-   "title": "Lignes directrices pour la réduction de l'impôt sur le revenu des particuliers et de l'impôt sur les sociétés.",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEo4MUVXd2xMbDNqMmhFQWZBZm5OSkhyRVROcmkyeFlNdGVUdlgtcHF3NUpfUnFMUVBLbmhGS3pmWThJYW9pNnowSHBtNGtBY1B0dUMxZjc3c2hXTDFrV2EycDg1OURZN190ckFBV2NFbHQ0U0F2R0tXTy1lMzQtQlZtaFNuUmtaMTVwQXpEVnFxWXM?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793376772,
    "theme": "fisc"
   }
  ]
