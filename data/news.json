@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-05T09:11:27+00:00",
- "last_success": "2026-11-05T09:11:27+00:00",
+ "updated": "2026-11-05T10:15:15+00:00",
+ "last_success": "2026-11-05T10:15:15+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 78
+   "count": 80
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : le véritable test sera la liberté des entreprises, pas le nombre de factures échangées",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeVBRMXkzWHFMblRMSGhZZUpXcWRWV25ScUQ0SHlKVHVxcnFfUVoycWdhZVN0cHRBTDZ0UjZfRmJ3Q2piWFJuN29HN1lnLWZlOFdEYi1rVWZqbDM5QUNodnVyVXAtT2dHdVRUeHlEWU40dThTUmxYUkFkSFVuOEt2UjU1RFc5R2Z2ZGFmdG9pSmNVb2ktOXB4dmE2Wjd6M1kwUFNGQm9adU03VzZOY2FTUk9LY3F5dmwtOFFMc2szdFc1YklRZDZaS0dvWU02Q1VHRXNEYmpkUVFlZ0pkLXpicVRFQXg0dlNyaS1zMGY4WVljdXpKQmN5QUVJYldXSGhsR2l3aE1CRmk2Zw?oc=5",
+   "source": "JDN",
+   "ts": 1793872076,
+   "theme": "fact"
+  },
+  {
+   "title": "Ces entreprises ont failli échapper à la facturation électronique, mais tout a basculé en 24 heures",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnE1Y0xUejhvd2RXVDZKRXJfdVZNVTRTMi1UbDFaeUJMaGVHeWY2WDI5QjB1NjFVUEtaVl9TMWJBekJhQ1BORjcxZUxucWtzNi1WTGdaNlRpVS1pWHlYdThUOXRKLTBlc29hWVF1c0NiNTU4YlZLX3d1a255YXg2UVRqRk9idk1RbHZXd2NoNEE0cEdBV2pXUGhLb3dLcWlRenF5bDFiUEhDYzVnTER2UXUtNXcwamVfaFRtTncwS2N0QTVRTzVySHBBR3czQ0NhS1RsdGtEbVVFRlE?oc=5",
+   "source": "Clubic",
+   "ts": 1793870820,
+   "theme": "fact"
+  },
   {
    "title": "Nouvelle fiscalité régionale : la CMA Réunion alerte sur les conséquences pour les entreprises artisanales",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45bk04MFM0Wk03UmVST2YxclBEdE9mdWtLX01wZ0RPbmV3dkZpa0JUTWtJZ2kySlpJbG1RbW5rbDF3eUktcldGenYxb3hKN2R1NXhCUHJZalI4eXo5M3R3N3QzamRzYkpQWm1KVFZEa2hNbkZ3d2NxNVQ2SQ?oc=5",
@@ -308,6 +322,13 @@
    "source": "mesinfos",
    "ts": 1793784300,
    "theme": "alt"
+  },
+  {
+   "title": "Mécénat : 250 000 € recherchés pour acquérir le manuscrit d'Anne de France",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDVpMmhoQnpjaU5ndHdveHA3X2NFRGU4NGEzd25VY2RhZVFzR1BCa0xFclZ4aXlaT08yTE0zUlhMZnhHd2twS3liemVhOFZFdXhaZ1RISjk0ZnV3Y2dlRF96VFlqejJrQ3c2SHBGRWhEU1VRY1ZLX3lUMGV5a0dGMnpremJ1TTZ0dkpXeDhpMVp1VTVjaU9FQ0FLdkVSSzNYdnlTUHVOMkxKVFpVNG96cDRQSDlhRk1vdXRMbzlWNExRNFZwSlE?oc=5",
+   "source": "ActuaLitté.com",
+   "ts": 1793782320,
+   "theme": "fisc"
   },
   {
    "title": "ENOES : 90 ans d’expertise au service des métiers du chiffre",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQUdhVENrSmtUazVpbG5FUUVMSVp0dURmNDdnTUo1Y3dxVnp1Q0UwZzRVQ2NtUGdEOWNUcVFBSWRSdk9YR04wZ3lLSmhOWE8yb2s2ZjVoVVVGaVhOYVFQUnVuRklfaHA0MzhRXzZnS19Nb3djV29hYUdvM0UxTkZ0Mk9hRjJ5NTM0SzVDQkpvRmtPaDFwTEF4R3lyTHMwN1o5RmtGM1JOR2FtS1d0dmd0bFFGUlVYN0VGX3BHbFhvQ3pWUmp4bnZrazBjN0RwNV9XSVdYM1BmcVludDM3WFQ5X0FrZTM?oc=5",
    "source": "Sika Finance",
    "ts": 1793356636,
-   "theme": "fisc"
-  },
-  {
-   "title": "L'emploi fait du surplace dans une économie française en panne",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZElnUDRmM2xQN29teUJXVXFnLXEwWENIUTVDdHd4TS1PNlBmbS0xSktwOGZaeHU2SDhvVlQyRDlfbG1ON3pmeHNCMERjcU1CWGhCSmxIeUw0MnhmMEphcHZjWTB1RHV4cmFfZWhtcmpDOURGUjJHdVk5U3pZU0otRFFOdXR1T2txd2w1N21GaGpaRnFrb2Z1NXBtdzFqQ2VNSTJVR1FiaGhhV0c2S2diclpnYlVVTWs?oc=5",
-   "source": "Les Echos",
-   "ts": 1793350971,
-   "theme": "alt"
-  },
-  {
-   "title": "La financiarisation de l’expertise comptable s’intensifie",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1hjcm1wTDJwUVJZMjQ1cUdpdDA4blIxaWpPVmJDbm1tbWdmc3BobTRoa08tSDFhcV92eW9JYy1xVHJhNkpHVmtLMHFtQTR3amdTdExRRUdBeURjWW8tYWNDZl9zX0s0S0tHWXZQZ2dnRGRvTjZOVEs4WnpCMUtTWGFXZzQxNnVXdWZ1OTRSMXZ5M091Q2wzdm9JRkswNUVHVmRGdQ?oc=5",
-   "source": "L'Agefi",
-   "ts": 1793350898,
-   "theme": "compta"
-  },
-  {
-   "title": "Budget 2027 : les députés adoptent en commission une hausse de 20 % du salaire des enseignants",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYUFDc0swWHc1VC1FNEVJNVZRYUxuQlhvVGpybUk5alo5aHcycDVSTk9kLVFsN2k1NDFIOGdHMzZ5eXlpU3NFX0VVa2VlaV8yUmwxMW5GLXNLd0F5TTk4eDZja002VkNKel9OWERlOGgyQlJac29HUlRpXzc3Vkt0UUpMdy1ZV24xWTRCc2cwZW8yQ3pCWUxzcnQyS0ZISFNkVUxadDdaa0V0QmdvZFlELWttOW91dXJKYlVUazBiSlp5UUQxNG04ZmRLOElnMExUMmtyaGJFaXdVN2V2RHE1Qg?oc=5",
-   "source": "Sud Ouest",
-   "ts": 1793349796,
    "theme": "fisc"
   }
  ]
