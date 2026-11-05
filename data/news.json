@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05T19:06:39+00:00",
- "last_success": "2026-11-05T19:06:39+00:00",
+ "updated": "2026-11-05T20:01:36+00:00",
+ "last_success": "2026-11-05T20:01:36+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 77
+   "count": 78
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,15 +60,29 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 19
   }
  ],
  "items": [
+  {
+   "title": "« Mettre fin au mythe de la perfusion » : pourquoi les entreprises françaises ont des marges parmi les plus faibles d’Europe",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSDRUdDVmUEJFYzMwS2xFRDFJa2tNVlJZa0l0c3gxNlZOSUF3ZkZEQTFLSFJ6NUNoV01aRUxjQXQ0d0lyYXVDMWF6VGlqbzdremVXV2FMQU1jM0F4ZU1waC13NEhlVFlmcTBjQUp3MDFiOUtxLWlscHNSWGdHQnZpeUJzYndfMzVvczdybGpleGgyVFU4S3VROXV0Sjl3bHAzZU1jQ0hia2NqaFBWTHJZR2Vxd0FNelRxMlVRVzNScml0VXVteGZYQ0FLZmdvRG9HU0NBemJRTVVyTUJ0em9NcFVTd29UdF9wZk5HSEc0bElzSU8zY3c?oc=5",
+   "source": "Le Figaro",
+   "ts": 1793906400,
+   "theme": "fisc"
+  },
   {
    "title": "L’UE cible les grandes entreprises pour débloquer l’accord budgétaire",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMktIU19CYl9oXy1JeHp3RjM4azVfOG81UWptOVBrN0VTU0UweVZLcVFSb3F4WlNTb3JYbVIzT1RTUGZoVEdXUWNacXRiZnlJNGlON080VTZIQ29hYU4xNU1EZnJjTDd5RS10dWJvSkh6RTAyaTl0cWZ5M1N1RG5lSS1kSUJIeVdOZVkyUm5jRkc1VWZxZHlJ?oc=5",
    "source": "Mezha.net",
    "ts": 1793904749,
+   "theme": "fisc"
+  },
+  {
+   "title": "OPINION. « Faire de la France un paradis fiscal ! », par Ferréol Delmas, directeur général du think tank Ecologie responsable",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRFJ1Q0hxNXREa1oyanJHaW03eHRSdGR2WjlQTFBSbGRoN0E1ZzNCOWIyM1B2VURzck95bkxlNE9VRU5aLXZOWDcxV2kzWEw1eGRuYkhTM0l1S3VGTDZhVXpZVXZoMEUxczVyVDRJY2JXN3RYNmNQRUp2OGlnQVBMbkt5OXZublFBRUI2c3NzSXRTRzFtdk1RSE12QlZoc0JSVkRsUGFwTGZTNi0wX0dGN1RnakUxRlVRRkZROXlXcFdZRXAtcXdsT0MxM25qNk1TcFhDcjZueFlLTVNCcUtPQnYwN0MtbUpSWGY2THk1ZndyU1JHc0trdFd5Q3QzSERRbTJJejY0UzBCNHp0ZFloLTJNa0JhSFVmbF9aMkFn?oc=5",
+   "source": "La Tribune",
+   "ts": 1793900485,
    "theme": "fisc"
   },
   {
@@ -1099,20 +1113,6 @@
    "source": "Laodong.vn",
    "ts": 1793411782,
    "theme": "fisc"
-  },
-  {
-   "title": "PARIS : Facturation électronique - Un mois après, 19 % des TPE n'ont entamé aucune démarche",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQzgwd0hYX00wQmhGUHQxRTdwUms1Wk1qeW5fdkJpRkFlTDhlb3ZpeldQeUl3OGhKQjBsXzc3MElvWFhOQndJNWMwUVpLSVE1OXVkdEF2OUtQcVJmWEtjY1RFcWpPVzVfbTZzZ3I1M2w2bHliXzVRdWpRWTRDVlVmS0dUdm9Temc3U2FvNkVqVUJScUV1cEoxRVpwTWx5cWpQM2Z3WWNEd2R4YVFP?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793408400,
-   "theme": "fact"
-  },
-  {
-   "title": "Lepermislibre : Rapport financier semestriel 2026",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0VfRFM4TllNSGNRYmdpU1o5aC1jMFdKVjM4VnRxaEFwNGRFVUd4TDJUYWVibnBzOEd2VkplYjNYM2Z1VVhwVGlIbUtJSThrdGk0VzA0MWQ1dFJzbm1yRWFwNmZveFRUN29XdTZnZmJNT0JVMTFieFpxSGtsdmJkYktVWFpmZzNvRTB3WG1jYW5lTl9lU0Y1b3lGQmYxRTRuMTZLRk41b3lOaWs?oc=5",
-   "source": "Zonebourse Suisse",
-   "ts": 1793382009,
-   "theme": "compta"
   }
  ]
 }
