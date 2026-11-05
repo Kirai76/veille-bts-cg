@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05T21:55:58+00:00",
- "last_success": "2026-11-05T21:55:58+00:00",
+ "updated": "2026-11-05T22:56:36+00:00",
+ "last_success": "2026-11-05T22:56:36+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 78
+   "count": 79
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
+   "source": "Batiweb",
+   "ts": 1793917003,
+   "theme": "fact"
+  },
   {
    "title": "« Mettre fin au mythe de la perfusion » : pourquoi les entreprises françaises ont des marges parmi les plus faibles d’Europe",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSDRUdDVmUEJFYzMwS2xFRDFJa2tNVlJZa0l0c3gxNlZOSUF3ZkZEQTFLSFJ6NUNoV01aRUxjQXQ0d0lyYXVDMWF6VGlqbzdremVXV2FMQU1jM0F4ZU1waC13NEhlVFlmcTBjQUp3MDFiOUtxLWlscHNSWGdHQnZpeUJzYndfMzVvczdybGpleGgyVFU4S3VROXV0Sjl3bHAzZU1jQ0hia2NqaFBWTHJZR2Vxd0FNelRxMlVRVzNScml0VXVteGZYQ0FLZmdvRG9HU0NBemJRTVVyTUJ0em9NcFVTd29UdF9wZk5HSEc0bElzSU8zY3c?oc=5",
@@ -86,11 +93,11 @@
    "theme": "fisc"
   },
   {
-   "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
-   "source": "Batiweb",
-   "ts": 1793895402,
-   "theme": "fact"
+   "title": "RSA, AAH, minimum vieillesse… De combien ces aides sociales seront-elles revalorisées en 2027 ?",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0VEWlZuYUctX3k3RjBMUWNBOTg3aTh0dEhob2VaQTAyVy1jU2ZMekQxNmlSUjBicmZKTFk0Y3ZsTTF5WUN3NldSeV9iUmstaDlGd1RDa1RZRmRTUVZpZFEyd1VkMFZCR1BTSnRFZHJIakhKVGZvdE55SHJNLWFYVjdjcXp0czg4d3pvSzh4ZjhNVDhFRlpISVVObUdqRlNVb3J4UEZCMkgxQXpTampjcWlyTkw1RFdRTjF0Y1ozMHgtOHZFUkY4ZUF3?oc=5",
+   "source": "Le Figaro",
+   "ts": 1793891348,
+   "theme": "fisc"
   },
   {
    "title": "L'Opco EP exprime à son tour ses réserves sur la plateforme unique de l'alternance prévue par le PLF 2027",
@@ -1106,13 +1113,6 @@
    "source": "repha.fr",
    "ts": 1793415743,
    "theme": "fact"
-  },
-  {
-   "title": "Les entreprises et les ménages commerciaux bénéficient d'une réduction d'impôt de 30%",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnNQN19MV0dBb3ljekptQnRnRWU2c3ZxcVRmc3lCRjJYQmxZcEVjTG9lVGt3Y2tSeXVYVlhOdkZSS0dCRkdDWFNqV0dIdVZ4Q0s4X1NFcjdoRC1HSjJyRU51R2hYYVpGTFVrTWVzcnlMd0FWYjdpQjlKcHJVOEdkV0hUUWJqb0NsMkVEbHhyWQ?oc=5",
-   "source": "Laodong.vn",
-   "ts": 1793411782,
-   "theme": "fisc"
   }
  ]
 }
