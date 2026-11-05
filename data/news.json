@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05T16:14:31+00:00",
- "last_success": "2026-11-05T16:14:31+00:00",
+ "updated": "2026-11-05T17:26:03+00:00",
+ "last_success": "2026-11-05T17:26:03+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 77
+   "count": 76
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
+   "source": "Batiweb",
+   "ts": 1793895402,
+   "theme": "fact"
+  },
   {
    "title": "L'Opco EP exprime à son tour ses réserves sur la plateforme unique de l'alternance prévue par le PLF 2027",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwc0V3RFh0WER4TF9tYmZOejFrSXJyeUNuVDVOYmhSZlhHeEN5Z094dmlqdUhTejFaMHJHX0prMFBkbnFVeE9WSnQ1U1Y5Zw?oc=5",
@@ -535,7 +542,7 @@
   },
   {
    "title": "Dix Opco demandent de revoir le périmètre de la plateforme nationale de l'apprentissage prévue par le PLF",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmNaODZ1cDVGME10WkNDSkxvYWFCeTNCXzhyOURFVVdSSUt2QW4waHZNaHBseXQxMVJRR21ZYVFZLUVwRklkMWJ0UGw3NTRwUEdwLUFGazNBTC1rcXZnRlEwNXNFX0RsVGdBeHRoSEFLb3AzOFJhUFhqUVpYRndHQl9wVGZ6QzRfaUJ5NTNIT21GaVVQYXp5QWpDbW9Bb2JOX0djZk5lUzJ0b2lTbGVpMXVlV09xT0xJQ0s2aGRBVDBGWkZWbDFkRVhtcU1ZUjcyVWRvV1pkQmxyZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVmROUzhxcmlzTXA5bzR4ckhScUV4cjhDWWNFcEhHVUR6LWZydU81YWZxRXBmazNUSVQ4b2RPZHB6OWRBeDQzc2JhZHJxdw?oc=5",
    "source": "AEF info",
    "ts": 1793727290,
    "theme": "alt"
@@ -853,7 +860,7 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTBBb0dLa1NYclc3b3dqQldRbHFHT3hkT0F3anBxRVZCdmJXeEV0U18tSnNfaEZ3UjZuVjZPQ01TLW1kQ1pSb1VSbWlSdldpWTlyTUN6bUV5LV9GUjIzZ1VzbVd0a0pfVW5EZ01nZGVqNVlLX2treWRzR0s2OXV6d3BuSTBOTFlkZFVsMWNmRGpMTmdCMGxqOXhB?oc=5",
    "source": "Compta Online",
    "ts": 1793615451,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "Un nouvel impôt lourd de conséquences pour la France",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnVJSUlGNGlMZFJhenZBbzZRV3RaV19fREtTVXNNYVpZLWtMT09MLWZ6NHkwb0R1TDBQZHFlS1ZVOUFLTzJUZ25ra3JwWndrQzQzY1dYRXVIU3JTeHdzelRDUUxWNVRHbmxadDJBcUR2bEhvYlZpbDEyT29Db1B3RmdOVXNKY1hLTThfSEtIcC1uc29IZnM2cEw4RmhFS0dON194XzhqenZYWnhCa0RkdFU3RQ?oc=5",
    "source": "lejdd.fr",
    "ts": 1793381370,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : les TPE-PME et autoentrepreneurs réclament plus que des ajustements fiscaux",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajA5UUQ0RUFNa2ZpYXZpdGJVdGtUTmhXRjNvTmwyOWhsQWhzTXRNVGx3QTQwLXNUa2VySERraWhDMmpkNnNnNXlJNDg1ZUl1bTZKa1YwcnRSWGxad2hoTUEydy1vRk8yaERiRm4waUs2M2d1MGtNeGhUWVRtemROZ0xZV1A1ZHFWSEptNUkwSHpNRjBBOFVXVmU3VU1lV1hfOGZiNmJqbHJva2JuT3haQmo1NmpkSTgybFBHMzRQSjNMajhDNHQ2OA?oc=5",
-   "source": "Telquel.ma",
-   "ts": 1793379689,
    "theme": "fisc"
   }
  ]
