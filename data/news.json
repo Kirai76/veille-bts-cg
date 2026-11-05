@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T13:23:55+00:00",
- "last_success": "2026-11-05T13:23:55+00:00",
+ "updated": "2026-11-05T15:08:11+00:00",
+ "last_success": "2026-11-05T15:08:11+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,25 +45,46 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 18
+   "count": 19
   }
  ],
  "items": [
+  {
+   "title": "L'Opco EP exprime à son tour ses réserves sur la plateforme unique de l'alternance prévue par le PLF 2027",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwc0V3RFh0WER4TF9tYmZOejFrSXJyeUNuVDVOYmhSZlhHeEN5Z094dmlqdUhTejFaMHJHX0prMFBkbnFVeE9WSnQ1U1Y5Zw?oc=5",
+   "source": "AEF info",
+   "ts": 1793891222,
+   "theme": "alt"
+  },
+  {
+   "title": "Expertise comptable : l’Algérie veut prolonger jusqu’en 2030 un régime provisoire créé en 2010",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDRiLXc4dnJQZ1JGeF9TQ1NYQnFGWURCSlJVQURBY0FrRjFoc3JzU3FXMm9hbDRHdHhvMHUxOG5BT1JEWWo4YnpYYVZWc3lCYkRhb2lzTEpBZk5qRXZNT3AtN3gzV25iSTNOV2hQZU1zSHNEVTlYUXctOEZHMzJ4MFoxcVktMHJxNGZORlB6cGU?oc=5",
+   "source": "twala.info",
+   "ts": 1793890020,
+   "theme": "compta"
+  },
+  {
+   "title": "Le chômage des jeunes grimpe à 21,6 %, celui des 50 ans et plus à 5,5 % : le détail de l'Insee par âge",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmhaVTQ5TkVQa0dCSXJROXpudWdjdGs0aWprbk04QWI2X0RSZmJHb0UtMUdqQ0ZMMDNCaTBWMENPaTljT2x1ZUdLOVRHZWRJWTczcVFZRXowSUVvV05pQVh6cEFZVjByUmZKdkV3alVxT3pmLWlaal9jbXE4b0ppUGVoZ3YwOXVVT2l3YmNCTFp3UnhvczAwZHlWdlgyc0t0TE1j?oc=5",
+   "source": "JeChange",
+   "ts": 1793885400,
+   "theme": "alt"
+  },
   {
    "title": "Pour un budget 2027 utile : la voix des entreprises",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZE9tdFlOY0FuMTNlOTl6X1QtODhDVktLaGpWbnNMUmo0WThZSnhEdGVRZ3Nsd2VnQ29mYmVOT0loTXB1aHRZTEVtOXhCU0x2dFFyUjZ2ZVJSckx6aW4tWnF3WVJuZzJ2dmVnSHBWOHFDVk02UlZ3SWI4UVE2VC1HSHJ2MVZoY0JSNEw0b1pYM0pzX0JkbDVQVHZIYk5CVzNYSXlLSA?oc=5",
@@ -84,6 +105,13 @@
    "source": "Batiweb",
    "ts": 1793877199,
    "theme": "fact"
+  },
+  {
+   "title": "Des propositions pour soutenir « les entreprises les plus engagées",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeU5fZ3cyRFZReUlncjRRSUswOE9yT3dLTXZCellULVpVZkpyZWNhTGl6NjRoSC16NXczbUJzWjZZVWZ2QjNqZkFZQ015cTd0ZWxlLTlGd0lMclNmYkdmUlFRcy1fbEtraTF6WUFKQXhyOUl2N3lpUWxXa0lHOHRTOGY4S3M1Yk1mQWZCUC1Ielk0UXZsMEl3V2kxQmtveS1DVi05NHhsRTNGLW9S?oc=5",
+   "source": "Carenews",
+   "ts": 1793875245,
+   "theme": "fisc"
   },
   {
    "title": "Facturation électronique : les députés votent une suspension pour les TPE et PME",
@@ -198,15 +226,15 @@
    "theme": "fisc"
   },
   {
-   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi faut-il s’attendre",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkstRzU2ZnFQcHVNcTF5dWM0Q1hUU29aVWR5LVhTNkVZNnV5Zzdub3d0YklpN1VXSWR2YTdqbklheE5neDlCZ05wVENFaF9fcnFtUUVqTVk1SGVPcDQtTWhUdFpoZzl6MEF1TkhJS21CMzVPOVdxemZKTldIS2tWMXlpSXdiejJTWFFjMnR4X2piR24yMHFCaUx1TmpSYU1WQ2FwOGhB0gGrAUFVX3lxTE8xS0hsR2l0ZjNUclA1Z0xqTkFDZGdXS1hYcUpRcktlYk5IZ3hFUGhjMTNEbl9obXlsbVFiMG8xTTlJWHZ3dkZvOGZhcXFjVDZOX1JqVm5Md2xZS1pfLVpsUWhqUkZYZXVZSnNRdnY4QUFFZUxsSDV5NUpCVGV2YUNFT2J3UTV6eEpuMllPTWs3OG40YWdjT3RzaEZoeklUU2pmUVliTWFaUFlmUQ?oc=5",
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
   },
   {
-   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi faut-il s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkstRzU2ZnFQcHVNcTF5dWM0Q1hUU29aVWR5LVhTNkVZNnV5Zzdub3d0YklpN1VXSWR2YTdqbklheE5neDlCZ05wVENFaF9fcnFtUUVqTVk1SGVPcDQtTWhUdFpoZzl6MEF1TkhJS21CMzVPOVdxemZKTldIS2tWMXlpSXdiejJTWFFjMnR4X2piR24yMHFCaUx1TmpSYU1WQ2FwOGhB0gGrAUFVX3lxTE8xS0hsR2l0ZjNUclA1Z0xqTkFDZGdXS1hYcUpRcktlYk5IZ3hFUGhjMTNEbl9obXlsbVFiMG8xTTlJWHZ3dkZvOGZhcXFjVDZOX1JqVm5Md2xZS1pfLVpsUWhqUkZYZXVZSnNRdnY4QUFFZUxsSDV5NUpCVGV2YUNFT2J3UTV6eEpuMllPTWs3OG40YWdjT3RzaEZoeklUU2pmUVliTWFaUFlmUQ?oc=5",
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEo4MUVXd2xMbDNqMmhFQWZBZm5OSkhyRVROcmkyeFlNdGVUdlgtcHF3NUpfUnFMUVBLbmhGS3pmWThJYW9pNnowSHBtNGtBY1B0dUMxZjc3c2hXTDFrV2EycDg1OURZN190ckFBV2NFbHQ0U0F2R0tXTy1lMzQtQlZtaFNuUmtaMTVwQXpEVnFxWXM?oc=5",
    "source": "Vietnam.vn",
    "ts": 1793376772,
-   "theme": "fisc"
-  },
-  {
-   "title": "Hướng dẫn chi tiết giảm 30% số thuế TNCN, thuế TNDN phải nộp từ kinh doanh có doanh thu không quá 10 tỉ đồng",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnRQZEpPdUozMFhaNGZfdy1GVWxxUU9JR1RyaHk2RUtUbUpuMGZFc093SWtqeWluQUs5THJDSlBkMzZrY0tYYl9PbHB3YnIxSTFYSF9hcS1zUV90QlZnUk5PX0NfcnlMSlZSd1ZDTDYzZVlJUlh1aDdlVno1NnFSLTFoV1dGUmE4TTNhaHgzV2J1NDliRVNNdzNtb3NkaDN4cGpMXzcwNVJkUTE3TEFiVngta3dSVGlnX3p2cWlXbTJSZC1CdmZNQTBnWXY?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793375584,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : plusieurs taxes sur les grandes entreprises adoptées par les députés",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0tqUDdlM2JIb1JIWHNDY0tBNmhWRFkwRHcyZ0hfcGxBaEM0c0hzeUVPeGJ3eC1BdkkyY1Vlb2VNSEx4ZjhoMUI3b1d3c2t2NlVZTWMxaVRjcmJKV0xDRVdnRnRwWXFRWFJSYi1CNXpwV1F2SmRyc3c2NVRqVXVMMVRGU3BwbW9JTDlkMmU3VVZZUHIyZzF1S0t1Y3NUUFZVQ0luTGFUZnhoSnBkZ3o2RHhmelJnSVE2dnZ6aHQtNWNEcTBn?oc=5",
-   "source": "TF1 Info",
-   "ts": 1793374179,
-   "theme": "fisc"
-  },
-  {
-   "title": "À Nice, le cabinet d’expertise- comptable In Extenso investit 3 millions d’euros et fait le pari de la proximité physique",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLVVvZE9RRUhJRWptWnJpNERWSjBZX29rQmZOcGtHTVc1ZzhuNmtLdGxvZ3hBMlhSdWhnc3ljT2pqQnN2UnJuYkg0bjVvbmlhdHphTjNuVlFta3lEdGthanFpaFNwX1A1Z2NTNVRLaUdDdGUyejBFUlV1OTBPa3htbEFId25HRWVqb1ZPMUYtRlRZck9YbEZzZV9WZ191a1hweVZFMTBxd1lUdGRTOXU0Q2x6Q1JIbS1YYW14MGM2MzB5bXNqRW5aRmdNNC1kQktrSnRac3k2clF4QWM2VXlWSWhnNDlCUDVYbWNRVk8wQzFjZWRzRnc?oc=5",
-   "source": "Nice-Matin",
-   "ts": 1793373893,
-   "theme": "compta"
-  },
-  {
-   "title": "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMU5kZ2VKLUowV0NZVEtzS0lnVl9lSGd0SDVFWjdhMG41aEY0VzFEUURXQXN4dllDanU1MG9LVm9YWEZCXzJYckJNQlc1d1BWWkp4TWMta1BYMWcwNWk5ZXVtNnZxbXNuTWUwQ2hTc0FPSGVzRDlEaERGZThuQ0lTV0VNY1g1WjdjdHVydmE3ZWFYQnNjbEg4Y3U0TnNPQkhGYUVsb0QwdW1qMnlzRy1wbGhDT3dGeHRMVXRLYi1kOUN2dEQxUHNlOWh6di1Jd2x2LXlSOXd6d1VsODNxYjhaajF0NTlPUFlBR3NvRnBaOWtyVWwzQXVnR2otRTdscnkxU2FDTGptMA?oc=5",
-   "source": "Le Monde.fr",
-   "ts": 1793373402,
    "theme": "fisc"
   }
  ]
