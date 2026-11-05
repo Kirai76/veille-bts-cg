@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05T17:26:03+00:00",
- "last_success": "2026-11-05T17:26:03+00:00",
+ "updated": "2026-11-05T19:06:39+00:00",
+ "last_success": "2026-11-05T19:06:39+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 76
+   "count": 77
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "query": "TVA entreprises réforme",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "L’UE cible les grandes entreprises pour débloquer l’accord budgétaire",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMktIU19CYl9oXy1JeHp3RjM4azVfOG81UWptOVBrN0VTU0UweVZLcVFSb3F4WlNTb3JYbVIzT1RTUGZoVEdXUWNacXRiZnlJNGlON080VTZIQ29hYU4xNU1EZnJjTDd5RS10dWJvSkh6RTAyaTl0cWZ5M1N1RG5lSS1kSUJIeVdOZVkyUm5jRkc1VWZxZHlJ?oc=5",
+   "source": "Mezha.net",
+   "ts": 1793904749,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Zonebourse Suisse",
    "ts": 1793382009,
    "theme": "compta"
-  },
-  {
-   "title": "Bénéfices, impôts, carburants : TotalEnergies riposte aux attaques de la gauche",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnVJSUlGNGlMZFJhenZBbzZRV3RaV19fREtTVXNNYVpZLWtMT09MLWZ6NHkwb0R1TDBQZHFlS1ZVOUFLTzJUZ25ra3JwWndrQzQzY1dYRXVIU3JTeHdzelRDUUxWNVRHbmxadDJBcUR2bEhvYlZpbDEyT29Db1B3RmdOVXNKY1hLTThfSEtIcC1uc29IZnM2cEw4RmhFS0dON194XzhqenZYWnhCa0RkdFU3RQ?oc=5",
-   "source": "lejdd.fr",
-   "ts": 1793381370,
-   "theme": "fisc"
   }
  ]
 }
