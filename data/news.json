@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05T07:29:57+00:00",
- "last_success": "2026-11-05T07:29:57+00:00",
+ "updated": "2026-11-05T09:11:27+00:00",
+ "last_success": "2026-11-05T09:11:27+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 80
+   "count": 78
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 36
+   "count": 33
   },
   {
    "query": "aide embauche apprenti",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 18
   }
  ],
  "items": [
@@ -72,11 +72,32 @@
    "theme": "fisc"
   },
   {
+   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
+   "source": "Compta Online",
+   "ts": 1793862124,
+   "theme": "compta"
+  },
+  {
    "title": "De 504 à 1867 euros bruts par mois : combien touchent vraiment les apprentis selon leur âge et leur année d’études",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZzV3VUpKUkEyTDV4WGR2S3hSbmQySEFYejY1R3ZQM1Vjd05HQ0hrOWtHWDhZN1NNRDhQU3dtYzduWHk0Q3BhTDBoZVJPYzBxZTFtMFZKVTVIX20tMm9xdTNhQ0NVWXZsUlRsMnVUQURfQkxJVG41N2FQU3g1RkZNT0xvOVM3M0RheW5uRlB1TXA5RkxnWDVTSmRKaXhzLVItTG9xYWpkOC1yNDVkSnAzNVRxcTNFRkNwbVExRy1CeWlQT1A5cUhzS1BzYThGTy1TRXkxQzhPem5fdVh2TGg1QkI3MzM4cUtmMkVYUmw2WDViLWExeWZnWlpoVFRjNEhBYmZuOXJyTG1OU1laTm83QWxJTHVKQzV1Y3hTRUUzVjA?oc=5",
    "source": "Le Parisien",
    "ts": 1793862060,
    "theme": "alt"
+  },
+  {
+   "title": "Facturation électronique : quels points de vigilance pour les comités d’audit ?",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRUOWJoay01VkpIeVBvQ3N0dGFEdmNGMjQ4RXJtc09tZGpuS2lxODM3OElRQWJYWG1BeDVydkllZHR2WEpOQnFpUzhsak45b0dzdWdxdUpwekhVUEpxZHdxTlRTdjZXUmlYZ3ZjMzA4SmkxTXNJTG84RDJnSHBaVy13aHRFMXpFbTlXS0lTVUJXQzU3elJQX0ppZFZQTF94UUtSYUxGX0RId1lUZFRBelN2dlVxTUJyZEhDTlZiQQ?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1793860970,
+   "theme": "fact"
+  },
+  {
+   "title": "Budget 2027 : sans aucune voix pour, les députés enterrent leur propre copie",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckhDVFU5OXAyekZsLUo2SWFqcUFtUFBwWUhpNkRTMXc4UnBaeEJLV3Yxa3daMjhQcG5IXzdCbFlWZGdDSm5wbTRwYmZ3cHAwSFNKazAxdkxra3JSR3VXd1ZIaGx2cnkxTVFQOWtUYTFYX3Q4UTVYU2h5TjFXY01FTlVxVDVpOHNkNU9pOHZZenFRM2hwbFJRQnVPdEQtQWpFSldyS0RIZ2NzUDA1VWxFb3RiQUFCVDFGTzA5dkVTWC0?oc=5",
+   "source": "Capital.fr",
+   "ts": 1793859957,
+   "theme": "fisc"
   },
   {
    "title": "Fleury-les-Aubrais : rencontre entre commerçants et élus sur la numérisation et la facturation électronique",
@@ -119,6 +140,13 @@
    "source": "LégiFiscal",
    "ts": 1793833612,
    "theme": "fact"
+  },
+  {
+   "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMFYxSDRsWkRCbDE0LVhUa3hKc3NLdVFEZENRTGszQjFlYWptOVNkcS1NUlRWNjNxYW5LbHlzY3kycEJFcWE4dkQ1bjFaSFBrb2t4MXVfSWNEdVpnXzBNYnVmdW1FZU1iZWhBUFlaSGFGSzlKNVpWbnZ2VkVxT09YOTdBWEl3TlM1dG8yNnY5M3k1N2dSOUlRUkZqSS0weTdmSE9UUnY2NEktbWg2eGJORGMxMGNjQ1VlM1FYdFczdmRET2dqcy05YmhZOUJ4UWFFZTJlZ0ZnWWg4bmFNVWFNTzBoR3hvOE1lVmNkcFFaXzctQVpGMkxORVFFd1Myc3dScHFUVGhlYw?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1793832792,
+   "theme": "fisc"
   },
   {
    "title": "Parcoursup : première réunion de travail lundi, la délicate réforme est lancée",
@@ -329,13 +357,6 @@
    "source": "TheSiteOueb",
    "ts": 1793773704,
    "theme": "fact"
-  },
-  {
-   "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMFYxSDRsWkRCbDE0LVhUa3hKc3NLdVFEZENRTGszQjFlYWptOVNkcS1NUlRWNjNxYW5LbHlzY3kycEJFcWE4dkQ1bjFaSFBrb2t4MXVfSWNEdVpnXzBNYnVmdW1FZU1iZWhBUFlaSGFGSzlKNVpWbnZ2VkVxT09YOTdBWEl3TlM1dG8yNnY5M3k1N2dSOUlRUkZqSS0weTdmSE9UUnY2NEktbWg2eGJORGMxMGNjQ1VlM1FYdFczdmRET2dqcy05YmhZOUJ4UWFFZTJlZ0ZnWWg4bmFNVWFNTzBoR3hvOE1lVmNkcFFaXzctQVpGMkxORVFFd1Myc3dScHFUVGhlYw?oc=5",
-   "source": "Le Monde.fr",
-   "ts": 1793773430,
-   "theme": "fisc"
   },
   {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
@@ -800,6 +821,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Expertise-comptable : une digitalisation du métier au service de l’humain",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BMc1Y1aGxYOFpCQUZVNnh2OHFqQ1Nwd3hkcGswbkkwS2FxdlFFZ1FXOTNzOUh2bGVoQ0VHQnVKckU4bXF5Q1k4cFRjZkNiSWdZSko2eXRyS2R5MWFZTzVFUHJiZkdSQ0F4M1oyR0RHMkl6dEJ3RkpBeVd0TXhVRkdiaEx0WkF0VjlBX2VxRE5WOWxGYjRFOXdlRm1sQ2h4SVBRdDR0NC1iS2VCZWxkOGk1OA?oc=5",
+   "source": "La Vie Economique",
+   "ts": 1793599200,
+   "theme": "compta"
+  },
+  {
    "title": "Doanh nghiệp, hộ kinh doanh được giảm 30% thuế",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Qa1REWFQ2NC1YRk42dllXLUpOaWpWVVZWOWZjVkJoVlNlMTRmMVFoNlJSYkFqcy1CTkFmd3cyWktNTXFqODVHX2gzWFFwY2loazBWc2lES3otTDlNdWgzZFJLWDYxLW9BS3ZtYVplY0FxZEpyUmdHTnRR?oc=5",
    "source": "Vietnam.vn",
@@ -888,7 +916,7 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
    "source": "Compta Online",
    "ts": 1793461058,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYUFDc0swWHc1VC1FNEVJNVZRYUxuQlhvVGpybUk5alo5aHcycDVSTk9kLVFsN2k1NDFIOGdHMzZ5eXlpU3NFX0VVa2VlaV8yUmwxMW5GLXNLd0F5TTk4eDZja002VkNKel9OWERlOGgyQlJac29HUlRpXzc3Vkt0UUpMdy1ZV24xWTRCc2cwZW8yQ3pCWUxzcnQyS0ZISFNkVUxadDdaa0V0QmdvZFlELWttOW91dXJKYlVUazBiSlp5UUQxNG04ZmRLOElnMExUMmtyaGJFaXdVN2V2RHE1Qg?oc=5",
    "source": "Sud Ouest",
    "ts": 1793349796,
-   "theme": "fisc"
-  },
-  {
-   "title": "La proposition suggère une exonération fiscale de 3 ans, à compter du moment où l'entreprise devient rentable.",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazFwQzd6Zi1kRW5RZUJjcUxLX2w3dDRJNlNsa0ZKQXI1cTRsT1NoSGVhY1YtV1U4TUhHTklJelZFdkluQ3JqVzIybGdfYzdlbkE3R2l4N0FMay1zTW5nTWlGdzE5NmdTd1F6dzBnWWVISE5YUmVUUUpJbmcxd1VkemxLVGNBcXR1?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793345693,
-   "theme": "fisc"
-  },
-  {
-   "title": "Un nombre record de starters, mais les experts-comptables restent rares",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSWJDRUYzQmZDelgwQmktNUk0QXczR0tRc2hrTFd6MU9oRm5NRVJKMFMyaDNmRW5CdlZFa29lNldNemFDRTd6eUwzS0Z3WFFIdDRvNjEwQkdiYk5iUk0xbGU0MUtNdy1GOUtpYW04NHlEMmhnVHU3TVo0SlVfTHhVcEoyZzBVTVhOS3VlbnpEYmZWcEN6QkxSNmlYVlJXcnpjMS12UkZsRV9lWnVJbmpiOXVGLWtIb1V2a1d3RUxwcHFQbWpLRXJ6RXkyVm9IaE84SlJmTFZua0Nldw?oc=5",
-   "source": "newsroom.ing.be",
-   "ts": 1793345400,
-   "theme": "compta"
-  },
-  {
-   "title": "La facturation électronique : micro-entrepreneurs, ne tardez plus à vous y conformer !",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVBjNUNBNmVtTGlXbW40eUVOeWFQcWRvSWxKYkJWZ0lRUnA3YzZTeEw3cWE3VXAxLTVFMGdicGxOS21STEhIYWxrejBfN3NkTmU4UkVxY3RqSTZyNzgxdDJnODNQU3h5Yl9XMW1GWVhXbHZWZE5ub1R4MUJ1Z3g0NS0zbnYyX2FDYXpRT0RXV3VUQWZucUNFdkpGQl9nZFhBTFZiZXRtU0dsWjJGS1JoVVp2VFNXc1laTm0zRlZtSjZTN0tWQ2RUVjk4Wk4?oc=5",
-   "source": "Carnet Le Parisien",
-   "ts": 1793344678,
-   "theme": "fact"
-  },
-  {
-   "title": "PLF 2027 : 100 emplois menacés dans les entreprises adaptées",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2dVVDVRU05WM1k3QkxRUXpFWlR4YS1qUHRmeUlkUUR0dDR6aFBhSUtzUkZHR0Q0NWpoWWh4TzdmLTVmcGw5WUZGTGZ1R3poVmJQR1ZTekV1N0UxMUVndkw4WEtpaTZWOTRFc1AtM0hpRzh5SWhXS0VJZTE0WHlBbm5XemYyMENHS1JUWnN4Q1FFVUdEU0d5RDhVWEhCSG1kZHRINUJR?oc=5",
-   "source": "Handicap.fr",
-   "ts": 1793343652,
    "theme": "fisc"
   }
  ]
