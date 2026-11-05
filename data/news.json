@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-05T06:11:03+00:00",
- "last_success": "2026-11-05T06:11:03+00:00",
+ "updated": "2026-11-05T07:29:57+00:00",
+ "last_success": "2026-11-05T07:29:57+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 82
+   "count": 80
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 40
+   "count": 42
   },
   {
    "query": "TVA entreprises réforme",
@@ -65,6 +65,20 @@
  ],
  "items": [
   {
+   "title": "Nouvelle fiscalité régionale : la CMA Réunion alerte sur les conséquences pour les entreprises artisanales",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45bk04MFM0Wk03UmVST2YxclBEdE9mdWtLX01wZ0RPbmV3dkZpa0JUTWtJZ2kySlpJbG1RbW5rbDF3eUktcldGenYxb3hKN2R1NXhCUHJZalI4eXo5M3R3N3QzamRzYkpQWm1KVFZEa2hNbkZ3d2NxNVQ2SQ?oc=5",
+   "source": "Imaz Press",
+   "ts": 1793863131,
+   "theme": "fisc"
+  },
+  {
+   "title": "De 504 à 1867 euros bruts par mois : combien touchent vraiment les apprentis selon leur âge et leur année d’études",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZzV3VUpKUkEyTDV4WGR2S3hSbmQySEFYejY1R3ZQM1Vjd05HQ0hrOWtHWDhZN1NNRDhQU3dtYzduWHk0Q3BhTDBoZVJPYzBxZTFtMFZKVTVIX20tMm9xdTNhQ0NVWXZsUlRsMnVUQURfQkxJVG41N2FQU3g1RkZNT0xvOVM3M0RheW5uRlB1TXA5RkxnWDVTSmRKaXhzLVItTG9xYWpkOC1yNDVkSnAzNVRxcTNFRkNwbVExRy1CeWlQT1A5cUhzS1BzYThGTy1TRXkxQzhPem5fdVh2TGg1QkI3MzM4cUtmMkVYUmw2WDViLWExeWZnWlpoVFRjNEhBYmZuOXJyTG1OU1laTm83QWxJTHVKQzV1Y3hTRUUzVjA?oc=5",
+   "source": "Le Parisien",
+   "ts": 1793862060,
+   "theme": "alt"
+  },
+  {
    "title": "Fleury-les-Aubrais : rencontre entre commerçants et élus sur la numérisation et la facturation électronique",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZDFsQnNiWWdvZHR3UFNLeVFRWWF6akQwWEpyZF9LZVBlak5xaE96X2J5QWNndGtoQU5HRTAtOUgxWWhWSTlDSjZLVkJ3UU9sYWktWnEtM1hOX2FGNm12WmZ5dnFwMFRzS2tCbGtxZ3BXMEJHaW9NaUh3VUZ0aFlEQVo5S2FtdHhkZUVzM3J2X2xyaVF4SThhUEhXMDRsZXBzMWM4WGEtVE1zYkxuTUpQNGxPaldDVHI1T3l5MzBwTFF4eDFYWnI5UHdrNGV3QTRCRkdINWIzMHBfbnRRdnFXZWJaZGhUcVltU1N1cTJKWF9CcWJqaWJDcnJnYl9fUUF4WWc?oc=5",
    "source": "La République du Centre",
@@ -76,6 +90,13 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGNPaGxRaE13RXU4eXBtT014ZEU2ZWhJY20tMW9DWGl4WTQ5MVRNUWgzMTkwQVgtS1JvQUc2Y2dqNWFYT0xLNW1KY1BVVVEyZVp3UUlkTHhfZmFaZmI3TWlQOHhDQUFYamRGcUpvVXVtNmxYV3hfVkhLeUVDaXVabzg3cFRtVkN3ZTFsSDZBMWdJS0piTnpCd3FpOG9kQQ?oc=5",
    "source": "Maison et Domotique",
    "ts": 1793855700,
+   "theme": "fact"
+  },
+  {
+   "title": "Faites le point sur vos obligations en matière de facturation électronique !",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dWc3MXV0X3NYMm01eTJPLWpEeTRsT0d2THFrdlZQdTBZX1dyZzNReVdxRWFoa3gwVnE4cWRlQTVtSjR2TFZfRW5TSW5meGhqT2g2Z3ZfSDdWTllhZlVkUF9QVQ?oc=5",
+   "source": "Bretagne Économique",
+   "ts": 1793855256,
    "theme": "fact"
   },
   {
@@ -310,6 +331,13 @@
    "theme": "fact"
   },
   {
+   "title": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMFYxSDRsWkRCbDE0LVhUa3hKc3NLdVFEZENRTGszQjFlYWptOVNkcS1NUlRWNjNxYW5LbHlzY3kycEJFcWE4dkQ1bjFaSFBrb2t4MXVfSWNEdVpnXzBNYnVmdW1FZU1iZWhBUFlaSGFGSzlKNVpWbnZ2VkVxT09YOTdBWEl3TlM1dG8yNnY5M3k1N2dSOUlRUkZqSS0weTdmSE9UUnY2NEktbWg2eGJORGMxMGNjQ1VlM1FYdFczdmRET2dqcy05YmhZOUJ4UWFFZTJlZ0ZnWWg4bmFNVWFNTzBoR3hvOE1lVmNkcFFaXzctQVpGMkxORVFFd1Myc3dScHFUVGhlYw?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1793773430,
+   "theme": "fisc"
+  },
+  {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
    "source": "https://horticulture-abadie-pyrenees.com/",
@@ -468,6 +496,13 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3hpQlZEV1JFcHpjMjhwVW1hS2tzQk8zeEZlYm95cjVXU0pUWTZXRkxGYUVuMWNlUkpSYi1Hb3dOeEU0Y3FzanZxM2pVaE5TQ0QxSzhJUlB0UDh4ZmtVQ0JzcjR4SE44Q0JyLWNsODZzYVl1Wl9DRFlZVVUxamszSjRacW5FdzYwNU5Wb0JCVzZTczUyQWxjdkJQVVJoQzZqX2FiUXZkNFZSWmRMOHZzRGhicVRrMUJPZXNNdXFYSUVfcm5kLVhXazBSZUZZZDAw?oc=5",
    "source": "JDN",
    "ts": 1793712675,
+   "theme": "fact"
+  },
+  {
+   "title": "« Je voudrais émettre des factures électroniques sans attendre septembre 2027 » : un régisseur d'immeubles dans les starting-blocks",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxObUtSMUlQUndxWTNHRmhBd1ZsUUlYRmFpaE1YLUZfcE42Y0QyazQxYU80eV9HSEpRSlFnNVk2WUtrc2ZMVFNkMGQyMVV5RmhxR20yd2llQ3V2OVdjSWpIaDRTdlV4V1RETHhObHk3M2JHZklEYWQxam5aNGt0NUQ2MDFMVlhrOEhpclVmRENQRXdkSDdRQTlKcktJbDNhZ0pxdmd2UWdtZjNpN3hzTFRwMV82TlpEcHRZWkk5djF6U0hvck52Rmd2ZXdKZ3RKLWxDRV96c3hHQUxtbG5wU2xKc0s1U1VpekpnMXVJUjRWaHRvZldMVDlJY2x2RWZ1RGwtMkt1cWNWdTRDemFRWmlPeVYtTGlWeEpYUUNvUFBR?oc=5",
+   "source": "Les Echos",
+   "ts": 1793711111,
    "theme": "fact"
   },
   {
@@ -693,13 +728,6 @@
    "source": "mesinfos",
    "ts": 1793630280,
    "theme": "compta"
-  },
-  {
-   "title": "Faites le point sur vos obligations en matière de facturation électronique !",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dWc3MXV0X3NYMm01eTJPLWpEeTRsT0d2THFrdlZQdTBZX1dyZzNReVdxRWFoa3gwVnE4cWRlQTVtSjR2TFZfRW5TSW5meGhqT2g2Z3ZfSDdWTllhZlVkUF9QVQ?oc=5",
-   "source": "Bretagne Économique",
-   "ts": 1793627653,
-   "theme": "fact"
   },
   {
    "title": "Facturation électronique : à force d'exceptions, la France risque de perdre les bénéfices de l'interopérabilité",
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2dVVDVRU05WM1k3QkxRUXpFWlR4YS1qUHRmeUlkUUR0dDR6aFBhSUtzUkZHR0Q0NWpoWWh4TzdmLTVmcGw5WUZGTGZ1R3poVmJQR1ZTekV1N0UxMUVndkw4WEtpaTZWOTRFc1AtM0hpRzh5SWhXS0VJZTE0WHlBbm5XemYyMENHS1JUWnN4Q1FFVUdEU0d5RDhVWEhCSG1kZHRINUJR?oc=5",
    "source": "Handicap.fr",
    "ts": 1793343652,
-   "theme": "fisc"
-  },
-  {
-   "title": "Quelles sont les aides au permis de conduire pour les jeunes de 16 à 25 ans ?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1ddIBsAFBVV95cUxPczZrcjAwa2gyZE5CNHBfVjhlUnpOc3oyYjU2WEx5elJRMDJzcUV6a1ZJNldoNUdhSldNYW1qQ0FzdGZOcWNjX2ttWGc3a09EeFhHLXlIV0NnVFRuUW5fdlFkS3RDY0Y3cHNPcnpxTmYxMGdSRktIaFp6M0ZqVjZaMndJVzN0d1dWdkkzR3ZLc05mTVBNNW12Mk9LQkc1SENJY21wSU1DcEV4SzRnUGR1dQ?oc=5",
-   "source": "Mes Allocs",
-   "ts": 1793343600,
-   "theme": "alt"
-  },
-  {
-   "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkFnYy1rT2hfbVVXZkdmczBMM2VDTlNxMWVpZDRaVkhGR0FGblo1cXpqTTF4TldJMnhISml2Vlp0QnBZOXY0WHA1T2dsMGw1QTdWUHBRcWhPUmxkaW5hUG1Pd0dHT1lCUEIyb3hiVktNa2tUTGlNc2pYaEFiSUtXR3BoNnA2Zi1VUFFBTm1xQlpHSmZpY2d3V0R6SEUyZzg3X0wyel9PZ09xUmJ0UDVDT0J3WDBISW9zRlZ0SnVzaWZhVVVu?oc=5",
-   "source": "Editions Tissot",
-   "ts": 1793343600,
-   "theme": "soc"
-  },
-  {
-   "title": "Facturation électronique : changer de plateforme, c'est possible, mais pas toujours simple",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb0Q1QnlpeEN6TUp5V1ZoaUZ0OWlnRTZmTkNDYW9XSm1fRkZsUGl6Y0tGdWlLTHhtTjd0ektFNXRmSUZPckNNbjVnQmhlTmIwd0s4RExXUUw5dHQ1REpESEVteUZfcEg0eVp0Vm1UMFVKV2doZW9ySTJGY2lLa29uaWhPQkZHU2JuYm1xQW40ZlVfZDhob0tiR2Y4dV9DSnRxY0lYcHNpbGZoOFNiTGloTnd2WU1XRmZFQlZfcHB6bDNoOGtLc1dHWWZJQlRfNHFQMkZ0cERoMWhFR210Z2hHR2gzbFdqazVDUFE?oc=5",
-   "source": "Les Echos",
-   "ts": 1793337908,
-   "theme": "fact"
-  },
-  {
-   "title": "En ciblant les sociétés sans personnel, l'Arizona toucherait des centaines de milliers d'entrepreneurs",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDUySzJMRGpFc3oxZENJdDR2TE9vZGdXNHZIZ1lEaVR3cFowVng2SnZtRlgxU0I0LWF0dFUwSGZ1Z1ZDZk8tZXI3c2RSb0lUSFoyTEN2b3VraXpzOXJPd0diLUlHRnVnWkpxQjJSSEpGWWEyX0psVE5PZ3lIR295SGZIUTVvNkpFMnNWVDBYT1lYM2RiUVE4MHAzYjNUOHBXOVRQX3JmZHBiMW03dmViSWVadVBLMUxXWFRZdnpXbENjVHpRX1lMeG1JSVg1Vk9TakhWaG1sNWdfSGtlTXhfcG0xWlpkRTNiSnZhWUtabw?oc=5",
-   "source": "L'Echo",
-   "ts": 1793332800,
    "theme": "fisc"
   }
  ]
