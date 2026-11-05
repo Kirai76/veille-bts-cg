@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T04:04:13+00:00",
- "last_success": "2026-11-05T04:04:13+00:00",
+ "updated": "2026-11-05T05:09:10+00:00",
+ "last_success": "2026-11-05T05:09:10+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,12 +10,12 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 43
+   "count": 40
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 21
   }
  ],
  "items": [
@@ -72,17 +72,17 @@
    "theme": "fact"
   },
   {
-   "title": "PLF 2027 : TVA, impôts locaux, facturation électronique… les amendements adoptés début novembre",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEJjMExWVDNWYk84aEF3SGktR00zTzFhVGN0RkJVbVAxRkxvRUU2QUo5NElxcXR3dXAwY0N5TTRSZ1kwbkdzZEVGaG1rSWdUS0VZd3Ric2Q1anl6WWxFMlg3UzU3U2wzNFE1OGFucVVHcFNCdkYxWVQ2ZTJhTmhrY0VxRm9vanp6VkhaLVl0Sm1FLXFtTGw2dTlCVmlHNmIwVVZ0OV9GVngtaGV2TGkxY3ZiNTQtc2NvWUxaaUZCNndHdEtqOXMzZ09xaGdXb29CU1E?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1793833405,
-   "theme": "fact"
-  },
-  {
    "title": "PLF 2027 : un amendement supprimerait l'obligation de facturation électronique pour les micro-entrepreneurs et autres non-assujettis",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlF2V2I5a1FzMFlBT0RfZ2UwVzI5R1hkMWlYSlJySGtIeUNDWS05bE54NUdpTXg2NVNNakY3WGg1YURYcUs3b2lhWmR3dkwyV2VUdmV3eUhQY0FJbDBHQVhLUlItdTZEQk5TLUFscUlHQWJJbDhmRXhFLS1oY1ppMzN1emo1bXRSWExMYlRwZ2x4LTZ6ZTB5cXFZZW54NFRxdWdsSlpqcTY0THI4SWFuanQ2eUpfNUE2dWFUanlna0t6b2RYYzhuNzY5RlRlY2xNZFl2S1dFOTBubmpjcFdfbVdfQURQUndyNGpB?oc=5",
    "source": "LégiFiscal",
-   "ts": 1793833403,
+   "ts": 1793833612,
+   "theme": "fact"
+  },
+  {
+   "title": "PLF 2027 : TVA, impôts locaux, facturation électronique… les amendements adoptés début novembre",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEJjMExWVDNWYk84aEF3SGktR00zTzFhVGN0RkJVbVAxRkxvRUU2QUo5NElxcXR3dXAwY0N5TTRSZ1kwbkdzZEVGaG1rSWdUS0VZd3Ric2Q1anl6WWxFMlg3UzU3U2wzNFE1OGFucVVHcFNCdkYxWVQ2ZTJhTmhrY0VxRm9vanp6VkhaLVl0Sm1FLXFtTGw2dTlCVmlHNmIwVVZ0OV9GVngtaGV2TGkxY3ZiNTQtc2NvWUxaaUZCNndHdEtqOXMzZ09xaGdXb29CU1E?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1793833612,
    "theme": "fact"
   },
   {
@@ -100,15 +100,15 @@
    "theme": "fisc"
   },
   {
-   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi faut-il s’attendre",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkstRzU2ZnFQcHVNcTF5dWM0Q1hUU29aVWR5LVhTNkVZNnV5Zzdub3d0YklpN1VXSWR2YTdqbklheE5neDlCZ05wVENFaF9fcnFtUUVqTVk1SGVPcDQtTWhUdFpoZzl6MEF1TkhJS21CMzVPOVdxemZKTldIS2tWMXlpSXdiejJTWFFjMnR4X2piR24yMHFCaUx1TmpSYU1WQ2FwOGhB0gGrAUFVX3lxTE8xS0hsR2l0ZjNUclA1Z0xqTkFDZGdXS1hYcUpRcktlYk5IZ3hFUGhjMTNEbl9obXlsbVFiMG8xTTlJWHZ3dkZvOGZhcXFjVDZOX1JqVm5Md2xZS1pfLVpsUWhqUkZYZXVZSnNRdnY4QUFFZUxsSDV5NUpCVGV2YUNFT2J3UTV6eEpuMllPTWs3OG40YWdjT3RzaEZoeklUU2pmUVliTWFaUFlmUQ?oc=5",
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
   },
   {
-   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi faut-il s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkstRzU2ZnFQcHVNcTF5dWM0Q1hUU29aVWR5LVhTNkVZNnV5Zzdub3d0YklpN1VXSWR2YTdqbklheE5neDlCZ05wVENFaF9fcnFtUUVqTVk1SGVPcDQtTWhUdFpoZzl6MEF1TkhJS21CMzVPOVdxemZKTldIS2tWMXlpSXdiejJTWFFjMnR4X2piR24yMHFCaUx1TmpSYU1WQ2FwOGhB0gGrAUFVX3lxTE8xS0hsR2l0ZjNUclA1Z0xqTkFDZGdXS1hYcUpRcktlYk5IZ3hFUGhjMTNEbl9obXlsbVFiMG8xTTlJWHZ3dkZvOGZhcXFjVDZOX1JqVm5Md2xZS1pfLVpsUWhqUkZYZXVZSnNRdnY4QUFFZUxsSDV5NUpCVGV2YUNFT2J3UTV6eEpuMllPTWs3OG40YWdjT3RzaEZoeklUU2pmUVliTWFaUFlmUQ?oc=5",
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
