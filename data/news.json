@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T02:59:32+00:00",
- "last_success": "2026-11-05T02:59:32+00:00",
+ "updated": "2026-11-05T04:04:13+00:00",
+ "last_success": "2026-11-05T04:04:13+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "query": "TVA entreprises réforme",
@@ -65,6 +65,13 @@
  ],
  "items": [
   {
+   "title": "PLF 2027 : facturation électronique et éolien en débat",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzU0M3JzSE8xeVFVaWNqZlpUSGRyNzE4ZVBZb2U0NUtTNnhzcmhmdUZYeEFVel9JaWUxbzNWX0pkaWJRa3Y2bFl2LXN5SWhjdTh3T3d4bjhDY2Rpdm44X3p0dEhOVk1VMjVsdnl3elZ4X0xkRk1Pd1B3LWRmUHZjcE9sYVk2S0k1WDNvaFVFa05tNi15eFVlaUdkQkFlbWhWUFRseFdB?oc=5",
+   "source": "Batiweb",
+   "ts": 1793850865,
+   "theme": "fact"
+  },
+  {
    "title": "PLF 2027 : TVA, impôts locaux, facturation électronique… les amendements adoptés début novembre",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEJjMExWVDNWYk84aEF3SGktR00zTzFhVGN0RkJVbVAxRkxvRUU2QUo5NElxcXR3dXAwY0N5TTRSZ1kwbkdzZEVGaG1rSWdUS0VZd3Ric2Q1anl6WWxFMlg3UzU3U2wzNFE1OGFucVVHcFNCdkYxWVQ2ZTJhTmhrY0VxRm9vanp6VkhaLVl0Sm1FLXFtTGw2dTlCVmlHNmIwVVZ0OV9GVngtaGV2TGkxY3ZiNTQtc2NvWUxaaUZCNndHdEtqOXMzZ09xaGdXb29CU1E?oc=5",
    "source": "LégiFiscal",
@@ -79,13 +86,6 @@
    "theme": "fact"
   },
   {
-   "title": "PLF 2027 : facturation électronique et éolien en débat",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzU0M3JzSE8xeVFVaWNqZlpUSGRyNzE4ZVBZb2U0NUtTNnhzcmhmdUZYeEFVel9JaWUxbzNWX0pkaWJRa3Y2bFl2LXN5SWhjdTh3T3d4bjhDY2Rpdm44X3p0dEhOVk1VMjVsdnl3elZ4X0xkRk1Pd1B3LWRmUHZjcE9sYVk2S0k1WDNvaFVFa05tNi15eFVlaUdkQkFlbWhWUFRseFdB?oc=5",
-   "source": "Batiweb",
-   "ts": 1793829264,
-   "theme": "fact"
-  },
-  {
    "title": "Parcoursup : première réunion de travail lundi, la délicate réforme est lancée",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3VOTno1NFF2ZXc4TDh4MFh3R2ItQmRtMFI2bEJVU0hDdkZEQ2FrQ3pwVGR4LVh2MmNSd3FsWmgtT2dFbnBUNFYyYWZMSXF1RlRsRmxIR0Zrc29hcTgtYjV2NXpoYTRfSXN4MG5TVktfb3FLdFhFaVR0MW44UTFiX3NxM091aG15VGloSUd5SlFCcXZXZUNmVDdEdm1Qc1UxOGdxVGd0SGtCc1J5OUxwVzZBR2MySWZyelo2YUE1TU5kampwaEU3MEZTTVp1MVlwcUN2TWFTWDlKTG1ZOVd3R3hUTGVnbGp1Z3ByN2FkWFFpNHNiaDhKYVZTeUg1V0lVbDBF?oc=5",
    "source": "Ouest-France",
@@ -97,6 +97,13 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU05CRFcxTWpsUDZsa1M0dmM2NXdMNHNhaDAyT1RxZm9wVEVhWDVVNnFKRWdESy1YMk5XMUh4WHAwdTg1cDMtc0xlR2wtNEE1YUxpY2wyUGpQZElRWU1PMWU2T2E1dVJrd181MF9wR0ZUMG1MYUl2NGFQcDVQOW42MUtWRjlOQXo3ZHVZMm5n?oc=5",
    "source": "Telquel.ma",
    "ts": 1793815253,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi faut-il s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkstRzU2ZnFQcHVNcTF5dWM0Q1hUU29aVWR5LVhTNkVZNnV5Zzdub3d0YklpN1VXSWR2YTdqbklheE5neDlCZ05wVENFaF9fcnFtUUVqTVk1SGVPcDQtTWhUdFpoZzl6MEF1TkhJS21CMzVPOVdxemZKTldIS2tWMXlpSXdiejJTWFFjMnR4X2piR24yMHFCaUx1TmpSYU1WQ2FwOGhB0gGrAUFVX3lxTE8xS0hsR2l0ZjNUclA1Z0xqTkFDZGdXS1hYcUpRcktlYk5IZ3hFUGhjMTNEbl9obXlsbVFiMG8xTTlJWHZ3dkZvOGZhcXFjVDZOX1JqVm5Md2xZS1pfLVpsUWhqUkZYZXVZSnNRdnY4QUFFZUxsSDV5NUpCVGV2YUNFT2J3UTV6eEpuMllPTWs3OG40YWdjT3RzaEZoeklUU2pmUVliTWFaUFlmUQ?oc=5",
+   "source": "Le Matin.ma",
+   "ts": 1793814180,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Tarbes Infos",
    "ts": 1793305350,
    "theme": "fisc"
-  },
-  {
-   "title": "In Extenso Amiens inaugure sa nouvelle agence d'expertise-comptable à Dury",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTB4ZU1hdzI3NkJGMFZCUUNqZWdFQ0szOEJTTVQzTHRSSDVPeXhlbjVPanJKanIxSGZHdXBxM2hndlU3YWExMXktbDFXUHhERkJBZ2FjS3FXdnZoU1IwaUdYZUtCeU1NMG8zQ0FERlhjX1lxeldkMnVKVWhweEwtM1h1alR0X2V2Wkp1aE80bC1EQjVraWlFUzFfVUhoS1U4OUNTekZEb2NpSFZqVmxIMlBYZw?oc=5",
-   "source": "La Gazette France",
-   "ts": 1793301896,
-   "theme": "compta"
   }
  ]
 }
