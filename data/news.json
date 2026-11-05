@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-05T05:09:10+00:00",
- "last_success": "2026-11-05T05:09:10+00:00",
+ "updated": "2026-11-05T06:11:03+00:00",
+ "last_success": "2026-11-05T06:11:03+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 79
+   "count": 82
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Fleury-les-Aubrais : rencontre entre commerçants et élus sur la numérisation et la facturation électronique",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZDFsQnNiWWdvZHR3UFNLeVFRWWF6akQwWEpyZF9LZVBlak5xaE96X2J5QWNndGtoQU5HRTAtOUgxWWhWSTlDSjZLVkJ3UU9sYWktWnEtM1hOX2FGNm12WmZ5dnFwMFRzS2tCbGtxZ3BXMEJHaW9NaUh3VUZ0aFlEQVo5S2FtdHhkZUVzM3J2X2xyaVF4SThhUEhXMDRsZXBzMWM4WGEtVE1zYkxuTUpQNGxPaldDVHI1T3l5MzBwTFF4eDFYWnI5UHdrNGV3QTRCRkdINWIzMHBfbnRRdnFXZWJaZGhUcVltU1N1cTJKWF9CcWJqaWJDcnJnYl9fUUF4WWc?oc=5",
+   "source": "La République du Centre",
+   "ts": 1793857740,
+   "theme": "fact"
+  },
+  {
+   "title": "Comment se mettre (enfin) à la facturation électronique ?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGNPaGxRaE13RXU4eXBtT014ZEU2ZWhJY20tMW9DWGl4WTQ5MVRNUWgzMTkwQVgtS1JvQUc2Y2dqNWFYT0xLNW1KY1BVVVEyZVp3UUlkTHhfZmFaZmI3TWlQOHhDQUFYamRGcUpvVXVtNmxYV3hfVkhLeUVDaXVabzg3cFRtVkN3ZTFsSDZBMWdJS0piTnpCd3FpOG9kQQ?oc=5",
+   "source": "Maison et Domotique",
+   "ts": 1793855700,
+   "theme": "fact"
+  },
   {
    "title": "PLF 2027 : facturation électronique et éolien en débat",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzU0M3JzSE8xeVFVaWNqZlpUSGRyNzE4ZVBZb2U0NUtTNnhzcmhmdUZYeEFVel9JaWUxbzNWX0pkaWJRa3Y2bFl2LXN5SWhjdTh3T3d4bjhDY2Rpdm44X3p0dEhOVk1VMjVsdnl3elZ4X0xkRk1Pd1B3LWRmUHZjcE9sYVk2S0k1WDNvaFVFa05tNi15eFVlaUdkQkFlbWhWUFRseFdB?oc=5",
@@ -195,6 +209,13 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45RlZlODJwS3liRnNHZzVfZlZkWkhYNFV5QmVYbGNydUhnUmRFZ01zaklraVFsc2dYWm1Nbmd1YnBTb3B3ZzZjNmdIY2RqblF2dWFWTndTaFZVTUs0SmhUbkNsQkNXSkZDVmdoUExIUFIzZ1BtazUtdw?oc=5",
    "source": "Actual Immo",
    "ts": 1793792700,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : PENNYLANE, INDY et TIIME prennent les premières places du raccordement",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMjVMQVFWUFhpTWtzcVBrNjNLWWpyZ0hrazNUTno5NTJGZDEtSkNtWDBQVHlPd3VsV3g3Q3dHTUR4OWZ0ZTJvak5QaUdpcFQwNkozaEpTazBfeTJxajBwUHloTGg0b05qSWNjT0hjYW9CSzJ5U1drQWg2NVBub09XX2tfeDdYTnQ1dVQ5dG5ROElqbzhjdlJsMW92Tm5hSkt5TzhxZmlaRlBrRGpXNDZNVXdYRjJMWVdkODc4V1hYRWNBTUtQUzVEck90NzEyX1RSSUx4dnl1RXBNeWh4UTg1eXZvaG9uUnFWSzN6LXBrLW1VS0NZQ0VVTU5TTS04UFE?oc=5",
+   "source": "Frenchweb.fr",
+   "ts": 1793792080,
    "theme": "fact"
   },
   {
@@ -338,6 +359,13 @@
    "theme": "fact"
   },
   {
+   "title": "PARIS : Marvin Ndiaye : « La facture électronique pénalise les TPE qui ne fraudent pas",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZ2dTdtQkxHMDd2SHVaMGR1VE5lOThMb1A4OVhRd2cxLUhuYnpRZ3hTa2JDbWJKU1FkRmhzZnhyNTk5NG5nTXhlWXYzMF8tQ2NoMkJiNDA5Q2o1bl9rVVI4dnlUMTc5VWRndnFISjF5Skx2YlF3bmVfUV8xMURHbEkwLUJveGFyZk1yam5yN0U5SXZFMUJ0c0NESVBxNXA3VnVxc1VISkE?oc=5",
+   "source": "Presse Agence",
+   "ts": 1793750400,
+   "theme": "fact"
+  },
+  {
    "title": "Il obtient un logement social de la RATP en sept jours grâce à une fraude : six ans plus tard, la justice le rattrape",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWXlZT3U3WVkyT2RTWXhXZHFBV2NTcHd2R2tfdklfWHF2ay1RSGlhZWhLWW01S2kxSHotUFRiRUNVcmZuN2ZOZUo0dUFjQXN4ZnFBZnVRVUJBX1p5U09BelgzaFFmMjJmeWVCVGwxU3V6WjBlMTlJRnpZZ0VfOElHaVllbXdidWhIczRRbnNHc2FHZDBjcjFiZVdDay11cTFYcm9vYWJvZElRdkVZU3hSem9sbDZHLVplSkYzTkhKNnNEd0t5R3dRLTVISVFLSUQ2aEMyZXVrOHl5bVhSS1dUNjdxN3RPSTBzaDhxWjBn?oc=5",
    "source": "Actu.fr",
@@ -475,13 +503,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGkwb19vc2t0a1Q5NjY3eExqRXVxOEpzTlVPRGtRQmY1enljd0YzNEN2SGR3VDRHWWJocjlSb29Gb3plNm1DQ0ljNUotZDRXRFFCWTVyN3ZZeFJSNXVrTFdZR1JaLV9jbjV3UmVlMnZ5b1pocHFDaFJkLXVPQVQ4OFdiSW1lYW1mZV91R2ZxWUtuNmIzMlAyRE1wNTRmTGJyUkFWYU1lOXh0RlVXeUtaamdHTjJMWEc3ZHNybWhka1BUcmFMcTJSRF9rY0VMazlrNDJV?oc=5",
    "source": "JDN",
    "ts": 1793704038,
-   "theme": "fact"
-  },
-  {
-   "title": "PARIS : Marvin Ndiaye : « La facture électronique pénalise les TPE qui ne fraudent pas",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZ2dTdtQkxHMDd2SHVaMGR1VE5lOThMb1A4OVhRd2cxLUhuYnpRZ3hTa2JDbWJKU1FkRmhzZnhyNTk5NG5nTXhlWXYzMF8tQ2NoMkJiNDA5Q2o1bl9rVVI4dnlUMTc5VWRndnFISjF5Skx2YlF3bmVfUV8xMURHbEkwLUJveGFyZk1yam5yN0U5SXZFMUJ0c0NESVBxNXA3VnVxc1VISkE?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793703600,
    "theme": "fact"
   },
   {
@@ -737,16 +758,16 @@
    "theme": "compta"
   },
   {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
-   "ts": 1793602800,
-   "theme": "fisc"
-  },
-  {
    "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
    "source": "Presse Agence",
+   "ts": 1793604282,
+   "theme": "fisc"
+  },
+  {
+   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
+   "source": "La Gazette du Midi",
    "ts": 1793602800,
    "theme": "fisc"
   },
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDUySzJMRGpFc3oxZENJdDR2TE9vZGdXNHZIZ1lEaVR3cFowVng2SnZtRlgxU0I0LWF0dFUwSGZ1Z1ZDZk8tZXI3c2RSb0lUSFoyTEN2b3VraXpzOXJPd0diLUlHRnVnWkpxQjJSSEpGWWEyX0psVE5PZ3lIR295SGZIUTVvNkpFMnNWVDBYT1lYM2RiUVE4MHAzYjNUOHBXOVRQX3JmZHBiMW03dmViSWVadVBLMUxXWFRZdnpXbENjVHpRX1lMeG1JSVg1Vk9TakhWaG1sNWdfSGtlTXhfcG0xWlpkRTNiSnZhWUtabw?oc=5",
    "source": "L'Echo",
    "ts": 1793332800,
-   "theme": "fisc"
-  },
-  {
-   "title": "Lever les obstacles au remboursement de la TVA, débloquer les sources de capitaux pour les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1k1Q29Kb1dFSks1TWtyeEZCbjc3TlEzTjZfYk5lT0kzcEE1TEdPVXBmN1RsdDMyLWxBODQ1N1lRSktQdjhBVE5rOV94ZkNPRlNFeHkzNW1kSHQ4QmZldnlMRldGbnZqVDV0TS0tS1hqMFlJY1dMdGpQYS05c2hmQzdOOXJHeER3QXFZbEdIdXhKcHZqNGdaOG5GdTZ4UDkwRmxv?oc=5",
-   "source": "Laodong.vn",
-   "ts": 1793330100,
-   "theme": "fisc"
-  },
-  {
-   "title": "La Belgique compte 80 000 sociétés de gestion, mais d'autres estimations vont jusqu'à 150 000. Et quelle est donc la définition exacte d'une « société de gestion » ?",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOM0YzR19qS01hSlNMc196Y29Mcmx6blVlZHh0QzFNcnVXdlQtNGJPcWRucS1US2M2VGRXelJnQ1drWjhKeC1uRTRya1pCaE5CU1lIcXI4ZW5hQ0IzRk4zaERfUjhRSXlJTGtjQmxqUElQSHlJbkZ5cHJMUEFBckc4OGpFTXFLN21adHFJbnE3cGI4bWh4U1ZxQU50ejdTUkNBZnZVVFRIdTUxRXhLdGg2MGQ3VE1taHFkLU1OUGZ6V3d1UUFiX0FJblFFRjRNQndCNHNCWkpMLU5mUE5Nb1VhR3E2cFgweklHdzR4dW1jVUVDTk9oZGZ2QUNpWWtMQWJSR3dNTzNOSDZqb296?oc=5",
-   "source": "Business AM",
-   "ts": 1793313000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Aides publiques 2027 : malgré la dette, l’État maintient son soutien aux entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqRjlYcktFR1lnU3RVazZpX0JodTA5eVo1TFkxcXhmS2pPRFNxM2F3bF83UndvMm1BcV80NUwydE1zYnhiR1I3dGFiTDNqQXEwSmRjTzA5cURQZTU1Q2tF?oc=5",
-   "source": "Tarbes Infos",
-   "ts": 1793305350,
    "theme": "fisc"
   }
  ]
