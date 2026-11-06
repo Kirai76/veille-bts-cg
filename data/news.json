@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-06T15:58:02+00:00",
- "last_success": "2026-11-06T15:58:02+00:00",
+ "updated": "2026-11-06T17:00:52+00:00",
+ "last_success": "2026-11-06T17:00:52+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 84
+   "count": 88
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 46
+   "count": 48
   },
   {
    "query": "TVA entreprises réforme",
@@ -72,6 +72,13 @@
    "theme": "fact"
   },
   {
+   "title": "Cadeaux fiscaux : Macron a privé les finances publiques de 929 milliards d’euros",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVMtY3BVTWRwVThzUUVITTFodUZXcWVDa21FU2JrdW0wd1V3NjBySUN2M3FOSVNwUFBIMEFOSVpnMGhGa18xSE5uVnBWeU9zc3BlN0FFbE1xdnQwcFVrUXpXbXppeTFpSlI2S1JGZjlSZ0V4Vm9pLXlPUDI5SlVKb0VhanN0OXJtaVQ2TmJlQUJkaThpOU5lZFluajduTFlWbVZ2U1A0WDM3MGRwOXRZYTRhbFZYRlgzZ1pYemhkMmhJTEdfTnpRZnBvQTc?oc=5",
+   "source": "L'Humanité",
+   "ts": 1793980080,
+   "theme": "fisc"
+  },
+  {
    "title": "Facturation électronique : les fintechs profitent de la réforme pour conquérir de nouveaux clients",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOajJPMDVqNEY0Vy1td1o5SFl1SFFvZjNIcmpIZl85d2xrcFhMSGZ2b2stN29MbXlkTDVGa0I5bFVRYlFET19IN2dxMWFQaEh2Ym1BenV2Yk5EenZsVEVRUk5uR2twd2xSdWNKbERpNnY4alRTaWoxWUdZM0sxbl9GZTFaRGQzVUJrallNY2h3YlJrZDNQcnhzS21lWnlzcDA4eHl3NEROdTlSMFE0YUxkdWkySkt4STlzd1BGUDdBeHhYY190dW9rbVlpQU1DdkRpdEp1dHM5WnBIMVFkZXhZMElZbw?oc=5",
    "source": "Option Finance",
@@ -117,7 +124,7 @@
    "title": "Budget 2027 : les associations inquiètes, feux au « vert » pour les industries pétrolières",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkdId0JqQ1B1X3JUNUJ2X0tOTUtJcGZnU09qZDE0NUwyaUZFN2xRS3k5M1R1am0xcjFXdTFNUnp6SmRSaUVPcmtRS1VHZzdYQ2ZQYkJJbHpQSTNFbVJWb3Q2RU1kdGRwUVQ4WE1KSms2dlR2MFZXbGUzdHdDSFYtUUQwQTBPMUVjSVV5NUtCT01WQXJzbk5ERk5Ubw?oc=5",
    "source": "Le Courrier de l'Atlas",
-   "ts": 1793962468,
+   "ts": 1793962520,
    "theme": "fisc"
   },
   {
@@ -154,6 +161,13 @@
    "source": "Lyon Capitale",
    "ts": 1793954321,
    "theme": "compta"
+  },
+  {
+   "title": "Facturation électronique : un amendement voté pour les agriculteurs, mais pas encore de suspension",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb2RLUU5hUzgyOGZwUUY2ZS14MzB5eGFySDBPR2dyZVhOMkN3WlktM1NfNGpxQ2p5UU5SdHhhb255c1dVd3JMRmtwNWJGakY5R1BVNjdQSzZZZDhOcjdia0dyN3N1Q0NwakVrd2ZkZHRYbndLRlRlVFhJalAxZlJsMEo0SmRpTWdDUzJiZmxEeVppbFplUnZvWUNfSG9SaEZORVRvR3VnWWpVM0tWenM0VnBWWGMxQ2dmTXJ6TG1VRzhEdGVTaXhnd2Z1ZUs3M0hlU0JGaUVGeElWQWJSSjluVHVaMHlvYkQ2aDdmbA?oc=5",
+   "source": "Coordination Rurale",
+   "ts": 1793953169,
+   "theme": "fact"
   },
   {
    "title": "Des raffineries branchées sur les paradis fiscaux",
@@ -906,7 +920,7 @@
   },
   {
    "title": "TRACTIAL : Facturation électronique : PA-E obtient la certification ISO/IEC 27001 dans le cadre de son projet",
-   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxON1ZSZXlQWEExNFNPa3JrWU83dHFFTFFaT0t6WTBYMURObHN6Uzh4cWpTcFlnZjdNam1Gck1NRUZsSGFUdGZKTXhCLVJVeThsbFM2SVBoU1NxbER2aFRHb2hjeWxYb0xtdVBoSUhLSzNETURybEZfTlR6TEhqLXF1SHlxcjVSWXZJdVN4NU9pTGNOMmFRMzNMQU1pM2F4bndxRGF0MDRvNFFCWnBudktpOVgxeEdRSW5JNkZkNUtwdmlheDB1R2FoYUhKZFRQcTBNekNkNGRiOG52WU9QTWlYb0o4RDJiSmcyOTlBYVNneHNGOWg5bzl3V01zcFZ5YzloNXJiTzJIOUpUM1lGVk42WlJKb1NHNmJkNGtFU1JWM0VlLUZJaDR1cFFqeDNPUFNuYVHSAbICQVVfeXFMTjdWUmV5UFhBMTRTT2tya1lPN3RxRUxRWk9LelkwWDFETmxzelM4eHFqU3BZZ2Y3TWptRnJNTUVGbEhhVHRmSk14Qi1SVXk4bGxTNklQaFNTcWxEdmhUR29oY3lsWG9MbXVQaElIS0szRE1EcmxGX05UekxIai1xdUh5cXI1Ull2SXVTeDVPaUxjTjJhUTMzTEFNaTNheG53cURhdDA0bzRRQlpwbnZLaTlYMXhHUUluSTZGZDVLcHZpYXgwdUdhaGFISmRUUHEwTXpDZDRkYjhudllPUE1pWG9KOEQyYkpnMjk5QWFTZ3hzRjloOW85d1dNc3BWeWM5aDVyYk8ySDlKVDNZRlZONlpSSm9TRzZiZDRrRVNSVjNFZS1GSWg0dXBRangzT1BTbmFR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOMUtqaDJHeTJYY29UcHYxSEdSZU51cGd3N1hMc2wxb0pqaDh3TmQ5R1N2NjRDM2x0LUU2UXVpVVgtYmtjcWNhZ3VhaXBHSUxOVThQYkY0MEhyT0EyREp4bXdTbXU1NHYxaFJ5T0RGaS1acGp3aFQ0YXRrLWJnZC03Vnh6QUQtUDRPWHRhNkVxcVNxMFNNY3BqTXVjdUtyMEFlZGlxQ0ZVRmxGcWNRd0V5RnZ1ZjdDUWRibkZjSjA4Wl9KRFJxN1lRUnNsc1k3Y3hLYWg1YWhKQzZMd29MemlMY015T1E4Y21OQ0ZFbFN3WnhzRG0tNUxuVWdjT3QyN3RlTkF1V0NhaTJhYlNxSGZZZEhtZmhlYk1idVJaUXlYUnNBeExETkdvSFQ4TnHSAbICQVVfeXFMTjdWUmV5UFhBMTRTT2tya1lPN3RxRUxRWk9LelkwWDFETmxzelM4eHFqU3BZZ2Y3TWptRnJNTUVGbEhhVHRmSk14Qi1SVXk4bGxTNklQaFNTcWxEdmhUR29oY3lsWG9MbXVQaElIS0szRE1EcmxGX05UekxIai1xdUh5cXI1Ull2SXVTeDVPaUxjTjJhUTMzTEFNaTNheG53cURhdDA0bzRRQlpwbnZLaTlYMXhHUUluSTZGZDVLcHZpYXgwdUdhaGFISmRUUHEwTXpDZDRkYjhudllPUE1pWG9KOEQyYkpnMjk5QWFTZ3hzRjloOW85d1dNc3BWeWM5aDVyYk8ySDlKVDNZRlZONlpSSm9TRzZiZDRrRVNSVjNFZS1GSWg0dXBRangzT1BTbmFR?oc=5",
    "source": "Boursorama",
    "ts": 1793689200,
    "theme": "fact"
@@ -1099,20 +1113,6 @@
    "source": "Presse Agence",
    "ts": 1793604282,
    "theme": "fisc"
-  },
-  {
-   "title": "Transmission et reprise d’entreprise : ce que prévoit le « pacte Papin » en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG9qZkd3emM3Q3lwelRyUFRRNS1xeFpNX29oYVBzb0FweU1YV2pwOEswUy0xemVPRmtnRVBwdzZZTmtCTG83UE1LWkVGaDJOZ0VHc202TEVPME5mdUQ4bzg3Sm5iNzR5bGRTUlhTTkFfZTc5WUNwRUgzeURjX3BrU1RfQW9jNHdGWXJRbVpQRWRjVDBid0dVSXdIeU40OGIzTW96cmR4Q3BPX2lPOER2VXQwN1Y2dl9pTV9aQ2JqZThtUQ?oc=5",
-   "source": "La Gazette du Midi",
-   "ts": 1793602800,
-   "theme": "fisc"
-  },
-  {
-   "title": "Expertise-comptable : une digitalisation du métier au service de l’humain",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BMc1Y1aGxYOFpCQUZVNnh2OHFqQ1Nwd3hkcGswbkkwS2FxdlFFZ1FXOTNzOUh2bGVoQ0VHQnVKckU4bXF5Q1k4cFRjZkNiSWdZSko2eXRyS2R5MWFZTzVFUHJiZkdSQ0F4M1oyR0RHMkl6dEJ3RkpBeVd0TXhVRkdiaEx0WkF0VjlBX2VxRE5WOWxGYjRFOXdlRm1sQ2h4SVBRdDR0NC1iS2VCZWxkOGk1OA?oc=5",
-   "source": "La Vie Economique",
-   "ts": 1793599200,
-   "theme": "compta"
   }
  ]
 }
