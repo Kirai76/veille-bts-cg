@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T04:01:37+00:00",
- "last_success": "2026-11-06T04:01:37+00:00",
+ "updated": "2026-11-06T05:08:01+00:00",
+ "last_success": "2026-11-06T05:08:01+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 78
+   "count": 77
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 22
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
+   "source": "Batiweb",
+   "ts": 1793938609,
+   "theme": "fact"
+  },
   {
    "title": "Entreprises : vos principales échéances du mois",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51UnUxV0dsWmlNSGQ4UTRucDhhMVY5ZUZIOUZjcVNOOVYxSHZCeS1ZM0MzdEg0eUZKQm1nUllCN2ZBTUIzeWUtQTRvcUtJX3BFUWJDTV9LT3NXWHg2ZE1FTlhDbWlaanQtaXpaQWctUXprVDlHMGNhbnln?oc=5",
@@ -77,13 +84,6 @@
    "source": "Be Magazine",
    "ts": 1793932030,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
-   "source": "Batiweb",
-   "ts": 1793917003,
-   "theme": "fact"
   },
   {
    "title": "« Mettre fin au mythe de la perfusion » : pourquoi les entreprises françaises ont des marges parmi les plus faibles d’Europe",
