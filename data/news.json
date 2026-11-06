@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-06T17:00:52+00:00",
- "last_success": "2026-11-06T17:00:52+00:00",
+ "updated": "2026-11-06T17:55:15+00:00",
+ "last_success": "2026-11-06T17:55:15+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 88
+   "count": 89
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "Laragnais. Facturation dématérialisée de l’eau : le Siepa rassure ses abonnés",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEhhX2VVUDFOVUM0cjdrR2dpOVphVHY1MjFKWjhjLTlLNkEwb1dQbjFKczBIZHFZTG9NMk1qTUNxRW0zOEhwODZyZ3JxZXhyTEZ4Qkc5VWFUU1Y1NlgtdmhLR0Y1ZE5wTzRjR0dGamVCUk1xUG5wZk93LURWUk1CU2VTM2twNzRFUFJQN2g4NXZvaW1JUS1JRFg3V1hwbGY3YlhiS0hwVVZIMXA0MnBVYg?oc=5",
+   "source": "Le Dauphiné Libéré",
+   "ts": 1793987414,
+   "theme": "fact"
+  },
   {
    "title": "Rejet du budget 2027 : l'exemption sur la facturation électronique annulée, le calendrier maintenu",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JEeW4zckF5cjhwYnBhd0c4d09IY3A3dmUta3h0MEF4NFNTaWZZaG53aUZqWHJKYlAzVTRtT0hHYk84cVBrRnZBZk8zVkxRaG5OZzN4SGJ2VlpWNVlWMTIzMWZtWjBnOW45OHUtZVN2ZlFpTDA4SEVvZTAwdGpxVlFyam83eldJT0UxalFCenZ0ODBndHl6VGlyU3lybU0yU0dNYVN1aTdCT2NTLXYtMXd3d2c2UC1ZSzdHVHU2Q1h0anV0cktqS0dMdGdhT1RzYkJB?oc=5",
@@ -108,8 +115,8 @@
   },
   {
    "title": "La facturation électronique en question : les députés votent sa suspension pour les petites entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSV9CTG9KYVRrN1JRNEtGcFMzaEQwRG5rQUl6ZDdUWTFjaUxDMFM1U2MtN0NUQThtNlI1ckhLYVpLUHd3VEtIZlNuM2FQUnZKWU5xTDVhZDdhNmhWaUZKYzVYZlRKa0tJekkzRTdWVFFkV0hIWGpERzM5MjUycEdWdVNnaHkxVl9MSUtrWVBOb1VtMVRROWZXZVgtNy1waEt4LWtYTGI1UkUtLWtVNkVtX0RDM0ZpRWZQVEE?oc=5",
-   "source": "Yahoo Finance France",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUx6b0E1N3YzdzRGdnZMbW5xd2MwNkJzcS0wQ0EwR2VpTWlRMUFTQWh4dkRINFlEQmpxLXROalVYa1YzRVdVbk93WkpNRUNuNUpac0NhLUhqV1JELV9qMlFpeUt0V3NhS0dXQnJwc2R4WjYwWWVpcmNNeUxwcVJudGpOd2lvVnNpMGk4OVpkSXQ0bS16VWswNEsxU3dkRmhxVlFTNlc0dkxjN0wwZ2lJYzB4dVlFTVpGeHV4eEFuQzFyMFdEWllZeVd2X2NFVmxDSE9sbDZCMkE5T1poa2dLcDJhZ1c1UQ?oc=5",
+   "source": "Capital.fr",
    "ts": 1793967671,
    "theme": "fact"
   },
@@ -119,6 +126,13 @@
    "source": "LE MONDE DU CHIFFRE",
    "ts": 1793965727,
    "theme": "fact"
+  },
+  {
+   "title": "Solde de la taxe d'apprentissage : le dépôt des dossiers d'habilitation pour 2027 se termine le 11 décembre 2026",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNzRWZGtkTU1PVTN1TWJrTE9Ndk1IalJ1bjh6STQzdmFySWFrX1N4X2paaklXQUViVGpBVmI2SFRsUzZvNFpseFhOc3hDUV9NenctUy1UaDVFbWtIZ2RTTWt6QkpEMzl1YUJkM3BlNzFwT19LVVJDSXlETnpvZEpWeFNVUThWdlppY3ZkTGFkUUphb3BCOVRCcnAwQlltb240TVUzd2Z3eGxudHdlOVBJWEdVQTJFZmdvUHV4QzljVExzNmYtWmpVTmZqc0VndllHWVhmVmpRUFlPZVVR?oc=5",
+   "source": "AEF info",
+   "ts": 1793964060,
+   "theme": "alt"
   },
   {
    "title": "Budget 2027 : les associations inquiètes, feux au « vert » pour les industries pétrolières",
@@ -230,6 +244,13 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODkyd0dqUlpCNmdGR3lvbjJBTDMyajUxYUxlNHpTNEZfVzQzM0ZEazlqd0dTNm5QSHBpNmQydHBNY2RKZEN3TnFLalZlNXhJQ3NjcEN3LXJXT0pHUHVWMXdhbXI4LWZsQzM3MUJ4YmhnVkFPVEpzTmgyV05XVmVuWWRnVHJXN0p3WkFoZWJaSkEtY3U3T0lWYVczTnNVUW5VT29TZW1NbVZ1VFliLVBSUjBYMVdhdmtPMTZaWm5tR2MyRmwwNHR1MjlRamJNZ2NrcThxVWVoUGRnVW1nMGttQ01Zcw?oc=5",
    "source": "Be Magazine",
    "ts": 1793932030,
+   "theme": "fisc"
+  },
+  {
+   "title": "Actualités économiques et sectorielles d'Asie du Sud du 2 novembre au 8 novembre",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWdCYlRnczNOdklKdXNrUlBwRk10QUZHMXBIdmk4TFBsbUxMRTd5b3p4TUt4X1ZaeHNKX2FjUkhsbHYzNVdsckRNOE1tb244aVYtUGg2R1BKejI3LTlxMTJkQVlxdE9HN2RTdkFMY3l0WXc2Y09pYk9vVWQ3U2NuU2tNSGlLc1NYQWk2UExjZEJrZFd3Sy1ibm00amg4RUJJRzFRQjludXdXTFc0N1BERmNCMkk0cmdXSVNMZzVsM3hIcU1Ja25qMHhQa3pXZWhrM0hSQw?oc=5",
+   "source": "economie.gouv.fr",
+   "ts": 1793919600,
    "theme": "fisc"
   },
   {
@@ -1092,27 +1113,6 @@
    "source": "Culture RH",
    "ts": 1793606400,
    "theme": "soc"
-  },
-  {
-   "title": "Orcom accueille le cabinet lyonnais A&A et installe un associé sur place",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yUEFqbmlGbkgwNmNpbWlsRkFLRVlwQnZDWmk5LU54cm1JTXVRRXYxYWUwNDIyWWh5ZzAzaVkwc2d1VjhPRG0takZncVNUaV9LV3lpWVc3UGtjZnU1LTRXWjhIVFdzQl9Zb191al85Y0taeVAwcHhj?oc=5",
-   "source": "Compta Online",
-   "ts": 1793606400,
-   "theme": "compta"
-  },
-  {
-   "title": "Orcom accueille le cabinet lyonnais A&A et ses 43 collaborateurs",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yUEFqbmlGbkgwNmNpbWlsRkFLRVlwQnZDWmk5LU54cm1JTXVRRXYxYWUwNDIyWWh5ZzAzaVkwc2d1VjhPRG0takZncVNUaV9LV3lpWVc3UGtjZnU1LTRXWjhIVFdzQl9Zb191al85Y0taeVAwcHhj?oc=5",
-   "source": "Compta Online",
-   "ts": 1793606400,
-   "theme": "compta"
-  },
-  {
-   "title": "Budget 2027 : Le Sénat auditionne les organisations patronales",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzV3Z0M4bmQtbUR6d2tPM1FqVFZXTWZKcWR6LVJhTVhLdzI3WFJPQk5wUWo3akhHemNfUnNJNHZxeDYtelVnWkhnUlhiczBmYVNtSDdVb2YtSndXTE5GVXc3NTZsNWxjVm5qVWJCajdUcmdoUjNyeWxnbjI2YzA5bXEtUXpuMnNhUHVSb19XQU5hX195ejgzbUp6TFhTNTJFVTdaY0N3?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793604282,
-   "theme": "fisc"
   }
  ]
 }
