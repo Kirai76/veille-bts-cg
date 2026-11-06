@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-06T02:58:29+00:00",
- "last_success": "2026-11-06T02:58:29+00:00",
+ "updated": "2026-11-06T04:01:37+00:00",
+ "last_success": "2026-11-06T04:01:37+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 79
+   "count": 78
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Entreprises : vos principales échéances du mois",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51UnUxV0dsWmlNSGQ4UTRucDhhMVY5ZUZIOUZjcVNOOVYxSHZCeS1ZM0MzdEg0eUZKQm1nUllCN2ZBTUIzeWUtQTRvcUtJX3BFUWJDTV9LT3NXWHg2ZE1FTlhDbWlaanQtaXpaQWctUXprVDlHMGNhbnln?oc=5",
+   "source": "TV83",
+   "ts": 1793934224,
+   "theme": "fisc"
+  },
   {
    "title": "Budget 2027, ce que les dirigeants de TPE doivent vérifier avec leur expert-comptable avant la fin de l’année",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODkyd0dqUlpCNmdGR3lvbjJBTDMyajUxYUxlNHpTNEZfVzQzM0ZEazlqd0dTNm5QSHBpNmQydHBNY2RKZEN3TnFLalZlNXhJQ3NjcEN3LXJXT0pHUHVWMXdhbXI4LWZsQzM3MUJ4YmhnVkFPVEpzTmgyV05XVmVuWWRnVHJXN0p3WkFoZWJaSkEtY3U3T0lWYVczTnNVUW5VT29TZW1NbVZ1VFliLVBSUjBYMVdhdmtPMTZaWm5tR2MyRmwwNHR1MjlRamJNZ2NrcThxVWVoUGRnVW1nMGttQ01Zcw?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmRwVGc0MUJlWW1xR0h4ZVhBYk51N0VTS3VVSEtPZ0FwUmd4cDZHR1RudHoxZ2xoTHVVdWtCY2FfaTNvS0pvUXRIeThuZjhXbkwzUkdsTTNxb0ZyblVucmMxaTBGVG8tREJfcTJlNVFFeVBjdHZ0RzhzOGhqVHhJTHhiQkhXQmhvMTJGZ2tXblRiMEgx?oc=5",
    "source": "Vietnam.vn",
    "ts": 1793431952,
-   "theme": "fisc"
-  },
-  {
-   "title": "Guide détaillé sur la réduction de 30 % de l'impôt à payer pour les entreprises dont le chiffre d'affaires est inférieur à 10 milliards de VND.",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0xkeXhDT3BtZ01hNW1IcTEtY0hLck1xT0lCNmVQNXlfVXZpeG1VeVNvMGwwMkxlZm9qdW1ILW1xTkJ6X0hzcFZLa2MxT0lBeVQ5enBwa1p5bGxxLVkxNi1RYTZkYXNmSjluQTUzVjZ3V3RucXFXcnFoRXBjcTlPM3prTU83QlV5Y0wyRlVlVnhwbGZoZ1F2TVlMOFRRTWgwUDF1b0xiZ2oxZXVMVVZ3NnpR?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793427488,
    "theme": "fisc"
   }
  ]
