@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T14:27:37+00:00",
- "last_success": "2026-11-06T14:27:37+00:00",
+ "updated": "2026-11-06T15:58:02+00:00",
+ "last_success": "2026-11-06T15:58:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 83
+   "count": 84
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "items": [
+  {
+   "title": "Rejet du budget 2027 : l'exemption sur la facturation électronique annulée, le calendrier maintenu",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JEeW4zckF5cjhwYnBhd0c4d09IY3A3dmUta3h0MEF4NFNTaWZZaG53aUZqWHJKYlAzVTRtT0hHYk84cVBrRnZBZk8zVkxRaG5OZzN4SGJ2VlpWNVlWMTIzMWZtWjBnOW45OHUtZVN2ZlFpTDA4SEVvZTAwdGpxVlFyam83eldJT0UxalFCenZ0ODBndHl6VGlyU3lybU0yU0dNYVN1aTdCT2NTLXYtMXd3d2c2UC1ZSzdHVHU2Q1h0anV0cktqS0dMdGdhT1RzYkJB?oc=5",
+   "source": "ZDNET",
+   "ts": 1793980086,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : les fintechs profitent de la réforme pour conquérir de nouveaux clients",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOajJPMDVqNEY0Vy1td1o5SFl1SFFvZjNIcmpIZl85d2xrcFhMSGZ2b2stN29MbXlkTDVGa0I5bFVRYlFET19IN2dxMWFQaEh2Ym1BenV2Yk5EenZsVEVRUk5uR2twd2xSdWNKbERpNnY4alRTaWoxWUdZM0sxbl9GZTFaRGQzVUJrallNY2h3YlJrZDNQcnhzS21lWnlzcDA4eHl3NEROdTlSMFE0YUxkdWkySkt4STlzd1BGUDdBeHhYY190dW9rbVlpQU1DdkRpdEp1dHM5WnBIMVFkZXhZMElZbw?oc=5",
+   "source": "Option Finance",
+   "ts": 1793978609,
+   "theme": "fact"
+  },
   {
    "title": "Facture électronique : les auto-entrepreneurs qui ont fait ce choix sont ravis",
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMGVFX3E3TWNLcW9mUlJMOUYwRzluQUpXcmVEMFdXWjRhcGwzTTFyczJkTWZOTEQ2UUtiYjE5b2pVVHZKdG93cmpRZEhqblRGS2FnV2ZDTnBtZXVDZm15c3pJTzFNOTZsTFdBZWh3ejRjU1FJNDJIUHBocmMycjRuSm1WbEM5cGRZYTdRaXFTVDF1RzRGQW9RODJkejFiN05lSXVVMXp3ODlHVzIzZXFSaXFodDlGMW1BS3pVc003RG55elhoQ2c5ZVBhVXZtT2VZNkhVd09OMUZaS1VpRnFLbGtwb1E0bktYRjd3MDdQWUZtZEVtTFYwaEtHc2RSek9xS2dudW5jUGRwd1FjOUhIazF4aGM0VHc?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BMc1Y1aGxYOFpCQUZVNnh2OHFqQ1Nwd3hkcGswbkkwS2FxdlFFZ1FXOTNzOUh2bGVoQ0VHQnVKckU4bXF5Q1k4cFRjZkNiSWdZSko2eXRyS2R5MWFZTzVFUHJiZkdSQ0F4M1oyR0RHMkl6dEJ3RkpBeVd0TXhVRkdiaEx0WkF0VjlBX2VxRE5WOWxGYjRFOXdlRm1sQ2h4SVBRdDR0NC1iS2VCZWxkOGk1OA?oc=5",
    "source": "La Vie Economique",
    "ts": 1793599200,
-   "theme": "compta"
-  },
-  {
-   "title": "Doanh nghiệp, hộ kinh doanh được giảm 30% thuế",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Qa1REWFQ2NC1YRk42dllXLUpOaWpWVVZWOWZjVkJoVlNlMTRmMVFoNlJSYkFqcy1CTkFmd3cyWktNTXFqODVHX2gzWFFwY2loazBWc2lES3otTDlNdWgzZFJLWDYxLW9BS3ZtYVplY0FxZEpyUmdHTnRR?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793598758,
-   "theme": "fisc"
-  },
-  {
-   "title": "Erreur de calcul pour le cabinet d'expertise comptable qui avait engagé trop d'apprentis",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONC11ck9weFRMOG42TlRQdGVjeElPd19XOXYyaWNTLWg5dS1lWURoamFSMnNuSUZVV01hY0tiUjRKV0ItTjNLNGlscEtHQjdOdklDS29hcjN2ZzJ6SDRjdkdreGlPM2cxWGlkcW5iTnJVMXhPQU43UE1iY0dKSjJwZXh0VFpGanl1bzhBV2hkbWQ0UkFOVXFib1dVeE5CV3Z5VDRMQWpVakUzMzNHXzA1X2RrWFo0TnFySDNQSzJFY2Z2dUJEb3V4bm4tSDUtVy1lRzBHZlFCcjhXa2RLSXFN?oc=5",
-   "source": "Actu.fr",
-   "ts": 1793596681,
    "theme": "compta"
   }
  ]
