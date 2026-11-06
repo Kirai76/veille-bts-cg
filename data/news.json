@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T13:16:25+00:00",
- "last_success": "2026-11-06T13:16:25+00:00",
+ "updated": "2026-11-06T14:27:37+00:00",
+ "last_success": "2026-11-06T14:27:37+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 81
+   "count": 83
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,15 +60,29 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
   {
+   "title": "Facture électronique : les auto-entrepreneurs qui ont fait ce choix sont ravis",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMGVFX3E3TWNLcW9mUlJMOUYwRzluQUpXcmVEMFdXWjRhcGwzTTFyczJkTWZOTEQ2UUtiYjE5b2pVVHZKdG93cmpRZEhqblRGS2FnV2ZDTnBtZXVDZm15c3pJTzFNOTZsTFdBZWh3ejRjU1FJNDJIUHBocmMycjRuSm1WbEM5cGRZYTdRaXFTVDF1RzRGQW9RODJkejFiN05lSXVVMXp3ODlHVzIzZXFSaXFodDlGMW1BS3pVc003RG55elhoQ2c5ZVBhVXZtT2VZNkhVd09OMUZaS1VpRnFLbGtwb1E0bktYRjd3MDdQWUZtZEVtTFYwaEtHc2RSek9xS2dudW5jUGRwd1FjOUhIazF4aGM0VHc?oc=5",
+   "source": "Le Parisien",
+   "ts": 1793974620,
+   "theme": "fact"
+  },
+  {
+   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSlBoUWkydUp2REhodk10cGprdGpKeGRtS1hQd3VOSllDYUtUTHVyVzNENDk0SGxaVXhUcjB5N0xHZzlLZnA2SVhRVGFKVWxRSWY2djNMLW12RFVRLUJzSm5yZG5WdExkR2VFLVFWc0o1MDlmT0hEMDVyeGRwWmxwVDlnZkpadnQxdzZfOHdfekhjTmRseVBCNWF5a3ViaVNIMmFkVlNDTU0wUmo5NEFMbTB0M041c3B6LVRhWC1ua0tEVU1lSkIzdnluZENiSUhEU25ZVmhHdVpsQ2liQ1RHSHpuWlE?oc=5",
+   "source": "Burkina24.com",
+   "ts": 1793974193,
+   "theme": "fact"
+  },
+  {
    "title": "Facturation électronique : « Pour les commerçants, le plus difficile reste à venir »",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQy1FVGRKLXRacThkeVRDVzJ3dnRYWXhWVmdiR0tQSWFsN1NqQUVmal9uTjk2YzFnU1BzZkhiRGtYRlV0SUlLQ0VLdHB5YTdJMTktU0liRjl3RFRsbThYdVQxY1piZjhqbElwMlU5dUswVEdrNmdpQjI2d2MyTUlyVUp1OGJWaENJV2dvOU5WRXpjNkxZN0QzTnM1QUM5LVgwVmdLdg?oc=5",
    "source": "L'echommerces",
-   "ts": 1793969625,
+   "ts": 1793969720,
    "theme": "fact"
   },
   {
@@ -448,13 +462,6 @@
    "source": "Sud Ouest",
    "ts": 1793809800,
    "theme": "alt"
-  },
-  {
-   "title": "Communiqué | DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDRfREx1VkxUcHhmMkttcnFoYnJ0MWhVZlJMQXZkZFVSelR0bkxGd0pSLWstcV9nWU1LTXk0LWtNcTJtdWhoYnpidFRiT1dwUHVRRmZ3ZVpIWmkwblFjMWRPZG01NTdhbXo1ZUhVUWhKZEZZcFhHVHNITVBkUGdlTWpEeVJOaVdsQl9tVDcyVmZhZnNQWHRNdGF5UE9ZRV9lWjMxREZiZGU0UnBNN1JKbDk5Ymh0RWNHcE9EMjUzRXVybm9OcEl0bkJtWXNYcktqbGQwenoydDVORGo1T2cyTU41MF8?oc=5",
-   "source": "Burkina24.com",
-   "ts": 1793807230,
-   "theme": "fact"
   },
   {
    "title": "Presse: 247 millions de dirhams prévus en 2027, six années d’un soutien vital aux entreprises et aux journalistes",
@@ -1106,13 +1113,6 @@
    "source": "Actu.fr",
    "ts": 1793596681,
    "theme": "compta"
-  },
-  {
-   "title": "Budget 2027 : les députés étendent à Pomas les dégrèvements fiscaux prévus pour les entreprises sinistrées",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckVIZTJ1cXRSTFM1VXh2aUxXZzZVcUpud0ZQQXRiYW8tRjdkTW9NSUhTdUVCc2ZreEExWHc4clJzOHo4LXRRd1N0bXZTYUd2SW8xYmF5Rnh1RFRIMnEwS3AwX3E3WXNFeWs5ZjZicWU2ODVicnVqTk4tLXJXbUE2azl4bnNpTnB1Q1ZvNFJVRUpKd2lSMHU0c21BSGI?oc=5",
-   "source": "Economie Matin",
-   "ts": 1793590776,
-   "theme": "fisc"
   }
  ]
 }
