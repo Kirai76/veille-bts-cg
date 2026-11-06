@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T10:12:58+00:00",
- "last_success": "2026-11-06T10:12:58+00:00",
+ "updated": "2026-11-06T11:13:12+00:00",
+ "last_success": "2026-11-06T11:13:12+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 79
+   "count": 80
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
@@ -65,6 +65,20 @@
  ],
  "items": [
   {
+   "title": "BTS les plus populaires : 7 spécialités et leurs débouchés",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3eXYwX04yc082YmFkMVhfR0JjWTlQNU5jZk9PVGhoUU1FYVpPd0F3a2FjQ3dfYUg0LVBaVkJRcjdSeWE3WlNjWF9LcTBxcUh5Tmt1bGhRUThKWTdYd3h4OER5Y2lwQjhrbEVYbjZIMGRETWRub043N2ln?oc=5",
+   "source": "Planète Grandes Écoles",
+   "ts": 1793962435,
+   "theme": "alt"
+  },
+  {
+   "title": "Budget 2027 : les associations inquiètes, feux au « vert » pour les industries pétrolières",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkdId0JqQ1B1X3JUNUJ2X0tOTUtJcGZnU09qZDE0NUwyaUZFN2xRS3k5M1R1am0xcjFXdTFNUnp6SmRSaUVPcmtRS1VHZzdYQ2ZQYkJJbHpQSTNFbVJWb3Q2RU1kdGRwUVQ4WE1KSms2dlR2MFZXbGUzdHdDSFYtUUQwQTBPMUVjSVV5NUtCT01WQXJzbk5ERk5Ubw?oc=5",
+   "source": "Le Courrier de l'Atlas",
+   "ts": 1793962434,
+   "theme": "fisc"
+  },
+  {
    "title": "Facturation électronique : préparer les dossiers clients avant 2027",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjkwLUswMVBkN2JYUm5GdlRieW9YYVRmb0ExTDdXN3NjbEZzRDlEX1N0TmtvcC1fYWp6YmxSQi10dHljekJNLUNRTXltZkYzZ3U2b3ZrMGR6bzF1Q1p3Wi00b3RCanFXR01oLTlQYktVMW9sS2tTMElnd3ljX2FMVm5BMA?oc=5",
    "source": "Compta Online",
@@ -77,6 +91,13 @@
    "source": "Vietnam.vn",
    "ts": 1793957301,
    "theme": "fisc"
+  },
+  {
+   "title": "Expertise comptable : le chalonnais Exedra rejoint André le Groupe",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSEJzM18xd29KQ0FwM3NTOWtiX3RQM042d2lLbXJPck5keUdaODdWNnlBclFRMGlUcWdSOVdfNURuN1BLeFZXdTRlSnZtWWszeHlhVzJ1cGg4cWNvaURnSlZyRUpxai1KRDJ0MncxbkhKd1JMckpJTV9yQzFyYU1lUHl0R2YxdlRTaUdnNG9Oay0wUUZDSXRFWXBNVy1SWVhybENhLQ?oc=5",
+   "source": "Lyon Capitale",
+   "ts": 1793954321,
+   "theme": "compta"
   },
   {
    "title": "Des raffineries branchées sur les paradis fiscaux",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXR4RjNHbVpVSnNaYWpkMEhESU9wellPN3NfY1p1d3U5TlBBeUNOaGRORHJuQkFlRGlXSXY0VUdzYWpkUUhoSzBGWFp2QndPQWlmWDkyTjdvLUhTc3J5S2xKd0VzbWg4WnpDUThZX1FxUFFoUThYMW02cHkzX21HVzFZQU5oZXRBMHpMVVVQQnhpcFZfQ2FUSGpIb3NkcUYtYlNURUhSMjdFM0R1TU9kNjQ4NC1YU3R4RmV6VjFrNlJCUEYzVll30gHHAUFVX3lxTE9tdHhGM0dtWlVKc1phamQwSERJT3B6WU83c19jWnV3dTlOUEF5Q05oZE5Ecm5CQWVEaVdJdjRVR3NhamRRSGhLMEZYWnZCd09BaWZYOTJON28tSFNzcnlLbEp3RXNtaDhaekNROFlfUXFQUWhROFgxbTZweTNfbUdXMVlBTmhldEEwekxVVVBCeGlwVl9DYVRIakhvc2RxRi1iU1RFSFIyN0UzRHVNT2Q2NDg0LVhTdHhGZXpWMWs2UkJQRjNWWXc?oc=5",
    "source": "Dynamique Entrepreneuriale",
    "ts": 1793520000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Micro-entrepreneur : ce que la facture électronique change pour vous dès maintenant",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQQjliSmRTd2FLaUxhQ29WaHVhTVJXNFI4U3liTzhLTjlhOFFqTTA2cWJCUTYwZFVqTGJZLVpxUzVjQTBnTW9kLTVGZWd1QUxsNWhob2ptUUU5X3RWZkZ2X0RQSjRhelZ3bDR1c2t2eWk5LXZVQ25mTnVJbFBYQUtpaTZDcjlJVWVnYWNqd0hBVGlrdTZHZFo1eDB3Z1NORHhLS0tDM1JRVlJKMldWUFB4cmh5dkZWdEhIaDVHSUJwQTFNcUJ2N0poVGtTMTZmT21KVkNSdzc0OWcxSVQxTG5CTFhkR3Fub2hKcEoxVGs2UnQ2S3lhZl9INlI1R1N6dXNIdTVtTWtwVzdHeVE5TVkxNmpGVnlraEFJb0xqSGd3?oc=5",
-   "source": "Le Parisien",
-   "ts": 1793506920,
-   "theme": "fact"
-  },
-  {
-   "title": "Lekjaa ouvre au débat les sociétés régionales de distribution et l’impôt des pétroliers",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSlIza2Q5T243Z0Y1MmRUZDhPSk90TllBSXR3X1h3NWRpT3hXR1JGd19xT1Ixa2NlVUdMNHVnVW5OczlvNnN1S3JORGlQVTY4ajFiWXRzZXFEbTRzaThjVGVFcUJjaW9sS1Z2WEtZZnFoVkxEc2pJM0t5a2JyZjJhQ3o4Y1dkOVdHY2NZNm1aLTFFQU9weDRHeUQ1dzlaOHMtY0pBOERIQld5MHFGRzh4Q0VNajhjNU0?oc=5",
-   "source": "Le Desk",
-   "ts": 1793499660,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027: les recettes fiscales attendues en hausse de 15,6%, à 22% du PIB",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYTBldFBkQ1liR0VuYm5ZVVZCMkJlOU9uQ3Q5U0tmTWVuZWZTLXh3N2dLT1libU1Na1dXek9ta25YVVFhTTJXOURBSV8wRnpxVlQ3a0Y3ZE84SllYZlJyWmZUNGp0NVkybnoyR3ZSUzRwbXZfWXliOGJLd1pMLUx6VmpyU3l4WTNaMEpEN1ZxQ0lRdmJyNjBjclVOUUZXUDBUc3dfZTk0SGFIMmNDdDA0eUsyZEVkUXBTUldFT21RTFRwQ2Vp?oc=5",
-   "source": "Le360",
-   "ts": 1793496780,
    "theme": "fisc"
   }
  ]
