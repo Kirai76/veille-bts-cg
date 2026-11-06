@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T17:55:15+00:00",
- "last_success": "2026-11-06T17:55:15+00:00",
+ "updated": "2026-11-06T19:02:45+00:00",
+ "last_success": "2026-11-06T19:02:45+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 89
+   "count": 88
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 24
   }
  ],
  "items": [
