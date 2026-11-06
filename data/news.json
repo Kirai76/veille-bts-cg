@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T06:09:31+00:00",
- "last_success": "2026-11-06T06:09:31+00:00",
+ "updated": "2026-11-06T07:27:06+00:00",
+ "last_success": "2026-11-06T07:27:06+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "query": "aide embauche apprenti",
