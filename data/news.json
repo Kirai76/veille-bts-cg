@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T11:59:44+00:00",
- "last_success": "2026-11-06T11:59:44+00:00",
+ "updated": "2026-11-06T13:16:25+00:00",
+ "last_success": "2026-11-06T13:16:25+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 48
+   "count": 46
   },
   {
    "query": "TVA entreprises réforme",
@@ -65,11 +65,32 @@
  ],
  "items": [
   {
+   "title": "Facturation électronique : « Pour les commerçants, le plus difficile reste à venir »",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQy1FVGRKLXRacThkeVRDVzJ3dnRYWXhWVmdiR0tQSWFsN1NqQUVmal9uTjk2YzFnU1BzZkhiRGtYRlV0SUlLQ0VLdHB5YTdJMTktU0liRjl3RFRsbThYdVQxY1piZjhqbElwMlU5dUswVEdrNmdpQjI2d2MyTUlyVUp1OGJWaENJV2dvOU5WRXpjNkxZN0QzTnM1QUM5LVgwVmdLdg?oc=5",
+   "source": "L'echommerces",
+   "ts": 1793969625,
+   "theme": "fact"
+  },
+  {
+   "title": "La facturation électronique en question : les députés votent sa suspension pour les petites entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSV9CTG9KYVRrN1JRNEtGcFMzaEQwRG5rQUl6ZDdUWTFjaUxDMFM1U2MtN0NUQThtNlI1ckhLYVpLUHd3VEtIZlNuM2FQUnZKWU5xTDVhZDdhNmhWaUZKYzVYZlRKa0tJekkzRTdWVFFkV0hIWGpERzM5MjUycEdWdVNnaHkxVl9MSUtrWVBOb1VtMVRROWZXZVgtNy1waEt4LWtYTGI1UkUtLWtVNkVtX0RDM0ZpRWZQVEE?oc=5",
+   "source": "Yahoo Finance France",
+   "ts": 1793967671,
+   "theme": "fact"
+  },
+  {
    "title": "Facture électronique : les experts-comptables sonnent l'alarme après le moratoire avorté",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSEhTaEwySFFObW1uWERfXzJYNFpGclY3ZF9IUjBrTXNlTUdQcURuQjAzU1duRkJXN29STDBGbkdHcGxGNnhfUnR6ZG1KdmVMcXNFSXRNdll6cnJ3T29ocHd2Qk1nelA4Y18xdUNIVmxUdFNDaUR1WmNoQVNEb0NxbzllSlcxY2hjdXc3S0VDTGlHMDJXNDVYazIteDJWNUo5d2dLOE1lbl84TFVybXBuSmdjcGliRGpVLVc5N2x5NkFCTVM0WGwtNFhBQXNRNE9pSG9xWA?oc=5",
    "source": "LE MONDE DU CHIFFRE",
    "ts": 1793965727,
    "theme": "fact"
+  },
+  {
+   "title": "Budget 2027 : les associations inquiètes, feux au « vert » pour les industries pétrolières",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkdId0JqQ1B1X3JUNUJ2X0tOTUtJcGZnU09qZDE0NUwyaUZFN2xRS3k5M1R1am0xcjFXdTFNUnp6SmRSaUVPcmtRS1VHZzdYQ2ZQYkJJbHpQSTNFbVJWb3Q2RU1kdGRwUVQ4WE1KSms2dlR2MFZXbGUzdHdDSFYtUUQwQTBPMUVjSVV5NUtCT01WQXJzbk5ERk5Ubw?oc=5",
+   "source": "Le Courrier de l'Atlas",
+   "ts": 1793962468,
+   "theme": "fisc"
   },
   {
    "title": "BTS les plus populaires : 7 spécialités et leurs débouchés",
@@ -79,11 +100,11 @@
    "theme": "alt"
   },
   {
-   "title": "Budget 2027 : les associations inquiètes, feux au « vert » pour les industries pétrolières",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkdId0JqQ1B1X3JUNUJ2X0tOTUtJcGZnU09qZDE0NUwyaUZFN2xRS3k5M1R1am0xcjFXdTFNUnp6SmRSaUVPcmtRS1VHZzdYQ2ZQYkJJbHpQSTNFbVJWb3Q2RU1kdGRwUVQ4WE1KSms2dlR2MFZXbGUzdHdDSFYtUUQwQTBPMUVjSVV5NUtCT01WQXJzbk5ERk5Ubw?oc=5",
-   "source": "Le Courrier de l'Atlas",
-   "ts": 1793962434,
-   "theme": "fisc"
+   "title": "Facturation électronique : quels points de vigilance pour les comités d’audit ?",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRUOWJoay01VkpIeVBvQ3N0dGFEdmNGMjQ4RXJtc09tZGpuS2lxODM3OElRQWJYWG1BeDVydkllZHR2WEpOQnFpUzhsak45b0dzdWdxdUpwekhVUEpxZHdxTlRTdjZXUmlYZ3ZjMzA4SmkxTXNJTG84RDJnSHBaVy13aHRFMXpFbTlXS0lTVUJXQzU3elJQX0ppZFZQTF94UUtSYUxGX0RId1lUZFRBelN2dlVxTUJyZEhDTlZiQQ?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1793959192,
+   "theme": "fact"
   },
   {
    "title": "Facturation électronique : préparer les dossiers clients avant 2027",
@@ -245,13 +266,6 @@
    "source": "Direct Sénat",
    "ts": 1793880908,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : quels points de vigilance pour les comités d’audit ?",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRUOWJoay01VkpIeVBvQ3N0dGFEdmNGMjQ4RXJtc09tZGpuS2lxODM3OElRQWJYWG1BeDVydkllZHR2WEpOQnFpUzhsak45b0dzdWdxdUpwekhVUEpxZHdxTlRTdjZXUmlYZ3ZjMzA4SmkxTXNJTG84RDJnSHBaVy13aHRFMXpFbTlXS0lTVUJXQzU3elJQX0ppZFZQTF94UUtSYUxGX0RId1lUZFRBelN2dlVxTUJyZEhDTlZiQQ?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1793878465,
-   "theme": "fact"
   },
   {
    "title": "PLF 2027 : facturation électronique et éolien en débat",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckVIZTJ1cXRSTFM1VXh2aUxXZzZVcUpud0ZQQXRiYW8tRjdkTW9NSUhTdUVCc2ZreEExWHc4clJzOHo4LXRRd1N0bXZTYUd2SW8xYmF5Rnh1RFRIMnEwS3AwX3E3WXNFeWs5ZjZicWU2ODVicnVqTk4tLXJXbUE2azl4bnNpTnB1Q1ZvNFJVRUpKd2lSMHU0c21BSGI?oc=5",
    "source": "Economie Matin",
    "ts": 1793590776,
-   "theme": "fisc"
-  },
-  {
-   "title": "Avocat contentieux URSSAF à Paris",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teUJKSlM1UzI5bEVmdy1od1NTRG5Vb2NreHFidzJhd3dZNVY1RFotQWF5UksyUlB3NVFBR2tQeUdzamFaZnk1aXhLbFBfMDJqYmgycVJ2SDQ5cEF6RHcwT0V5Z085N28?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1793573007,
-   "theme": "soc"
-  },
-  {
-   "title": "Quand le maire socialiste de Paris appelle le gouvernement à adopter le budget 2027 par ordonnances",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQWVDUEZrbzdFS1Z5Ml91aDFtSWpQU0ZMMnV3MmhibFBBSGFEMUFDUGV0Z1d1YWRVdjg5QnNLOGNnQUlhUDdUNXY3Y0p1by05MGdiUjR3TVRyQ09ySHBvdkNuNW9RT3FHSWF4Y2FFRWNacXVTaVhIWC1lQUZuN0RQY1NWa19QMGMtX3otY19DZmpqYXNwS1h6TmhueVp6Y3BxVzlzNVhKY3d1UDFRUlZXakdVQmY3NnZTdzJjZGJ6TWY2YU5OcHdCeVhkMVZmcmN6TnJJTzNOdlg2cHZIZHMxR1VBQnFsWHVhcVJ1VXdxQ3cxb2RXX3Rn?oc=5",
-   "source": "Les Echos",
-   "ts": 1793558467,
    "theme": "fisc"
   }
  ]
