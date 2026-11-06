@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-06T07:27:06+00:00",
- "last_success": "2026-11-06T07:27:06+00:00",
+ "updated": "2026-11-06T09:07:08+00:00",
+ "last_success": "2026-11-06T09:07:08+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 80
+   "count": 79
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 45
+   "count": 50
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 22
   }
  ],
  "items": [
+  {
+   "title": "Des raffineries branchées sur les paradis fiscaux",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTlWM3dTVUowYlBYaVNnQWpDbWFucnVpbHN5ZzRDMWVwOXc2NmZKUjh3ZURfSUFkRzNneFFzUDQ1X08zRXQ2WVdyWkwwdWY0TXhxQ0xGVkUzSmJlWjRiYmV3eDNILThpaU9jaUdYQXRlNGpNLTVpYm91ZW1aenE4TGY1MXpuVGxncjRpQ1ItRWZoVEVmSndTZzlWN2xadnQ2SHpTbjZsTTdSWGU2cnZSY0JvLWVnZ1VDWUtEeXh2RGFhNUVCdEtqbTdaQUdZUkdsSDJRWENzN3JGWk1ZZWxhMWFaTE9MOUU4WlE?oc=5",
+   "source": "Observatoire des multinationales",
+   "ts": 1793952185,
+   "theme": "fisc"
+  },
   {
    "title": "Investissement locatif : bailleurs concernés, plateforme à choisir, sanctions… 10 choses à savoir sur la facturation électronique",
    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORG1pT2dWRzduUmRqU3UwTzBfakRycmFWUTRLSmxxMTVybHlseGNNaThoZ1U0WjFveTMwdmhtUDNZeWdlLXBfNTFGeFdEZlBxcUJfZHBPSVhyU2xqT1NuM1duc3R5U0hDYlNFZXlCb1drRWJ3SzVPYXFlcGpqVHdWaEgtTzIxNHBZcDM1RFFFRTZ2Y0ZWX2dfZmhlRkQ2T1VpcW5ETExvRWgyMXNBa3NSSHRENzEtVkZiVERwX3dhYTRuQTVNbFdXOTM3c19TR3NCMVlrOTFlbnRsTE9LYW5SRU9PQWh5d2tCM2UySHVCMUZaYnFKVmNlbjhRcmhHYjhzaGtQZmx2djVvdjdZUjlsem1mWXAxMzkyS2c?oc=5",
@@ -135,11 +142,25 @@
    "theme": "fisc"
   },
   {
+   "title": "Budget 2027 : Jordan Bardella demande le vote «en urgence» d'une «règle d'or» dans la Constitution",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQVNJaC1lcjllaXhMNXZ3WHlNYjdHd2ZzdFZKNUlUTkM4bS1UTkw2bDhkRVp1S1FORXI3TGpSdkdVM21BaUM2OWloeFVyZ3pjbXUxdm1uUnZCOW9xdy1EelhTRDZkWTdDX0E2TkFISmswRFpzLTdPaEhlOEllZVIwcGpST3RaUm1ncENvV2xRQnJEWXZ3TzF2VFJFWDg0TkZvbGVJckFlcDJyMkZYOXlxOUpWenJvblBISWQ2LU0tcVd1TS1wTllUY2dncjl4b1U5TVY0?oc=5",
+   "source": "Le Figaro",
+   "ts": 1793901281,
+   "theme": "fisc"
+  },
+  {
    "title": "OPINION. « Faire de la France un paradis fiscal ! », par Ferréol Delmas, directeur général du think tank Ecologie responsable",
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRFJ1Q0hxNXREa1oyanJHaW03eHRSdGR2WjlQTFBSbGRoN0E1ZzNCOWIyM1B2VURzck95bkxlNE9VRU5aLXZOWDcxV2kzWEw1eGRuYkhTM0l1S3VGTDZhVXpZVXZoMEUxczVyVDRJY2JXN3RYNmNQRUp2OGlnQVBMbkt5OXZublFBRUI2c3NzSXRTRzFtdk1RSE12QlZoc0JSVkRsUGFwTGZTNi0wX0dGN1RnakUxRlVRRkZROXlXcFdZRXAtcXdsT0MxM25qNk1TcFhDcjZueFlLTVNCcUtPQnYwN0MtbUpSWGY2THk1ZndyU1JHc0trdFd5Q3QzSERRbTJJejY0UzBCNHp0ZFloLTJNa0JhSFVmbF9aMkFn?oc=5",
    "source": "La Tribune",
    "ts": 1793900485,
    "theme": "fisc"
+  },
+  {
+   "title": "“Ça va être un carnage en termes de hack” : 10 millions d'entreprises passent à la facturation électronique, une transition à très haut risque",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQajl1bVlLLThzRjBTREI4cXA5UkJKaHBuRE9XRmFfQXpUMk8tN2o4Q052UWtQalRXR2EtMUgwS3FnWVZNN3lOZTliMTVId3Q3OTZTbEJiYmIxbnJIWGYxeE4ybGRwNzZ4cDNrMUk3QVJQZXVzVmhTWkRKT0Y2RlhMUVNRN3FzOEJjU1EydmNoMGh1Y1FEcE5pSUFqcXd6eFVyS05LaDg4YWVwaWJrN1hHT0liT2VZeEJDeEd4UEZIV1NLOXIyMXYyZmZZUVNxSnJ0cHJySDBuUFNua1RRX3YtNHhkTll6WUdSZTc5X1JZTmpwek5WY1lSNHh6ZlFkamlNWmtXNHpQU0JaM1ZVZTJKZDRnOUsta2szRDBKMFlEbmxzSm9w?oc=5",
+   "source": "Les Numériques",
+   "ts": 1793891766,
+   "theme": "fact"
   },
   {
    "title": "RSA, AAH, minimum vieillesse… De combien ces aides sociales seront-elles revalorisées en 2027 ?",
@@ -224,6 +245,13 @@
    "source": "Clubic",
    "ts": 1793870820,
    "theme": "fact"
+  },
+  {
+   "title": "PLF 2027 rejeté à l'Assemblée : ces amendements qui pourraient revenir au Sénat",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWFxNU5sbGt4RVppZXhQeDFPZW9PeGVVX2pKQUh4eVg4Q2g1dDJvZXctY2xuODIxZXBDNWdCVkVMM3YxTXZDd1ZGTy1ZLTNVbjUxWnN4b3RPdzVPOG1tQTNoZGhudFlHTkxwUXpnLWZmakxiVEhwdEpYVjRmaHJzV2pZMmw1Y1RLTHZwWU9nb1k5ZXh1dGhSdW4xM1pRWV9FQjAtc05WWXJ0S051c2NKcjRwMzB6S0xEWkE?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1793867400,
+   "theme": "fisc"
   },
   {
    "title": "Nouvelle fiscalité régionale : alerte sur les conséquences pour les entreprises artisanales",
@@ -391,6 +419,13 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVdFcnBENDk4aGNuOTZ2bUF2VnFuaXZxOHRoNXhuenNPZnFXaHFqaEhBR0pzTGdSbkhqdWltZ2pHcG1Sa2ZhRzJGOVdaMzJwWEhMMS1UR3dSMGREVUJZeDRmRUxMS2JVX2FBMG9RUXVsQzRtdmRTNlZmWFo5aHF3M01WRQ?oc=5",
    "source": "Reforme",
    "ts": 1793803500,
+   "theme": "alt"
+  },
+  {
+   "title": "Enseignement supérieur privé non lucratif : une autre voie est possible",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVk1xaEFpZDc4R2YyUXJGd0RqTDJsTWFwb2FQQ3hiWC10ckVJSjFPWHVNamdpLVlUdTJZTFZ6UFRzTm1tbDEtSDl6UnVPMTBpY0hQZzF0Ull2b2Fwc2VNMG4wTmp5NEE0dXJVdm5SNzl4V1ZheHdNOGFFX243blgxWG9weERTWnp4eEdtTUlvazhtNHNNajljM21JUmZNLXNiaWxxUTNiZXRUVWx0aEsyNVEyd3hfdkMtQjZaN3dhbmw?oc=5",
+   "source": "Le Figaro Etudiant",
+   "ts": 1793803198,
    "theme": "alt"
   },
   {
@@ -1078,41 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1793479004,
    "theme": "fisc"
-  },
-  {
-   "title": "LMNP : les députés suppriment le plafonnement des amortissements",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUpZbzZBWHUyM241TWI2ZlZjZFNzbTZGWVlvVnllUlVjSTRoRjNrbTFGMVN3eFpVTG9Ia0JuVURMNGFiVWVha2U1YnJjcFdpQmNScGQtOFhXZFdGaFl4dWFnT05RZ05ERjMtNkVXcGJpWDNDa2hmS2pfS2JRMElvZ2R2RlBfRHlpa1NYYmh0VEZCWFJ2U2hqdjlWU0ZnN2dXZ0l2YmE3V3Flczg?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1793463196,
-   "theme": "fisc"
-  },
-  {
-   "title": "Santé en cabinet comptable : l'enquête du CEG et de Malakoff Humanis",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUXhWNXZoS0pUY1l5QmN1YklnXzVrRjdQUnZ1dEo0RlBvQkM2dEVDX2lVMjN4TXJRRkFPeEZ3UUFBZ0JFeXhYcmI2V3Z0b0poblpaQlNaLWlOOHNZS3IxWHFhbFFEa0NBTVYxTWs2Uk95aUxHd3lseTZJbW9tdw?oc=5",
-   "source": "Compta Online",
-   "ts": 1793461058,
-   "theme": "compta"
-  },
-  {
-   "title": "DSCG : UE non validées, comment rebondir avec l'ESCG ?",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZXJGNHlwYXlRcEhRalVaXzdGamJRNFhuUHZZbkx6YjdBYjdYXzhROWluZ01zcHhsQWlOaDFMT0lpc1V4YVl2eTFoWnl1eURYa2xiUGhFNzFqd3VNMEhZS3V2QU5Mdw?oc=5",
-   "source": "Compta Online",
-   "ts": 1793460961,
-   "theme": "alt"
-  },
-  {
-   "title": "Réduction d'impôt de 30 % pour 2026-2027 : Conseils aux particuliers et aux entreprises concernant la déclaration de revenus",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFN1aFNKbnJ1RGNQZVBhQU1sZTk4M2RtOWdHQTBZVDY4NXY3S2lsQ3JqbDROSm1maHNzdmFpN20yejVjWUZTWUdwNzk3N2pWZGw0NjlYUUcwZE5XeW1rZzNoUHdZa1hSWnZhVy1jR20ya04ya0JIRmowMFQxeFhJT0o3M1lndTkxUG90VkZPUnpnejQtTkE?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793455741,
-   "theme": "fisc"
-  },
-  {
-   "title": "Céline et Clémentine sont comptables et veulent « remettre de l’humain au cœur de notre métier »",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS2YzZ21mQXM3RDFxZ1ZBSW1GaEQyQ19vT2puQWNHaWtEeW1yWHd5NmhNMDFiVDkzbl9JTmxxQXNHZTJpSTN5cW5nTVJPMm1UU0YtTjZSN1RFY09TWFk5aFVFNmp1UFYwd0o5RVdHcGZ0ckZVR1YzR3Y1SWs5UDYwdmZiS1ZtMkdtV0JsSHU0QjN1bmFISVFEWS02eWcyTFRvcndENFBZTjAwcVhXMWRjRFNhYVJlbmdqN1IyNkxnekNLU2VkNWFJQTRheG5WSGY5aExWMVpvVXlBM1JsUUJtV3Z1R2pHS2tQaE01ckM4aHNqUQ?oc=5",
-   "source": "Actu.fr",
-   "ts": 1793453161,
-   "theme": "alt"
   }
  ]
 }
