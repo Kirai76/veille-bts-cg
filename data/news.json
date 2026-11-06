@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T09:07:08+00:00",
- "last_success": "2026-11-06T09:07:08+00:00",
+ "updated": "2026-11-06T10:12:58+00:00",
+ "last_success": "2026-11-06T10:12:58+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : préparer les dossiers clients avant 2027",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjkwLUswMVBkN2JYUm5GdlRieW9YYVRmb0ExTDdXN3NjbEZzRDlEX1N0TmtvcC1fYWp6YmxSQi10dHljekJNLUNRTXltZkYzZ3U2b3ZrMGR6bzF1Q1p3Wi00b3RCanFXR01oLTlQYktVMW9sS2tTMElnd3ljX2FMVm5BMA?oc=5",
+   "source": "Compta Online",
+   "ts": 1793958498,
+   "theme": "fact"
+  },
+  {
+   "title": "Mme To Ai Vang, chef adjointe de la délégation permanente de l'Assemblée nationale de la ville de Can Tho, a fait part de ses observations sur le projet de loi modifiant et complétant un certain nombre d'articles de la loi sur l'impôt sur les sociétés, de la loi sur",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPSXFfU0Y5U01Lell2X24xNzhnY3hTWW5sQnJnd0tBWEhVT19SNnhROTZZWXFudTVPRU85bmRzNUFYSjNOWnBVOHRqMGg4NkpOX1gyVXhJOGkzcmxjeTg0b3Q4UW5UeU14eWpjaUxIV3UwbzFaU2lNdGl6bXBNNnNKNnBaSVpxeHVOaWFLWWQ2LWFCMFdSY3pnMW9aTk92dFR4NUFDUXQ3TGk0Um1qYUdnRlBqaWI4X3BkVkM2WUJyTE1ucUhhVGd0VEl4dXBRYXVlMnZ0WEhsbllhekdOT0FWQU5CeWxWeDNjbFNUYUxLRnkwcVNHcUdCTHAyVU5XclhEUlhXTjJFV2lsa2U3MFRUMzRTUUN0Ym9NNFh4RFU1bE9sT0NmTGxBV3hMNkQ4czlKcndrbGRSNHNBVTk1UWM2ZGtyYWl3QUFmTTAtbTdHV0VRTEN0NU16SXJJemxnYVZORWxPeU5zTQ?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1793957301,
+   "theme": "fisc"
+  },
   {
    "title": "Des raffineries branchées sur les paradis fiscaux",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTlWM3dTVUowYlBYaVNnQWpDbWFucnVpbHN5ZzRDMWVwOXc2NmZKUjh3ZURfSUFkRzNneFFzUDQ1X08zRXQ2WVdyWkwwdWY0TXhxQ0xGVkUzSmJlWjRiYmV3eDNILThpaU9jaUdYQXRlNGpNLTVpYm91ZW1aenE4TGY1MXpuVGxncjRpQ1ItRWZoVEVmSndTZzlWN2xadnQ2SHpTbjZsTTdSWGU2cnZSY0JvLWVnZ1VDWUtEeXh2RGFhNUVCdEtqbTdaQUdZUkdsSDJRWENzN3JGWk1ZZWxhMWFaTE9MOUU4WlE?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYTBldFBkQ1liR0VuYm5ZVVZCMkJlOU9uQ3Q5U0tmTWVuZWZTLXh3N2dLT1libU1Na1dXek9ta25YVVFhTTJXOURBSV8wRnpxVlQ3a0Y3ZE84SllYZlJyWmZUNGp0NVkybnoyR3ZSUzRwbXZfWXliOGJLd1pMLUx6VmpyU3l4WTNaMEpEN1ZxQ0lRdmJyNjBjclVOUUZXUDBUc3dfZTk0SGFIMmNDdDA0eUsyZEVkUXBTUldFT21RTFRwQ2Vp?oc=5",
    "source": "Le360",
    "ts": 1793496780,
-   "theme": "fisc"
-  },
-  {
-   "title": "Réduction d'impôt de 30 % : Plus de 81 % des entreprises et 99,98 % des entreprises à domicile en bénéficient.",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWhYYnJHeUVHQTRxaWZZMjF6RGRRZGdQdUFlcFlMeS1SYklRYnZtQUlENHR2QVM4ZDVVRXY1T2ZpejRCa21IWENMNkZJYmJqbUdOYnJxd0drTk4tT1p1aUoxX3pMNkRLb3JqYlc0SE5tZmg1R0JpZWRKWWExckVLV1Z2cG80ZnhpVDM4Y1YtamQzdw?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793491476,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les entreprises dont le chiffre d'affaires annuel ne dépasse pas 10 milliards de VND sont éligibles à une réduction de 30 % de leur impôt sur le revenu des personnes physiques.",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjFLNXRTTUM1UVJucWVKWGFza1NqQ2Nkd190VU9GNDkwR2NaUEl2Ml9YVWRyeHZsRHhoRFhhRVRTVjRyaFVDQ1ZJM3FBdndPZUstQzM2OGFVT2RFN0F2Z1h3N21vWFpKTVdacmZaRjE0LVNHdXFjeVVsZm1uMUljZ2lHcG51dzBLTzdnQ3dDRnJzRFhpQzRvVXZNVQ?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793479004,
    "theme": "fisc"
   }
  ]
