@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-06T05:08:01+00:00",
- "last_success": "2026-11-06T05:08:01+00:00",
+ "updated": "2026-11-06T06:09:31+00:00",
+ "last_success": "2026-11-06T06:09:31+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 77
+   "count": 80
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -55,21 +55,56 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 21
   }
  ],
  "items": [
+  {
+   "title": "Investissement locatif : bailleurs concernés, plateforme à choisir, sanctions… 10 choses à savoir sur la facturation électronique",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORG1pT2dWRzduUmRqU3UwTzBfakRycmFWUTRLSmxxMTVybHlseGNNaThoZ1U0WjFveTMwdmhtUDNZeWdlLXBfNTFGeFdEZlBxcUJfZHBPSVhyU2xqT1NuM1duc3R5U0hDYlNFZXlCb1drRWJ3SzVPYXFlcGpqVHdWaEgtTzIxNHBZcDM1RFFFRTZ2Y0ZWX2dfZmhlRkQ2T1VpcW5ETExvRWgyMXNBa3NSSHRENzEtVkZiVERwX3dhYTRuQTVNbFdXOTM3c19TR3NCMVlrOTFlbnRsTE9LYW5SRU9PQWh5d2tCM2UySHVCMUZaYnFKVmNlbjhRcmhHYjhzaGtQZmx2djVvdjdZUjlsem1mWXAxMzkyS2c?oc=5",
+   "source": "Le Particulier",
+   "ts": 1793944800,
+   "theme": "fact"
+  },
+  {
+   "title": "Proposition d'exempter d'impôt les écoles privées à but non lucratif : Examen attentif de l'équilibre entre incitations et équité.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOek11bzBnY0VGMUQ3Wm50dC13T1Z2WjNjZy1pQ3FjbTdXcW11U0tscDlYbWJJakVsR2dhOGdqc093QTJfUHFiZ1NBcFFBRlUxdlhuN2xDb1BfWkl6M2dfZDNzcV9BRy1DN2xISkhZVE4zR01rRmZIN3ZieFU1UFZGUi1JRmxaTlNtOEZCZW5SWl9IaEdkQjNraWUxLUxRTFVmZUR2dUEzVE5lR21vdVBGMnRzWQ?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1793944598,
+   "theme": "fisc"
+  },
+  {
+   "title": "Comment Axens a fiabilisé son processus de facturation",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHpSdVhfUlE2cEdUZ1pjdHhrdXY2TzZ2Y1JDYmNueFFSN1BqT0EwWTdwOVRDSXZFTkhWT1pNSWRNeUE5VUZPUnFUR0c0MENlSnRoYVpId1lBMERKVkNrcHFmUFRkR29oTUZsSmZna0pJVTRXcTU3cll3QWJJb2FmLXFjSGtFWHVPcFhJOUVVTEV5am15eGpEVExtTXVSZFloOGcydDdMdVo5cFJsODN6V1VuY3NhdUFUQjFYWjUteks1b1lFbTFrWmpB?oc=5",
+   "source": "https://www.republikgroup.com/",
+   "ts": 1793943070,
+   "theme": "fact"
+  },
+  {
+   "title": "Expertise comptable : le mayennais Tyls se donne les moyens financiers d’intégrer le top 10 français",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQaG5nVnZRaE1CdHhoUHJyVGFzWHpGOEJja3JqSEdtU1I1aVVlM3U5UjBnSXhsendKZlRoSFpPLTh5VjlaTjhId0xLRnFpMWppOTlGMFN6OEladkZfSHpMSmFwQ3Z5cXlEREloRy1xN3cwSjR3V0VCalNRRGtVMXNvQ29qZzF2NW52NHpOVFAybVpadGFkWHRsVjJTQUtUOGpESGR1cnBrQmotOXRyb0dIYi0yVTJDT2VOaTQ1bzBZZXROR1FWS1hscWJHdnZGUnlXUnJmcVMwWmJvM24zNjVnZHlwLXFaLVdCQkRjN0V5SG9HR0lTdUhTQm9QSFhjeFdoelJ0UUJjcXh1YmZwcGhtMFZFUXlkTVN1elJUWDlHdURfVnJRQVlCVXNxQmhPc0RU?oc=5",
+   "source": "Ouest-France",
+   "ts": 1793943018,
+   "theme": "compta"
+  },
   {
    "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
    "source": "Batiweb",
    "ts": 1793938609,
    "theme": "fact"
+  },
+  {
+   "title": "Aides à l’apprentissage : le Cesec s’inquiète du reste à charge des entreprises",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG4tQklhbE4zZjdzLVlKS2NmUEFIOG9CbWpzMDhHR0F4SnM3cF9aVjRwbDQxUXlfRzN0ZE1DVkExUU9NRUhfeGdKZ2lkcFYyNFllcnZWLWItV09henhvako0cF9HazF5Vl9EQzVhX3lYQmRzVHVlUGpxLVAzMjV1cHFXbGkzdFdNSnNGalVBc2paTTVyb3AzTFU3b295aUHSAaQBQVVfeXFMTlY1c3d1YkZmQU1VSDZmU0Z0Tkl6TGlZS1BoQmlOWXZCQjZKS25RYndzZXN4Qlp3SG1OTkNsY0ROUTJEYkNLU1F0N3RINThHeTRTS2lhU0w5NTRYbGRMb2k5X1U5d1NyX2hOOG1kc1NxWjlYYTlFb1B2NTZCZWViSHRUWnlRLWROb1l5Ry1jMFc4SU9zXzhQTmQ3Wk1JSXpyZzE5WU4?oc=5",
+   "source": "Radio1 Tahiti",
+   "ts": 1793934898,
+   "theme": "alt"
   },
   {
    "title": "Entreprises : vos principales échéances du mois",
@@ -1078,41 +1113,6 @@
    "source": "Actu.fr",
    "ts": 1793453161,
    "theme": "alt"
-  },
-  {
-   "title": "Les entreprises et les entreprises à domicile ont droit à une réduction de 30 % sur leur impôt sur le revenu.",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamtteDV3TFEwVXRCb2doUXRiYkJveG5LeHJoVktFOWNOOVJjRVFoc0VvVnU3NGxEWUpEdmZtazRXWHpRR0N0UWZyb3IyM2RRZXFxS3FXcTQ2Z19Gc1dNM2g1eFRmd1RCUlY5WFVVX0FONUYySVlIRTJYSEJuQUF1YjJSZWRJZw?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793444636,
-   "theme": "fisc"
-  },
-  {
-   "title": "ARLES La CCI accompagne les entreprises dans la transition numérique",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmZJYV94WUpKZERNNThOSjB2YlVmc05EdUJ5Umc4TlZVekxpbU1Ranp4RXpodnd2Wm14TGN1ZHBvdmtacVdNYkRZd09yYlBqTU16cjNjRnhNWmhpaTFZVW1qY1ZTRzFnNndzdVl5M2tGSXhia1JHUkFOeE5IVjZldnBQLVVMUU13Z1hMTlltRkJEenB5ZER5TUJjNk1nbWpaZVlRTjJTc3NZeFVzbHBBa1hNS0piUQ?oc=5",
-   "source": "www.objectifsud.fr",
-   "ts": 1793440983,
-   "theme": "fact"
-  },
-  {
-   "title": "Budget 2027 : les députés votent une taxe au gigaoctet",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnRsMkwtTERndUowcXFIalR0ZElQVlBGdTZkbmlPUkRMVTVKNFFwQ00zenJxNF8xeFNiVF9qTC1TcXloLWxkSk9qSVgwOUcwM2dUSF9OWDFMenpVOGRLQkhFejlpRGFEVEg2ZGJGTUpmR2hjUld1ZWlhc29qa2lvSmlrdFlibFZxMnNZQzNuQTNSbWR3VVhCS9IBngFBVV95cUxNSXI3TmJYWGhZWFUwZFlldWY5R0F1TjBUdndtcjVxYUp3NFpSZEc1VHJuMkZzREktU3daQlJialRQVVlXSnRHNV92QlJEQndETG9GM20tV1EzcXFaVzJGRXVSVEtuWlJtWGo5eUVjTW5RemhQdXVaa2RNbG1OX005akJWVmp3eG9KbGQzcHZJQVJCS0gySE93M3NlVTFGUQ?oc=5",
-   "source": "Europe 1",
-   "ts": 1793439720,
-   "theme": "fisc"
-  },
-  {
-   "title": "Instructions détaillées sur la réduction de 30 % de l'impôt sur le revenu des personnes physiques et de l'impôt sur les sociétés à payer pour les entreprises dont le chiffre d'affaires ne dépasse pas 10 milliards de VND.",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTUJ2SVY2VDZseUtScnhaZER3QlhFeGZKNjUzRUlYU1ZXSVdMa1dLdFVULXlaWDVRbU1uR0hLZkdDanpBQWZ2LVdwNmtRa2plSERITXdQV1Z0cmUySnlnanJhZURtWXpjb2lpMWk1Yk00WXdBOXc4alFtbmpCWkhnODB0M0NnVGlUNnJZcVQ5ZnhSVmJqLTZleVJPckVnVkEyTDdIWjhJZHN1ZXB4WXBwOFBWZnpzcGFUZVRueHp3YTFzZDNDZTctVXB0UGRPbGVXbmFjREFIYVVsUXM3c09wdDlqMEI2M1VtQ2ZQUjV1UlR3Wm8?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793438330,
-   "theme": "fisc"
-  },
-  {
-   "title": "Réduction de 30 % de l'impôt sur le revenu pour les entreprises et les entreprises à domicile à compter de 2026.",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmRwVGc0MUJlWW1xR0h4ZVhBYk51N0VTS3VVSEtPZ0FwUmd4cDZHR1RudHoxZ2xoTHVVdWtCY2FfaTNvS0pvUXRIeThuZjhXbkwzUkdsTTNxb0ZyblVucmMxaTBGVG8tREJfcTJlNVFFeVBjdHZ0RzhzOGhqVHhJTHhiQkhXQmhvMTJGZ2tXblRiMEgx?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793431952,
-   "theme": "fisc"
   }
  ]
 }
