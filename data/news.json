@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T22:51:46+00:00",
- "last_success": "2026-11-06T22:51:46+00:00",
+ "updated": "2026-11-06T23:47:02+00:00",
+ "last_success": "2026-11-06T23:47:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 24
+   "count": 25
   }
  ],
  "items": [
@@ -77,6 +77,13 @@
    "source": "Le Dauphiné Libéré",
    "ts": 1793987672,
    "theme": "fact"
+  },
+  {
+   "title": "Formation professionnelle : douze ans de pilotage par le budget (Laurent Durain)",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVF9VTG03OUo3UnV5dU03azBFeFBxSzROc2QyanNwczdmUXplRXY3NE5fcXBoOFNJOWdsUnZCeE14a2VFMjVtNXIwU0E4Q2k4VlVOZEtndWRnUGpZNFlKY2V1ZWtRRXBTbVJXeGlPbWExSDlpaFNaZUJNNmV5QW5DLWZPU3hBZUpnVkpMcHJPX2JlX3g0Tkt4MkpTR1ZIb1IyX1d0Z3RfZUFIZktTUDFua0Mxajk?oc=5",
+   "source": "AEF info",
+   "ts": 1793980800,
+   "theme": "alt"
   },
   {
    "title": "Rejet du budget 2027 : l'exemption sur la facturation électronique annulée, le calendrier maintenu",
@@ -1106,13 +1113,6 @@
    "source": "Compta Online",
    "ts": 1793615451,
    "theme": "compta"
-  },
-  {
-   "title": "Un nouvel impôt lourd de conséquences pour la France",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FDcWMwNlZNeHY5SUNFMVN5cTB6NG96cFlhQnNOQ1FENnlUbGRHN2ZEMy1WMWJwdm1KRms1Z1FuVjN6Tm9uU2Z0SlBQdm9QV3BqM2RZcHZzRjEtSG5GZHYwSXM3bkdVZXlqNHRwckRMVTIyWW9xdlB2NHJWanlpUXhpTmdqWGRSUVBBSjZMa2ljbkU?oc=5",
-   "source": "Yahoo Actualités",
-   "ts": 1793611200,
-   "theme": "fisc"
   }
  ]
 }
