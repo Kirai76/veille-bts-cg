@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T01:21:22+00:00",
- "last_success": "2026-11-06T01:21:22+00:00",
+ "updated": "2026-11-06T02:58:29+00:00",
+ "last_success": "2026-11-06T02:58:29+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Budget 2027, ce que les dirigeants de TPE doivent vérifier avec leur expert-comptable avant la fin de l’année",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODkyd0dqUlpCNmdGR3lvbjJBTDMyajUxYUxlNHpTNEZfVzQzM0ZEazlqd0dTNm5QSHBpNmQydHBNY2RKZEN3TnFLalZlNXhJQ3NjcEN3LXJXT0pHUHVWMXdhbXI4LWZsQzM3MUJ4YmhnVkFPVEpzTmgyV05XVmVuWWRnVHJXN0p3WkFoZWJaSkEtY3U3T0lWYVczTnNVUW5VT29TZW1NbVZ1VFliLVBSUjBYMVdhdmtPMTZaWm5tR2MyRmwwNHR1MjlRamJNZ2NrcThxVWVoUGRnVW1nMGttQ01Zcw?oc=5",
+   "source": "Be Magazine",
+   "ts": 1793932030,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation électronique : 20 % des TPE n’ont entamé aucune démarche",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzlYSkhWRWF1Qnp4QXo4OG9lUmdzREZaT21UR2V1UExaRnFrVGh5MGM0emp1X29PdTQtSlMyd1Y0azhrenEwR1hzQ3FobVVmbUVKWUQ0UjFpVjB1aE9NM253RjgzbGFNUmJiLUppSjM2Yy13cndmeVZUU3JaTVZZUG5CVGZPWmRidjZUam9IVGp5dFVoN3E2RmxCSzE0OHl0VEg3SWpqel8?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1793427488,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : pourquoi les plateformes agréées sont au cœur du dispositif",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vamVDSjVXVjRRN0tHUVU1YTl0RUlDM0FNczIyOE11VDJGRVM5U3NHaFk1SUVVMktjOVNQSzc4dURrZFJWNUZISi00RUR3bkFTSjdmNUVNOA?oc=5",
-   "source": "repha.fr",
-   "ts": 1793415743,
-   "theme": "fact"
   }
  ]
 }
