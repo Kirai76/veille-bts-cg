@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T23:51:57+00:00",
- "last_success": "2026-11-05T23:51:57+00:00",
+ "updated": "2026-11-06T01:21:22+00:00",
+ "last_success": "2026-11-06T01:21:22+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
@@ -194,7 +194,7 @@
    "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
    "source": "Compta Online",
-   "ts": 1793862124,
+   "ts": 1793863040,
    "theme": "compta"
   },
   {
