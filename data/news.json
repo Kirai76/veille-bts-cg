@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T13:01:39+00:00",
- "last_success": "2026-11-07T13:01:39+00:00",
+ "updated": "2026-11-07T13:57:44+00:00",
+ "last_success": "2026-11-07T13:57:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 46
+   "count": 45
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -77,6 +77,13 @@
    "source": "Compta Online",
    "ts": 1794041561,
    "theme": "fact"
+  },
+  {
+   "title": "« Un choc fiscal d’une ampleur sans précédent » : La France insoumise fait le pari risqué de lever 106 milliards sans détériorer l’activité",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaEhiMHRDNkNaS3dTYXlNck8tdUkwUmttOEs0OE9GQkZpVGVDaklxV2x6WFRBVUIzNkFaMDZNWlJsNWM3N21oWGw0dlpQTWw0TVpKbGNIbDJTbzA5WGxzcWd1dWx1djZnR1NHSTRaN0RBWTVua19NblZsNmttdjZXSlFYWWdsdEEybnJsNzJ2bGVNYzNWb2JvbldWb1c3Y3FySmIzOVppMWM3N2VpMndGd3YtWHBJNEtjY0tjalQxQU96d1NNS0tURFFITXNnWWxzUHNEaV9GTkJyTWtmaHdqbmtDZnhWel9pRXdtR1E1c0NJRk5tU1VhdlZjUzRuVEt2c2lZ?oc=5",
+   "source": "Challenges",
+   "ts": 1794040080,
+   "theme": "fisc"
   },
   {
    "title": "Facture électronique auto-entrepreneur : comment facturer sans TVA, recevoir et émettre en 2026-2027",
@@ -1106,13 +1113,6 @@
    "source": "AEF info",
    "ts": 1793641992,
    "theme": "alt"
-  },
-  {
-   "title": "FACTURATION ÉLECTRONIQUE : La réforme, une opportunité ou un fardeau pour les TPE-PME ?",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHd4c2NWM2ttdFBQamF6VHpwTmxLTVlwSjZpNXNUTVNiOXZ0N1l6ZkFTamk0NDJIQW9QN1d3Sk9RUk45NWhlckVmM0pwZHNfYWlzWl9OcGFTU0NTd05rZFFfcTI3THptdWRSYmRkS000MW9WN29MazZxSU1fSUtjdFcwSHJSd0xEbjIxeEFCWUdnY0lpOFNhVkY5RTVWaHV3bnFzVjFoWWUwUnM?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793640155,
-   "theme": "fact"
   }
  ]
 }
