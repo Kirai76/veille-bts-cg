@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T10:52:58+00:00",
- "last_success": "2026-11-07T10:52:58+00:00",
+ "updated": "2026-11-07T11:49:16+00:00",
+ "last_success": "2026-11-07T11:49:16+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 82
+   "count": 81
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -68,7 +68,7 @@
    "title": "Tunisie : 1,8 million de factures électroniques enregistrées, seulement 37 000 réglées",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ib2dueTd3SlZYLTJHS0czV2NBd3JWTjF2MXZfNE5aeEN4c3NIVkJIZS0xNlF4RGlHQkdqMW5vYlp2S2drN2FsWlJCTWNLeENPQXFVbnNfNXdSck5EVnU4cVEwUXdhMUZ1czRIazk4LW11SURUX3EySUtpQ1Axbzg?oc=5",
    "source": "Tuniscope",
-   "ts": 1794044251,
+   "ts": 1794049425,
    "theme": "fact"
   },
   {
