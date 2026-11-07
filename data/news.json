@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T08:10:33+00:00",
- "last_success": "2026-11-07T08:10:33+00:00",
+ "updated": "2026-11-07T08:59:05+00:00",
+ "last_success": "2026-11-07T08:59:05+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 24
+   "count": 25
   }
  ],
  "items": [
+  {
+   "title": "Facture électronique auto-entrepreneur : comment facturer sans TVA, recevoir et émettre en 2026-2027",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3h1bnpXSjgxOGRoSlVXcmFLUFNWeUozX01XcDAwcDA2a2sxNzd3NElXNldidTMwVEo0VW5PVGtsMWpjUFFVd0VGNFIwNlhZWXpuZUhKNW1iR2ZreXpfMFhVREtDTWg2U2xMbF9wWFBLQ2F2Ym5hVlBxWkU4QXBYcVdNMWM3T3hYZXBRblNVempxVk9zVU5BU0ZIaWVZSmRZdF9UanBpejBTcG5GUTZheldBRVNFZVhUQmdV?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1794039000,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : les députés votent sa suspension pour les petites entreprises, ce qui pourrait changer pour vous",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS2o1VnFJOGFwbkFpdUFSZ2k2WTJ0MlNpcGFkQ0VfcFZMakhGQ0hjSTZRZTdwTE1ramFmcVZPRkhmQm96Vm50Zm4wM1J3MUpPMzdjNi1qdFpiWjRfY2Rud1NGVUNoemxzNTZtZkJOQjR1VWJyT3g3QlljNTBISVlnT0w0MTZOTDJOX0J0OUNIc0p1enFFNGlXeHU3Zm9oQk1BY2hIRVhyaDVoMU80cmQyZTdpZktiUzR2eEZ3Y3lySllVVWdyeGEyY0Fhb01BUFV0YTNfa1NqbWZ4bzN2Zk1tVEM4M1ZkcWtsb09reGZKbw?oc=5",
+   "source": "NextPlz",
+   "ts": 1794038400,
+   "theme": "fact"
+  },
   {
    "title": "Facturation électronique : deux mois après le lancement, des factures se perdent encore entre les plateformes",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYkdkR2dVdllublIxTGEtQW1KM0xaNm9HZW9WMUZLZ2ttQWVRZ3labHVUSURCS1dGcDJ1cjJOaVpodDJUQ0w5a1VhcHFmVmtqeTRJeklBZmc1ZDR2STdIbDU2QWN5cDF2LVN1VFNTUUZkY1BDc0xCOHlLSXc5ODgtVnVYQXBDRkNlX2JVUEN3YmtpNHk1bk1LM3lKQU9PM1cyZlpBVGhMblZfd1RxR2JaZjc3Y2hoVXVNZ2FhNEhCNTFOcHhlLVUyenlYTThlbG44c2FsNHZKYWlDc1ZLbEcyZkVFRFMyUQ?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2UkdkOUpxM0FFYVVrNlpCOC16U0wxZ2gxZS1tWHZSbDdMcjVzQnZlS180cWVFREROeW9Ea2lQOUZqNG5rSVhDV180bVRFVFFHWTZ0NXNBa3NSRjRtR1NRTnVIUkM4eDJwM2VUTEV2a2pQWjNDc1p2S2JXbXNDN2M?oc=5",
    "source": "Libnanews",
    "ts": 1793632628,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : les députés RN suppriment la hausse de taxe sur les contrats d’assurance auto mais renforcent le financement des services de pompiers",
-   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPVTluUlNtODlvYnZVUG1zQW9ZQmZDaHpoLWJNVTRqeThENkZ6ZGRHb1dTcUI3dXJsUWMzWkY1ZnpucjVuc0drUldsbk5xVFA5c1FGSWY4Ny1WUDRYbzRKSzhMTHVhU0p5LVpUZHJ6LWdfMEZIR29oMFRVNktGQ1lhbm1MSHA3MHI1Z1R2QlhaV1luVnBmY0dMQ1R5dkRwUmhnLWFFSFk4Zi1OVGt0SnNtZU5Hb2JzZ0xnYlhaSzlKZTFIVHMyRUJKNWpKSXZ5NEs2WWRVelRKa1Zrdk9DUG1MeE50WkxBZ3FkWHFGZTUzRWxZMVNuLUNxTTdiZlZlcnYxdk91RHFQWG9FSWZIM0tJNFVWcVdkU3VEbTBiYU5WZnYtOU95SDdGUlFKaTBjZXlzbll4OFprYzJ0UXBWZVZrUzJFcUZSdHNLTEthY1laUWtmYVEtdXllcGUwY3JTSjg?oc=5",
-   "source": "L'Argus de l'assurance",
-   "ts": 1793630390,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi de finances 2027, trois défis et une responsabilité partagée",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWRoeE4tUkM1NmpDdm9uRk93Q3BwdEM4R2N1TGZ1NzhnSW1nYmhBeWxlWG95MlpBbkRqelNOLTc5M2FzeXE0VktMRV9jWXdfT09PTERhZ0JrWHgweGM3VzhORVdCczdtSHpRQlVjQXNNNC1ibFJ0VzBOcG9lQzItNFhPLXgtY3ZnZ1FWcUFEMUtSaFJRT1E?oc=5",
-   "source": "African Manager",
-   "ts": 1793630339,
    "theme": "fisc"
   }
  ]
