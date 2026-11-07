@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T14:50:59+00:00",
- "last_success": "2026-11-07T14:50:59+00:00",
+ "updated": "2026-11-07T15:48:44+00:00",
+ "last_success": "2026-11-07T15:48:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 85
+   "count": 83
   },
   {
    "query": "e-reporting facture plateforme agréée",
