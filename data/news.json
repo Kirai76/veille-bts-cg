@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T07:10:33+00:00",
- "last_success": "2026-11-07T07:10:33+00:00",
+ "updated": "2026-11-07T08:10:33+00:00",
+ "last_success": "2026-11-07T08:10:33+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 85
+   "count": 84
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 49
+   "count": 46
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 25
+   "count": 24
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : deux mois après le lancement, des factures se perdent encore entre les plateformes",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYkdkR2dVdllublIxTGEtQW1KM0xaNm9HZW9WMUZLZ2ttQWVRZ3labHVUSURCS1dGcDJ1cjJOaVpodDJUQ0w5a1VhcHFmVmtqeTRJeklBZmc1ZDR2STdIbDU2QWN5cDF2LVN1VFNTUUZkY1BDc0xCOHlLSXc5ODgtVnVYQXBDRkNlX2JVUEN3YmtpNHk1bk1LM3lKQU9PM1cyZlpBVGhMblZfd1RxR2JaZjc3Y2hoVXVNZ2FhNEhCNTFOcHhlLVUyenlYTThlbG44c2FsNHZKYWlDc1ZLbEcyZkVFRFMyUQ?oc=5",
+   "source": "Clubic",
+   "ts": 1794036300,
+   "theme": "fact"
+  },
   {
    "title": "« La pâtisserie, c’est ma passion depuis l’âge de 14 ans » : Anaïs a plaqué la comptabilité pour réaliser son rêve",
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNmhuM0RaQVFPVE5tc2hqeWUwc0VpOEZnWlBaOEtPYVlqMEt1WUtIZUFkT0VpdXh6b3psYUR4RVFrTzBJSTdqNGw0VUJPNTctNFVDRzdFOGZYbEllR3VrVk04ZVEzSXVsc3VFYnptc0NYMUl4aVlueXdSdFVsLVJxZndtallFZnR1WHZGX2VwN3FSenM3Q1FKcllySDJqY3NEM2pjZXJ3SXpZbGc2b2ZzTzFjNlpwTzYzRXJRclBMeTNMa256cTlzNTl0Q1FFUnpDLW5ZZFg4MWFTWEJ6TWtfMVRIRjdMOXYwNWVWZmRIdDlVQWtoS19TWFJqWE9UbWFfN21waHZfVUdJNHhRMzY1ZENuUzZ3M2hR?oc=5",
@@ -72,18 +79,18 @@
    "theme": "alt"
   },
   {
+   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
+   "source": "Compta Online",
+   "ts": 1794030600,
+   "theme": "compta"
+  },
+  {
    "title": "Formation en alternance : une entreprise sur deux prête à accueillir un stagiaire",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1NJMmNQUmtUVHIxU0V0WUUydUVoaFo1aUFQc1diNFhwbXZsVnYzMmo3TGZwdnpTMTVzYXV0b3EwRVNVb3NjUTV6Vm9hbUwzZnVIeG5VcTNTN1lsYl84QkNMUmN1Q3dvOV9aU3V1UTJLWFBmLXJsZGc3TDlBSDYyM0c2MmNwQ0RPWGpSNnRQLWd5akY4UFVFYXA3U01jLTlDSHpPT0FkQUJWaTI2TkxpSFIyRlBFb013OERMZVZoTFVIQms?oc=5",
    "source": "Le Soir",
    "ts": 1794027600,
    "theme": "alt"
-  },
-  {
-   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
-   "source": "Compta Online",
-   "ts": 1794000256,
-   "theme": "compta"
   },
   {
    "title": "Paradis fiscaux britanniques: 8 milliards d’euros de pertes fiscales pour l’UE",
@@ -1106,13 +1113,6 @@
    "source": "African Manager",
    "ts": 1793630339,
    "theme": "fisc"
-  },
-  {
-   "title": "Expertise comptable : le Lyonnais Endrix change d’identité et vise 300 millions d’euros en 2030",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOE9pYmEwVHRwbFVBd0pqOWpGbjVycFM1b18wNzIwclVjTzNsaUFEcFowNzFvN1hHb2t2ZXZZcTlscTdMbHEzU3NiMzN6Rm9WUkFTbWExTnF0OGVTT1gzQVJ5aGtVZG9GMGdfbUdndU95S0JqOUdTMGdVeXNjeGdud28xaDV3RUNaYnF2ZHlIQWVQQkV6OE5lSkU4RFExczEzSWk3QmMzaFh5T3pDNzh4SDNWRFN5SWpUN3I0dDFtVmQwLWNzUGdVSXV2U2ZKN3U0UlE?oc=5",
-   "source": "mesinfos",
-   "ts": 1793630280,
-   "theme": "compta"
   }
  ]
 }
