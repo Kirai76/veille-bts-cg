@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T16:49:43+00:00",
- "last_success": "2026-11-07T16:49:43+00:00",
+ "updated": "2026-11-07T17:44:40+00:00",
+ "last_success": "2026-11-07T17:44:40+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 25
+   "count": 24
   }
  ],
  "items": [
+  {
+   "title": "« Un choc fiscal sans précédent » : dans son programme présenté au Bourget, LFI fait le pari risqué de lever 106 milliards sans détériorer l’activité",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaEhiMHRDNkNaS3dTYXlNck8tdUkwUmttOEs0OE9GQkZpVGVDaklxV2x6WFRBVUIzNkFaMDZNWlJsNWM3N21oWGw0dlpQTWw0TVpKbGNIbDJTbzA5WGxzcWd1dWx1djZnR1NHSTRaN0RBWTVua19NblZsNmttdjZXSlFYWWdsdEEybnJsNzJ2bGVNYzNWb2JvbldWb1c3Y3FySmIzOVppMWM3N2VpMndGd3YtWHBJNEtjY0tjalQxQU96d1NNS0tURFFITXNnWWxzUHNEaV9GTkJyTWtmaHdqbmtDZnhWel9pRXdtR1E1c0NJRk5tU1VhdlZjUzRuVEt2c2lZ?oc=5",
+   "source": "Challenges",
+   "ts": 1794070800,
+   "theme": "fisc"
+  },
   {
    "title": "Firme étrangère et URSSAF : comment embaucher un salarié en France sans établissement et contester le redressement",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0xVNWVLakVEczJLSzRZaWhpMk9yRXRXMzRBeEFma2RxQ1E1NmNfbmZUcFZBWEFxbkpCVDd1YmEwc2k5NGNLZEZFa1pkejJBeUU2ejljWTFTOThmVUNZU2M0SFc0MXFtU1BnRXRsVi1GNlVpYzJ4TTgzV2swWVItLU96T0hzVUhuZjJDU0RYVlZrQ29CUzhqZnVCU3FoNzJJbXFaeWJXMnZjcGFKWDFnbFNmUXB6LTk0QWRfbUdqV21ScEk?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Le nouvel Économiste",
    "ts": 1793667228,
    "theme": "compta"
-  },
-  {
-   "title": "Attestation de vigilance URSSAF : registre de suivi du donneur d’ordre",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zeGdGT2JJQVFTTVBnZGxmdzlSRjBZRHM3VFliSlZFYm9SUTJvNFhORHBDMEQxeVdNOTV0dUJyVzJENzl0cGdISTVUR1FlRktyR1hYQVAtdXpXaVlJUGVjTjdHNkQ3OEhNX19zY0oyUEc3WlYydW9MMFR3?oc=5",
-   "source": "Comptanoo",
-   "ts": 1793664637,
-   "theme": "soc"
   }
  ]
 }
