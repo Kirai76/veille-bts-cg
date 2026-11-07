@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T13:57:44+00:00",
- "last_success": "2026-11-07T13:57:44+00:00",
+ "updated": "2026-11-07T14:50:59+00:00",
+ "last_success": "2026-11-07T14:50:59+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 82
+   "count": 85
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 45
+   "count": 44
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 24
+   "count": 25
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : les raisons du succès de ces plateformes françaises",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcVlxNUtTZWlXWXRwQTJTTUhwWDFQaEU2enYxcVZKcFdCV25tWVN4Yzk0b1RoS29weXhpYkZMTnRNNmJBVGNyNG1mdHE1WXFSOFF6R0pacjlRS1k3RnUzNlFDbVMwSEp0Tl8wTXlmSWZnY0lQMnhGRUgyQjE1TDNtaWZ3b0QzWGVwMXo5MFJmd1VwSEd3bGpqQnNmbFZfQTN3TE0yWVEzbVNrRk1QZFluUHF4bEppWFNTUW00WDZWc0F0bEx0VHpzUmU4RDhjbEdhMmxCcG5VQkIzMGlhZXExVzZSek5RaFdXNFZXTnRIdEV2anN0SVJMRlNaZXN4Q3k5XzlSU2hWdVFteEUyLTRWbG0wQW1ONE0?oc=5",
+   "source": "Le Parisien",
+   "ts": 1794061320,
+   "theme": "fact"
+  },
+  {
+   "title": "Facture électronique : 6 pièges à éviter selon le secteur du client",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5RDY3YlNnY0FOM2M2WTBFWnRLYUhnZnpYdmpQTU12X1hkUU1ZeEo3RnRBeFBKRGZMWXJyR0IxUXlxbnVVcXFTVUxCb3lCbmNqUG1Ta0JaVnpnWmh3dHZrQ3Z5bGgzcVZoa0o4bFJtUGtPdw?oc=5",
+   "source": "Compta Online",
+   "ts": 1794060824,
+   "theme": "fact"
+  },
   {
    "title": "Tunisie : 1,8 million de factures électroniques enregistrées, seulement 37 000 réglées",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ib2dueTd3SlZYLTJHS0czV2NBd3JWTjF2MXZfNE5aeEN4c3NIVkJIZS0xNlF4RGlHQkdqMW5vYlp2S2drN2FsWlJCTWNLeENPQXFVbnNfNXdSck5EVnU4cVEwUXdhMUZ1czRIazk4LW11SURUX3EySUtpQ1Axbzg?oc=5",
@@ -1099,20 +1113,6 @@
    "source": "Politique Matin",
    "ts": 1793651794,
    "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : les députés remanient la TVA sur l'électricité et la télé",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjhfbUNJcUk4a3M2UWdHN0VSNWRfX0lJUTlheWNUczZRbndsVUpyWmNCRnhkdGkwemEyb1FzRUh6RDNuN0UyclVIUDNtdFlRT0hLUTJYUkdRVm9ZRzdiLW1zaHhKQVVlcC1YM0FTemtFRWNFS2FDS1l0WW0zM1pQU1dSb3FweTFDcndybmxFRlRxVGN2RGJ0V19rT3pVRmY1dElMNFdpajdNQy1udFZ1ZFlR?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793645639,
-   "theme": "fisc"
-  },
-  {
-   "title": "L'encadrement des audits Qualiopi et les exigences envers les certificateurs sont renforcés et précisés",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zQ0RodXpfUmN5bTh1bk53NTJTaXlWREw2V2ZpazZkTFl3ZHdhVTFFa3ZIWnhFLTh6X0RMR2RWTXYzVXB0M2hKNFAza2wzdw?oc=5",
-   "source": "AEF info",
-   "ts": 1793641992,
-   "theme": "alt"
   }
  ]
 }
