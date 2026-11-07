@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T21:46:01+00:00",
- "last_success": "2026-11-07T21:46:01+00:00",
+ "updated": "2026-11-07T22:46:35+00:00",
+ "last_success": "2026-11-07T22:46:35+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 87
+   "count": 86
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 24
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
+   "source": "Compta Online",
+   "ts": 1794082089,
+   "theme": "compta"
+  },
   {
    "title": "« Un choc fiscal sans précédent » : dans son programme présenté au Bourget, LFI fait le pari risqué de lever 106 milliards sans détériorer l’activité",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaEhiMHRDNkNaS3dTYXlNck8tdUkwUmttOEs0OE9GQkZpVGVDaklxV2x6WFRBVUIzNkFaMDZNWlJsNWM3N21oWGw0dlpQTWw0TVpKbGNIbDJTbzA5WGxzcWd1dWx1djZnR1NHSTRaN0RBWTVua19NblZsNmttdjZXSlFYWWdsdEEybnJsNzJ2bGVNYzNWb2JvbldWb1c3Y3FySmIzOVppMWM3N2VpMndGd3YtWHBJNEtjY0tjalQxQU96d1NNS0tURFFITXNnWWxzUHNEaV9GTkJyTWtmaHdqbmtDZnhWel9pRXdtR1E1c0NJRk5tU1VhdlZjUzRuVEt2c2lZ?oc=5",
@@ -82,7 +89,7 @@
    "title": "Facturation électronique : 1,8 million de factures enregistrées, dont 37 000 réglées",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1lySzhtdnRwV1dzd2dXMzlmN3MtelBpQldCcm5rVVZrc2ZlREU0WWt6V21rLTA1U0ZSTzFQSG9QRDhlcFRxNUowLXNjdmpFUXMwbXdBeU5rZDlVOTgxQUVSVmhxQzVfZ1c2TTBXUV8yV1c4OVBqRlF6d3FQRFJjOW4zaUdhVEZUVDRmODhpZkxzdmR5cFJtd3lVaDI5ejhJY2ZWZFNiZGRnY18xZTR2dzBGdnNNWmM?oc=5",
    "source": "La Presse de Tunisie",
-   "ts": 1794066789,
+   "ts": 1794066791,
    "theme": "fact"
   },
   {
@@ -154,13 +161,6 @@
    "source": "Ouest-France",
    "ts": 1794031261,
    "theme": "alt"
-  },
-  {
-   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
-   "source": "Compta Online",
-   "ts": 1794030600,
-   "theme": "compta"
   },
   {
    "title": "Formation en alternance : une entreprise sur deux prête à accueillir un stagiaire",
