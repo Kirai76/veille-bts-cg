@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T19:50:29+00:00",
- "last_success": "2026-11-07T19:50:29+00:00",
+ "updated": "2026-11-07T20:47:52+00:00",
+ "last_success": "2026-11-07T20:47:52+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
@@ -90,6 +90,13 @@
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcVlxNUtTZWlXWXRwQTJTTUhwWDFQaEU2enYxcVZKcFdCV25tWVN4Yzk0b1RoS29weXhpYkZMTnRNNmJBVGNyNG1mdHE1WXFSOFF6R0pacjlRS1k3RnUzNlFDbVMwSEp0Tl8wTXlmSWZnY0lQMnhGRUgyQjE1TDNtaWZ3b0QzWGVwMXo5MFJmd1VwSEd3bGpqQnNmbFZfQTN3TE0yWVEzbVNrRk1QZFluUHF4bEppWFNTUW00WDZWc0F0bEx0VHpzUmU4RDhjbEdhMmxCcG5VQkIzMGlhZXExVzZSek5RaFdXNFZXTnRIdEV2anN0SVJMRlNaZXN4Q3k5XzlSU2hWdVFteEUyLTRWbG0wQW1ONE0?oc=5",
    "source": "Le Parisien",
    "ts": 1794061320,
+   "theme": "fact"
+  },
+  {
+   "title": "Facture électronique : 6 pièges à éviter selon le secteur de vos clients",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5RDY3YlNnY0FOM2M2WTBFWnRLYUhnZnpYdmpQTU12X1hkUU1ZeEo3RnRBeFBKRGZMWXJyR0IxUXlxbnVVcXFTVUxCb3lCbmNqUG1Ta0JaVnpnWmh3dHZrQ3Z5bGgzcVZoa0o4bFJtUGtPdw?oc=5",
+   "source": "Compta Online",
+   "ts": 1794060824,
    "theme": "fact"
   },
   {
@@ -164,8 +171,8 @@
   },
   {
    "title": "Paradis fiscaux britanniques: 8 milliards d’euros de pertes fiscales pour l’UE",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeUV3RlhHYm95RGhqeUNjMDJzaEZXWnVueU1lZTVOREJNNXk0dm5SOG9VZTZNaUUxWXpPOVJmb3dnV3BlTHI1eVZtSkhTRTlFWGhKV3hBSTYxZzFGM1BlWS1WcjdPXzBESk5EYXFsblhnbEF6TGwxa1lZLXgzZDBERUJfd3Z5UHgyd202RFJrMW90R2Y1bDhodmZrUQ?oc=5",
-   "source": "Yahoo Finance France",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbEZJTnJGbmFRRmpFMG5HOEJxLUFkVmhieC10VTVTXzNJak80UWZnVktHUWZLdGgzakpqWVBzVmNCZDNQSy0yazZXeGFvOXhNT3RZNFFQdWlGRC1na3RGNEt5SXI0T2p5TUtrQlFPX24wdDdTbUcyODI2anI5YjJlVXNLdmNiRnB3Y0FFZGhhcDZpOGZTM1pZZ2g0YjhsMHRseDZickxBLXM3Q1lMOVhN?oc=5",
+   "source": "Euronews.com",
    "ts": 1793997030,
    "theme": "fisc"
   },
@@ -1106,13 +1113,6 @@
    "source": "Le Monde.fr",
    "ts": 1793678419,
    "theme": "fisc"
-  },
-  {
-   "title": "Agnès Bricard : \"Doubler le nombre d'experts-comptables entrant dans cette profession\"",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDZPUVpFVENUeldrbW5FUmg2Y0d6OE1Mb2VFYTRURnlHTURDRFV6alVDaFduNGxJMjVzUFkwQmRjbk45ZHhwOEhUMXdYQnJtVzh4eUN5VkVCUFRxOU1PTzVqNTQxVS1vekV5Nmp0RElzRXlsZzFKMmJNeEN3eDhUWHRuLWZKa092V0ZyZHlJMEpmM2JBMzY3TEt3UHBlV0tDU0NYS2JMeXJYdEEzeTNqTFJJWHl0S3JqQ1JTLVE5U2x0RWVLVTNTUXJ5MXhpUEhO?oc=5",
-   "source": "Le nouvel Économiste",
-   "ts": 1793667228,
-   "theme": "compta"
   }
  ]
 }
