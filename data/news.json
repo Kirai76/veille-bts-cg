@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T05:55:43+00:00",
- "last_success": "2026-11-07T05:55:43+00:00",
+ "updated": "2026-11-07T07:10:33+00:00",
+ "last_success": "2026-11-07T07:10:33+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "« La pâtisserie, c’est ma passion depuis l’âge de 14 ans » : Anaïs a plaqué la comptabilité pour réaliser son rêve",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNmhuM0RaQVFPVE5tc2hqeWUwc0VpOEZnWlBaOEtPYVlqMEt1WUtIZUFkT0VpdXh6b3psYUR4RVFrTzBJSTdqNGw0VUJPNTctNFVDRzdFOGZYbEllR3VrVk04ZVEzSXVsc3VFYnptc0NYMUl4aVlueXdSdFVsLVJxZndtallFZnR1WHZGX2VwN3FSenM3Q1FKcllySDJqY3NEM2pjZXJ3SXpZbGc2b2ZzTzFjNlpwTzYzRXJRclBMeTNMa256cTlzNTl0Q1FFUnpDLW5ZZFg4MWFTWEJ6TWtfMVRIRjdMOXYwNWVWZmRIdDlVQWtoS19TWFJqWE9UbWFfN21waHZfVUdJNHhRMzY1ZENuUzZ3M2hR?oc=5",
+   "source": "Ouest-France",
+   "ts": 1794031261,
+   "theme": "alt"
+  },
   {
    "title": "Formation en alternance : une entreprise sur deux prête à accueillir un stagiaire",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1NJMmNQUmtUVHIxU0V0WUUydUVoaFo1aUFQc1diNFhwbXZsVnYzMmo3TGZwdnpTMTVzYXV0b3EwRVNVb3NjUTV6Vm9hbUwzZnVIeG5VcTNTN1lsYl84QkNMUmN1Q3dvOV9aU3V1UTJLWFBmLXJsZGc3TDlBSDYyM0c2MmNwQ0RPWGpSNnRQLWd5akY4UFVFYXA3U01jLTlDSHpPT0FkQUJWaTI2TkxpSFIyRlBFb013OERMZVZoTFVIQms?oc=5",
@@ -96,7 +103,7 @@
    "title": "Formation professionnelle : douze ans de pilotage par le budget (Laurent Durain)",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVF9VTG03OUo3UnV5dU03azBFeFBxSzROc2QyanNwczdmUXplRXY3NE5fcXBoOFNJOWdsUnZCeE14a2VFMjVtNXIwU0E4Q2k4VlVOZEtndWRnUGpZNFlKY2V1ZWtRRXBTbVJXeGlPbWExSDlpaFNaZUJNNmV5QW5DLWZPU3hBZUpnVkpMcHJPX2JlX3g0Tkt4MkpTR1ZIb1IyX1d0Z3RfZUFIZktTUDFua0Mxajk?oc=5",
    "source": "AEF info",
-   "ts": 1793980800,
+   "ts": 1793981601,
    "theme": "alt"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "mesinfos",
    "ts": 1793630280,
    "theme": "compta"
-  },
-  {
-   "title": "Facturation électronique : à force d'exceptions, la France risque de perdre les bénéfices de l'interopérabilité",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX1BoR3BaVm9URVpMOHhLQnNjWktkSGQ3b1pxVjFNX0VrSGI3NTN0UFpFamFVYVhwV1Rfd0dQT3VMWndnanpNMXNZTHBIaHVtV1BnLW9CTWgxQlctWHpVRHo4V1FmN3NJSXdWdGl6X01ab1hzTlBQVFB6alNYM1IyRzZIQXUtN3R0c1JCNkxjaG5DNEg5NWJRV2RpRmFsdktrRWhkclRDRkNiZzFpaC1LMzZneWZGV1VnSnRvY2xVOFN5cHVjNnh4aGExZEExamhRTWFuSnJRTExuWk1jOWVTaXdnUWdaeGlDTFRfb0NIaGF5eXFnRERlVHFDajM3dFFZZmRpcVpTRQ?oc=5",
-   "source": "JDN",
-   "ts": 1793616291,
-   "theme": "fact"
   }
  ]
 }
