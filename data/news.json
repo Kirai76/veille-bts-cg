@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T23:47:02+00:00",
- "last_success": "2026-11-06T23:47:02+00:00",
+ "updated": "2026-11-07T01:11:38+00:00",
+ "last_success": "2026-11-07T01:11:38+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
+   "source": "Compta Online",
+   "ts": 1794000256,
+   "theme": "compta"
+  },
   {
    "title": "Paradis fiscaux britanniques: 8 milliards d’euros de pertes fiscales pour l’UE",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeUV3RlhHYm95RGhqeUNjMDJzaEZXWnVueU1lZTVOREJNNXk0dm5SOG9VZTZNaUUxWXpPOVJmb3dnV3BlTHI1eVZtSkhTRTlFWGhKV3hBSTYxZzFGM1BlWS1WcjdPXzBESk5EYXFsblhnbEF6TGwxa1lZLXgzZDBERUJfd3Z5UHgyd202RFJrMW90R2Y1bDhodmZrUQ?oc=5",
@@ -415,13 +422,6 @@
    "theme": "fisc"
   },
   {
-   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
-   "source": "Compta Online",
-   "ts": 1793863040,
-   "theme": "compta"
-  },
-  {
    "title": "De 504 à 1867 euros bruts par mois : combien touchent vraiment les apprentis selon leur âge et leur année d’études",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZzV3VUpKUkEyTDV4WGR2S3hSbmQySEFYejY1R3ZQM1Vjd05HQ0hrOWtHWDhZN1NNRDhQU3dtYzduWHk0Q3BhTDBoZVJPYzBxZTFtMFZKVTVIX20tMm9xdTNhQ0NVWXZsUlRsMnVUQURfQkxJVG41N2FQU3g1RkZNT0xvOVM3M0RheW5uRlB1TXA5RkxnWDVTSmRKaXhzLVItTG9xYWpkOC1yNDVkSnAzNVRxcTNFRkNwbVExRy1CeWlQT1A5cUhzS1BzYThGTy1TRXkxQzhPem5fdVh2TGg1QkI3MzM4cUtmMkVYUmw2WDViLWExeWZnWlpoVFRjNEhBYmZuOXJyTG1OU1laTm83QWxJTHVKQzV1Y3hTRUUzVjA?oc=5",
    "source": "Le Parisien",
@@ -492,15 +492,15 @@
    "theme": "fisc"
   },
   {
-   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi faut-il s’attendre",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkstRzU2ZnFQcHVNcTF5dWM0Q1hUU29aVWR5LVhTNkVZNnV5Zzdub3d0YklpN1VXSWR2YTdqbklheE5neDlCZ05wVENFaF9fcnFtUUVqTVk1SGVPcDQtTWhUdFpoZzl6MEF1TkhJS21CMzVPOVdxemZKTldIS2tWMXlpSXdiejJTWFFjMnR4X2piR24yMHFCaUx1TmpSYU1WQ2FwOGhB0gGrAUFVX3lxTE8xS0hsR2l0ZjNUclA1Z0xqTkFDZGdXS1hYcUpRcktlYk5IZ3hFUGhjMTNEbl9obXlsbVFiMG8xTTlJWHZ3dkZvOGZhcXFjVDZOX1JqVm5Md2xZS1pfLVpsUWhqUkZYZXVZSnNRdnY4QUFFZUxsSDV5NUpCVGV2YUNFT2J3UTV6eEpuMllPTWs3OG40YWdjT3RzaEZoeklUU2pmUVliTWFaUFlmUQ?oc=5",
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
   },
   {
-   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
+   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi faut-il s’attendre",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkstRzU2ZnFQcHVNcTF5dWM0Q1hUU29aVWR5LVhTNkVZNnV5Zzdub3d0YklpN1VXSWR2YTdqbklheE5neDlCZ05wVENFaF9fcnFtUUVqTVk1SGVPcDQtTWhUdFpoZzl6MEF1TkhJS21CMzVPOVdxemZKTldIS2tWMXlpSXdiejJTWFFjMnR4X2piR24yMHFCaUx1TmpSYU1WQ2FwOGhB0gGrAUFVX3lxTE8xS0hsR2l0ZjNUclA1Z0xqTkFDZGdXS1hYcUpRcktlYk5IZ3hFUGhjMTNEbl9obXlsbVFiMG8xTTlJWHZ3dkZvOGZhcXFjVDZOX1JqVm5Md2xZS1pfLVpsUWhqUkZYZXVZSnNRdnY4QUFFZUxsSDV5NUpCVGV2YUNFT2J3UTV6eEpuMllPTWs3OG40YWdjT3RzaEZoeklUU2pmUVliTWFaUFlmUQ?oc=5",
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
