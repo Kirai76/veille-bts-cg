@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T22:46:35+00:00",
- "last_success": "2026-11-07T22:46:35+00:00",
+ "updated": "2026-11-07T23:45:17+00:00",
+ "last_success": "2026-11-07T23:45:17+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
