@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T21:46:41+00:00",
- "last_success": "2026-11-08T21:46:41+00:00",
+ "updated": "2026-11-08T22:47:27+00:00",
+ "last_success": "2026-11-08T22:47:27+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 73
+   "count": 71
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 41
+   "count": 40
   },
   {
    "query": "TVA entreprises réforme",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
+   "source": "Compta Online",
+   "ts": 1794174434,
+   "theme": "compta"
+  },
   {
    "title": "Nantes : Fiche-Paie.net racheté par Indy, ce qui change pour les clients et les équipes",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZks0ZFZXT0l6N21ZZ3VFOEEwdkJGQTRUZ3BBWUFQei1Ya08xbTlraWp2b0UyTVd3RUtENVpaekJxbzd2Ty13dEpBZXJBOVBneUZraFZlMjBpU0xBMVJ6ZF94X1d4U2F5RTRySW56eWJYU19GaGY4bE9YUVpnU0VhbFBXNWR3aWQ3VGdFMzdvZmxza05yNi12UFAxVQ?oc=5",
@@ -126,13 +133,6 @@
    "source": "La Presse de Tunisie",
    "ts": 1794086224,
    "theme": "fact"
-  },
-  {
-   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
-   "source": "Compta Online",
-   "ts": 1794082089,
-   "theme": "compta"
   },
   {
    "title": "« Un choc fiscal sans précédent » : dans son programme présenté au Bourget, LFI fait le pari risqué de lever 106 milliards sans détériorer l’activité",
