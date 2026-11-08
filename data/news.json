@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T15:47:00+00:00",
- "last_success": "2026-11-08T15:47:00+00:00",
+ "updated": "2026-11-08T16:49:16+00:00",
+ "last_success": "2026-11-08T16:49:16+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 76
+   "count": 74
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "Transférer le siège de sa SAS à Dubaï en restant en France : ce que le fisc redresse et comment le contester",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEd2UUtPV0Q0aEhIcVEwUUduUUpvOHI3MGFCYWxGazNQUjdJV3YtamJFTTQ5RFNQWG1XU2QtYmNlUEhGU3pxQWN2OWpQUFVmX3pjQzM4QS1zdjVhRG1fR1d6N21LMzRwQWlOYm0yVF83NWx0UWxWYTgzNHY4QWV3UHppb2NTNy1vcEdIdmFIcURGQjlKamJ6dzZOWGlZM2JxU1drV2dyNA?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1794153060,
+   "theme": "fisc"
+  },
   {
    "title": "Dette intérieure : 480 milliards de FCFA prévus en 2027 pour apurer les arriérés dus aux entreprises",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVQ1ZlppRW9idEtPMU1nZlN2aktQWjMwTnRPWGFhTWlPYXI1Uk9Qbm03Z3NDNmFKTDVsWG1LRE95YkUwaURaczFpcXRocTExczNuRlZtQy1EZjUzUmk5cENPRkdsOVhXUTZxcmlZQVJEVGdrVzVlWnZLM0VFTW81ajRMX3NZbThzb3JSaTlraWtnUzlLMUIwRG9XeGxYWW5pWTZnLU1SM1VzUm1Sc3BENGdER1E1VWs5ajdQWE9GMldnQ2M?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Boursorama",
    "ts": 1793689200,
    "theme": "fact"
-  },
-  {
-   "title": "OPINION. « 929 milliards de pertes de recettes annuelles cumulées entre 2018 et 2025 »",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGVRMzB5aXQzekprWUQzY0RWUHExQkRBUDFGOGU2Wi1HSW1LVEE3emRuME1OOC04X3ZBYTdpVjdMcWhYQjFuSWNhUG5LQUJ4QWRZZ2Yyc3dOcWJXdTJ3QTVNUUR0cDlZSUtjRzczSzRMQjVoYjFjZ1FseVdpYTlUUF8wd252R3E0bFROaDVtQTJjTG5BamlEbkJfcEMzZVpWTWFIMWo0NGxLVTByZUQtM1B4Rk1waV83NWhkZmV6c2dXVFowOW85eVNmNVp6T21n?oc=5",
-   "source": "La Tribune",
-   "ts": 1793687401,
-   "theme": "fisc"
   }
  ]
 }
