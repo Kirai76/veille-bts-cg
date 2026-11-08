@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T23:45:17+00:00",
- "last_success": "2026-11-07T23:45:17+00:00",
+ "updated": "2026-11-08T01:17:10+00:00",
+ "last_success": "2026-11-08T01:17:10+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 86
+   "count": 87
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "items": [
