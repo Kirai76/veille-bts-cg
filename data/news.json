@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T09:56:01+00:00",
- "last_success": "2026-11-08T09:56:01+00:00",
+ "updated": "2026-11-08T10:53:34+00:00",
+ "last_success": "2026-11-08T10:53:34+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -118,7 +118,7 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0xVNWVLakVEczJLSzRZaWhpMk9yRXRXMzRBeEFma2RxQ1E1NmNfbmZUcFZBWEFxbkpCVDd1YmEwc2k5NGNLZEZFa1pkejJBeUU2ejljWTFTOThmVUNZU2M0SFc0MXFtU1BnRXRsVi1GNlVpYzJ4TTgzV2swWVItLU96T0hzVUhuZjJDU0RYVlZrQ29CUzhqZnVCU3FoNzJJbXFaeWJXMnZjcGFKWDFnbFNmUXB6LTk0QWRfbUdqV21ScEk?oc=5",
    "source": "Kohen Avocats",
    "ts": 1794066960,
-   "theme": "fisc"
+   "theme": "soc"
   },
   {
    "title": "Facturation électronique : les raisons du succès de ces plateformes françaises",
@@ -390,7 +390,7 @@
    "title": "Aides à l’apprentissage : le Cesec s’inquiète du reste à charge des entreprises",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG4tQklhbE4zZjdzLVlKS2NmUEFIOG9CbWpzMDhHR0F4SnM3cF9aVjRwbDQxUXlfRzN0ZE1DVkExUU9NRUhfeGdKZ2lkcFYyNFllcnZWLWItV09henhvako0cF9HazF5Vl9EQzVhX3lYQmRzVHVlUGpxLVAzMjV1cHFXbGkzdFdNSnNGalVBc2paTTVyb3AzTFU3b295aUHSAaQBQVVfeXFMTlY1c3d1YkZmQU1VSDZmU0Z0Tkl6TGlZS1BoQmlOWXZCQjZKS25RYndzZXN4Qlp3SG1OTkNsY0ROUTJEYkNLU1F0N3RINThHeTRTS2lhU0w5NTRYbGRMb2k5X1U5d1NyX2hOOG1kc1NxWjlYYTlFb1B2NTZCZWViSHRUWnlRLWROb1l5Ry1jMFc4SU9zXzhQTmQ3Wk1JSXpyZzE5WU4?oc=5",
    "source": "Radio1 Tahiti",
-   "ts": 1793934898,
+   "ts": 1793935397,
    "theme": "alt"
   },
   {
