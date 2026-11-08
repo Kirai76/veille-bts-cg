@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-08T17:45:22+00:00",
- "last_success": "2026-11-08T17:45:22+00:00",
+ "updated": "2026-11-08T18:54:30+00:00",
+ "last_success": "2026-11-08T18:54:30+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 74
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 25
   }
  ],
  "items": [
+  {
+   "title": "Les réductions d'impôts soutiennent les entreprises familiales et les petites entreprises.",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXpZSHBrUVk0S3lXTFphLUZCNlNtT3c3dEhIXzdXX2k5TGZsNVdjMHJNeGxLUk4tSUlqZVc3VUVnbHpRYmR2S21qTnNQOUxhSmJucUxnV1hXb0xpR292bDR2bTFCUFo4OGFqQnhkckMzaXlHZVN4OGZDU2RTSVBGMEdGMU1JR0E4OGc?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1794161816,
+   "theme": "fisc"
+  },
   {
    "title": "Transférer le siège de sa SAS à Dubaï en restant en France : ce que le fisc redresse et comment le contester",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEd2UUtPV0Q0aEhIcVEwUUduUUpvOHI3MGFCYWxGazNQUjdJV3YtamJFTTQ5RFNQWG1XU2QtYmNlUEhGU3pxQWN2OWpQUFVmX3pjQzM4QS1zdjVhRG1fR1d6N21LMzRwQWlOYm0yVF83NWx0UWxWYTgzNHY4QWV3UHppb2NTNy1vcEdIdmFIcURGQjlKamJ6dzZOWGlZM2JxU1drV2dyNA?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "lecourrier.vn",
    "ts": 1793689380,
    "theme": "fisc"
-  },
-  {
-   "title": "Tractial S.a. : Facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcDJDNU9NcHZPYURJVk9raGhfdGp2Mk4yYzNxeGg1ZEJNczFWQWFQMWZPeEZCc0xqejBadmd5Q2RCTHFkT3JvWmZWOTExMUM3cHZ3QTc4elZQWHo3UEx3ckhuaU5QTWxTVEZMbEtLcnhDVVQ0VTRCaTVuUU5kOWU1cW5QRG04TFdINnpFS1ptd1V4NmFSeDVzanczQ3c0ZkR5LVc3QkZvNy1wTkYwRXhhcDRBU0RRRjBNeHJ6bEZUVm9iZXFSRXpBMFkxTHk3QmhCMDRxckNDRV9zWk5qR0dWa2RzaXdRZw?oc=5",
-   "source": "Zonebourse Suisse",
-   "ts": 1793689263,
-   "theme": "fact"
   }
  ]
 }
