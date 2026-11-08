@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T16:49:16+00:00",
- "last_success": "2026-11-08T16:49:16+00:00",
+ "updated": "2026-11-08T17:45:22+00:00",
+ "last_success": "2026-11-08T17:45:22+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "items": [
@@ -70,6 +70,13 @@
    "source": "Kohen Avocats",
    "ts": 1794153060,
    "theme": "fisc"
+  },
+  {
+   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
+   "source": "Boursorama",
+   "ts": 1794149100,
+   "theme": "fact"
   },
   {
    "title": "Dette intérieure : 480 milliards de FCFA prévus en 2027 pour apurer les arriérés dus aux entreprises",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcDJDNU9NcHZPYURJVk9raGhfdGp2Mk4yYzNxeGg1ZEJNczFWQWFQMWZPeEZCc0xqejBadmd5Q2RCTHFkT3JvWmZWOTExMUM3cHZ3QTc4elZQWHo3UEx3ckhuaU5QTWxTVEZMbEtLcnhDVVQ0VTRCaTVuUU5kOWU1cW5QRG04TFdINnpFS1ptd1V4NmFSeDVzanczQ3c0ZkR5LVc3QkZvNy1wTkYwRXhhcDRBU0RRRjBNeHJ6bEZUVm9iZXFSRXpBMFkxTHk3QmhCMDRxckNDRV9zWk5qR0dWa2RzaXdRZw?oc=5",
    "source": "Zonebourse Suisse",
    "ts": 1793689263,
-   "theme": "fact"
-  },
-  {
-   "title": "TRACTIAL : Facturation électronique : PA-E obtient la certification ISO/IEC 27001 dans le cadre de son projet",
-   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOMUtqaDJHeTJYY29UcHYxSEdSZU51cGd3N1hMc2wxb0pqaDh3TmQ5R1N2NjRDM2x0LUU2UXVpVVgtYmtjcWNhZ3VhaXBHSUxOVThQYkY0MEhyT0EyREp4bXdTbXU1NHYxaFJ5T0RGaS1acGp3aFQ0YXRrLWJnZC03Vnh6QUQtUDRPWHRhNkVxcVNxMFNNY3BqTXVjdUtyMEFlZGlxQ0ZVRmxGcWNRd0V5RnZ1ZjdDUWRibkZjSjA4Wl9KRFJxN1lRUnNsc1k3Y3hLYWg1YWhKQzZMd29MemlMY015T1E4Y21OQ0ZFbFN3WnhzRG0tNUxuVWdjT3QyN3RlTkF1V0NhaTJhYlNxSGZZZEhtZmhlYk1idVJaUXlYUnNBeExETkdvSFQ4TnHSAbICQVVfeXFMTjdWUmV5UFhBMTRTT2tya1lPN3RxRUxRWk9LelkwWDFETmxzelM4eHFqU3BZZ2Y3TWptRnJNTUVGbEhhVHRmSk14Qi1SVXk4bGxTNklQaFNTcWxEdmhUR29oY3lsWG9MbXVQaElIS0szRE1EcmxGX05UekxIai1xdUh5cXI1Ull2SXVTeDVPaUxjTjJhUTMzTEFNaTNheG53cURhdDA0bzRRQlpwbnZLaTlYMXhHUUluSTZGZDVLcHZpYXgwdUdhaGFISmRUUHEwTXpDZDRkYjhudllPUE1pWG9KOEQyYkpnMjk5QWFTZ3hzRjloOW85d1dNc3BWeWM5aDVyYk8ySDlKVDNZRlZONlpSSm9TRzZiZDRrRVNSVjNFZS1GSWg0dXBRangzT1BTbmFR?oc=5",
-   "source": "Boursorama",
-   "ts": 1793689200,
    "theme": "fact"
   }
  ]
