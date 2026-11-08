@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T13:00:52+00:00",
- "last_success": "2026-11-08T13:00:52+00:00",
+ "updated": "2026-11-08T13:56:54+00:00",
+ "last_success": "2026-11-08T13:56:54+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 77
+   "count": 76
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "query": "TVA entreprises réforme",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "query": "plan comptable général ANC",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
