@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T07:12:52+00:00",
- "last_success": "2026-11-08T07:12:52+00:00",
+ "updated": "2026-11-08T08:12:08+00:00",
+ "last_success": "2026-11-08T08:12:08+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 86
+   "count": 82
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,12 +15,12 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 42
+   "count": 39
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -69,6 +69,13 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVERpaU4teFU0VGg4UGJPSzJnZC1ad3FiWDhzelYyc1RLdVFDTVFyTGEzVnpnS0hhdW9OQnNNS1pHbnhfMG5BZHMyM0xiZkl2OGhLVERJWUNMZkJ6aGFINmp5U1JSQXcxdDNjTnYyOTZQS1JBaDdwQW1TMVJoZDJ3ejBvZlVfX0dZX2treFBleEpUU28wQ3pCcmJQYnVvUnI3UDRj?oc=5",
    "source": "Kohen Avocats",
    "ts": 1794110340,
+   "theme": "fisc"
+  },
+  {
+   "title": "Remboursement trop-perçu impôt 2026 : date de versement, réclamation et intérêts moratoires",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDdRRGdBbDBTZ0ZnSHBfaExwWUs2WmlwTWlwVUV5OW11TTRpQXR1bk1kaGRDb1M4MERTdlNvNkJVN2RJODhEVXBybi1QRW53RUZIQnVoMmttY1Z3b1YwNEpLc0VQa0FZdTNueFFmOGpTSUFIb1NwamVsSXZkVTY1MXY0VkRjWGxCdVpGOUJvUEMwTTJjakc0T2Vqam5WeUNlcEc1U0lRT1o5SUFZZ2MyeHhR?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1794090600,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Editions Tissot",
    "ts": 1793685600,
    "theme": "soc"
-  },
-  {
-   "title": "Comment l’IA impacte le parcours des jeunes diplômés",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcldYbFhyWW03djZZNEtRVm1nRWtDbnhaM0FDbVdrcjV3OUpzWVJqeS1CdEhEa0FBeE5yNzNJSzlHVGdvQlppUlRXc2QwN2xHenBXY1JVMWlQR083UDNkRW5jaEZNVWR0YW9QcVM4dElMUjlTeTFsNzNIaU5RWkR6V1VTQnR2Tl9zWVlFSUFWYlB3c3JSR21zR1R5ZWRSUDBVQ2lzSzFIVTV3QmhhSlZHdGdqXzFnTUFyemszNXljakpnMGNxNWxMR0tQdXFjZ2l4bXlKNHZ3?oc=5",
-   "source": "Le Parisien",
-   "ts": 1793682720,
-   "theme": "alt"
   }
  ]
 }
