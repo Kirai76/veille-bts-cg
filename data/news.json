@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T05:00:14+00:00",
- "last_success": "2026-11-08T05:00:14+00:00",
+ "updated": "2026-11-08T05:57:03+00:00",
+ "last_success": "2026-11-08T05:57:03+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
