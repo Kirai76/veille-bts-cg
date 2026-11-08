@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T20:48:09+00:00",
- "last_success": "2026-11-08T20:48:09+00:00",
+ "updated": "2026-11-08T21:46:41+00:00",
+ "last_success": "2026-11-08T21:46:41+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 72
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Nantes : Fiche-Paie.net racheté par Indy, ce qui change pour les clients et les équipes",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZks0ZFZXT0l6N21ZZ3VFOEEwdkJGQTRUZ3BBWUFQei1Ya08xbTlraWp2b0UyTVd3RUtENVpaekJxbzd2Ty13dEpBZXJBOVBneUZraFZlMjBpU0xBMVJ6ZF94X1d4U2F5RTRySW56eWJYU19GaGY4bE9YUVpnU0VhbFBXNWR3aWQ3VGdFMzdvZmxza05yNi12UFAxVQ?oc=5",
+   "source": "infos-media-nantes.fr",
+   "ts": 1794172625,
+   "theme": "soc"
+  },
   {
    "title": "Les réductions d'impôts soutiennent les entreprises familiales et les petites entreprises.",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXpZSHBrUVk0S3lXTFphLUZCNlNtT3c3dEhIXzdXX2k5TGZsNVdjMHJNeGxLUk4tSUlqZVc3VUVnbHpRYmR2S21qTnNQOUxhSmJucUxnV1hXb0xpR292bDR2bTFCUFo4OGFqQnhkckMzaXlHZVN4OGZDU2RTSVBGMEdGMU1JR0E4OGc?oc=5",
@@ -259,6 +266,13 @@
    "source": "L'Humanité",
    "ts": 1793980080,
    "theme": "fisc"
+  },
+  {
+   "title": "Réforme de la facturation électronique : quel logiciel choisir avant septembre 2026 ?",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVRESjB4M1NsbXJMd2dzZXhPMUs0YlRfaXc2MDlKZmpiZE83SDEwWU9RNkJCYVNIM3NRY3pQM0dHVzJ5UmF6WGhwWHNWMnRIVlduQUZ5Um1CckdMRnY1MEJTR1FnVGhRUEpxazRzMW90WVRyTEJITzRJdTZpazZzbUdYWVVZRXNyWWszZkNNLW1meWF4ZUlOaTNuZGpqNVRqOGozTlc4SUJPblBEVVVaUS1aNTF1U1RNWmRaWQ?oc=5",
+   "source": "Clubic",
+   "ts": 1793979540,
+   "theme": "fact"
   },
   {
    "title": "Facturation électronique : les fintechs profitent de la réforme pour conquérir de nouveaux clients",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQU0RKRGIxbklYV0Rxdm5ZZWxrRkpaSGdVOWs0NnRfMjRuLWpob3lhSXhtTU5aSkhtUElJR0pVODN0TG0tcE05bTFKaHVNRmwxeWE5V0VPWC1scC1FR2lFTEJlZHFJWXowaFlXTkFadXh5SnpUa19BNGx4MlBUNFdUQl96SFowTUh0SXlleGJoZW9yS241cjNsVlpPTGtlSnhORGJPVkoxamJ2M0EzWm5aZDEzZ2d1bFFoa0JpMzJWOHlLSzBUamw1VXVnY2tCeUJCbUJVMTk4Q05wWTFOeEtMdGc1ZVhoNzhTNzllWjAwZmRZUkdIWDVXOVZrQUdjYW9l?oc=5",
    "source": "Les Echos",
    "ts": 1793696452,
-   "theme": "fisc"
-  },
-  {
-   "title": "Quels sont les critères à prendre en compte par les entreprises pour bénéficier d'une réduction de 30 % sur leur impôt sur le revenu ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmkzWXNBUmZEQ0taZXNncHJDbVpMZ2VuZFFkSV92U1BHQUdnckQwYWtVaUpJS2dydFJSWWdjN1ZrRDZDLWF0bG9wbjEwcWhNTm5rMFZvSEJXMF85dkFTM3B1OXZBdmIya2ppb3dqc0dJM3dKNFZnNlA3Uk8zY1V2c2JzWHRmOTBT?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793692726,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les allègements fiscaux encouragent les petites entreprises à investir et à se développer",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1BEZDg0TVpwNmFvRnJwdXNFSDRvajJoMlU5REJwLXFMcHd1TEZzUGR2ZVBVTDRKM1lPRDR5Mm1mbjhYUkJuMXVvMktmQnVyRVg5N2g5dUw0VHBSbWNRcU5PSk94SUVOdUdjaUJ0T0VXR24tWGprWEVOS0dvamozcWdtRzJPdVBVZkVwUTBKZHFMa0h6bEVLNWtJclUxNEhXeGdyTGJVZEdQQjFQbjlqYXBrWXBsRnpqMGdDNTJxRWRGUQ?oc=5",
-   "source": "lecourrier.vn",
-   "ts": 1793689380,
    "theme": "fisc"
   }
  ]
