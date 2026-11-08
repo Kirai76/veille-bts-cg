@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T04:00:50+00:00",
- "last_success": "2026-11-08T04:00:50+00:00",
+ "updated": "2026-11-08T05:00:14+00:00",
+ "last_success": "2026-11-08T05:00:14+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 85
+   "count": 86
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "SAS ou SARL : comment choisir entre les deux statuts pour créer et protéger son entreprise (2026)",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVERpaU4teFU0VGg4UGJPSzJnZC1ad3FiWDhzelYyc1RLdVFDTVFyTGEzVnpnS0hhdW9OQnNNS1pHbnhfMG5BZHMyM0xiZkl2OGhLVERJWUNMZkJ6aGFINmp5U1JSQXcxdDNjTnYyOTZQS1JBaDdwQW1TMVJoZDJ3ejBvZlVfX0dZX2treFBleEpUU28wQ3pCcmJQYnVvUnI3UDRj?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1794110340,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation électronique : 1,8 million de factures enregistrées, dont 37 000 réglées",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1lySzhtdnRwV1dzd2dXMzlmN3MtelBpQldCcm5rVVZrc2ZlREU0WWt6V21rLTA1U0ZSTzFQSG9QRDhlcFRxNUowLXNjdmpFUXMwbXdBeU5rZDlVOTgxQUVSVmhxQzVfZ1c2TTBXUV8yV1c4OVBqRlF6d3FQRFJjOW4zaUdhVEZUVDRmODhpZkxzdmR5cFJtd3lVaDI5ejhJY2ZWZFNiZGRnY18xZTR2dzBGdnNNWmM?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Le Parisien",
    "ts": 1793682720,
    "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYXgxR194c1RtV1k1bERIS1E1ZWZub1dTeGk0dzEwb1QxSGtvbmwwMU0xbmJES3RJeEM0NHRoQ0EyQ3ZWWF9JVVN0Wm9GVG80blVjVVpWY0lDM01IQzlBNF9wTTlib2xHOVBESHFhenNqMElFbldQa2hka3JZeG9hNVcyY3dKN3hTZFBXWEFtYVlTVXU0R1FFRWxOX1BOdTU1R2J0M21UcXVPblNuRDFfWmppaDBfVWtKbndFUmZYMEFzTnM0T0hUSjNwTWU1M1lFc3NXNG9vdXg4MFI3cUMtNGR0UmJPZHFlT19IT2VLa3J4cXBz?oc=5",
-   "source": "Le Monde.fr",
-   "ts": 1793678419,
-   "theme": "fisc"
   }
  ]
 }
