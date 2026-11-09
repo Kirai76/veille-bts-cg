@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-09T01:20:43+00:00",
- "last_success": "2026-11-09T01:20:43+00:00",
+ "updated": "2026-11-09T02:57:44+00:00",
+ "last_success": "2026-11-09T02:57:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 56
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "items": [
