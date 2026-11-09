@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T10:10:01+00:00",
- "last_success": "2026-11-09T10:10:01+00:00",
+ "updated": "2026-11-09T11:07:22+00:00",
+ "last_success": "2026-11-09T11:07:22+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,12 +15,12 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 38
+   "count": 36
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 24
+   "count": 25
   }
  ],
  "items": [
+  {
+   "title": "Prix de transfert sans comparables : une remise systématique de 35 % suffit à prouver le transfert de bénéfices",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjNJeVNncFY0MFRua1V2OEk4TXB1eTIyRzBBcEZqbDM2WWJCdHU5X3lHOWxLTm9UN0MtaDJOT0Z6RHR1UXQzMlRuQi1EZG4tNGlwZHYtT1FMLWV3dTJJczFvRm05aEVkYS1ubHJScTFpQzhfb2xuOE4zdzNOYVBzRV92U3RmSXZLdjExZ0lOSzFST1RFSS04M0FvZk81UWhXSkJ2MVZ3?oc=5",
+   "source": "Fiscalonline",
+   "ts": 1794215520,
+   "theme": "fisc"
+  },
   {
    "title": "Paradis fiscal : Apple économise 2,7 milliards de dollars d’impôts grâce à Singapour",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3FaRlpJYnRZWk14WE9jcnA3TVc1dG5xTDBKY29zZmlGWlBwSWU4TzVkRk56aEtUeks2WTUwQmFmclN6S1lrT1QyZ0U0cFhabHNMa2dNMm02WFhtenpPa1FPb3Z3cEZMWWhDRXRtSFNRN2tta0RiNndzZmgzMTJRYngxbXNZajUtWHFGZEtqczB5WmhOOTBMZ3pzRUxGYzRSLS1fY3VDaWJmMElSX3NiaFQyVVhhaFU?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
    "source": "Consultor",
    "ts": 1793714400,
-   "theme": "fisc"
-  },
-  {
-   "title": "LFR 2026 : les 30 mesures qui vont changer la vie des entreprises gabonaises",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTW5IWlpHbnhwbmU1WGt3eTBsUjJBTUdTMjRyVEdyZlhnT00xaTZLVDc2cnpUU3hjVFlKRGNvMHdUZXR3ZmZUTmRYRGlNaVdneXFkLWpYUjdIUFVTeUlmVTNPMlJxZzJQSFlsR2JWSEpra3d4MzBtSExtTUZ5MzlScWxadHB6VVhlX2ktTVNOa1dtd1JnR0pnNGoxcllmTG5DZEdSdQ?oc=5",
-   "source": "Gabon Media Time",
-   "ts": 1793712738,
    "theme": "fisc"
   }
  ]
