@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T12:05:38+00:00",
- "last_success": "2026-11-09T12:05:38+00:00",
+ "updated": "2026-11-09T13:25:32+00:00",
+ "last_success": "2026-11-09T13:25:32+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 70
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 36
+   "count": 40
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -65,6 +65,13 @@
  ],
  "items": [
   {
+   "title": "Fiscalité 2027 : les dirigeants inquiets mais pragmatiques",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1c2bkZzbENZMU42TllMdlozLTVBSHVqTUZqRG83ZE11WGFGX3B1aTROS25tSk9ycVFJNjFXWEI5VEVCU0xqT0F2cG5TTkdkZFVWZWJYQkt5UWZWMXVuX3Jxd1dtUGJVQ1ZyY1VfWmdnd0RmbFFWNmpySTZoVnFNWA?oc=5",
+   "source": "Economie Matin",
+   "ts": 1794230491,
+   "theme": "fisc"
+  },
+  {
    "title": "Hausse de la TVA, gel des prestations sociales ou suppression de l'abattement de 10% des retraités... Les propositions choc de la Cour des comptes pour économiser jusqu'à 38 milliards d'euros dès 2027",
    "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTmZidmZlbVVwMndVV2JQRUZjQm9HR01MWnJacEQxZktpdHVsNTNCLUl1X1BxZTZwUGNNbXlkXzBoM1hhalAzaWU5S1NQSHk2YnZjTDcycjFQT3pKU3N5aV81bDNNeVJ0V1hfalJRVTJIYnk1X2VTQW4yRzFwbHpfWEJEeENZSXk3RDI2NnQ2SmZEd0J6bEE4VThHVWxwdFdBeVZoNnYwdmdrUnBtSy1CODNnd1VSbmpfSF8wS1A5dU9UQldCT0JPU2ZOOXhpM0pkaEN2LTRxVzVOUlk1TU5WbS1aVk9ZUWxHZnV1VXFLWW40dUJYOWE0QjJXQ2tQZ1RfVzVXUk9jZjVpemliQVcyaTBrUEtZaDBlcXlrbnY5VjhDVTJGMDZhcXlKQ09CVUc1ak9CVkJOOS0wLUZWN1pkLVJqUEk2ZktJQ1JBTDd2bzdpMm9rMXFzYmVpTWdfN1d5cUsxbFB0cmctV2NvZTFPb2J0VjRXbFVVVnY4?oc=5",
    "source": "BFM",
@@ -72,11 +79,25 @@
    "theme": "fisc"
   },
   {
+   "title": "Le propriétaire d’un studio loué en meublé doit lui aussi recevoir ses factures électroniques depuis septembre",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHlzQXdFZXB2a0lBNHJuMVUtR2xBamZnOGlpQXczU3UySjFBR19uSkRWN0t1LTFrVkRVRGZyLXY3N1JlYnFsRUxTMG5XMTY4MmtxTy1HQWJoUWs5RnNRSGVnMGY1WG5xdzg2RWFYeXFmWXJxOVh5bE5UR0RyOGExMWZ0UzFJbm83OUVKbWJrenNwU2M4NHdwOVlpSEF3RTJXRzZFa1kxOE9teUk3N2ZhbXZIaUVWdk9WUnNaWUhxbFpydXZvV2EzWmJoRQ?oc=5",
+   "source": "Capital.fr",
+   "ts": 1794222000,
+   "theme": "fact"
+  },
+  {
    "title": "Location meublée : qui échappe finalement à la facturation électronique et qui est concerné ?",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTlVRVFrVmZJdlRXZUZJMlJZSlo5Qy15MG9zWVZ5cTBnazJ3dzB4dzlpa2p1d25UNkd1ajk2a1dCdFotWVFEU3d3MC16RzFqTTZiT1BROXhVd1lGblkzOF9NcTNYTkZsdWM0bUY3NlZFS0tyYzZUM25GNTJGVnVjblNmR0p4WVRseURWVkNGeWNXRzRtbDR0UGZPQ0pIMFJaS0hYSWhtdFdveEE?oc=5",
    "source": "Yahoo Finance France",
    "ts": 1794222000,
    "theme": "fact"
+  },
+  {
+   "title": "L’investissement public porté à 12,5 milliards de dinars en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE5GZWRvN19jQWpKVzg4ZGU3SGQ3Z2dwZ1NtblFfZHRFXzlpZTRLT1lHWXBISmFvZUxoMGJfMFRNQnU0dFNVYksyWkZGbG9QSnNBMU1tNGsxV0NCdVRTTVI1cF9qNVhWbkNGMk5UWFM0NEN2WFR4VkRlNDBIQ2tKYWxhbzFMME5JdzA2X3RFX1ktXy12SmtMZFIyX1JUNFkyQUlNU25FeHhud2FYeVNyN190SEtvSF82Nm53?oc=5",
+   "source": "Mosaique FM",
+   "ts": 1794220020,
+   "theme": "fisc"
   },
   {
    "title": "Prix de transfert sans comparables : une remise systématique de 35 % suffit à prouver le transfert de bénéfices",
@@ -730,6 +751,13 @@
    "theme": "fact"
   },
   {
+   "title": "Budget 2027 : les députés rejettent à l'unanimité la copie amendée, qui part au Sénat dans sa version initiale",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdFFGX3lHVFNOVldVNVRIc3ZFajZWU2pNbnNVSkdvakdwUnNDT1ZOYXdhUEN1UFNEd2toQzlfU3ZFcHdCQ0VsRHhuN2VOUmptcTVhMnNOZGk0U0h2Y0VGRmFEN2Q3UFdvcjNZZWpKVTBJQWNzS3IzUG5CZGdOYU1DWW9lUHIwOVJaamtEOXlWQktqU2JYQmtaeGN1WlFnYjdXNnYzeDB2bzBON3RzbzF4QmtXT25WaEh1c0FYc3FBaVhRTHkyb2VyVVhlRndBeWVPTlFuSDNQeDN4LThFQmR6TjJmeXk5NW9KS3ZXVXVRNXpSdUx4ZS1GeEx6U0NPRnF2?oc=5",
+   "source": "Les Echos",
+   "ts": 1793854830,
+   "theme": "fisc"
+  },
+  {
    "title": "PLF 2027 : un amendement supprimerait l'obligation de facturation électronique pour les micro-entrepreneurs et autres non-assujettis",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlF2V2I5a1FzMFlBT0RfZ2UwVzI5R1hkMWlYSlJySGtIeUNDWS05bE54NUdpTXg2NVNNakY3WGg1YURYcUs3b2lhWmR3dkwyV2VUdmV3eUhQY0FJbDBHQVhLUlItdTZEQk5TLUFscUlHQWJJbDhmRXhFLS1oY1ppMzN1emo1bXRSWExMYlRwZ2x4LTZ6ZTB5cXFZZW54NFRxdWdsSlpqcTY0THI4SWFuanQ2eUpfNUE2dWFUanlna0t6b2RYYzhuNzY5RlRlY2xNZFl2S1dFOTBubmpjcFdfbVdfQURQUndyNGpB?oc=5",
    "source": "LégiFiscal",
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmRXaXd2OGNxQUtSRkZNeWd0QU5sZHVHREN1WFhHRjBidTU3Sm9hcmM5cGROcVVrdi1US3ozbThwQkYyYXFyYWlEUk9hYnMwYmxrcWdsSDF0Wk1NM0VPSHZ6cUQ0ZGIyTWZIbzdJdHFScU5GNzRVN1g3VXAyNXFlbXNiSkloU0s1THVxQjl0SkgtQ2dQMEZYY3ljdnhpVXB6aFJZUXZweGRRWWczaG5IQnF1YzZ0UDdsNmtFYk9kbXRIU1pranhSQmRKLVFpcHVKV0VBYm5TRDFvWXRD?oc=5",
    "source": "webdo",
    "ts": 1793726880,
-   "theme": "fact"
-  },
-  {
-   "title": "E-facturation : 37 000 factures réglées sur près de 1,8 million reçues (Ministre des finances)",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdjFLM01NZFBnZlFZbUVfaDVic2M3djVaRzByVWNMOVJOdk44S1hjZHNFUV9uUTFsWU1XUThRTVE3MzZKcS0xMEtXTFV4Uloxa0pzd1MxUEZYNnZieVBKT2t4aDNBYzlQdTFrcUdJTEpCX0hfck1talRDT3RaMEVyc25JVElLRTlYMW1sZkE0RGJZdTU2SjdhQVA4WUd0WllEcmtsenprV3ZYTlBNaWdaN3dGVTkxNTlQemRrV1Y0QmQ1c0s2SmF3S2ZtWFRLeFpkVXVXRA?oc=5",
-   "source": "L'Économiste Maghrébin",
-   "ts": 1793725292,
-   "theme": "fact"
-  },
-  {
-   "title": "Optimisation fiscale : ce que la chasse aux riches fait oublier",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnNWLWljaEhpaFFiSktGTkRlQjRGLXV5MGd4NHBzU2wyeGphZG5CRjJIT3NGUUtKWjVFcTRvNXJ4MTZYMmJJcG83NFRzRFdNakxGZmdkZnZmNG16dXlBMVN6MER2WDg2b2NFWFowX0JNc1VBTjFmVzRsT0VTZlVra0xVV2x5Z2hCWlBGWS1jbnBoTW5TT3EzRnMtZmI2RnlKNXhsLTN3UHFhYWo3Zl9BYURwVHpxQlRxSkFuSy13?oc=5",
-   "source": "Le Point",
-   "ts": 1793725200,
-   "theme": "fisc"
-  },
-  {
-   "title": "Réforme de la consigne: arrêter maintenant avant de frapper un mur",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUQ5T1RpYm01anp2UGRLRzlUUVROQTZnTlcyOHlrNVBxdndHaHc2UnZGZ2NKTXBxSmxQQ0RxbTg0a0otUGVxVDVaRWQ3WHRPZkZLVy0zMHZjaWFNVURRcm1sb3BneDdaeGs3d2gtbFpqSTZNRUdmd2E5MnR1TDBKbzB1N0xoRTlaaVJ2S1UzOF9oUWNmMjVpLTFUdGhWMVVCZnFaN0M5OA?oc=5",
-   "source": "TVA Nouvelles",
-   "ts": 1793717937,
-   "theme": "fisc"
-  },
-  {
-   "title": "Mechkat Slama Khaldi présente les avancées de la facturation électronique et annonce le compte fiscal unifié pour début 2027",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWTZuU0FSLXE0dkg4RURfSWpZS1FaSW1wQzRzUEFYaHVQd3R3RllIZ3I4NzljT1ZKMFptQzQzRFYzamdSanFJQWJxYk0wd3E5ZVRNMXNMeF93THBVTWtoUUMyeWd2OFBfMENvV2ltQ09NUEgyU3lMSXgwMU5NQmJ4cUo4aDFGVHE3QnB3NEptWU5HQUdTZGxjaXNNN3hXYWY3dzVDSTlLaUV5TnBlcG1yekR5N212OEdsa29qQXlCZGNLNVJ6OF93QXQ2ZFVYVXpxdEJDVEhxVnd2ME1DZ0VjMlU3WVFCS2dJaEZ5YVQzWmlsZw?oc=5",
-   "source": "La Presse de Tunisie",
-   "ts": 1793714735,
    "theme": "fact"
   }
  ]
