@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T15:05:32+00:00",
- "last_success": "2026-11-09T15:05:32+00:00",
+ "updated": "2026-11-09T16:13:42+00:00",
+ "last_success": "2026-11-09T16:13:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "query": "TVA entreprises réforme",
@@ -65,10 +65,31 @@
  ],
  "items": [
   {
+   "title": "Sociétés de musiques en péril. «Cet impôt est injuste pour nos ensembles»",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGhKZUdOczBHUmw4cmN6Mmlab2dyYm16aFFXN1BQdUZHdEJqWFdENjhrVHc5OUNLdEpCbWt6RFluYUxvNnBkM3lua0V1bHBTV1M5Nm1nendxQkY2TE80WVlyTnVMd1pIdm9ZeWpka2FNR1ZCc2QxUU4tRFZRR1lyZ0dVaG1RWFpXb1l0VDR3RjVEY3RXcFVQSFNPeFRTQQ?oc=5",
+   "source": "La Liberté",
+   "ts": 1794237365,
+   "theme": "fisc"
+  },
+  {
+   "title": "Fermer son auto-entreprise en 2026 : cessation définitive, radiation, dettes et derniers paiements",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnVMRmlkcVN4SGZFcU9LYV9LbWw0cjUzaF9pMVhrQUVaOTFQRDI4a2NMV3R4bW9HSEdXaWJxWnhpSzJEZWc3MXhuYU1UN3pxbEN0S3BRR0RZYXdXQ2JZZU1TelVVakQyS1R6elJ4Y1pjWGdja2xsMHcwVzlvRTNJNThqdWp2T19qMHE3VUdtaTBhVHpGY1dUTlBleF9qZmR6UUtIRzlLLUs?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1794236880,
+   "theme": "fisc"
+  },
+  {
    "title": "Cabinets d'expertise comptable : 2027, l'année charnière ?",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNkc3YnRtRHQzUXRTTTBDMmxUREVjNHFvSlVVX2tscW43X0ktRUlBMVBoSHpBWjJzanZHTS04RFRCRnQxdVVOQzVXTjQxTXpDVE1sRHB0NFJUTVlCQm1JNUtaTm85a3MxcVpub09nQ0hKek0?oc=5",
    "source": "Compta Online",
    "ts": 1794234705,
+   "theme": "compta"
+  },
+  {
+   "title": "Exercice illégal de l'expertise comptable : ce que le phénomène révèle des mutations de la profession",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VWVEaGprS2Yza181bDdkeUxKeXJrbzZoUW5JVW9XbFR0TDg4STA0emt4SHFvR082cFdVdWFoVWduUWxsT2xkMjd2OGk4UVlLX0tXWG42SHBSbExJRXI2QU00VkVGN2tDUGlmZmNZM05nTVNmWjBJeUpJcDcwUQ?oc=5",
+   "source": "Compta Online",
+   "ts": 1794234527,
    "theme": "compta"
   },
   {
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ3ppbWtIRkRVS05INk0teW8tcVFQam5BdGJnaXc0ZUlIUFEtTEU4Skp1NmExMHdEdXI4RGJLdkN4cXdNZ1Zrc2M2ci1sS09WN0VIUldyVG5oYm4yazdpSHpTcWdoelJCeDZnTXBqeUVfMHNzdEFqektneVVRSHJJNVM1Zl9IMjl4VjB6YVNJdHA4RTZfaEd4YnhLQ2E2Q2xCaG8yUHlSYTF4M19hUEYxWjBVUjk0VEVqUjd5WEpqdHZyNXo3dFR5ZXhJcWlGOVNTc0V1dzZLMXp3Z1luZkpjdHJMSk5uT0drYVhrcjNlN2VRdWpCb093bg?oc=5",
    "source": "Ouest-France",
    "ts": 1793753123,
-   "theme": "fact"
-  },
-  {
-   "title": "PARIS : Marvin Ndiaye : « La facture électronique pénalise les TPE qui ne fraudent pas",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZ2dTdtQkxHMDd2SHVaMGR1VE5lOThMb1A4OVhRd2cxLUhuYnpRZ3hTa2JDbWJKU1FkRmhzZnhyNTk5NG5nTXhlWXYzMF8tQ2NoMkJiNDA5Q2o1bl9rVVI4dnlUMTc5VWRndnFISjF5Skx2YlF3bmVfUV8xMURHbEkwLUJveGFyZk1yam5yN0U5SXZFMUJ0c0NESVBxNXA3VnVxc1VISkE?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793750400,
-   "theme": "fact"
-  },
-  {
-   "title": "Il obtient un logement social de la RATP en sept jours grâce à une fraude : six ans plus tard, la justice le rattrape",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWXlZT3U3WVkyT2RTWXhXZHFBV2NTcHd2R2tfdklfWHF2ay1RSGlhZWhLWW01S2kxSHotUFRiRUNVcmZuN2ZOZUo0dUFjQXN4ZnFBZnVRVUJBX1p5U09BelgzaFFmMjJmeWVCVGwxU3V6WjBlMTlJRnpZZ0VfOElHaVllbXdidWhIczRRbnNHc2FHZDBjcjFiZVdDay11cTFYcm9vYWJvZElRdkVZU3hSem9sbDZHLVplSkYzTkhKNnNEd0t5R3dRLTVISVFLSUQ2aEMyZXVrOHl5bVhSS1dUNjdxN3RPSTBzaDhxWjBn?oc=5",
-   "source": "Actu.fr",
-   "ts": 1793736962,
-   "theme": "soc"
-  },
-  {
-   "title": "Facturation électronique : une opportunité pour les TPE-PME ?",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
-   "source": "Presse Agence",
-   "ts": 1793736000,
    "theme": "fact"
   }
  ]
