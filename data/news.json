@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T20:02:38+00:00",
- "last_success": "2026-11-09T20:02:38+00:00",
+ "updated": "2026-11-09T21:00:26+00:00",
+ "last_success": "2026-11-09T21:00:26+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Création du spectacle \" UN CHOU-FLEUR DANS LA TETE\"",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMTkwdWVla21WcTFrM2drNWViNXpETmJJWWtVMHBGb3BvT3ZyLTdtUjh0bE5VbG96RFU0VVB2VTJSWmd5ZnBPS3d3UFlsUU16ZmtTQXlyb1FBZFRlMnpVUmt5TmdWc1NBMFJDRUpNS2gwcU9uXzEzV0JiME9Jd29rYkNFc0g2SzJSV1hpYzhpRVc2azVreGVxSjNJUFhvOGMxNVNJVXRKNzkzZ3RUMHp6QnFXVkhpQklnWl80VEVRMGZqMV9yWjJBMG12Vzh3WkJYNFF0d0QzWHBnT01veGo0UW9RbFE4ZXNpM2c?oc=5",
+   "source": "HelloAsso",
+   "ts": 1794254270,
+   "theme": "fisc"
+  },
   {
    "title": "Sociétés de musiques en péril . Pour le président du Giron des musiques de la Sarine, «cet impôt est injuste pour nos ensembles",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGhKZUdOczBHUmw4cmN6Mmlab2dyYm16aFFXN1BQdUZHdEJqWFdENjhrVHc5OUNLdEpCbWt6RFluYUxvNnBkM3lua0V1bHBTV1M5Nm1nendxQkY2TE80WVlyTnVMd1pIdm9ZeWpka2FNR1ZCc2QxUU4tRFZRR1lyZ0dVaG1RWFpXb1l0VDR3RjVEY3RXcFVQSFNPeFRTQQ?oc=5",
@@ -215,7 +222,7 @@
    "title": "Facture électronique certifiée: plus de 7 milliards FCFA recouvrés en trois mois",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFZ0V2xDdmxWS3N5WDBwT2tlcHd4U3d5RFVOTHJSWjR6LXRPUjRWbV9Ta3U5dDhWa0dBcDd2T1dkcFc2bVlpS05WRGdvSGZmd0xqWElXcjhoV1JaeHd5eVgza3c2bE1NRWpBT3VjcTJXcDdZZjdxNk00Q1llMlp4RmhSbVFzLUVXam8ybHpucm1jU25sYnhjTDRQalJFUWVaMUZYVDZQUFRCWmhXZGtuMS1mM2hwZC1KZFBWR2hB?oc=5",
    "source": "L'economiste du faso",
-   "ts": 1794211487,
+   "ts": 1794211488,
    "theme": "fact"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "L'Essentiel de l'Éco",
    "ts": 1793775600,
    "theme": "soc"
-  },
-  {
-   "title": "Budget 2027 : l’Assemblée nationale vote le gel de la facturation électronique, quel impact concret pour les TPE",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQjRVUGc2UzhkVXJnaXFpMVdfYi1zZEgyVmNiai0wU3cwMEo1WVBYVEFmdWNHcVcyeE00SjRnZTJ5MnlSZWFKMHZkLUdUTjdLelEzMjRIQkRWUEczeURrdklNRnJ0V1ItakxZVTEwNzUxQzdOWWM0Smk1VWEtRXdNc094TTVtWk50Z2Z4WHFZMkpsNjBHNmRGMXNveGlUQnlpbXE0emtzNHNnbFUxbzJfWC1oX0x6cDR0UkZ5bm9IMzFHS0JkUmNLd0hVUEpMSmN5WTQ1bEY0QTNFUXBkUXNmTEpCWXJyWXF4STNpSF9BMWU3Y1BBTmRlQg?oc=5",
-   "source": "TheSiteOueb",
-   "ts": 1793773704,
-   "theme": "fact"
   }
  ]
 }
