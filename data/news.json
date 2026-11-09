@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T08:35:57+00:00",
- "last_success": "2026-11-09T08:35:57+00:00",
+ "updated": "2026-11-09T10:10:01+00:00",
+ "last_success": "2026-11-09T10:10:01+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 72
+   "count": 71
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 25
+   "count": 24
   }
  ],
  "items": [
+  {
+   "title": "Paradis fiscal : Apple économise 2,7 milliards de dollars d’impôts grâce à Singapour",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3FaRlpJYnRZWk14WE9jcnA3TVc1dG5xTDBKY29zZmlGWlBwSWU4TzVkRk56aEtUeks2WTUwQmFmclN6S1lrT1QyZ0U0cFhabHNMa2dNMm02WFhtenpPa1FPb3Z3cEZMWWhDRXRtSFNRN2tta0RiNndzZmgzMTJRYngxbXNZajUtWHFGZEtqczB5WmhOOTBMZ3pzRUxGYzRSLS1fY3VDaWJmMElSX3NiaFQyVVhhaFU?oc=5",
+   "source": "iPhoneAddict.fr",
+   "ts": 1794215403,
+   "theme": "fisc"
+  },
   {
    "title": "Sénégal : la bataille du budget 2027 fait planer une incertitude sur les paiements aux entreprises",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajd0cU16OFluYkE5VlhzV0Z0ZjEzcjZnSVhRU3BzQ1lyQ1A4RHNWMEFTMzQtX3ZuNzhZcUFvUWMtanZLLXhuYlo0aGJkcU9PMGtaVjRZcmozaG5yTmZWY0pueUJ6Y0dqaTBPVGdTaVZTbGhfc1AtVDR0TjRzdEJuVG9RYUZ2OVFRZWZQQ0daQm15Y0pwaXBiSjNjTngzTjE3bkZybkpFWll6dVd4b1ZDcGd0dC11X3lCbXExXzBsZU5wdS1tVGRkRjVuemN6cjBoRTJSZzZfclNfLThMNnlaU3JYNDBpTENCN2tCQw?oc=5",
@@ -91,6 +98,20 @@
    "source": "Vietnam.vn",
    "ts": 1794209303,
    "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : un troisième webinaire consacré à la réforme",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUFOTDlPSGlQUzBfMmtjWERUWUFybUNhUUF3bGFBdnNxbDY0cWZ1Z0VocDZnRWw2UkN5bUE3WUxOcjI2UWlCMDZnLXdKLVp0YlljNkE5Wk8xWTR1akNSZkU3eEN1aDkySS16S3JlbHNwb0Uxb1I2QXJuWk40LVM5ZVp5cjhoN1diaTNkSmEzdGxsaWREQnhsNTBpY3RISG9hZlB3cFUzUWFwVUVzN05PN3VqZFJlcldrY0hoSEJubGEtbHVw?oc=5",
+   "source": "LE MONDE DU CHIFFRE",
+   "ts": 1794209100,
+   "theme": "fact"
+  },
+  {
+   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
+   "source": "Boursorama",
+   "ts": 1794208680,
+   "theme": "fact"
   },
   {
    "title": "Aubigny-sur-Nère : Top Garage C2A reçoit une aide de 20.000 euros pour soutenir l'économie locale",
@@ -126,13 +147,6 @@
    "source": "www.entrepriseromande.ch",
    "ts": 1794186000,
    "theme": "fisc"
-  },
-  {
-   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
-   "source": "Boursorama",
-   "ts": 1794180840,
-   "theme": "fact"
   },
   {
    "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
@@ -839,7 +853,7 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45RlZlODJwS3liRnNHZzVfZlZkWkhYNFV5QmVYbGNydUhnUmRFZ01zaklraVFsc2dYWm1Nbmd1YnBTb3B3ZzZjNmdIY2RqblF2dWFWTndTaFZVTUs0SmhUbkNsQkNXSkZDVmdoUExIUFIzZ1BtazUtdw?oc=5",
    "source": "Actual Immo",
    "ts": 1793792700,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Facturation électronique : PENNYLANE, INDY et TIIME prennent les premières places du raccordement",
@@ -1099,20 +1113,6 @@
    "source": "Gabon Media Time",
    "ts": 1793712738,
    "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique : et si votre expert-comptable avait enfin le temps de vous conseiller ?",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3hpQlZEV1JFcHpjMjhwVW1hS2tzQk8zeEZlYm95cjVXU0pUWTZXRkxGYUVuMWNlUkpSYi1Hb3dOeEU0Y3FzanZxM2pVaE5TQ0QxSzhJUlB0UDh4ZmtVQ0JzcjR4SE44Q0JyLWNsODZzYVl1Wl9DRFlZVVUxamszSjRacW5FdzYwNU5Wb0JCVzZTczUyQWxjdkJQVVJoQzZqX2FiUXZkNFZSWmRMOHZzRGhicVRrMUJPZXNNdXFYSUVfcm5kLVhXazBSZUZZZDAw?oc=5",
-   "source": "JDN",
-   "ts": 1793712675,
-   "theme": "fact"
-  },
-  {
-   "title": "« Je voudrais émettre des factures électroniques sans attendre septembre 2027 » : un régisseur d'immeubles dans les starting-blocks",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxObUtSMUlQUndxWTNHRmhBd1ZsUUlYRmFpaE1YLUZfcE42Y0QyazQxYU80eV9HSEpRSlFnNVk2WUtrc2ZMVFNkMGQyMVV5RmhxR20yd2llQ3V2OVdjSWpIaDRTdlV4V1RETHhObHk3M2JHZklEYWQxam5aNGt0NUQ2MDFMVlhrOEhpclVmRENQRXdkSDdRQTlKcktJbDNhZ0pxdmd2UWdtZjNpN3hzTFRwMV82TlpEcHRZWkk5djF6U0hvck52Rmd2ZXdKZ3RKLWxDRV96c3hHQUxtbG5wU2xKc0s1U1VpekpnMXVJUjRWaHRvZldMVDlJY2x2RWZ1RGwtMkt1cWNWdTRDemFRWmlPeVYtTGlWeEpYUUNvUFBR?oc=5",
-   "source": "Les Echos",
-   "ts": 1793711111,
-   "theme": "fact"
   }
  ]
 }
