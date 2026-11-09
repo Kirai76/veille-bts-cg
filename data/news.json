@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T04:06:40+00:00",
- "last_success": "2026-11-09T04:06:40+00:00",
+ "updated": "2026-11-09T05:16:41+00:00",
+ "last_success": "2026-11-09T05:16:41+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 72
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "query": "TVA entreprises réforme",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 21
   }
  ],
  "items": [
@@ -490,6 +490,13 @@
    "source": "La Tribune",
    "ts": 1793900485,
    "theme": "fisc"
+  },
+  {
+   "title": "Presque 200 licenciés, bonne santé financière et alternant : le club d’athlétisme de Mortain-Bocage continue d’avancer",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOM3RmQVFxTjhHOXJXTm0yb05pN2J6TkthbkRQZVUyTXA5NVc1dFlma2NzbmZrcEk3cWdUem5PVGhtTGNhWHhTRlZpc0xmUVgtLVVJRWxBSDJXMkN0OGZrSmVKRzgyY0hCSHpHamdzMXF0Q0R2OUVuQjYta2NmR25CejNGbkNBMHJKZ1k0Tk55ZV9ZSVdSVm1BMFJqQUZyV083MmJvOGw1NjliU3M1TGoyODhNYWVtdlJNY2JpdjNjNmxQc3hxMGUyamNxYkQ5QTMyalhFU1E0U2xQX096VVZPUG1rcktFSzIxaEE0dloxcjJCX19RLUdZNEd3MzhrcjMwVlplaGZ5bVhKQTBPd0c0TFN6MDhUa2lRQnlMRUdWdXVjWEdsUXg1Y2lGMEdlU3VkTjZB?oc=5",
+   "source": "Ouest-France",
+   "ts": 1793897645,
+   "theme": "alt"
   },
   {
    "title": "“Ça va être un carnage en termes de hack” : 10 millions d'entreprises passent à la facturation électronique, une transition à très haut risque",
@@ -1106,13 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1793701525,
    "theme": "fact"
-  },
-  {
-   "title": "[VIDEO] Expert-comptable : une profession en pleine mutation",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmYtc1YxVDNUbDlCV2tGODBXenZIaTlmQ1g0NHRJTWtTWjRnd1NFQWktVlIzNXhJUmpUdnpaRzN1VzlwelJ4N1dTMmFCaUduX29nQ3E0Yy1yUkRYZXBsN3A2cGtpY3ZaODRuTUdRT3NyRlFGN25pSmlOX3pZVXhLVFRYSlpWa1Q5eXo5d0VPZXFjejVGRzk5VFdxMWJoUFRrdEFXQW5YVE5MdXI5LTdadkV0MTkxbUU?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1793700759,
-   "theme": "compta"
   }
  ]
 }
