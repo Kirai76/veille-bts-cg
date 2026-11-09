@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T05:16:41+00:00",
- "last_success": "2026-11-09T05:16:41+00:00",
+ "updated": "2026-11-09T06:25:50+00:00",
+ "last_success": "2026-11-09T06:25:50+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 72
+   "count": 74
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "TVA entreprises réforme",
@@ -55,15 +55,29 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "Aubigny-sur-Nère : Top Garage C2A reçoit une aide de 20.000 euros pour soutenir l'économie locale",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnkzNGpKQmVIV25IQkl5RjhrV3lNdnAwbHo5b2lXbkpCTW9YU3FPYW9qSm1tM2N0VTlrLUdXZnluRkJSM0lycEVMWk1helZOblhvTkFRSHctU2haVEM1Y3RQdlM4YTlCYnFxa09qMTVlNUtLWF9qTzdPQzFGcjFtNVd2LWl0X3lDRWp2TzR4eUJ2TVlScUpBUEFUZUg2OEdpYmFaeDM0VFNLcUpCa3M4TVVibFlEWWRXaUh6ZnVaTlBzSWJ0cnhQQlc1XzBaT05HekJHNHl6MHozRUxwTGJYYkxuRUU4a2ctZkhoQUtldmJtYkp1?oc=5",
+   "source": "Le Berry Républicain",
+   "ts": 1794201180,
+   "theme": "alt"
+  },
+  {
+   "title": "Le gouvernement a présenté des solutions visant à supprimer les obstacles fiscaux, à soutenir la facturation électronique et à freiner la flambée des prix de l'immobilier.",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjM5bHpQOFFtUjJXb3JjSXoyNDJvRW5qZkJlU2wxbjVPdkJYdUhYRGxucTN3aTg2d3ZNSngxQmR3ai10OE13bTBLSl9wZG5wR1lqSjdleVJ3ZkdtVmkxQ01aTmRrV1BCR21QQnZBR3FSUm54T2xrYUZnM24ySUp6ZlQwZnRKUm1JZ2FvVlZEUk5FZk43Y2haOHlqNVpLSE9DY1piYUhYZTQ1cjg?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1794199656,
+   "theme": "fact"
+  },
   {
    "title": "Facturation électronique obligatoire : calendrier 2026-2027, sanctions et mise en conformité de votre entreprise",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWRldkVWMl9HWnFsZXhFRzBSTGtCWWlNclJaUF9STWh1NHpkdFgwdTg4UHQ5R0EwQXdiU1JXOVZhZEd5c2RHMnVIRE5lc1JmZFBIVldocVBHZ3NiZDhvNXNrR0cyUGtRclZGcVQ2eHBXWFdPQkxma2FMX0Y2M2xlNHBsdkNPSEFOMVVjOW93c0lsUVVzLVFxN2xKYmRpOWJYc2FmS2dWTzIwSThyMGc?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGkwb19vc2t0a1Q5NjY3eExqRXVxOEpzTlVPRGtRQmY1enljd0YzNEN2SGR3VDRHWWJocjlSb29Gb3plNm1DQ0ljNUotZDRXRFFCWTVyN3ZZeFJSNXVrTFdZR1JaLV9jbjV3UmVlMnZ5b1pocHFDaFJkLXVPQVQ4OFdiSW1lYW1mZV91R2ZxWUtuNmIzMlAyRE1wNTRmTGJyUkFWYU1lOXh0RlVXeUtaamdHTjJMWEc3ZHNybWhka1BUcmFMcTJSRF9rY0VMazlrNDJV?oc=5",
    "source": "JDN",
    "ts": 1793704038,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture électronique obligatoire : ce qui change pour les indépendants et les petites entreprises",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWY3eVVjUDhWeTN4T205Tk1uUWVaU2ZxMXZYOVV0S1lnRHo2RW13T1FUSE8wNmNlRnhfSlktMks2WXl4bDVsN3A4d1pSTkkxZjNPU0JiVUxyNFlCVU1VSmdyYnoxU2xHaXpoUHNkNU5BT1RiR2pBSGJiYVdhZFBlSTlZRlFLbjVLQXlUMDg5Rk1ETy1FVk5HODVkWkVFVWdMb1J4SEhQaWp1TVh0NmYzd0Z3?oc=5",
-   "source": "Webmarketing & co'm",
-   "ts": 1793702277,
-   "theme": "fact"
-  },
-  {
-   "title": "La Conférence vietnamienne sur le commerce électronique 2026 est sur le point d'avoir lieu et réunira 3 000 délégués et vendeurs.",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVViUnNBYUdTNFdhc3F2eng4bFE0Rk1uX2kwSURzc3BSVXJORElvX1RVSVh1djJXSTJhYVV5OFRaWWpBMkRJQk0wN0RRV3lIWGNvbTY5QlVYZUNsTTA0MGVGckFMZVFPOGtWTEJpeGp5U0pLX0loN1pHaVRTZThoalItdG1KaFMzLUF2cldXdnd1bHBqLVg0ZGltZDVhZjAwSHE2bFViM1lIM2tGYzFBdHpuN3V3QWZI?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793701525,
    "theme": "fact"
   }
  ]
