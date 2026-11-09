@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T16:13:42+00:00",
- "last_success": "2026-11-09T16:13:42+00:00",
+ "updated": "2026-11-09T17:21:16+00:00",
+ "last_success": "2026-11-09T17:21:16+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 37
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : la suspension votée pour les PME n’est pas entrée en vigueur",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzZkRUhGa3k4ZE5VVU5TMGVjWk9sa19kcWVESzJ6RF9MVHM4ZGgzUm4yVU1EMTJfOHM1cXNSYWlXbmVJdGVsd1d3TlJ4RXRMS055MzRWVFZaZ1lNcjZVdGZsb3pZZnZtbkpsUkxKWG5JUFV3YWRnX29EUkpseXZRSmp5TkhUMG9ZY2tKNVhPSy1BeFhUaUZHUVp3?oc=5",
+   "source": "https://www.leconseilpatrimoine.fr/",
+   "ts": 1794243786,
+   "theme": "fact"
+  },
   {
    "title": "Sociétés de musiques en péril. «Cet impôt est injuste pour nos ensembles»",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGhKZUdOczBHUmw4cmN6Mmlab2dyYm16aFFXN1BQdUZHdEJqWFdENjhrVHc5OUNLdEpCbWt6RFluYUxvNnBkM3lua0V1bHBTV1M5Nm1nendxQkY2TE80WVlyTnVMd1pIdm9ZeWpka2FNR1ZCc2QxUU4tRFZRR1lyZ0dVaG1RWFpXb1l0VDR3RjVEY3RXcFVQSFNPeFRTQQ?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1793762019,
    "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : le vote attendu mercredi ou jeudi, compte tenu de l’avancée des débats",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ3ppbWtIRkRVS05INk0teW8tcVFQam5BdGJnaXc0ZUlIUFEtTEU4Skp1NmExMHdEdXI4RGJLdkN4cXdNZ1Zrc2M2ci1sS09WN0VIUldyVG5oYm4yazdpSHpTcWdoelJCeDZnTXBqeUVfMHNzdEFqektneVVRSHJJNVM1Zl9IMjl4VjB6YVNJdHA4RTZfaEd4YnhLQ2E2Q2xCaG8yUHlSYTF4M19hUEYxWjBVUjk0VEVqUjd5WEpqdHZyNXo3dFR5ZXhJcWlGOVNTc0V1dzZLMXp3Z1luZkpjdHJMSk5uT0drYVhrcjNlN2VRdWpCb093bg?oc=5",
-   "source": "Ouest-France",
-   "ts": 1793753123,
-   "theme": "fact"
   }
  ]
 }
