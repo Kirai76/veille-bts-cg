@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T11:07:22+00:00",
- "last_success": "2026-11-09T11:07:22+00:00",
+ "updated": "2026-11-09T12:05:38+00:00",
+ "last_success": "2026-11-09T12:05:38+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 70
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Hausse de la TVA, gel des prestations sociales ou suppression de l'abattement de 10% des retraités... Les propositions choc de la Cour des comptes pour économiser jusqu'à 38 milliards d'euros dès 2027",
+   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTmZidmZlbVVwMndVV2JQRUZjQm9HR01MWnJacEQxZktpdHVsNTNCLUl1X1BxZTZwUGNNbXlkXzBoM1hhalAzaWU5S1NQSHk2YnZjTDcycjFQT3pKU3N5aV81bDNNeVJ0V1hfalJRVTJIYnk1X2VTQW4yRzFwbHpfWEJEeENZSXk3RDI2NnQ2SmZEd0J6bEE4VThHVWxwdFdBeVZoNnYwdmdrUnBtSy1CODNnd1VSbmpfSF8wS1A5dU9UQldCT0JPU2ZOOXhpM0pkaEN2LTRxVzVOUlk1TU5WbS1aVk9ZUWxHZnV1VXFLWW40dUJYOWE0QjJXQ2tQZ1RfVzVXUk9jZjVpemliQVcyaTBrUEtZaDBlcXlrbnY5VjhDVTJGMDZhcXlKQ09CVUc1ak9CVkJOOS0wLUZWN1pkLVJqUEk2ZktJQ1JBTDd2bzdpMm9rMXFzYmVpTWdfN1d5cUsxbFB0cmctV2NvZTFPb2J0VjRXbFVVVnY4?oc=5",
+   "source": "BFM",
+   "ts": 1794222215,
+   "theme": "fisc"
+  },
+  {
+   "title": "Location meublée : qui échappe finalement à la facturation électronique et qui est concerné ?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTlVRVFrVmZJdlRXZUZJMlJZSlo5Qy15MG9zWVZ5cTBnazJ3dzB4dzlpa2p1d25UNkd1ajk2a1dCdFotWVFEU3d3MC16RzFqTTZiT1BROXhVd1lGblkzOF9NcTNYTkZsdWM0bUY3NlZFS0tyYzZUM25GNTJGVnVjblNmR0p4WVRseURWVkNGeWNXRzRtbDR0UGZPQ0pIMFJaS0hYSWhtdFdveEE?oc=5",
+   "source": "Yahoo Finance France",
+   "ts": 1794222000,
+   "theme": "fact"
+  },
   {
    "title": "Prix de transfert sans comparables : une remise systématique de 35 % suffit à prouver le transfert de bénéfices",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjNJeVNncFY0MFRua1V2OEk4TXB1eTIyRzBBcEZqbDM2WWJCdHU5X3lHOWxLTm9UN0MtaDJOT0Z6RHR1UXQzMlRuQi1EZG4tNGlwZHYtT1FMLWV3dTJJczFvRm05aEVkYS1ubHJScTFpQzhfb2xuOE4zdzNOYVBzRV92U3RmSXZLdjExZ0lOSzFST1RFSS04M0FvZk81UWhXSkJ2MVZ3?oc=5",
@@ -1099,20 +1113,6 @@
    "source": "La Presse de Tunisie",
    "ts": 1793714735,
    "theme": "fact"
-  },
-  {
-   "title": "TVA sur les immeubles en stock : précisions concernant la",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1lsNVN6bFM2blVqZUN4VmVnbGNSc09MTmEwNXFfYjY3YTFwdk9KdFlXZ3FnOG4xNThpYUk1aksteUc3RW5jWDZyNmlBei1JUDRuU0hUckFOcERXNktWYjlxNkVZbXYwdUsyckFiYVNnWmt5eGtZTTZzaXVqbmlrbThLc1ZEOTBHR2hwTTEzSUlNbVZiMG4tZHJQSlNRVW1tZ0Z3MnFXdVA?oc=5",
-   "source": "Fiscalonline",
-   "ts": 1793714400,
-   "theme": "fisc"
-  },
-  {
-   "title": "BCG dans le viseur du fisc britannique sur la rémunération de ses associés",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm05eEpyZUJiS2hVazZOb3kzMmxpN2VHdTZVa1hLUXJVZ0FyVUJsWGkzSlNkTHNYRW0tVW50VUdVRlY5ZXo5S0xKNXVJZ1R5ZFdySnB3RWtOYzJrTXcxTDhsaWZlNXh2Sl90NzNEcFV5REl3Zl90czZ2TU5hd0ZzUG8tNXgzVVl2bE5ZUDRaYTFFWnc4VU4tdDgzVWg3VzctN01UWVEtMzBqNjRf?oc=5",
-   "source": "Consultor",
-   "ts": 1793714400,
-   "theme": "fisc"
   }
  ]
 }
