@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T23:45:33+00:00",
- "last_success": "2026-11-08T23:45:33+00:00",
+ "updated": "2026-11-09T01:20:43+00:00",
+ "last_success": "2026-11-09T01:20:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 72
+   "count": 71
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "query": "TVA entreprises réforme",
@@ -55,15 +55,22 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
+   "source": "Boursorama",
+   "ts": 1794180840,
+   "theme": "fact"
+  },
   {
    "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
@@ -91,13 +98,6 @@
    "source": "Kohen Avocats",
    "ts": 1794153060,
    "theme": "fisc"
-  },
-  {
-   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
-   "source": "Boursorama",
-   "ts": 1794149100,
-   "theme": "fact"
   },
   {
    "title": "Dette intérieure : 480 milliards de FCFA prévus en 2027 pour apurer les arriérés dus aux entreprises",
@@ -573,6 +573,13 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWFxNU5sbGt4RVppZXhQeDFPZW9PeGVVX2pKQUh4eVg4Q2g1dDJvZXctY2xuODIxZXBDNWdCVkVMM3YxTXZDd1ZGTy1ZLTNVbjUxWnN4b3RPdzVPOG1tQTNoZGhudFlHTkxwUXpnLWZmakxiVEhwdEpYVjRmaHJzV2pZMmw1Y1RLTHZwWU9nb1k5ZXh1dGhSdW4xM1pRWV9FQjAtc05WWXJ0S051c2NKcjRwMzB6S0xEWkE?oc=5",
    "source": "LégiFiscal",
    "ts": 1793867400,
+   "theme": "fisc"
+  },
+  {
+   "title": "Budget : que prévoit le projet de loi de finances (PLF) pour 2027 ?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlo2bFFoV05FQWFaaFpndG5fcy16SXlPU2tFaXZRSW9FOFA3SU8taVF6aW5Fc1ltVUZBdFRaYmxnTzRqajRGaEJLQUNRcEF2MDFtV0dpU281OFd1clQ2clhGRFRZVVJrWWU4aXVQS0FJbzdXRy1oWkFlRVVCNVNSYVBNbUNscllDeU5RVVZrTXVRQTZoR0d2Z1VnQ3Y3TTdDOVE?oc=5",
+   "source": "Juritravail",
+   "ts": 1793865600,
    "theme": "fisc"
   },
   {
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzdHc0l6RXpBSXJ2NXhldVIwX0NBejI4Nm45OUdTVV9kenlOSzhGTzRUOV8xVDFBVmZqX21SVU9pb2MwdHV3N1pnbHhmTlpOSTVZQXQxS25LaGFyRERrZEpORzZSRW40NW80UTg3ZXhTT1ZnZFNDYjRHM3Z6MEFvZUZiVG9hZEVQSUhIc2toOF96MmhCZTZ6RFdlb3NDaDlaZUNJ?oc=5",
    "source": "Contribuables Associés",
    "ts": 1793700719,
-   "theme": "fisc"
-  },
-  {
-   "title": "La réduction d'impôt Madelin pour les souscriptions au capital de jeunes entreprises innovantes est prolongée jusqu'en 2028",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQU0RKRGIxbklYV0Rxdm5ZZWxrRkpaSGdVOWs0NnRfMjRuLWpob3lhSXhtTU5aSkhtUElJR0pVODN0TG0tcE05bTFKaHVNRmwxeWE5V0VPWC1scC1FR2lFTEJlZHFJWXowaFlXTkFadXh5SnpUa19BNGx4MlBUNFdUQl96SFowTUh0SXlleGJoZW9yS241cjNsVlpPTGtlSnhORGJPVkoxamJ2M0EzWm5aZDEzZ2d1bFFoa0JpMzJWOHlLSzBUamw1VXVnY2tCeUJCbUJVMTk4Q05wWTFOeEtMdGc1ZVhoNzhTNzllWjAwZmRZUkdIWDVXOVZrQUdjYW9l?oc=5",
-   "source": "Les Echos",
-   "ts": 1793696452,
    "theme": "fisc"
   }
  ]
