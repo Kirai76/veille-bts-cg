@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T13:25:32+00:00",
- "last_success": "2026-11-09T13:25:32+00:00",
+ "updated": "2026-11-09T15:05:32+00:00",
+ "last_success": "2026-11-09T15:05:32+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 37
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Cabinets d'expertise comptable : 2027, l'année charnière ?",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNkc3YnRtRHQzUXRTTTBDMmxUREVjNHFvSlVVX2tscW43X0ktRUlBMVBoSHpBWjJzanZHTS04RFRCRnQxdVVOQzVXTjQxTXpDVE1sRHB0NFJUTVlCQm1JNUtaTm85a3MxcVpub09nQ0hKek0?oc=5",
+   "source": "Compta Online",
+   "ts": 1794234705,
+   "theme": "compta"
+  },
+  {
+   "title": "Exercice illégal de l'expertise comptable : un phénomène qui s'étend",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VWVEaGprS2Yza181bDdkeUxKeXJrbzZoUW5JVW9XbFR0TDg4STA0emt4SHFvR082cFdVdWFoVWduUWxsT2xkMjd2OGk4UVlLX0tXWG42SHBSbExJRXI2QU00VkVGN2tDUGlmZmNZM05nTVNmWjBJeUpJcDcwUQ?oc=5",
+   "source": "Compta Online",
+   "ts": 1794234527,
+   "theme": "compta"
+  },
   {
    "title": "Fiscalité 2027 : les dirigeants inquiets mais pragmatiques",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1c2bkZzbENZMU42TllMdlozLTVBSHVqTUZqRG83ZE11WGFGX3B1aTROS25tSk9ycVFJNjFXWEI5VEVCU0xqT0F2cG5TTkdkZFVWZWJYQkt5UWZWMXVuX3Jxd1dtUGJVQ1ZyY1VfWmdnd0RmbFFWNmpySTZoVnFNWA?oc=5",
@@ -114,6 +128,13 @@
    "theme": "fisc"
   },
   {
+   "title": "« Choc fiscal » : les impôts qui ont le plus augmenté depuis 2017, et ceux qui ont baissé",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV3ZFc1k3aDJOdExQem9YcndUY0VoOHlKRGF2bFExUXdpUmhxTU1YTEtfVmloUlROMkp2UEpFSV8xeG56LTVOTFlyVVhreTBhajlFLWt0RHlfYmdob2t6bmlCU3B0WXZJbU51VVFZVXRkYk5ydGU1Q2w2Y2tBZnVleUVrUzZweElYN1R5QjZ1UHQyX0FDQVgyU1cwUEdxQkFReHZaeDBIRkxOZGw3U1MwN3BMWXVoZTk5ckpGdDdUcWtZLVJsU0J6N2h2bnF1UHRxOFEtTThkTnBJRVhlWDNhRDkzSQ?oc=5",
+   "source": "La Tribune",
+   "ts": 1794214729,
+   "theme": "fisc"
+  },
+  {
    "title": "Sénégal : la bataille du budget 2027 fait planer une incertitude sur les paiements aux entreprises",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajd0cU16OFluYkE5VlhzV0Z0ZjEzcjZnSVhRU3BzQ1lyQ1A4RHNWMEFTMzQtX3ZuNzhZcUFvUWMtanZLLXhuYlo0aGJkcU9PMGtaVjRZcmozaG5yTmZWY0pueUJ6Y0dqaTBPVGdTaVZTbGhfc1AtVDR0TjRzdEJuVG9RYUZ2OVFRZWZQQ0daQm15Y0pwaXBiSjNjTngzTjE3bkZybkpFWll6dVd4b1ZDcGd0dC11X3lCbXExXzBsZU5wdS1tVGRkRjVuemN6cjBoRTJSZzZfclNfLThMNnlaU3JYNDBpTENCN2tCQw?oc=5",
    "source": "AGENCE ECOFIN",
@@ -124,7 +145,7 @@
    "title": "Facture électronique certifiée: plus de 7 milliards FCFA recouvrés en trois mois",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFZ0V2xDdmxWS3N5WDBwT2tlcHd4U3d5RFVOTHJSWjR6LXRPUjRWbV9Ta3U5dDhWa0dBcDd2T1dkcFc2bVlpS05WRGdvSGZmd0xqWElXcjhoV1JaeHd5eVgza3c2bE1NRWpBT3VjcTJXcDdZZjdxNk00Q1llMlp4RmhSbVFzLUVXam8ybHpucm1jU25sYnhjTDRQalJFUWVaMUZYVDZQUFRCWmhXZGtuMS1mM2hwZC1KZFBWR2hB?oc=5",
    "source": "L'economiste du faso",
-   "ts": 1794211431,
+   "ts": 1794211487,
    "theme": "fact"
   },
   {
@@ -196,6 +217,13 @@
    "source": "Compta Online",
    "ts": 1794174434,
    "theme": "compta"
+  },
+  {
+   "title": "Apport-cession à sa holding : dans quel délai réinvestir et comment contester le redressement (2026)",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd29kQkVmT0I2N3pORHdMbDBZeXdueFlEdW5Nei1Db044UGVta2VJUjNLQ3E4a1RwMzlqcDU2bXVqNDFDcHVGV3hLLXMtd3Z0QkUybHROcVZMdEhlTDZJa1g3dlhqa2ROZEVfa1JLbU5PYWNyWG5LNWhTUDdXYTVHQkdITjRkRVRoRTNxYnlxRkR3TXV3Ql9nUTZwM3ROcWJjRDZhV3BR?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1794171840,
+   "theme": "fisc"
   },
   {
    "title": "Les réductions d'impôts soutiennent les entreprises familiales et les petites entreprises.",
@@ -392,6 +420,13 @@
    "source": "Option Finance",
    "ts": 1793978609,
    "theme": "fact"
+  },
+  {
+   "title": "Apprentissage : profitez des aides au recrutement avant la fin de l’année",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2oyai1mdnNibUY4SmVpdFVhX3YyY3VEYmV2QU5ZWlpoczViMF9ZREFGUkNSM3Q4ZllmM0JNY3JjUE90Q213M0dPeWhXb0ZRTTZaLXNSMzN3X0FNQXB1dDZkX1RmakVWRklMVWZ1Yldod2Y3N1FfOHJjcGRnaHlnMlFLZVhuTFBvZFh3STJVX0dXRlFUZnVZcWozRjM2Uncy?oc=5",
+   "source": "Drieets",
+   "ts": 1793974646,
+   "theme": "alt"
   },
   {
    "title": "Facture électronique : les auto-entrepreneurs qui ont fait ce choix sont ravis",
@@ -1077,41 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakF4U0YwVk1SbzhRdWo1Q0E5RWpUbHczY1ZmUHo0bGJSY01FWlJUUnlvcHB1di1UMlFjUWxlRlhhazl1cjdTN1FaRngwZkFQY213b25rR1JZLUVFV0xsN19xeTlIT1BpRVlWOTJVNnhxenlQTnlkWl9OLXZIdlRueGNDRkVETGJodkxEQndHYUZ6RE9HWXBxVG0wX3JJbGxQcHZMWVBzRnNadXNxY1lfM0gtcw?oc=5",
    "source": "Presse Agence",
    "ts": 1793736000,
-   "theme": "fact"
-  },
-  {
-   "title": "Ministère des Finances : 1,8 million de factures reçues via la plateforme de facturation électronique, dont près de 37 000 réglées",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbDFkZmswSWQ5aGZTLUUtSmFZSm5XeTBINWlXM3RLVk1fNmM2TDFmcFp4anMyQU56UUdqR3VPMkdQZk1kT3NXclpaaDNUZzNZRTVhSFotN3ZBTGZrZHV2X09sUC04ZWtMbjQ0aU11Wmc2RUROV1YwZnBwbUR4ckdETlpQMm1nSDJuUzZyTWtmSS1ZYVNERnVhX0NEVFNEcnQxVktfSEU5QS1aUF84Mmw1NWJ3M0NqbktIU1hPTkRaY2xvNE5sMHVrLTRjaXFsZ1B4ZGE1cVZsX2dhdUtZeWRoclpHU01iNml2RFZZNXdQbjY5UQ?oc=5",
-   "source": "Tunisie Numerique",
-   "ts": 1793734200,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : « Les commerçants qui ne sont pas prêts risquent de perdre des clients",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlZ2cjBPZGo1QWdnOTFCYmotVkJYNXA1NmpIcnNCdExJWU1GRzQzLTM0RnRRUWtqMXdiZWVBQ2cxRlZKd0ZXc2JzVEtkMWFnNzVESWJhaWVxUmM5ZUFqeXlRcEpkSzd2QVBGcUdtVjdLa3lUdkI3MC1BQjV1QXI5alZoRUNYYjlSNzlJcUVuVy1UTS1DaU5sbllMVGQzTU1zamxhQWNMYkh1OUZaWUxpUFFud3p1ZHhScVE?oc=5",
-   "source": "L'echommerces",
-   "ts": 1793728897,
-   "theme": "fact"
-  },
-  {
-   "title": "Dix Opco demandent de revoir le périmètre de la plateforme nationale de l'apprentissage prévue par le PLF",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVmROUzhxcmlzTXA5bzR4ckhScUV4cjhDWWNFcEhHVUR6LWZydU81YWZxRXBmazNUSVQ4b2RPZHB6OWRBeDQzc2JhZHJxdw?oc=5",
-   "source": "AEF info",
-   "ts": 1793727290,
-   "theme": "alt"
-  },
-  {
-   "title": "PLF 2027: pourquoi le Maroc revoit sa fiscalité et durcit les règles pour les entreprises ?",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjExYkhmT0NmZDJ4OFJWWFMyLTUxRnVoek9VbFk3S2dhMlFGYmVseFNrTjFHdkNwZzY3QTFIcGJGczBJQXo5RDZJNWZHYXprUkRHc3VOZ0ZSNjRJeDZhTHFmOTRnSGtzelQ0T3NacXRtcUFWTEJXemI4U3ZqczVHVUZMN3AtUVp0UEVlMzI2WlMtOWx6bEotVUFQQUpiN0RyWmthaVBDNFdxMEswaE1hblpEUUpEUTFOWGkwNnlR?oc=5",
-   "source": "Challenge.ma",
-   "ts": 1793727000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Compte fiscal unique : Lancement reporté à 2027, seulement 37.000 factures électroniques réglées",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmRXaXd2OGNxQUtSRkZNeWd0QU5sZHVHREN1WFhHRjBidTU3Sm9hcmM5cGROcVVrdi1US3ozbThwQkYyYXFyYWlEUk9hYnMwYmxrcWdsSDF0Wk1NM0VPSHZ6cUQ0ZGIyTWZIbzdJdHFScU5GNzRVN1g3VXAyNXFlbXNiSkloU0s1THVxQjl0SkgtQ2dQMEZYY3ljdnhpVXB6aFJZUXZweGRRWWczaG5IQnF1YzZ0UDdsNmtFYk9kbXRIU1pranhSQmRKLVFpcHVKV0VBYm5TRDFvWXRD?oc=5",
-   "source": "webdo",
-   "ts": 1793726880,
    "theme": "fact"
   }
  ]
