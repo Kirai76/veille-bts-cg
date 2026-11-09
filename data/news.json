@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T17:21:16+00:00",
- "last_success": "2026-11-09T17:21:16+00:00",
+ "updated": "2026-11-09T19:05:44+00:00",
+ "last_success": "2026-11-09T19:05:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 39
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -65,11 +65,32 @@
  ],
  "items": [
   {
+   "title": "Sociétés de musiques en péril . Pour le président du Giron des musiques de la Sarine, «cet impôt est injuste pour nos ensembles",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGhKZUdOczBHUmw4cmN6Mmlab2dyYm16aFFXN1BQdUZHdEJqWFdENjhrVHc5OUNLdEpCbWt6RFluYUxvNnBkM3lua0V1bHBTV1M5Nm1nendxQkY2TE80WVlyTnVMd1pIdm9ZeWpka2FNR1ZCc2QxUU4tRFZRR1lyZ0dVaG1RWFpXb1l0VDR3RjVEY3RXcFVQSFNPeFRTQQ?oc=5",
+   "source": "La Liberté",
+   "ts": 1794250557,
+   "theme": "fisc"
+  },
+  {
+   "title": "Chalon-sur-Saône. André le Groupe : 80 ans d’expertise comptable",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0MxSng5Z2VPMEJ0TGVjZVpRNXRyX1Y0RGptLUNtbk9OYzNNanhMeHB0ZmoxaUo0YjVpemJrRk5KN2tONDZ5WkRBMmoxZlZaak9QTFZsUXdsejZPSzk0cDVOOGlQV0dYQ1ZaT1FNQklVejZDeUFUQXRXVGVBajdSNVNZTDZWOUR5WTdiRFk3cw?oc=5",
+   "source": "Le JSL",
+   "ts": 1794247246,
+   "theme": "compta"
+  },
+  {
    "title": "Facturation électronique : la suspension votée pour les PME n’est pas entrée en vigueur",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzZkRUhGa3k4ZE5VVU5TMGVjWk9sa19kcWVESzJ6RF9MVHM4ZGgzUm4yVU1EMTJfOHM1cXNSYWlXbmVJdGVsd1d3TlJ4RXRMS055MzRWVFZaZ1lNcjZVdGZsb3pZZnZtbkpsUkxKWG5JUFV3YWRnX29EUkpseXZRSmp5TkhUMG9ZY2tKNVhPSy1BeFhUaUZHUVp3?oc=5",
    "source": "https://www.leconseilpatrimoine.fr/",
    "ts": 1794243786,
    "theme": "fact"
+  },
+  {
+   "title": "Budget 2027 : 115 millions de dinars pour l’emploi et les projets, étudiants, stagiaires et PME concernés (Vidéo)",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2lUTTFBX09GTkVSeEUxNi1KNEk3ZGgwR2hDdUlvdFI2WVl1TWFEbnBPdFIwYnVTaE5NZm8wWnBRb2tHcVNQUTlqUWI2a0xiS2Vqd3NmQzQ2bWp1NE5HVGZkSHJMUU02a3pCQWZBMmZnZkFRNUxBeUpLaWgtblE4aUNZZ1N4N0lzMGxrZUxuc1FjOEtnS3NTcVdCNy1RMTk3NXZrVlRRbjJ2TmlFOVFpM2dkckIyLXNtaWgtdHBVb1dJMkRXYUdVRGpqcUtQVkcydTFDNUxGMA?oc=5",
+   "source": "Tunisie Numerique",
+   "ts": 1794242700,
+   "theme": "fisc"
   },
   {
    "title": "Sociétés de musiques en péril. «Cet impôt est injuste pour nos ensembles»",
@@ -109,8 +130,22 @@
   {
    "title": "Fiscalité 2027 : les dirigeants inquiets mais pragmatiques",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1c2bkZzbENZMU42TllMdlozLTVBSHVqTUZqRG83ZE11WGFGX3B1aTROS25tSk9ycVFJNjFXWEI5VEVCU0xqT0F2cG5TTkdkZFVWZWJYQkt5UWZWMXVuX3Jxd1dtUGJVQ1ZyY1VfWmdnd0RmbFFWNmpySTZoVnFNWA?oc=5",
-   "source": "Economie Matin",
+   "source": "Economiematin",
    "ts": 1794230491,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027: un taux d’IS de 40% pour les grands opérateurs des hydrocarbures",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHgtQ1pobHgxckdKX2ZaTVNtVlNEUXNnRFZTVkI4LWZwOUtyc2Y4OEdFN05VVFZNRmI3WFRWQ196aHlwQUl2VmxEb0pQYjNFUV9zb3FhelJRZ195WnhEQ2xveUFkcWlydFdvREhFOWNkZ1A1a1JOTVVablNiUE9tbXlxeDhXN2h6SWRfaHFIcV9TZDEycDQ3RV9VWXZxZUozYkE?oc=5",
+   "source": "LesEco.ma",
+   "ts": 1794227886,
+   "theme": "fisc"
+  },
+  {
+   "title": "Son plafond a été récemment relevé de 600 à 1.000 euros: le ministre de l'Economie Roland Lescure annonce le prolongement de la prime carburant en 2027",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOelFhMnd4R2xHVExtUlpKN2tHSDBzNEgxVF9fTDgxRm9iRktIVDZlSlFGeFFxdTJVTVdOTy15VkNJQS10SmNtZUxpV2hkdzRvZ0xySW8tOUYyODNqeGJOT2tuUktFVlBvTXV6RmdfamlRaVpNQXFrbjFMMnc5ZDFXQ3EwTEV1dXgxZ09qSTRQaE1sMnhPYjlSdmZPdk0yNlFKQThhMDMxQktYT2dwOTlTR1dvb3k2aHV2MlB1c3l6bWhhVXhJZTVjdXoyTWtSc0hYWElHUHUwZFNFZFdFYlJPcEpRaFdNdklYcllhTG12czdpZGpzcmFFZTdvXzRVcm5hUEFZa2RVeGVjRmlTcVc1YUszTmdHNUg3V2pEcTZVVU80ZWRXM1BDRjdPVllLN0hRLWdOR0tKU2dhRF9LWGgw?oc=5",
+   "source": "BFM",
+   "ts": 1794226328,
    "theme": "fisc"
   },
   {
@@ -1078,41 +1113,6 @@
    "source": "https://horticulture-abadie-pyrenees.com/",
    "ts": 1793772796,
    "theme": "alt"
-  },
-  {
-   "title": "« Cette proposition de taxation est assez délirante » : la trésorerie des holdings à nouveau dans le viseur",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX3BkcUFPbHF1NzlQTzBrN2owMjVkOWJzcTVRVWQzRTZyMUl0SnFZejRBcm51V18tNEpfWl85aXdWbS10SUJGY0Q4RFhJRVdtdVlERG1HdmVuTlpRLVRYajZUQ1JpcEN1WnQtaElwcDBhNkYyVmEtS0t6TVFiSDBLT0tQZzN6Tl8tbTVzYnhrdTJIQlVuR1d1ZFBFNGxEbXNsZEtJN0UyZVlpV3pSNktIbGJCVFVzZWFTcjVfUmVfZ3ByRGZ1bFBGdFh3S2NYLWstMk45WlczTDJ3d21UNWxxSUxNTnZqdw?oc=5",
-   "source": "Les Echos",
-   "ts": 1793771408,
-   "theme": "fisc"
-  },
-  {
-   "title": "Mécanisme du report en arrière du déficit",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjR4SDJoeUNBWFNwZ2wxcHhyVERhVk1WY3pkSEVwN1ZHRVdiLUhodW1GaUZRc1Bxb1VBWklNZ3JpYk9adWViR1VfRnhPZE1qS3VVZzhULTR1NTA5ZHppbFJUeHJmeXVibkk5eFBJeTVFa2NzNEZzOHh5ajJHTUpuT3pWQ1JaVDdYRDJNcjRkQngwS0NDM0hR?oc=5",
-   "source": "Revue Fiduciaire",
-   "ts": 1793768400,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : devant l’impasse des débats, Sébastien Lecornu explore la voie des ordonnances",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbEd6Y0MydGYwQmVsSDR6aEZIYWNCdkFoQllwcjVZNXpiTE1wdWJsbUtkNU9fTE4xcm4yeng5a0hHMURoYTdCaHV6Tkk3eHpmQ3Z5U19VR1Vick5ubTgxUlhDbzVxT0llb2xOYXg3M2s2dFZ5VWtsNTBZSmwwcTl2dkxXY2xnNFA5ekVnbGY3Y25GY1pJc2FVNWlmcHMtTENRZnlwOTg3N2QzX0M3aHFjRl9DbFp4M1lUQ3lTZVhuVEhBekhNNlotZkwySVdHUlZELTZnZUlaRG5WLUtSVnBGZzBlWGdlVHFhNnJIUHdKdURxMkk?oc=5",
-   "source": "Le Monde.fr",
-   "ts": 1793766601,
-   "theme": "fisc"
-  },
-  {
-   "title": "[VIDEO] Facturation électronique : quels premiers enseignements pour les experts-comptables ?",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS2l1VTEtSlFmOFBoNTVYN3lVZUtnSWYzUmlxWm9qNk9Cc2xnUkpDMzFQeERtckwzRWxldkczbUMwU0Rtenp4ZGh6SFNNaDFwTS1NMW1GQ2RhWlVnQTlENnoyZFpCNVY3dHpkVDgzLWxNV2NlQ0l3Q0JscTRmWlprSVhvUzRXdlJlUzZMekx5OGlCVXJZNlhSbVNHRHhCcXRINWxzaVJlUjBjOGlMbFUtdE1WWmFzdWNqYXBGUm9pc1FHRU1BVmZObGlOR0tyWWwxaDdhTU9R?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1793764720,
-   "theme": "fact"
-  },
-  {
-   "title": "Lignes directrices pour la réduction de l'impôt sur le revenu des personnes physiques et des entreprises dont le chiffre d'affaires est inférieur à 10 milliards de VND.",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmtPTEVjZGZTSU1kZjZoeHhZOUpGR3FHU3NvQjVyMkJ3dWhYNmNnVGd2YnBqS3pYblZsdFpYU2wxLTZMVWtwUm1zdEdhVWNPZ01LeC1LbTJBNHBhMUNoRVR2b003blJSakpTY0xOSzN4eFRrYVNCakhVRUhNUldTZzh1YXZQREVEMGhiSnJ1SGppM21qQU5NUGdkRDFhV1hzSU51Um9pYWt4bHQ2UF9XalVBMlNSUUE?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793762019,
-   "theme": "fisc"
   }
  ]
 }
