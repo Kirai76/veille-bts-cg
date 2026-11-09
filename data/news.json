@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T06:25:50+00:00",
- "last_success": "2026-11-09T06:25:50+00:00",
+ "updated": "2026-11-09T08:35:57+00:00",
+ "last_success": "2026-11-09T08:35:57+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 74
+   "count": 72
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,38 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 25
   }
  ],
  "items": [
+  {
+   "title": "Sénégal : la bataille du budget 2027 fait planer une incertitude sur les paiements aux entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajd0cU16OFluYkE5VlhzV0Z0ZjEzcjZnSVhRU3BzQ1lyQ1A4RHNWMEFTMzQtX3ZuNzhZcUFvUWMtanZLLXhuYlo0aGJkcU9PMGtaVjRZcmozaG5yTmZWY0pueUJ6Y0dqaTBPVGdTaVZTbGhfc1AtVDR0TjRzdEJuVG9RYUZ2OVFRZWZQQ0daQm15Y0pwaXBiSjNjTngzTjE3bkZybkpFWll6dVd4b1ZDcGd0dC11X3lCbXExXzBsZU5wdS1tVGRkRjVuemN6cjBoRTJSZzZfclNfLThMNnlaU3JYNDBpTENCN2tCQw?oc=5",
+   "source": "AGENCE ECOFIN",
+   "ts": 1794211740,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facture électronique certifiée: plus de 7 milliards FCFA recouvrés en trois mois",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFZ0V2xDdmxWS3N5WDBwT2tlcHd4U3d5RFVOTHJSWjR6LXRPUjRWbV9Ta3U5dDhWa0dBcDd2T1dkcFc2bVlpS05WRGdvSGZmd0xqWElXcjhoV1JaeHd5eVgza3c2bE1NRWpBT3VjcTJXcDdZZjdxNk00Q1llMlp4RmhSbVFzLUVXam8ybHpucm1jU25sYnhjTDRQalJFUWVaMUZYVDZQUFRCWmhXZGtuMS1mM2hwZC1KZFBWR2hB?oc=5",
+   "source": "L'economiste du faso",
+   "ts": 1794211431,
+   "theme": "fact"
+  },
+  {
+   "title": "Les actions Winamp Group restent éligibles au PEA-PME",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94SnJCbEd2Mkh3WTZQZVBROEktS21yWUpsZGJNaWVWNlFSRGx5MC00OHRGanBEazF0anRpT2tKYWxDMUxqSHFzZnR3aVQtMVdqWWx0TWo2cEZyWk96cUNSWEdNZDhpVWM?oc=5",
+   "source": "Business Wire",
+   "ts": 1794209400,
+   "theme": "fisc"
+  },
+  {
+   "title": "Réduire les coûts pour l'économie.",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ob0JUb3lRMkRjN1hpQWQ2cmlBWW5vT1BPdjR0Q1FWTkdZSl9DMjI4ZHM1S0hyZGFIcW02WlNhT2hMY25KNUFIUVB3NEo0ZHFyemxuUDdSdFZKOG1PQnROSXgtV0c?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1794209303,
+   "theme": "fisc"
+  },
   {
    "title": "Aubigny-sur-Nère : Top Garage C2A reçoit une aide de 20.000 euros pour soutenir l'économie locale",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnkzNGpKQmVIV25IQkl5RjhrV3lNdnAwbHo5b2lXbkpCTW9YU3FPYW9qSm1tM2N0VTlrLUdXZnluRkJSM0lycEVMWk1helZOblhvTkFRSHctU2haVEM1Y3RQdlM4YTlCYnFxa09qMTVlNUtLWF9qTzdPQzFGcjFtNVd2LWl0X3lDRWp2TzR4eUJ2TVlScUpBUEFUZUg2OEdpYmFaeDM0VFNLcUpCa3M4TVVibFlEWWRXaUh6ZnVaTlBzSWJ0cnhQQlc1XzBaT05HekJHNHl6MHozRUxwTGJYYkxuRUU4a2ctZkhoQUtldmJtYkp1?oc=5",
@@ -86,6 +114,20 @@
    "theme": "fact"
   },
   {
+   "title": "Nantes : Fiche-Paie.net racheté par Indy, ce qui change pour les clients et les équipes",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZks0ZFZXT0l6N21ZZ3VFOEEwdkJGQTRUZ3BBWUFQei1Ya08xbTlraWp2b0UyTVd3RUtENVpaekJxbzd2Ty13dEpBZXJBOVBneUZraFZlMjBpU0xBMVJ6ZF94X1d4U2F5RTRySW56eWJYU19GaGY4bE9YUVpnU0VhbFBXNWR3aWQ3VGdFMzdvZmxza05yNi12UFAxVQ?oc=5",
+   "source": "https://infos-media-nantes.fr/",
+   "ts": 1794187126,
+   "theme": "soc"
+  },
+  {
+   "title": "Financement de la 13e rente: la FER Genève dit oui",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2tEXzhPWktjalNWMjh5ZkdHVzhkUWs1eGtqaGZRMmhCZl8yS3dSbGhFYmdSbmtjV0NOTDRXWXJxczRhUWgwNGpudXRMazZpdjhNdFlUTWRtdE9oSk9HSmVEUmMxY2R2OHlEOTc2T0lyM1doVWlVc3ZFdWU5TDZmLV93NzFPRW5mMTFDcEk5OXJPNEpVbkF2amhwSWU?oc=5",
+   "source": "www.entrepriseromande.ch",
+   "ts": 1794186000,
+   "theme": "fisc"
+  },
+  {
    "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
    "source": "Boursorama",
@@ -98,13 +140,6 @@
    "source": "Compta Online",
    "ts": 1794174434,
    "theme": "compta"
-  },
-  {
-   "title": "Nantes : Fiche-Paie.net racheté par Indy, ce qui change pour les clients et les équipes",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZks0ZFZXT0l6N21ZZ3VFOEEwdkJGQTRUZ3BBWUFQei1Ya08xbTlraWp2b0UyTVd3RUtENVpaekJxbzd2Ty13dEpBZXJBOVBneUZraFZlMjBpU0xBMVJ6ZF94X1d4U2F5RTRySW56eWJYU19GaGY4bE9YUVpnU0VhbFBXNWR3aWQ3VGdFMzdvZmxza05yNi12UFAxVQ?oc=5",
-   "source": "infos-media-nantes.fr",
-   "ts": 1794172625,
-   "theme": "soc"
   },
   {
    "title": "Les réductions d'impôts soutiennent les entreprises familiales et les petites entreprises.",
@@ -1077,41 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxObUtSMUlQUndxWTNHRmhBd1ZsUUlYRmFpaE1YLUZfcE42Y0QyazQxYU80eV9HSEpRSlFnNVk2WUtrc2ZMVFNkMGQyMVV5RmhxR20yd2llQ3V2OVdjSWpIaDRTdlV4V1RETHhObHk3M2JHZklEYWQxam5aNGt0NUQ2MDFMVlhrOEhpclVmRENQRXdkSDdRQTlKcktJbDNhZ0pxdmd2UWdtZjNpN3hzTFRwMV82TlpEcHRZWkk5djF6U0hvck52Rmd2ZXdKZ3RKLWxDRV96c3hHQUxtbG5wU2xKc0s1U1VpekpnMXVJUjRWaHRvZldMVDlJY2x2RWZ1RGwtMkt1cWNWdTRDemFRWmlPeVYtTGlWeEpYUUNvUFBR?oc=5",
    "source": "Les Echos",
    "ts": 1793711111,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : 1,8 million reçues et 37 mille réglées",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlJPUW10MExWbVJ0MzJIWnUyOG1qd1NHMUpuc0tvMmxHLXY2OEpkSUVodmJpa2dqQUtNXzF5UEJaNC1ZSTBSc1FjZXFvYjBSWWo1ZS1wbE1ZUG5VVUJURndnMGY3Tk1uZFZIWEFjajVMSFJaVjZoaVh5ZnN4bUlLb0RqRjNKM1laRktXc2U5UXctcVJxeWQxSzltSzdFNlZhR09KZkFnX2s2WTNwOTdIREFoVFpNeTdHcVZQUERoTzZUNERJUlE?oc=5",
-   "source": "African Manager",
-   "ts": 1793709095,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : Près de 1,8 million de factures reçues et quelque 37 mille factures réglées",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlJPUW10MExWbVJ0MzJIWnUyOG1qd1NHMUpuc0tvMmxHLXY2OEpkSUVodmJpa2dqQUtNXzF5UEJaNC1ZSTBSc1FjZXFvYjBSWWo1ZS1wbE1ZUG5VVUJURndnMGY3Tk1uZFZIWEFjajVMSFJaVjZoaVh5ZnN4bUlLb0RqRjNKM1laRktXc2U5UXctcVJxeWQxSzltSzdFNlZhR09KZkFnX2s2WTNwOTdIREFoVFpNeTdHcVZQUERoTzZUNERJUlE?oc=5",
-   "source": "African Manager",
-   "ts": 1793709095,
-   "theme": "fact"
-  },
-  {
-   "title": "TGS France distingué parmi les meilleurs cabinets d'expertise comptable en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVdyMDRvN3BKZzZlbUo5OUtVRXhMWWItOFhnZVNtUDJURTJIT3RDN3I1VVVlMHBmMXUyQkNHblRUdHRQQnRmTVpsWTNydkxZSmdMZVBkSEh5WXVqQVRBV040NXdNWXZLejdxcXhQVElBX3o5T0t1VnRKTjJhTlZ6eDByMHFsdGdPRWlQWEJ3dF94OWRHbVV0U21HeFFkQ0RibUwwbWx5VVlTNUFFU202amx5and0Q0Vl?oc=5",
-   "source": "TGS France",
-   "ts": 1793707971,
-   "theme": "compta"
-  },
-  {
-   "title": "Facturation électronique en Tunisie : 1,8 million de factures",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOC1KSC1sVF9mMmpPV3hsU0tPNFRWb1VicmhGbTYyclU5RTYxMzFzRHJjcm0wOWdmRWRyVURJblFqOTRXX29mQ1pKYnJRa3RZSmc2UnJxdndFbnNKM1FYUDBYV2xLUGVvN1hqeEJJQ09YbTEtbHZwdTRQWndLX3NMdHFkOGJtTHYzbGR5cjVWbVhyRTRYeGd6bFNQYkQwVHNsT0VDT3VmU2rSAa4BQVVfeXFMUERHbUlGOXNXX29hVjZReW5POTZ0TUZTYnBvSXk5STlLLVlHOFVjOEFiWlZUbExRY2ZJZWJKR0tRQTdoRWNFcXhoRWVFdHdLd0x0Nm5xTmJKY1d3Y3JQOFkxLVpqNGtrTlVuOWVLVUVDd0NWX0RJc08waGJPSjN2WHVGMG5zYUpPRElxUDRBb182T2JjRWpOeVVPaFJicVZMVW05V1BpbXRWckI5dlZB?oc=5",
-   "source": "Nessma TV",
-   "ts": 1793704680,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture électronique : ce que les auto-entrepreneurs devront vraiment faire en septembre 2027",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGkwb19vc2t0a1Q5NjY3eExqRXVxOEpzTlVPRGtRQmY1enljd0YzNEN2SGR3VDRHWWJocjlSb29Gb3plNm1DQ0ljNUotZDRXRFFCWTVyN3ZZeFJSNXVrTFdZR1JaLV9jbjV3UmVlMnZ5b1pocHFDaFJkLXVPQVQ4OFdiSW1lYW1mZV91R2ZxWUtuNmIzMlAyRE1wNTRmTGJyUkFWYU1lOXh0RlVXeUtaamdHTjJMWEc3ZHNybWhka1BUcmFMcTJSRF9rY0VMazlrNDJV?oc=5",
-   "source": "JDN",
-   "ts": 1793704038,
    "theme": "fact"
   }
  ]
