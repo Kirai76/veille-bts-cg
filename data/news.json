@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T17:55:57+00:00",
- "last_success": "2026-11-10T17:55:57+00:00",
+ "updated": "2026-11-10T19:06:06+00:00",
+ "last_success": "2026-11-10T19:06:06+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "Ce paradoxe suisse complique les projets de réforme de la retraite",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDM5UGpkYms0d1VXSDFEZ0dDT3ZGaWNKQndIQWV0T0VraENOTUVOVHo2Q2JGYnAyTUt0UjZTYjBMZmhQQ2g2YmMxa2xQTExFSFBMN3lKRllqdDF0eTgxYXppNm9YV3FTYXp6VnZuRFZnd1dKTTdldjVsYmsyTldIUXhzakcyTVhEZEdUZDFQSGFPbHRPdDd5UkJGTXliZUFpRnQ2NzhaOExWckRQRjM0?oc=5",
+   "source": "Watson",
+   "ts": 1794332820,
+   "theme": "fisc"
+  },
   {
    "title": "Predilife relève son chiffre d’affaires semestriel 2026 et réduit sa perte nette",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjZJM1lYaWo4dGNCN0VLS0JCeV9PMVdrTExTXzVMMXVMYVR4ODlZNWYzOEstdElkYl9qUXRaTVRhcjhkUk81N3NuYk5PSkswQXY4aDM2RGNoR09ZVWJJb0xJQlNwcHN0Zno3NUNITnczN2wyLUo1UVFSVFRJT280SGh1enVEc1c4NllFYS1xWWFWZlhTTUpoNEFGSTBMYkpKNmNDUy1EYThfZWRmSXBJcDNEYVM1Y05ZV3RHaw?oc=5",
@@ -210,6 +217,13 @@
    "source": "HelloAsso",
    "ts": 1794254270,
    "theme": "fisc"
+  },
+  {
+   "title": "\"Nous sommes prêts à négocier un nouveau système de financement de la formation professionnelle\" (Christelle Toillon, CFE-CGC)",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM0FKVXZJX0thbzVJU2Jxa3hmSjFTelYwRmxiTUlJQmZTRF9HV2RtUEtCNUEtZ2VJUmNsYXdZZ2d1UWZqYWRHVkNJV1JqWVJYMWc2UG5CalRCRXg4c2JmUmFzRGZpVjRGSGFvazMzT05nQ2VlOHZlRVk2NW9OdTlpclktSF9UZ0pic1czRG52RHJFcmt0X3R1aWh4dzNyRm5Dc2N5cWFlRER3eWloam1aWEVhcjJkV3JmRGlLUkhHclM2d2ZsUDRtcEt5VDBZUlpISGt0MUhySEVhU2l4X3FOSFdfc2RZeTdVbWFYQ0xwWGg?oc=5",
+   "source": "AEF info",
+   "ts": 1794245460,
+   "theme": "alt"
   },
   {
    "title": "Facturation électronique : la suspension votée pour les PME n’est pas entrée en vigueur",
@@ -1099,20 +1113,6 @@
    "source": "Sud Ouest",
    "ts": 1793809800,
    "theme": "alt"
-  },
-  {
-   "title": "Presse: 247 millions de dirhams prévus en 2027, six années d’un soutien vital aux entreprises et aux journalistes",
-   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1LWG8zbE1XNTMwVGJnQXh2OFAxdjlfRnpjRmxNU19pajlmN1NlTFdCT0NDWWJWM3hJZV9IX1VlRkU?oc=5",
-   "source": "La Releve.ma",
-   "ts": 1793805327,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les quatre mentions à vérifier sur les factures en 2026",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmxwVHlaSWh2SHFkaExnUTJMbFNoUHk0cDJVTWUzbGtDOWhjd1BNTnRpdkZGRDFFOW8tUnNhQ0N6Wjh6SnNJdDB0WUR3Y1gzNXQzajI2ZGpldjNMdGJscVRWUEs1aS00eGxYaGhNMTVKZWo1RndDRUJobTlMX2pSdmR6aVYzUWhRZ1QtTV95d3BuRmdqcXdjcFZGVWs?oc=5",
-   "source": "Economie Matin",
-   "ts": 1793804476,
-   "theme": "fact"
   }
  ]
 }
