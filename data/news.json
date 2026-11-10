@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T15:57:50+00:00",
- "last_success": "2026-11-10T15:57:50+00:00",
+ "updated": "2026-11-10T17:01:58+00:00",
+ "last_success": "2026-11-10T17:01:58+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 70
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -69,6 +69,13 @@
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTlRXbWt4aGZOWFQ3bXlKdTZIQmppaGVLNTdwSWc1SHZLcXRLRE1DYUZZQ001Mjc1RFVqaUlSeGdIR21yd2RTam82XzMxWl9YcFlCOUVpTWFCOEdCR2Q4ajBJbDgyd1JEYzN3dFdOc0ZnelNSMFV1cV9MUkU2UlpFOXZMX0ZYZ3E5dWYzelhqbDYwWm11bF9VZjY0a3kyZlhDQVVrNmNodmJiWkhLQUNiVmNLNWxWenRFZ3c5Vk9MeHVpN1c1SXFJeUJDTnBMM0hVU1ZUOUJyQ0d5TUYwbUUzb3VQMUxMVHN5cUNaaU9OT29TSUpYdUs0bUoxTVdqVnhUekgzX0hCZTR4bjNHdE1mWTFxN0haSlVydlN6elFR?oc=5",
    "source": "L'Opinion",
    "ts": 1794325256,
+   "theme": "fisc"
+  },
+  {
+   "title": "Impôt à 40% : pourquoi les cimenteries et les télécoms sont-elles dans le viseur ?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREoxbWs2LWJmSjVHYXVDSmJOSHhCWHhjWE5RY1kyNGJ2QW94Z3ItbEs3U1FuX1ZqUWVvUmJLU0F2aHJreW1hVzJERlFLSy00bWJIbEVja0ppSVYxb256Y2V5SzFEQ0pYTzFsUFMxckxzVFlGMkhXbmlzRXhkVTBGMGpGT3JrMmRZVGxkWm5BaGtob0FUa1oyWldydkREVDNxcVB2R1FtZHlCUHBPM0M3cEZB?oc=5",
+   "source": "Lebrief",
+   "ts": 1794324360,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Le Figaro Etudiant",
    "ts": 1793803198,
    "theme": "alt"
-  },
-  {
-   "title": "Abdelkader Boukhriss: “L’export doit être considéré comme une priorité de politique économique à part entière”",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQem93YjFhLU15SDNRaXp3VkhmRzRJMFVKQWh0eHhIVXhLdUQyaDIyc1VCMndzeG9PSHJCNnA0Qm9GdFFMQlgxLVVCTm5YUFJBR0ZZOUxNRWFQRXREMV85bU1Pam1CUnpKRzZlM2xiLTlCLXRkN1JZWkhkX2VlMlMtRXZzZzRYMi1va21NUDVoTjNqZi0wWTBOWUl5Z25KUWNpWTJGUzZqc05sWS1sY3lFZWs4Nmp0MTVBd3FSYzk2OG9Mb1lLS0xwMW5wU0pXLXlqV3hIRg?oc=5",
-   "source": "LesEco.ma",
-   "ts": 1793801725,
-   "theme": "fisc"
   }
  ]
 }
