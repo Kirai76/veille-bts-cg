@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T14:25:18+00:00",
- "last_success": "2026-11-10T14:25:18+00:00",
+ "updated": "2026-11-10T15:57:50+00:00",
+ "last_success": "2026-11-10T15:57:50+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -65,6 +65,13 @@
  ],
  "items": [
   {
+   "title": "Impôt sur les sociétés : la majorité veut étendre le taux de 40 % aux cimentiers et aux opérateurs télécoms",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTlRXbWt4aGZOWFQ3bXlKdTZIQmppaGVLNTdwSWc1SHZLcXRLRE1DYUZZQ001Mjc1RFVqaUlSeGdIR21yd2RTam82XzMxWl9YcFlCOUVpTWFCOEdCR2Q4ajBJbDgyd1JEYzN3dFdOc0ZnelNSMFV1cV9MUkU2UlpFOXZMX0ZYZ3E5dWYzelhqbDYwWm11bF9VZjY0a3kyZlhDQVVrNmNodmJiWkhLQUNiVmNLNWxWenRFZ3c5Vk9MeHVpN1c1SXFJeUJDTnBMM0hVU1ZUOUJyQ0d5TUYwbUUzb3VQMUxMVHN5cUNaaU9OT29TSUpYdUs0bUoxTVdqVnhUekgzX0hCZTR4bjNHdE1mWTFxN0haSlVydlN6elFR?oc=5",
+   "source": "L'Opinion",
+   "ts": 1794325256,
+   "theme": "fisc"
+  },
+  {
    "title": "Contrôles fiscaux : une vague de vérifications cible certains Français depuis juin, vous pourriez être le prochain sur la liste",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzZDSnJQNUM1N2dJWkdsaG1yTHZ2OFFwTlRPYnFKVVZVaTV1SFFsNHRFRlVKWFRqVjcwZVgwYVZtankzZXRBOE1UdDdaeFVNbFdZeUxLb1ZZa2FJbDBqUjJ5TTRKdnhDSElyb3FEVVRub3RUeXRkbUZuTGVOemhJWl9XZHZMeFE2aGIzc0tlWUloQlhrZUE2a1BBcGtsbldHWEMzYXROTFhlV2pYZXBMNEFyb2lDYmVFX21CT2FwYXFTclJSVXhUNnVhSTlLRjR1WGJvRFJEMWk5NHloVnFiaFRzM2JDNUVfNk5mbU1pVWVkUE55?oc=5",
    "source": "NextPlz",
@@ -116,7 +123,7 @@
   {
    "title": "Ventes en ligne hors UE : les stocks en entrepôt entrent dans la réforme de la TVA",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVlvZU5adVAtcTUtdUg0OWdmTXJiSHNaZXA5SXV5bnhnMk94Ykg1OFNKcHJva3hHaGZHNUYwRWJoOEh2SHJ5NmUxTUdGSTdaYjZqYVBHZGV6bG1kY0ZLUHoyZlB5T2xLZWdfd0k2MGtaeDBzakdwb0ItLUsySEpfbC1GSW9Ya0V0TXQtREYxRWtUcUhmLTQ0NElB?oc=5",
-   "source": "Economiematin",
+   "source": "GBV Dillenburg",
    "ts": 1794298592,
    "theme": "fisc"
   },
@@ -256,7 +263,7 @@
   {
    "title": "Fiscalité 2027 : les dirigeants inquiets mais pragmatiques",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1c2bkZzbENZMU42TllMdlozLTVBSHVqTUZqRG83ZE11WGFGX3B1aTROS25tSk9ycVFJNjFXWEI5VEVCU0xqT0F2cG5TTkdkZFVWZWJYQkt5UWZWMXVuX3Jxd1dtUGJVQ1ZyY1VfWmdnd0RmbFFWNmpySTZoVnFNWA?oc=5",
-   "source": "Economiematin",
+   "source": "GBV Dillenburg",
    "ts": 1794230491,
    "theme": "fisc"
   },
@@ -1106,13 +1113,6 @@
    "source": "LesEco.ma",
    "ts": 1793801725,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : la suspension demandée par des députés",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUUNXbk9XeVlMVFo0cmtwTEVjSl8yV3lhc1AtWmQyWm5mUmV4c3lVclMxMjhaS2x5RDFyaDVSUlEwenhVOXZSZWlmVENlYmthMDZINW1JeGJSbWJPSjlkOWxoc1RsSkpWS25CSDlRNWlkMF9JSUxBRFJmLXhGMjQ?oc=5",
-   "source": "reinformation.tv",
-   "ts": 1793799420,
-   "theme": "fact"
   }
  ]
 }
