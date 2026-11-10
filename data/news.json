@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T17:01:58+00:00",
- "last_success": "2026-11-10T17:01:58+00:00",
+ "updated": "2026-11-10T17:55:57+00:00",
+ "last_success": "2026-11-10T17:55:57+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "items": [
+  {
+   "title": "Predilife relève son chiffre d’affaires semestriel 2026 et réduit sa perte nette",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjZJM1lYaWo4dGNCN0VLS0JCeV9PMVdrTExTXzVMMXVMYVR4ODlZNWYzOEstdElkYl9qUXRaTVRhcjhkUk81N3NuYk5PSkswQXY4aDM2RGNoR09ZVWJJb0xJQlNwcHN0Zno3NUNITnczN2wyLUo1UVFSVFRJT280SGh1enVEc1c4NllFYS1xWWFWZlhTTUpoNEFGSTBMYkpKNmNDUy1EYThfZWRmSXBJcDNEYVM1Y05ZV3RHaw?oc=5",
+   "source": "ABC Bourse",
+   "ts": 1794332409,
+   "theme": "fisc"
+  },
   {
    "title": "Impôt sur les sociétés : la majorité veut étendre le taux de 40 % aux cimentiers et aux opérateurs télécoms",
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTlRXbWt4aGZOWFQ3bXlKdTZIQmppaGVLNTdwSWc1SHZLcXRLRE1DYUZZQ001Mjc1RFVqaUlSeGdIR21yd2RTam82XzMxWl9YcFlCOUVpTWFCOEdCR2Q4ajBJbDgyd1JEYzN3dFdOc0ZnelNSMFV1cV9MUkU2UlpFOXZMX0ZYZ3E5dWYzelhqbDYwWm11bF9VZjY0a3kyZlhDQVVrNmNodmJiWkhLQUNiVmNLNWxWenRFZ3c5Vk9MeHVpN1c1SXFJeUJDTnBMM0hVU1ZUOUJyQ0d5TUYwbUUzb3VQMUxMVHN5cUNaaU9OT29TSUpYdUs0bUoxTVdqVnhUekgzX0hCZTR4bjNHdE1mWTFxN0haSlVydlN6elFR?oc=5",
@@ -76,6 +83,13 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREoxbWs2LWJmSjVHYXVDSmJOSHhCWHhjWE5RY1kyNGJ2QW94Z3ItbEs3U1FuX1ZqUWVvUmJLU0F2aHJreW1hVzJERlFLSy00bWJIbEVja0ppSVYxb256Y2V5SzFEQ0pYTzFsUFMxckxzVFlGMkhXbmlzRXhkVTBGMGpGT3JrMmRZVGxkWm5BaGtob0FUa1oyWldydkREVDNxcVB2R1FtZHlCUHBPM0M3cEZB?oc=5",
    "source": "Lebrief",
    "ts": 1794324360,
+   "theme": "fisc"
+  },
+  {
+   "title": "La majorité veut taxer cimentiers et opérateurs télécoms comme les banques",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT19FVy1jZ3V6MDRBVW8tbjlzWTNvLXVZdzBBX29nZHlDOW5taVdmVkNoTVpsRVV6eXBlcm5SNlYzV2pyOXVrV1Z1T25OLTVIVnNya1BmNG4wTUNwcUxud0ZxanJ5UDhiMDJCbmxJMTVJLXpqUlRVTm9peVdHT3hVRExwRWF4cWFJZ2E4ekJmSXBtOGdfWnpCY2YzUURuOC1ObV8wQ0FB?oc=5",
+   "source": "Le Desk",
+   "ts": 1794320460,
    "theme": "fisc"
   },
   {
@@ -136,7 +150,7 @@
   },
   {
    "title": "Loi de finances 2027 – Un air de déjà-vu",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkxQbXdBVmNqeXR2SVRIYXo2Mm1DaFA1WDVSYUtjNzg1eXRSWUpKT0NLMGZ6ZmlxV09xNGdqUDFwM2NSTF9YbmNVTUgwZVpibUhCNlZBNkVxUXd0RVozR3c1QkR2WjNpUGE0SVJDNmdFSjV4OW5ZLUtYRmtSMldkc3FMY1JKd1pfOVljV0sxR1Q?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHN3S1ZocEdpV1NuQW5Za0RXdHdzVWZHTmpjWHNKUUFrRFhXMzZwQjRrV0x2QVdDT0xVaGV0Nm5oVFBZTUwwQVZ6RFNEaEZITU05dE1iOW5CUjRRb29NSU9ZRmx3aVYyak5oY2JkT1Vqb0h1UjcxcTVTR0FjZ0g5M0V0S1M0SlNRR3JoS3U0QnVIR3c5Y2c?oc=5",
    "source": "Leconomiste Maghrebin",
    "ts": 1794298107,
    "theme": "fisc"
@@ -1099,20 +1113,6 @@
    "source": "Economie Matin",
    "ts": 1793804476,
    "theme": "fact"
-  },
-  {
-   "title": "« Gen Z regelt » : la jeunesse allemande dans la rue",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVdFcnBENDk4aGNuOTZ2bUF2VnFuaXZxOHRoNXhuenNPZnFXaHFqaEhBR0pzTGdSbkhqdWltZ2pHcG1Sa2ZhRzJGOVdaMzJwWEhMMS1UR3dSMGREVUJZeDRmRUxMS2JVX2FBMG9RUXVsQzRtdmRTNlZmWFo5aHF3M01WRQ?oc=5",
-   "source": "Reforme",
-   "ts": 1793803500,
-   "theme": "alt"
-  },
-  {
-   "title": "Enseignement supérieur privé non lucratif : une autre voie est possible",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVk1xaEFpZDc4R2YyUXJGd0RqTDJsTWFwb2FQQ3hiWC10ckVJSjFPWHVNamdpLVlUdTJZTFZ6UFRzTm1tbDEtSDl6UnVPMTBpY0hQZzF0Ull2b2Fwc2VNMG4wTmp5NEE0dXJVdm5SNzl4V1ZheHdNOGFFX243blgxWG9weERTWnp4eEdtTUlvazhtNHNNajljM21JUmZNLXNiaWxxUTNiZXRUVWx0aEsyNVEyd3hfdkMtQjZaN3dhbmw?oc=5",
-   "source": "Le Figaro Etudiant",
-   "ts": 1793803198,
-   "theme": "alt"
   }
  ]
 }
