@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T05:02:28+00:00",
- "last_success": "2026-11-10T05:02:28+00:00",
+ "updated": "2026-11-10T06:01:56+00:00",
+ "last_success": "2026-11-10T06:01:56+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
