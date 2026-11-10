@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T10:03:28+00:00",
- "last_success": "2026-11-10T10:03:28+00:00",
+ "updated": "2026-11-10T10:59:53+00:00",
+ "last_success": "2026-11-10T10:59:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 60
+   "count": 61
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Pennylane en panne ? Le numéro 1 de la facturation électronique rencontre des problèmes ce mardi matin",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzh3QjVvbm8yWWhMNERFSHVtb0pwS1BFNTlvb1RQc21YNDVJUjNFM2dzM2pPZTMwM0YxaWtSb3BKMW5EVzdnSnNTb2ozcE52ZE1YUGY4bm9BSGV2VmpFSG9UbFZLbGNGRDBubU5UajZEelNsUXFDVkJwdWlrNC1jQW9vTHd3SGxjLXliNFY4cDRMSjRwZzBqMVFuUmZERFNHQkhoeEozNFpHUFVXb1N2MGQ3NUR5MHNXWEp1SXRoNWpmVmN6X0tzT0taNUJpUU5IT2sxYmd6TVJNVFFQdFE?oc=5",
+   "source": "Clubic",
+   "ts": 1794307080,
+   "theme": "fact"
+  },
   {
    "title": "« Il risque d’y avoir de la casse » : expert-comptable, un métier très exposé à l’IA",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSC04cXRvUWFJVXM3Z0hsbzBUeFBnWXowY1JrdUkzQUJCSkFSQ3M1c1daNEt3QmN3RHltaE1ZcV9QRXZYc1ZiQ09oWXc1Zk90ZzNPM3VmZUM5MW5fejhhdkxzZUJWcHotT2dwUExZVmJGWnRvSFpGU01qUU51eEFoYnFMenZuYmRzYUhoM1VvVnZhemVYMUw2Z3NBd0pHY0xBVm41czM4UnJGY1VacHRaTEVCd1NFQVd6OFQ3b2JkVkdqWUlRODMwUlFYS3IxTHo3?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "cedarnews.net",
    "ts": 1793788964,
    "theme": "fact"
-  },
-  {
-   "title": "Le Premier ministre a demandé une étude urgente sur la réforme de la TVA.",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzdoT3BZbzdZNmEyNDE5OW1FclZfLThaZnhsUDJJajZVVmFOS2dOMUZKemVEcV9Xd0l4QXNucG1iWkNfam8xdFo5VWdzcktyRHdYOTRtTHRqaFdYZHNZdW56Y1U0aDA3XzItWXBxdUYzRzdscG9ZaDRWQTMxQzBHbHFodjRFX0hmbGxrMg?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793788305,
-   "theme": "fisc"
   }
  ]
 }
