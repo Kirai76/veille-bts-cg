@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T01:14:01+00:00",
- "last_success": "2026-11-10T01:14:01+00:00",
+ "updated": "2026-11-10T02:16:29+00:00",
+ "last_success": "2026-11-10T02:16:29+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 65
+   "count": 66
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -737,6 +737,13 @@
    "theme": "alt"
   },
   {
+   "title": "Fiscalité du patrimoine : les hausses et les baisses d’impôt du PLF 2027",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRIRlI5NnB4Y3RwX3dWdnM1bk1qamdPdlkzME5YYmF1X3ZQdTQwc2dNcURMc191a1VocVEyMzNPRkxZQUp6UXVrd1dwTzM1U09sX0JSMHhrYm5lbjFBOEl2S3pqeV9VenVIMUIzSTVVUUNHRkNCc0FfXzJremw1NkVjejJ1RlpBczNUY2hyYU02clRkb0NV?oc=5",
+   "source": "Tout Sur Mes Finances",
+   "ts": 1793895195,
+   "theme": "fisc"
+  },
+  {
    "title": "“Ça va être un carnage en termes de hack” : 10 millions d'entreprises passent à la facturation électronique, une transition à très haut risque",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQajl1bVlLLThzRjBTREI4cXA5UkJKaHBuRE9XRmFfQXpUMk8tN2o4Q052UWtQalRXR2EtMUgwS3FnWVZNN3lOZTliMTVId3Q3OTZTbEJiYmIxbnJIWGYxeE4ybGRwNzZ4cDNrMUk3QVJQZXVzVmhTWkRKT0Y2RlhMUVNRN3FzOEJjU1EydmNoMGh1Y1FEcE5pSUFqcXd6eFVyS05LaDg4YWVwaWJrN1hHT0liT2VZeEJDeEd4UEZIV1NLOXIyMXYyZmZZUVNxSnJ0cHJySDBuUFNua1RRX3YtNHhkTll6WUdSZTc5X1JZTmpwek5WY1lSNHh6ZlFkamlNWmtXNHpQU0JaM1ZVZTJKZDRnOUsta2szRDBKMFlEbmxzSm9w?oc=5",
    "source": "Les Numériques",
@@ -1106,13 +1113,6 @@
    "source": "La Gazette France",
    "ts": 1793779763,
    "theme": "fisc"
-  },
-  {
-   "title": "NYMANIA EXPERTISE : un cabinet d’expertise comptable parisien implanté auprès de la communauté asiatique d’Île-de-France",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbjE3eXhvX1pPLWxua2lnd0U5cmpfeHRGa3J2UThrUzBfSzdVeDdpUk01dWJQb1VWZ0lWdlVMVDVzY1c3TEZoMm5sQzI0a2w5bWNDZE5heWoxVTVLY20yNk9MOEhtNkhGbGRnSkdMM3dYazhrOGdlYWRwbGw0UmFBWmtSNU1IVk41d1FvaThJWmZFNzA1MkRmcFMzV054TkJQeTRucHZ5LVBFcllMV0xXZnFuLUx3c1FGTGl0NmRGaE1GLTRkaEZpdlhKMmN6TzdkU3NpeEd3YTB6b3lfUU1HLUM5Ml9VTjk4elh2TzV1czN6dw?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793779200,
-   "theme": "compta"
   }
  ]
 }
