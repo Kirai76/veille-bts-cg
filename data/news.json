@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T11:58:14+00:00",
- "last_success": "2026-11-10T11:58:14+00:00",
+ "updated": "2026-11-10T13:15:53+00:00",
+ "last_success": "2026-11-10T13:15:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 60
+   "count": 70
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,17 +15,17 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 31
+   "count": 36
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Le Nigeria mobilise près de 24,5 milliards de dollars de recettes publiques en dix mois",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1MGJFWEFQMy1RUDl0cDdOekdYN1N4MWFnRHBGY2JCSjBIUFpzR1VkV2ZYc2pOTFRxNmZ3QkVKSUc2Tjhja3I3NElQS3k3a29ZX1FTVkh5QWppYjNmWWU5QUd5cll2bmxGbk1KUWdVQy1ram5MamVZZVFB?oc=5",
+   "source": "Infomédiaire",
+   "ts": 1794309658,
+   "theme": "fact"
+  },
+  {
+   "title": "Sénégal | Finances publiques : le blocage du PLF 2027 menace 480 milliards FCFA pour le secteur privé",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNBdXBQdy10VWJLRGNIa2padFJ3OFUzNThPc2EweTZGaFE5amlwT3NGd2E4NlA1NWJpSTJ3cHJVRHB0SlBNaEJBem9UU29MOUwzOWtXczZiUG1WMUE1RkQxZWFENHVmWFU3cmM0NWpQRF9HTDlVdUtENjQ3cDJqRF9oQnA?oc=5",
+   "source": "Afrimag",
+   "ts": 1794307426,
+   "theme": "fisc"
+  },
   {
    "title": "Pennylane en panne ? Le numéro 1 de la facturation électronique rencontre des problèmes ce mardi matin",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzh3QjVvbm8yWWhMNERFSHVtb0pwS1BFNTlvb1RQc21YNDVJUjNFM2dzM2pPZTMwM0YxaWtSb3BKMW5EVzdnSnNTb2ozcE52ZE1YUGY4bm9BSGV2VmpFSG9UbFZLbGNGRDBubU5UajZEelNsUXFDVkJwdWlrNC1jQW9vTHd3SGxjLXliNFY4cDRMSjRwZzBqMVFuUmZERFNHQkhoeEozNFpHUFVXb1N2MGQ3NUR5MHNXWEp1SXRoNWpmVmN6X0tzT0taNUJpUU5IT2sxYmd6TVJNVFFQdFE?oc=5",
@@ -83,6 +97,13 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVlvZU5adVAtcTUtdUg0OWdmTXJiSHNaZXA5SXV5bnhnMk94Ykg1OFNKcHJva3hHaGZHNUYwRWJoOEh2SHJ5NmUxTUdGSTdaYjZqYVBHZGV6bG1kY0ZLUHoyZlB5T2xLZWdfd0k2MGtaeDBzakdwb0ItLUsySEpfbC1GSW9Ya0V0TXQtREYxRWtUcUhmLTQ0NElB?oc=5",
    "source": "Economiematin",
    "ts": 1794298592,
+   "theme": "fisc"
+  },
+  {
+   "title": "Loi de finances 2027 – Un air de déjà-vu",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkxQbXdBVmNqeXR2SVRIYXo2Mm1DaFA1WDVSYUtjNzg1eXRSWUpKT0NLMGZ6ZmlxV09xNGdqUDFwM2NSTF9YbmNVTUgwZVpibUhCNlZBNkVxUXd0RVozR3c1QkR2WjNpUGE0SVJDNmdFSjV4OW5ZLUtYRmtSMldkc3FMY1JKd1pfOVljV0sxR1Q?oc=5",
+   "source": "Leconomiste Maghrebin",
+   "ts": 1794298107,
    "theme": "fisc"
   },
   {
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMjVMQVFWUFhpTWtzcVBrNjNLWWpyZ0hrazNUTno5NTJGZDEtSkNtWDBQVHlPd3VsV3g3Q3dHTUR4OWZ0ZTJvak5QaUdpcFQwNkozaEpTazBfeTJxajBwUHloTGg0b05qSWNjT0hjYW9CSzJ5U1drQWg2NVBub09XX2tfeDdYTnQ1dVQ5dG5ROElqbzhjdlJsMW92Tm5hSkt5TzhxZmlaRlBrRGpXNDZNVXdYRjJMWVdkODc4V1hYRWNBTUtQUzVEck90NzEyX1RSSUx4dnl1RXBNeWh4UTg1eXZvaG9uUnFWSzN6LXBrLW1VS0NZQ0VVTU5TTS04UFE?oc=5",
    "source": "Frenchweb.fr",
    "ts": 1793792080,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : les députés votent sa suspension pour les petites entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1IxWExTUmxCMU1COUZralBfZzdHMGxfVVJSVHZBbmZuQ1FTelJxdFczX1c2SkxXTFUxVGNvNW5mbFNCdlVDRkhnT2V3RmJKQVBVUW1jWmUwV0xKNERRc1lTeHk4QjBLNEZZNnVjV3c5VmpYSS1rSDRLaHg1SXRGQ3BoOEd1TWNqWkdBSVVXZ2pQX0tNQmVmNFlLU1l6dndmWU1xZzByVzJlSHN3THlhZDNSVEwzZUJFbUE?oc=5",
-   "source": "FrenchBreaches",
-   "ts": 1793791320,
-   "theme": "fact"
-  },
-  {
-   "title": "“On casse les codes de l’expertise comptable”",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ESjY3OExkRE9yUEZuVWNFT1FCUVgzYUg1Wi1xbm9XcGFfRnpjT3FqZ09Ea2ozMXVsaEhOZ20yQnI1dENYNmRoaTdYMGEzXzcwTjNNN1pCZG5vOFFnZkVWczdPTkk4UGtkNFR5NmFEOUttd1U2b0E?oc=5",
-   "source": "Mag2Lyon",
-   "ts": 1793789544,
-   "theme": "compta"
-  },
-  {
-   "title": "Facturation électronique: l'Assemblée vote un moratoire pour les PME en l'absence de portail public",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0plSDFGX1hEZG1HZDB2WHQtWWNsZUcyS2RWRHkxRVpycU9LZ0VrSDB5MUgycVdmc25pd0pRcEN4VmUyZFFPcEhuSlpkRUE2UWVTMy0wN1pyMFplVkhwakpKNXFrazZKS1Q1Q2ZZQTFVMTMzSTktZzBFejdrMW9XUzlCUnplMEU2OHVvbVNZYmFNR2sxSnFDa0UwbE5MNUFoWG44NG5R?oc=5",
-   "source": "cedarnews.net",
-   "ts": 1793788964,
    "theme": "fact"
   }
  ]
