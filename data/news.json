@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T20:56:12+00:00",
- "last_success": "2026-11-10T20:56:12+00:00",
+ "updated": "2026-11-10T21:51:11+00:00",
+ "last_success": "2026-11-10T21:51:11+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 70
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "query": "TVA entreprises réforme",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Moins de 50 salariés : votre DSN d’octobre tombe le 16 novembre, ces contrôles restent à faire",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9POExHRDhuZjl6UWY4SGs3am10YloybFdqSEx2TnZHbXJ3WkRtUkU3UTF5bm93NWJyX2hPa1h0b3lSM0ZXNFRieklSUUdGa1Z6MEdYaEVNRkpIazVV?oc=5",
+   "source": "NGC France",
+   "ts": 1794338668,
+   "theme": "soc"
+  },
+  {
+   "title": "Les recettes de l’impôt sur le revenu progressent de près d’un milliard d’euros en 2025",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2Y3b0RxVXdEV25pZExfU01kVFhmNWxzSnJIaXRxSFQ2ck9VNTR0SC1tb2ljWHRVakJFMHA1SzEwcjJEVGZHQ2g3Y2haaEJvVTJaRkd3UEE2QmRrOUxOX3BVSU41bXB0V1B4SlNtbkZGRU1KNzUtUDlxd0pjRENoTnMwRVk1dnN1amdReWF4QkR4bm9tenkxWGFjQXczLWFoVUtFdTF3YkhtaGJfSXhySlRKbmJDY3p6eEM1dFJkTldxQTIzV3JHVQ?oc=5",
+   "source": "Le Figaro",
+   "ts": 1794335090,
+   "theme": "fisc"
+  },
   {
    "title": "Ce paradoxe suisse complique les projets de réforme de la retraite",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDM5UGpkYms0d1VXSDFEZ0dDT3ZGaWNKQndIQWV0T0VraENOTUVOVHo2Q2JGYnAyTUt0UjZTYjBMZmhQQ2g2YmMxa2xQTExFSFBMN3lKRllqdDF0eTgxYXppNm9YV3FTYXp6VnZuRFZnd1dKTTdldjVsYmsyTldIUXhzakcyTVhEZEdUZDFQSGFPbHRPdDd5UkJGTXliZUFpRnQ2NzhaOExWckRQRjM0?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFczMFQwT2tDaWUxajNuNGNWamtkZy1GNVhXYW8yNE8wWGZBN050d1Q0WHFSb2xDek9QaTBxVUJVc3FXOXdNdEdOV0gwZUFDYi1oeTR0RTBtX0xqUV9tNUVxYUV2SzZpUjhTMWY0X3JZNnNzeWRNWUFuUDB6aHVMMWk3SmM4X0l3RGNnV1pnV00?oc=5",
    "source": "Juristique",
    "ts": 1793810628,
-   "theme": "fact"
-  },
-  {
-   "title": "Mise à jour – Facture électronique : gel de la réforme pour les TPE et les PME",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2J5Z2x1cFp0TVhsdVVKLWRiV08ySFlDLWxIUndmWXB1TnlFNGJwQnhna2FOR3RGVW16TjZPd0RPWmZfY09acGhjSHViQ3lkOXhNTkwxVEFxbklHSUtnYnA4ckhpWDdkdFdpRERDdkhCdC0tR3I3cV8wSDZyWGpxMVZpdGN1MHJWakJSQTZPajFWXzFZT1ZFVE5UcVlfZkVtZmc?oc=5",
-   "source": "Solutions-Numeriques",
-   "ts": 1793810597,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture électronique : gel de la réforme pour les TPE et les PME",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2J5Z2x1cFp0TVhsdVVKLWRiV08ySFlDLWxIUndmWXB1TnlFNGJwQnhna2FOR3RGVW16TjZPd0RPWmZfY09acGhjSHViQ3lkOXhNTkwxVEFxbklHSUtnYnA4ckhpWDdkdFdpRERDdkhCdC0tR3I3cV8wSDZyWGpxMVZpdGN1MHJWakJSQTZPajFWXzFZT1ZFVE5UcVlfZkVtZmc?oc=5",
-   "source": "Solutions-Numeriques",
-   "ts": 1793810597,
    "theme": "fact"
   }
  ]
