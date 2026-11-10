@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T07:22:34+00:00",
- "last_success": "2026-11-10T07:22:34+00:00",
+ "updated": "2026-11-10T09:01:46+00:00",
+ "last_success": "2026-11-10T09:01:46+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 62
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 32
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
@@ -69,6 +69,13 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmJZWTZ0MnI3ZUZLZlNzSGs5NWVLZVltRWhTNmJHQjF0RUZsRGt5Mi10eHRsbVVremhQcUJhamRyZ252U2p4Qnh0NWJhYTFKZUJtUEpLRlNqSnkxODhiNk5RWHpLd3pveG1penA0d25DZmlEZ0IwOTBibFFKZC1DVkR5ZEw3c3RDRUR5SDVNRlNvTVlrdm1LVzZEQ1M2XzhpM255ZENlY2FVazd2RTFkWWZVT0d1UmFSUkNlcDNxVVZEc0lMRjQwX0U4ZE5iX2kzYnRfdFU4N1Y?oc=5",
    "source": "Trends-Tendances",
    "ts": 1794290424,
+   "theme": "fisc"
+  },
+  {
+   "title": "CFE 2026 : date d'envoi, de réception, paiement....",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVkZLbmNvOG9tOVkxbzhnTE9JSGFOQnFMLTBqX0xuWjdzRVFvYWxtUXhFWld5RnJzN2lPWi1PdENzZ2JxOTVVaHQwTnBfejNRYzlhcG1jc09yWFdyOUhfSS1IYzkyOGVzalp2SGcyb3E0VXFHOHlMbUtkTTJ4cUFnSGxsNTNOb3c5eUZTaXpMZDd5V0NWbE45TFhUMHVpN09HTGR4Wkp4bnVueG96TFVoaDhnQXgwQ3FTeGswNmFLWEpkTGhrSmFBaVdNMDVHbXBHTkVyZ2dsWEU2SFlqblotZmtkUEhvdUJFSEIxdUQzSC1sOERxU1hNeFJFUXhPMUd4cUdoV0NEX1RldF9xekE?oc=5",
+   "source": "Corrige ton impôt",
+   "ts": 1794269828,
    "theme": "fisc"
   },
   {
@@ -140,6 +147,13 @@
    "source": "Kohen Avocats",
    "ts": 1794236880,
    "theme": "fisc"
+  },
+  {
+   "title": "La facture électronique, gratuite jusqu'à 75 factures",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVUwbWRvakFlSkpiaWNUZ294YkdBc3htMzllejF4dEREcUxXMG5SbkJubnZBdTlCb2I1N2NBRG45VGdaX3JicDZKaEl2SnZGT2luVGxhOHI1WWw2bHlUS0c5aGpiMzhhLXZyWTE1WFpQci1BbDZSMXk1VUFsM2poZlQ2NVM3Q1J5QXhfSTdiazRBNnJMYUgwSmFEUQ?oc=5",
+   "source": "Le Quotidien.lu",
+   "ts": 1794235744,
+   "theme": "fact"
   },
   {
    "title": "2027, une année charnière pour les cabinets d'expertise comptable ?",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDBadmZyU21iRmlJN0xqbHhhUjNtbXp4bWdyMWhJMEZEYjcwLTZrTXFFSjVEcV85cFR1MzRQVlBjZmY0Z1VFeEhWWG9hYTBwNWlCdHEyb05jUmlQanhmWG9UOE1UbXREbVhhYS1qVVBwWTlYSEx2R09GOHlSVVFGRU5FcVloYVZiR2U1bWFpbW1fUGJDbi1rMGhJQkd4Z2FTenc?oc=5",
    "source": "mesinfos",
    "ts": 1793784300,
-   "theme": "alt"
-  },
-  {
-   "title": "Mécénat : 250 000 € recherchés pour acquérir le manuscrit d'Anne de France",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDVpMmhoQnpjaU5ndHdveHA3X2NFRGU4NGEzd25VY2RhZVFzR1BCa0xFclZ4aXlaT08yTE0zUlhMZnhHd2twS3liemVhOFZFdXhaZ1RISjk0ZnV3Y2dlRF96VFlqejJrQ3c2SHBGRWhEU1VRY1ZLX3lUMGV5a0dGMnpremJ1TTZ0dkpXeDhpMVp1VTVjaU9FQ0FLdkVSSzNYdnlTUHVOMkxKVFpVNG96cDRQSDlhRk1vdXRMbzlWNExRNFZwSlE?oc=5",
-   "source": "ActuaLitté.com",
-   "ts": 1793782320,
-   "theme": "fisc"
-  },
-  {
-   "title": "ENOES : 90 ans d’expertise au service des métiers du chiffre",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWhidDdfc0doRVdETFFPMWRNWmI1d0NmRmVxOHFlME02ZGctbEREOUJZN0VQRHM1U1Q4N2daZ2E4WkdscDZqb3A3UjBkbXlhcm1KclJfQ0tzNlVlbFhycVpWMXNQeFp0YVc0bXlZaXVvNVNSQUxCSENCcEhjcXpVRXVCbjFucjM4OFFoTnJhZzQyeXdXUTRQZTNMbmV5Unk3SXc?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793781908,
    "theme": "alt"
   }
  ]
