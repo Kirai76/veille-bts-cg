@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T19:06:06+00:00",
- "last_success": "2026-11-10T19:06:06+00:00",
+ "updated": "2026-11-10T20:00:23+00:00",
+ "last_success": "2026-11-10T20:00:23+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 70
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -50,17 +50,17 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 24
   }
  ],
  "items": [
@@ -97,6 +97,13 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT19FVy1jZ3V6MDRBVW8tbjlzWTNvLXVZdzBBX29nZHlDOW5taVdmVkNoTVpsRVV6eXBlcm5SNlYzV2pyOXVrV1Z1T25OLTVIVnNya1BmNG4wTUNwcUxud0ZxanJ5UDhiMDJCbmxJMTVJLXpqUlRVTm9peVdHT3hVRExwRWF4cWFJZ2E4ekJmSXBtOGdfWnpCY2YzUURuOC1ObV8wQ0FB?oc=5",
    "source": "Le Desk",
    "ts": 1794320460,
+   "theme": "fisc"
+  },
+  {
+   "title": "Flat tax 2026 ou PFU : assurance vie, dividendes, plus-values, bitcoin",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2JCS0N6cGp6a3NiRWRSVDN4ejFzR201TU5meVhOZDltMHQtZnVZMVlyOWVQajdVeVpmLVRQUWR2dGN5YW43QkpKRWFFanE4azNYU2dJN1VUNG55T3FJN1lfaXliZnJEMm51NTExcjBTQm1PdkR0QmtLZ2ZZWkUzZEFDbw?oc=5",
+   "source": "Tout Sur Mes Finances",
+   "ts": 1794320287,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Solutions-Numeriques",
    "ts": 1793810597,
    "theme": "fact"
-  },
-  {
-   "title": "Landes : « sans l’Aide sociale à l’enfance, je serais à la rue », aujourd’hui, Benjamin Tchiepi est Meilleur apprenti de France",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxON1NtNjhnZUpoMHFRM2JuMHJmaFh2eF9tUGVQY2hfTkxuZnR3QlVkdmdkYjF5TE5iS016c2FQZ2tPbXozcHRHanJwbDFPUm5USmFiT0NZYkxWSF9JaVFHdnlILTlqQ0d2dDlnaHZ2Q1djLUZtUnlVRUFta1MzcTNOc090ZWhpUnNRZ0hZdEE3WlF1WkJZVlU1ZVI2QkFWWFhvbkRXYkt4azJPVHJDQmdjemJaTVBVUXduN1dqejBmdHRVN0NkTGlHZGlJWWI2TjlBaklkTk5JRWcxY1lSVjZVTnk0ODVGdHVQY3dORmUydnFPeGxfZG9lM2xqTUd5NzRuRzVEOFRRZmk?oc=5",
-   "source": "Sud Ouest",
-   "ts": 1793809800,
-   "theme": "alt"
   }
  ]
 }
