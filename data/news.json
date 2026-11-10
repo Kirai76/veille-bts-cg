@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T06:01:56+00:00",
- "last_success": "2026-11-10T06:01:56+00:00",
+ "updated": "2026-11-10T07:22:34+00:00",
+ "last_success": "2026-11-10T07:22:34+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 38
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "De Jean-Luc Dehaene à Bart De Wever: ces taxes qui ont sauvé… ou coulé les gouvernements",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmJZWTZ0MnI3ZUZLZlNzSGs5NWVLZVltRWhTNmJHQjF0RUZsRGt5Mi10eHRsbVVremhQcUJhamRyZ252U2p4Qnh0NWJhYTFKZUJtUEpLRlNqSnkxODhiNk5RWHpLd3pveG1penA0d25DZmlEZ0IwOTBibFFKZC1DVkR5ZEw3c3RDRUR5SDVNRlNvTVlrdm1LVzZEQ1M2XzhpM255ZENlY2FVazd2RTFkWWZVT0d1UmFSUkNlcDNxVVZEc0lMRjQwX0U4ZE5iX2kzYnRfdFU4N1Y?oc=5",
+   "source": "Trends-Tendances",
+   "ts": 1794290424,
+   "theme": "fisc"
+  },
   {
    "title": "Chalon-sur-Saône. André le Groupe : 80 ans d’expertise comptable",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0MxSng5Z2VPMEJ0TGVjZVpRNXRyX1Y0RGptLUNtbk9OYzNNanhMeHB0ZmoxaUo0YjVpemJrRk5KN2tONDZ5WkRBMmoxZlZaak9QTFZsUXdsejZPSzk0cDVOOGlQV0dYQ1ZaT1FNQklVejZDeUFUQXRXVGVBajdSNVNZTDZWOUR5WTdiRFk3cw?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Le Figaro",
    "ts": 1793781908,
    "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : un premier bilan encourageant",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0NJYlBWNTV5dk1sNmo3cU11SGw0eG5Xa0Q4REVrVmRGbTJWOVpVYW1YMG91XzZvZm1WNXdxR1VzOFdJUWRZcFF4NWdZX2NRNWNLNFQ1ZFRZX3hxWHlaSEJmeWo5d2wwSTcxMkFhN1J1WDJXSE02Mms2N010bjZqd2ttbmIySTFYZlRFZnF5NlRCMGlWR1lxLQ?oc=5",
-   "source": "La Gazette France",
-   "ts": 1793779763,
-   "theme": "fisc"
   }
  ]
 }
