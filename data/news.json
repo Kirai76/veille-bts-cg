@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T02:16:29+00:00",
- "last_success": "2026-11-10T02:16:29+00:00",
+ "updated": "2026-11-10T03:05:47+00:00",
+ "last_success": "2026-11-10T03:05:47+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -571,7 +571,7 @@
   {
    "title": "Facture électronique : les experts-comptables sonnent l'alarme après le moratoire avorté",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSEhTaEwySFFObW1uWERfXzJYNFpGclY3ZF9IUjBrTXNlTUdQcURuQjAzU1duRkJXN29STDBGbkdHcGxGNnhfUnR6ZG1KdmVMcXNFSXRNdll6cnJ3T29ocHd2Qk1nelA4Y18xdUNIVmxUdFNDaUR1WmNoQVNEb0NxbzllSlcxY2hjdXc3S0VDTGlHMDJXNDVYazIteDJWNUo5d2dLOE1lbl84TFVybXBuSmdjcGliRGpVLVc5N2x5NkFCTVM0WGwtNFhBQXNRNE9pSG9xWA?oc=5",
-   "source": "LE MONDE DU CHIFFRE",
+   "source": "Le Monde du Chiffre",
    "ts": 1793965727,
    "theme": "fact"
   },
