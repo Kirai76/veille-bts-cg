@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T18:01:49+00:00",
- "last_success": "2026-11-11T18:01:49+00:00",
+ "updated": "2026-11-11T19:09:33+00:00",
+ "last_success": "2026-11-11T19:09:33+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "La fin des factures papier ? La décision de Telenet qui pourrait impacter toute la Belgique, « pour nous, cette mesure n’est pas légale »",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmdFNUtWTWVDTFRNcDh3aDBtT3pOWjVTS2MyM3dPS2NZTG5uSHd3UU1MSHlick5QRTBJYlAzYzhqWndPUW9ibTctMW0zT185UGdIdk85clpSVm5ZeEJnRmtUdDJlY1FCS3FJbFFCZE9YQjF5cFdVaGtsNkJuUDZ6NTBaTzNvcTJzRDRDdGdNVDRFVmtsUi1UdHYzSHNwVEI0TDQyR2ZMOF9WS014N0pCcEdRNE81bURib0xCdDZCZFNOLW1vRnhEazcxOVE?oc=5",
+   "source": "Sudinfo",
+   "ts": 1794420000,
+   "theme": "fact"
+  },
   {
    "title": "Expertise comptable : à quoi ressemblera le cabinet de demain ?",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUtGS0w0RHgtc2ZfRExNOS1vOTlnanFpbkhfMno2NjJMd3ZwVU81UHdFM0kxZ3ZLaFA0bzlNV1J4UHF6bjJodHRHX19pOVpSNjctdjNKVnRNQ200SWg4MW4zbE11ZEtoUElXa1RWYXRldE1YdkhjM1lkazg1S2pzWm5tUQ?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeVBRMXkzWHFMblRMSGhZZUpXcWRWV25ScUQ0SHlKVHVxcnFfUVoycWdhZVN0cHRBTDZ0UjZfRmJ3Q2piWFJuN29HN1lnLWZlOFdEYi1rVWZqbDM5QUNodnVyVXAtT2dHdVRUeHlEWU40dThTUmxYUkFkSFVuOEt2UjU1RFc5R2Z2ZGFmdG9pSmNVb2ktOXB4dmE2Wjd6M1kwUFNGQm9adU03VzZOY2FTUk9LY3F5dmwtOFFMc2szdFc1YklRZDZaS0dvWU02Q1VHRXNEYmpkUVFlZ0pkLXpicVRFQXg0dlNyaS1zMGY4WVljdXpKQmN5QUVJYldXSGhsR2l3aE1CRmk2Zw?oc=5",
    "source": "JDN",
    "ts": 1793872076,
-   "theme": "fact"
-  },
-  {
-   "title": "Ces entreprises ont failli échapper à la facturation électronique, mais tout a basculé en 24 heures",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnE1Y0xUejhvd2RXVDZKRXJfdVZNVTRTMi1UbDFaeUJMaGVHeWY2WDI5QjB1NjFVUEtaVl9TMWJBekJhQ1BORjcxZUxucWtzNi1WTGdaNlRpVS1pWHlYdThUOXRKLTBlc29hWVF1c0NiNTU4YlZLX3d1a255YXg2UVRqRk9idk1RbHZXd2NoNEE0cEdBV2pXUGhLb3dLcWlRenF5bDFiUEhDYzVnTER2UXUtNXcwamVfaFRtTncwS2N0QTVRTzVySHBBR3czQ0NhS1RsdGtEbVVFRlE?oc=5",
-   "source": "Clubic",
-   "ts": 1793870820,
    "theme": "fact"
   }
  ]
