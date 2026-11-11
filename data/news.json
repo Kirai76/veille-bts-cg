@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T01:17:18+00:00",
- "last_success": "2026-11-11T01:17:18+00:00",
+ "updated": "2026-11-11T02:59:04+00:00",
+ "last_success": "2026-11-11T02:59:04+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -83,6 +83,13 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2Y3b0RxVXdEV25pZExfU01kVFhmNWxzSnJIaXRxSFQ2ck9VNTR0SC1tb2ljWHRVakJFMHA1SzEwcjJEVGZHQ2g3Y2haaEJvVTJaRkd3UEE2QmRrOUxOX3BVSU41bXB0V1B4SlNtbkZGRU1KNzUtUDlxd0pjRENoTnMwRVk1dnN1amdReWF4QkR4bm9tenkxWGFjQXczLWFoVUtFdTF3YkhtaGJfSXhySlRKbmJDY3p6eEM1dFJkTldxQTIzV3JHVQ?oc=5",
    "source": "Le Figaro",
    "ts": 1794335090,
+   "theme": "fisc"
+  },
+  {
+   "title": "Prime carburant en 2027 : de 600 à 1000€, cette aide prolongée par Roland Lescure pourrait réserver une jolie surprise aux bénéficiaires",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcFhQdEp5YklCT24zQzlSMk1yNjFscHNVejlXWW12XzQ3T2h1c2JXU1o0dVNLMHdEek0ydk53dmI3cnNpeXltaXk1emF3eWNueVBNUGlCYTM3MjBoVmVCUnpMSTExQkU1WVpvcWViZzJ1X0xsSjdhcU1scGo5QVpoZ3dISENfT2sxVGxLUGZ1MUpBYmJVWlR4a1N6LXZ4M2x4WlBCNlNfMGlDbVlkbnpiM2NGMFd4NlZld0hfOEJMU0tFN3dPQ1hxVmxmc1R3WExTM2NmbzROUERpNFJPdjJGNWJVU2k3MTJaR3JmalB2TQ?oc=5",
+   "source": "NextPlz",
+   "ts": 1794333600,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Le Matin.ma",
    "ts": 1793814180,
    "theme": "fisc"
-  },
-  {
-   "title": "Études de santé : la réforme de la première année pourrait faire disparaître 20 % des places",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTlBpODlIN0YxeWFwWjVXbUtKamEwY2VxWDg0SUJCMmI5eWlwdXFEUFpyUmJjRkR6dTMwQ1hxZGlDNjJDcjlvX0RuM2huRjUxR1h6bWl6QnlXZkpvNzV4cHVwV2ppYXBVOG5yNHg5cWcxQm44N0hyNXhQV2FkaUVhSE1RYnZXSXJLRHNfbkZPYll0Q3lBZzNVekFZZmtrLVhqd2xjWDRZeHBmQkJpM213aDZjOEh1cE9iRGhvTGlqaFNuV0s5ODNVWnROd2lrYjJ0dm5RY3dIZXZhRnZnbGk1Z2YwTmVwcXZqODFDTjBLdkRXZC1FczBxa2UyZTd1UF9VaXZybXdRa3V0Vm1rN2VN?oc=5",
-   "source": "Le Parisien",
-   "ts": 1793811162,
-   "theme": "alt"
   }
  ]
 }
