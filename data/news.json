@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T13:22:54+00:00",
- "last_success": "2026-11-11T13:22:54+00:00",
+ "updated": "2026-11-11T15:08:06+00:00",
+ "last_success": "2026-11-11T15:08:06+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Expertise comptable : à quoi ressemblera le cabinet de demain ?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUtGS0w0RHgtc2ZfRExNOS1vOTlnanFpbkhfMno2NjJMd3ZwVU81UHdFM0kxZ3ZLaFA0bzlNV1J4UHF6bjJodHRHX19pOVpSNjctdjNKVnRNQ200SWg4MW4zbE11ZEtoUElXa1RWYXRldE1YdkhjM1lkazg1S2pzWm5tUQ?oc=5",
+   "source": "Compta Online",
+   "ts": 1794406607,
+   "theme": "compta"
+  },
+  {
+   "title": "Les recettes d'impôt sur les sociétés aux Émirats arabes unis augmentent de 34 % en 2025 pour atteindre 46,5 milliards de dirhams - Actualités et statistiques",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXMyaEtQbDdyeDBpLUtDZzM5RTByZGpWZWpSSXQ5NDBtamtMTnpjMFdXMDdXWVNJOFNsU0c0N0psR1h6NEx6TWFPOUdsTFQ1VG1SU3FzeE9YLW5NbVkxV2tTMjJlNTF2S3pRazI3aUxkaTVDR1NwSDUzSk85QmJrM3QzcHBkTVVmaGhvbE5oemNtY1E5YWVr?oc=5",
+   "source": "IndexBox",
+   "ts": 1794403237,
+   "theme": "fisc"
+  },
   {
    "title": "Le groupe haraki appelle à plafonner les importations de viande et à réduire l’impôt sur les sociétés de carburants",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNWhtWHlRaHZHaFVqTVJ6b0xnWXNxX3RWY19yUE8zQWpCaFdJSVFDcTNYVEhxbFlSVnlySVdKWkE3Z1dPUHlaLW9DVUk2YWFpUWsyNnVVTWItX2pYN2ZQdGx1WGJqZmxmRWdIbUcwcklhY1NFTHNLTVNYVklOYnlSaUN4cURuQVZGbzQzR3FYUHI4RDIwbzJ5dDV1cDdrRE1FN2NTQmlIWGFaLXd0ZFJsTEQwcm00dW45cVJHVFdqcW9HbXhTaGtCWk01clFkTlRSZV9majBZRTBLR2tqcTlndHI5c3lMdzBlUzRsWUhmNWEtVFZmX1E?oc=5",
@@ -1099,20 +1113,6 @@
    "source": "Imaz Press",
    "ts": 1793863146,
    "theme": "fisc"
-  },
-  {
-   "title": "Nouvelle fiscalité régionale : la CMA Réunion alerte sur les conséquences pour les entreprises artisanales",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45bk04MFM0Wk03UmVST2YxclBEdE9mdWtLX01wZ0RPbmV3dkZpa0JUTWtJZ2kySlpJbG1RbW5rbDF3eUktcldGenYxb3hKN2R1NXhCUHJZalI4eXo5M3R3N3QzamRzYkpQWm1KVFZEa2hNbkZ3d2NxNVQ2SQ?oc=5",
-   "source": "Imaz Press",
-   "ts": 1793863131,
-   "theme": "fisc"
-  },
-  {
-   "title": "De 504 à 1867 euros bruts par mois : combien touchent vraiment les apprentis selon leur âge et leur année d’études",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZzV3VUpKUkEyTDV4WGR2S3hSbmQySEFYejY1R3ZQM1Vjd05HQ0hrOWtHWDhZN1NNRDhQU3dtYzduWHk0Q3BhTDBoZVJPYzBxZTFtMFZKVTVIX20tMm9xdTNhQ0NVWXZsUlRsMnVUQURfQkxJVG41N2FQU3g1RkZNT0xvOVM3M0RheW5uRlB1TXA5RkxnWDVTSmRKaXhzLVItTG9xYWpkOC1yNDVkSnAzNVRxcTNFRkNwbVExRy1CeWlQT1A5cUhzS1BzYThGTy1TRXkxQzhPem5fdVh2TGg1QkI3MzM4cUtmMkVYUmw2WDViLWExeWZnWlpoVFRjNEhBYmZuOXJyTG1OU1laTm83QWxJTHVKQzV1Y3hTRUUzVjA?oc=5",
-   "source": "Le Parisien",
-   "ts": 1793862060,
-   "theme": "alt"
   }
  ]
 }
