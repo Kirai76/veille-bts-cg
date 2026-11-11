@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T10:09:51+00:00",
- "last_success": "2026-11-11T10:09:51+00:00",
+ "updated": "2026-11-11T11:10:13+00:00",
+ "last_success": "2026-11-11T11:10:13+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "PLF 2027: La majorité propose un IS à 40% pour les cimentiers et les télécoms",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTRBb1pvVUg0QkpRckY3N2ZISlZTQUFCNEFmYzllcEQxRWZFcXkzX2xpSEI0cWJzZnQ0X2lnbnlzcjlnZk9jQXZkb3hZOFM1RUMtVVNqbzZpNmM0YlhhMU51aVlxQlR6bXRkUGQzdUMyQXZfeG05VGg2MFo4WElzYllISFJnSXVqS3hxekY3YXBKNUNKRWowQXQwTnk5alZSMXU0M3lsd2tabXo4d1QzTm5xYw?oc=5",
+   "source": "Boursenews.ma",
+   "ts": 1794393863,
+   "theme": "fisc"
+  },
+  {
+   "title": "[FORMATION] Actualité fiscale et loi de finances 2027 - Spécial ETI et grandes entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzNuMW5HWUZqNjdBSzE4SEJ5T3p5VDFONi1SLW9aZEZYOWNBQmVYT1phVHpnN2RjZUlNMzlwUEJub3hzdlNPa2dnSVJQdUloWGxDMHdLbW9meWNvOWZwZHlUdEpKY3NSOG5HbHhpTC1PcWIwZVJaMXhnRmY0SEY2bjh6QnBISDdtaDN4VFhXM3J4cGdPb19MVG5WaW5hVGxjSnVJNHFkN3JSUE1xdEt6RXQzNlZnU1Brbl83M0ZYakFrUXNtV0tEeHNxNkwxQzJZRU1fc1FIdlpoQmFV?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1794388950,
+   "theme": "fisc"
+  },
   {
    "title": "Une réduction de 30 % de l'impôt sur le revenu sur deux ans profitera à des centaines de milliers de petites entreprises en termes de trésorerie.",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXBPejVpZnVSSW5aTkVoQWVlWHY1bFdkY1Q4akNneEJEZEFHQm5zSVNDZUF4NndNWThXUVlIT244Zm1vZzlkU09mYktMS3QzblpVMmhHSXRRWFBwWG16MVFJbUE0OFh4OWVyejhvdmJUUjMzNjFkRUNqdHdlcWM2RkY4bEdDYUZkY3RmTlNzNkh5UXlsNHJTM3JBWk5wYnZhMGRJZzdEZ0JUaUJMY1BLRGlPbF8?oc=5",
@@ -1099,20 +1113,6 @@
    "source": "Capital.fr",
    "ts": 1793859957,
    "theme": "fisc"
-  },
-  {
-   "title": "Fleury-les-Aubrais : rencontre entre commerçants et élus sur la numérisation et la facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZDFsQnNiWWdvZHR3UFNLeVFRWWF6akQwWEpyZF9LZVBlak5xaE96X2J5QWNndGtoQU5HRTAtOUgxWWhWSTlDSjZLVkJ3UU9sYWktWnEtM1hOX2FGNm12WmZ5dnFwMFRzS2tCbGtxZ3BXMEJHaW9NaUh3VUZ0aFlEQVo5S2FtdHhkZUVzM3J2X2xyaVF4SThhUEhXMDRsZXBzMWM4WGEtVE1zYkxuTUpQNGxPaldDVHI1T3l5MzBwTFF4eDFYWnI5UHdrNGV3QTRCRkdINWIzMHBfbnRRdnFXZWJaZGhUcVltU1N1cTJKWF9CcWJqaWJDcnJnYl9fUUF4WWc?oc=5",
-   "source": "La République du Centre",
-   "ts": 1793857740,
-   "theme": "fact"
-  },
-  {
-   "title": "Comment se mettre (enfin) à la facturation électronique ?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGNPaGxRaE13RXU4eXBtT014ZEU2ZWhJY20tMW9DWGl4WTQ5MVRNUWgzMTkwQVgtS1JvQUc2Y2dqNWFYT0xLNW1KY1BVVVEyZVp3UUlkTHhfZmFaZmI3TWlQOHhDQUFYamRGcUpvVXVtNmxYV3hfVkhLeUVDaXVabzg3cFRtVkN3ZTFsSDZBMWdJS0piTnpCd3FpOG9kQQ?oc=5",
-   "source": "Maison et Domotique",
-   "ts": 1793855700,
-   "theme": "fact"
   }
  ]
 }
