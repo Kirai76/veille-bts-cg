@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11T11:10:13+00:00",
- "last_success": "2026-11-11T11:10:13+00:00",
+ "updated": "2026-11-11T12:04:22+00:00",
+ "last_success": "2026-11-11T12:04:22+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 62
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "aide embauche apprenti",
