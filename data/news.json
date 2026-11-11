@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T22:59:54+00:00",
- "last_success": "2026-11-11T22:59:54+00:00",
+ "updated": "2026-11-11T23:56:26+00:00",
+ "last_success": "2026-11-11T23:56:26+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : les particuliers producteurs photovoltaïques jusqu'à 9 kWc hors du champ",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWFhcG1BSEE2SEZINmZHNTQxWExuRXhIaG9fTlVxQU5mQmVCVVdaUkhmd3BrNlhOREJVVTdKUnk3aHBReEp5clhtYkE1MU8yMlhLdzFZMDdJSVg2eEpFelBIUTFkNmpDX0hDU1JZSllPZzZFekxqXzdoSGpMWFdIZ0JNc0xSbENXVXdLVVFUSmUzM3p6ajhuSmsta25FR05vTGhXaUR0bW1vZE42TUJDU2JPX1V0RXVSTXJWM2lFNlFhRkN4YnFnNXVCeS1tdw?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1794438309,
+   "theme": "fact"
+  },
+  {
+   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
+   "source": "Boursorama",
+   "ts": 1794433440,
+   "theme": "fact"
+  },
   {
    "title": "Candidat à la présidentielle, Teddy Riner rattrapé par le fisc : plus de 244 000 euros réclamés",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVDNKdVFDaDJSNU9ZWGtlMDJKbkZ5RHZrbFdKQ1VSdzAzbWJjWFpfT0xwZF9CejdjTW1Md09fZUdINXJ4d1poTzBYWEkxcjhNTk1kVHk2WUJJMXlreWFlMGtqY3IyWWFhazYzMnlFbGo2N2pwLWtNekNGTkxnQUhkenh0RUV4XzdZcFhVREdOMHJuUVhXRWt3OWQzdTJBSWJ1VHo1elBRSU9TXy14QXBycXA1U1p2UFBMdE8tQlNiRzlnQXRQVG0xeXJDLWtMXzBwWnM1YkxoMzVGWlNRaDlvRVVSZU9vbGg0a3M1VHNpOHY?oc=5",
@@ -566,13 +580,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUFOTDlPSGlQUzBfMmtjWERUWUFybUNhUUF3bGFBdnNxbDY0cWZ1Z0VocDZnRWw2UkN5bUE3WUxOcjI2UWlCMDZnLXdKLVp0YlljNkE5Wk8xWTR1akNSZkU3eEN1aDkySS16S3JlbHNwb0Uxb1I2QXJuWk40LVM5ZVp5cjhoN1diaTNkSmEzdGxsaWREQnhsNTBpY3RISG9hZlB3cFUzUWFwVUVzN05PN3VqZFJlcldrY0hoSEJubGEtbHVw?oc=5",
    "source": "LE MONDE DU CHIFFRE",
    "ts": 1794209100,
-   "theme": "fact"
-  },
-  {
-   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
-   "source": "Boursorama",
-   "ts": 1794208680,
    "theme": "fact"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Batiweb",
    "ts": 1793877199,
    "theme": "fact"
-  },
-  {
-   "title": "Des propositions pour soutenir « les entreprises les plus engagées",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeU5fZ3cyRFZReUlncjRRSUswOE9yT3dLTXZCellULVpVZkpyZWNhTGl6NjRoSC16NXczbUJzWjZZVWZ2QjNqZkFZQ015cTd0ZWxlLTlGd0lMclNmYkdmUlFRcy1fbEtraTF6WUFKQXhyOUl2N3lpUWxXa0lHOHRTOGY4S3M1Yk1mQWZCUC1Ielk0UXZsMEl3V2kxQmtveS1DVi05NHhsRTNGLW9S?oc=5",
-   "source": "Carenews",
-   "ts": 1793875245,
-   "theme": "fisc"
   }
  ]
 }
