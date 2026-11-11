@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T12:04:22+00:00",
- "last_success": "2026-11-11T12:04:22+00:00",
+ "updated": "2026-11-11T13:22:54+00:00",
+ "last_success": "2026-11-11T13:22:54+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Le groupe haraki appelle à plafonner les importations de viande et à réduire l’impôt sur les sociétés de carburants",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNWhtWHlRaHZHaFVqTVJ6b0xnWXNxX3RWY19yUE8zQWpCaFdJSVFDcTNYVEhxbFlSVnlySVdKWkE3Z1dPUHlaLW9DVUk2YWFpUWsyNnVVTWItX2pYN2ZQdGx1WGJqZmxmRWdIbUcwcklhY1NFTHNLTVNYVklOYnlSaUN4cURuQVZGbzQzR3FYUHI4RDIwbzJ5dDV1cDdrRE1FN2NTQmlIWGFaLXd0ZFJsTEQwcm00dW45cVJHVFdqcW9HbXhTaGtCWk01clFkTlRSZV9majBZRTBLR2tqcTlndHI5c3lMdzBlUzRsWUhmNWEtVFZmX1E?oc=5",
+   "source": "Telquel.ma",
+   "ts": 1794403000,
+   "theme": "fisc"
+  },
   {
    "title": "PLF 2027: La majorité propose un IS à 40% pour les cimentiers et les télécoms",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTRBb1pvVUg0QkpRckY3N2ZISlZTQUFCNEFmYzllcEQxRWZFcXkzX2xpSEI0cWJzZnQ0X2lnbnlzcjlnZk9jQXZkb3hZOFM1RUMtVVNqbzZpNmM0YlhhMU51aVlxQlR6bXRkUGQzdUMyQXZfeG05VGg2MFo4WElzYllISFJnSXVqS3hxekY3YXBKNUNKRWowQXQwTnk5alZSMXU0M3lsd2tabXo4d1QzTm5xYw?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Le Parisien",
    "ts": 1793862060,
    "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : sans aucune voix pour, les députés enterrent leur propre copie",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckhDVFU5OXAyekZsLUo2SWFqcUFtUFBwWUhpNkRTMXc4UnBaeEJLV3Yxa3daMjhQcG5IXzdCbFlWZGdDSm5wbTRwYmZ3cHAwSFNKazAxdkxra3JSR3VXd1ZIaGx2cnkxTVFQOWtUYTFYX3Q4UTVYU2h5TjFXY01FTlVxVDVpOHNkNU9pOHZZenFRM2hwbFJRQnVPdEQtQWpFSldyS0RIZ2NzUDA1VWxFb3RiQUFCVDFGTzA5dkVTWC0?oc=5",
-   "source": "Capital.fr",
-   "ts": 1793859957,
-   "theme": "fisc"
   }
  ]
 }
