@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11T07:27:17+00:00",
- "last_success": "2026-11-11T07:27:17+00:00",
+ "updated": "2026-11-11T09:06:08+00:00",
+ "last_success": "2026-11-11T09:06:08+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 73
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 33
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "Une réduction de 30 % de l'impôt sur le revenu sur deux ans profitera à des centaines de milliers de petites entreprises en termes de trésorerie.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXBPejVpZnVSSW5aTkVoQWVlWHY1bFdkY1Q4akNneEJEZEFHQm5zSVNDZUF4NndNWThXUVlIT244Zm1vZzlkU09mYktMS3QzblpVMmhHSXRRWFBwWG16MVFJbUE0OFh4OWVyejhvdmJUUjMzNjFkRUNqdHdlcWM2RkY4bEdDYUZkY3RmTlNzNkh5UXlsNHJTM3JBWk5wYnZhMGRJZzdEZ0JUaUJMY1BLRGlPbF8?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1794384510,
+   "theme": "fisc"
+  },
   {
    "title": "Impôt sur le revenu : pourquoi les 0,1 % les plus riches ont payé 9,4 % de moins",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3k2LU4zeXY1MHJFX1U1SzZDcHVVb3VIb0h0QzhEX1IyNXg1Z0pFdUpkakNxR0hxNGVITzJhM2p3OFYyYThBWERrcEt5YTRlRjFwNXZoNk02aVRHbzNuZkhDTXFkYWNCRUlnN19TMkg2Q3pVbU0tQXVramRHcDBRc2lnYVNTcHNUVm14dnB2Q2pSNWNJWUhEaGNxSVI5eVlOUWF4VXlYVDJkYzlvMU1SYl9aeGVQbVR1?oc=5",
@@ -335,6 +342,13 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnVMRmlkcVN4SGZFcU9LYV9LbWw0cjUzaF9pMVhrQUVaOTFQRDI4a2NMV3R4bW9HSEdXaWJxWnhpSzJEZWc3MXhuYU1UN3pxbEN0S3BRR0RZYXdXQ2JZZU1TelVVakQyS1R6elJ4Y1pjWGdja2xsMHcwVzlvRTNJNThqdWp2T19qMHE3VUdtaTBhVHpGY1dUTlBleF9qZmR6UUtIRzlLLUs?oc=5",
    "source": "Kohen Avocats",
    "ts": 1794236880,
+   "theme": "fisc"
+  },
+  {
+   "title": "Tunisie – Budget 2027 : les grandes annonces de la cheffe du gouvernement",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlhZeThqSHFLWmhuZlc0akZoY0N3dm5uRVVrcVctY2ZFR1FwS0tuX3lob2pIbjN0c3VjOUwzYXlXUGJSUThLWlN5dkZ0WFFHVWhIZmZvemxSZDA2Q1l4Y2VvdkduWlRzaEd4UmRIdUZDVlNMVlNNVUxVYVNaVEtFdkgxM2l2YXdzN09KaUpvOHdGRkh5R2p5V1ZLampLN3hEdEV0WGJB?oc=5",
+   "source": "Tunisie Numerique",
+   "ts": 1794235941,
    "theme": "fisc"
   },
   {
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dWc3MXV0X3NYMm01eTJPLWpEeTRsT0d2THFrdlZQdTBZX1dyZzNReVdxRWFoa3gwVnE4cWRlQTVtSjR2TFZfRW5TSW5meGhqT2g2Z3ZfSDdWTllhZlVkUF9QVQ?oc=5",
    "source": "Bretagne Économique",
    "ts": 1793855256,
-   "theme": "fact"
-  },
-  {
-   "title": "Budget 2027 : les députés rejettent à l'unanimité la copie amendée, qui part au Sénat dans sa version initiale",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdFFGX3lHVFNOVldVNVRIc3ZFajZWU2pNbnNVSkdvakdwUnNDT1ZOYXdhUEN1UFNEd2toQzlfU3ZFcHdCQ0VsRHhuN2VOUmptcTVhMnNOZGk0U0h2Y0VGRmFEN2Q3UFdvcjNZZWpKVTBJQWNzS3IzUG5CZGdOYU1DWW9lUHIwOVJaamtEOXlWQktqU2JYQmtaeGN1WlFnYjdXNnYzeDB2bzBON3RzbzF4QmtXT25WaEh1c0FYc3FBaVhRTHkyb2VyVVhlRndBeWVPTlFuSDNQeDN4LThFQmR6TjJmeXk5NW9KS3ZXVXVRNXpSdUx4ZS1GeEx6U0NPRnF2?oc=5",
-   "source": "Les Echos",
-   "ts": 1793854830,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : un amendement supprimerait l'obligation de facturation électronique pour les micro-entrepreneurs et autres non-assujettis",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlF2V2I5a1FzMFlBT0RfZ2UwVzI5R1hkMWlYSlJySGtIeUNDWS05bE54NUdpTXg2NVNNakY3WGg1YURYcUs3b2lhWmR3dkwyV2VUdmV3eUhQY0FJbDBHQVhLUlItdTZEQk5TLUFscUlHQWJJbDhmRXhFLS1oY1ppMzN1emo1bXRSWExMYlRwZ2x4LTZ6ZTB5cXFZZW54NFRxdWdsSlpqcTY0THI4SWFuanQ2eUpfNUE2dWFUanlna0t6b2RYYzhuNzY5RlRlY2xNZFl2S1dFOTBubmpjcFdfbVdfQURQUndyNGpB?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1793833612,
    "theme": "fact"
   }
  ]
