@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T19:09:33+00:00",
- "last_success": "2026-11-11T19:09:33+00:00",
+ "updated": "2026-11-11T20:09:12+00:00",
+ "last_success": "2026-11-11T20:09:12+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Candidat à la présidentielle, Teddy Riner rattrapé par le fisc : plus de 244 000 euros réclamés",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVDNKdVFDaDJSNU9ZWGtlMDJKbkZ5RHZrbFdKQ1VSdzAzbWJjWFpfT0xwZF9CejdjTW1Md09fZUdINXJ4d1poTzBYWEkxcjhNTk1kVHk2WUJJMXlreWFlMGtqY3IyWWFhazYzMnlFbGo2N2pwLWtNekNGTkxnQUhkenh0RUV4XzdZcFhVREdOMHJuUVhXRWt3OWQzdTJBSWJ1VHo1elBRSU9TXy14QXBycXA1U1p2UFBMdE8tQlNiRzlnQXRQVG0xeXJDLWtMXzBwWnM1YkxoMzVGWlNRaDlvRVVSZU9vbGg0a3M1VHNpOHY?oc=5",
+   "source": "Actu.fr",
+   "ts": 1794424935,
+   "theme": "fisc"
+  },
   {
    "title": "La fin des factures papier ? La décision de Telenet qui pourrait impacter toute la Belgique, « pour nous, cette mesure n’est pas légale »",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmdFNUtWTWVDTFRNcDh3aDBtT3pOWjVTS2MyM3dPS2NZTG5uSHd3UU1MSHlick5QRTBJYlAzYzhqWndPUW9ibTctMW0zT185UGdIdk85clpSVm5ZeEJnRmtUdDJlY1FCS3FJbFFCZE9YQjF5cFdVaGtsNkJuUDZ6NTBaTzNvcTJzRDRDdGdNVDRFVmtsUi1UdHYzSHNwVEI0TDQyR2ZMOF9WS014N0pCcEdRNE81bURib0xCdDZCZFNOLW1vRnhEazcxOVE?oc=5",
@@ -849,6 +856,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Facturation électronique : le rejet du budget 2027 change-t-il vos échéances ?",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXdBaW5XTE9lSUhWZVJHdi1Nczg4TmhuT3EybURRVnRHeHZtZXphR3lXTnN4d3F5WFZsaUhiUnFZaUpOdGRJdkxxcnpTZmpEU1VHYnVpSzlTaWdzQTM4dlFWNHE5UG9aWXZOMURYT3BBbWFUSTdhMi1uVWpiSXBEdWY1UWtyYWlTNW1ldGh1eE9ybi1lR3Z2S1hXWFdQajJtR291SDJvMGlqRzBOQUw5aFRkakQwdVd1Sld0Skp5eFRIWWlY?oc=5",
+   "source": "Démarches Administratives",
+   "ts": 1793971093,
+   "theme": "fact"
+  },
+  {
    "title": "Facturation électronique : « Pour les commerçants, le plus difficile reste à venir »",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQy1FVGRKLXRacThkeVRDVzJ3dnRYWXhWVmdiR0tQSWFsN1NqQUVmal9uTjk2YzFnU1BzZkhiRGtYRlV0SUlLQ0VLdHB5YTdJMTktU0liRjl3RFRsbThYdVQxY1piZjhqbElwMlU5dUswVEdrNmdpQjI2d2MyTUlyVUp1OGJWaENJV2dvOU5WRXpjNkxZN0QzTnM1QUM5LVgwVmdLdg?oc=5",
    "source": "L'echommerces",
@@ -1099,20 +1113,6 @@
    "source": "Carenews",
    "ts": 1793875245,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les députés votent une suspension pour les TPE et PME",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWJMWm11V2hPS0dVWWV3c2FBZVllS2NfdjJUdVJ4bG9kQ2JxVTdwQXAxU0x0eHJMU0t0dkdtSVpfWDQzOWhNalFKVUFnekxEdXJ2VWRLRkdkNzBjNV83LUFpWVdZREdYY3lWcWxHemhlQ0hYbEVraExOZHZTVkVuSHZKRkNqRlYwVzY3R2dvbFQ3Zk9UZmxfNVhkaFpFVVFfd0FtMU84eHBWR1ZCZTZXcGcxM3I0NjlDRHhfRDBHeWkxTS1BVzRv?oc=5",
-   "source": "Le Bâtiment Performant",
-   "ts": 1793874061,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : le véritable test sera la liberté des entreprises, pas le nombre de factures échangées",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeVBRMXkzWHFMblRMSGhZZUpXcWRWV25ScUQ0SHlKVHVxcnFfUVoycWdhZVN0cHRBTDZ0UjZfRmJ3Q2piWFJuN29HN1lnLWZlOFdEYi1rVWZqbDM5QUNodnVyVXAtT2dHdVRUeHlEWU40dThTUmxYUkFkSFVuOEt2UjU1RFc5R2Z2ZGFmdG9pSmNVb2ktOXB4dmE2Wjd6M1kwUFNGQm9adU03VzZOY2FTUk9LY3F5dmwtOFFMc2szdFc1YklRZDZaS0dvWU02Q1VHRXNEYmpkUVFlZ0pkLXpicVRFQXg0dlNyaS1zMGY4WVljdXpKQmN5QUVJYldXSGhsR2l3aE1CRmk2Zw?oc=5",
-   "source": "JDN",
-   "ts": 1793872076,
-   "theme": "fact"
   }
  ]
 }
