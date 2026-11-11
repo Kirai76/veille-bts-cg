@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11T05:10:55+00:00",
- "last_success": "2026-11-11T05:10:55+00:00",
+ "updated": "2026-11-11T06:10:22+00:00",
+ "last_success": "2026-11-11T06:10:22+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 72
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,10 +60,31 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "API, IA et e-facture : le TMS change de dimension",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGx0UExBck5qNnhSWXFHV1oyUEJiYUZTYnJjTk10TVBhRE4xd2h3NktYeG5MOEtEdlBqSE5FRVBHYkdKMkdXT1BkTkU2Q09QbDJoRkQ4Rm82dWt6WUs4NHVQY1ZOMmt5M0JjQTQ1cFB4dTh5b0I3R3JUblNucFVmYUhZMnRfMGhWd2tfU01UWk9udw?oc=5",
+   "source": "Le Journal du Poids Lourd",
+   "ts": 1794376993,
+   "theme": "fact"
+  },
+  {
+   "title": "La facture électronique, le premier pas vers une comptabilité optimisée",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTjEzRnp6d3MyQW5DZVdHQ2VXYnRKdlJGZWVqR3RHT1JKbm5tbTBGbTNiLTBnVFlCQlB5UW9CSFJMcFM1NXJMSjcydGVzeGpZeEhTNFZmOUxkaDk4SURSQ2JIbXM3SUZObnpMYlk2Skw3eWNQcktTbGVPVmhTaVJReXVtbERkVVNySDEwLVJ1YUFRVUVsZ29ZWC1aTHdHR3RCZGplTVdKQmxuc3lwdEI0WE1LQlgzN1k4NGpwRU9SWnBial9tS3g4d0Q2ZHZyS3JUWGVoUUJLYw?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1794376809,
+   "theme": "fact"
+  },
+  {
+   "title": "Recruter son premier salarié : combien ça coûte et quelles aides en 2026 ?",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdmpsX3lETktYQUM0eEVOR2E1MWtDcThfVDlURU5mXzRMb3hDWVA0SnVOeEZITFVobFhKUi1BUHZhWFZRYVJlc0phc19yYm1rZ0xBNlIydGw4aDhIbV9HbE4zNWwzR2N2YzNXQzNUUEI2aExoVVgtaXJqVVZiMVF3Z1FHcWlzODYxdmNQeEdTSWhkeXY3ZGlwbHdtOEZkeG53QmMtQUxUZ1QzME5fR0ZpNkYzZFZrSmM1aldyN21MYWVoMmhPRS1jRmJvY0RqRERVQ1FqaFdQVzJWcmV1V3VEM3UzcVlJRnF4?oc=5",
+   "source": "Ouest-France",
+   "ts": 1794375485,
+   "theme": "alt"
+  },
   {
    "title": "Passage de l’EI à l’IS au 1er janvier 2027 : c’est maintenant qu’il faut agir !",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXc5eG5DWmtlWDdtelhJVlFhWFZwYWFsWXctb1B0SG9GdFpkRGpGRzJpdDBUZE9JYlIyazhfQmlkYmVuUTBQcFU2Ri1SMkQwLWZRSmpqLXBuQ0ZUQ0gycDA0dFQzdjZ6d3pPZi1OcngtWDdveHBjUUpXUk9LRjRQRFJCcXRPdURGYUNoaUp6RWZtQUotSjBsb0VhNEVoeVNSSXpjVjI3TVRKUTBQNUpVdTdkbkM1Q3RZWlBKUlZDOVRUNlpJX2pv?oc=5",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMFYxSDRsWkRCbDE0LVhUa3hKc3NLdVFEZENRTGszQjFlYWptOVNkcS1NUlRWNjNxYW5LbHlzY3kycEJFcWE4dkQ1bjFaSFBrb2t4MXVfSWNEdVpnXzBNYnVmdW1FZU1iZWhBUFlaSGFGSzlKNVpWbnZ2VkVxT09YOTdBWEl3TlM1dG8yNnY5M3k1N2dSOUlRUkZqSS0weTdmSE9UUnY2NEktbWg2eGJORGMxMGNjQ1VlM1FYdFczdmRET2dqcy05YmhZOUJ4UWFFZTJlZ0ZnWWg4bmFNVWFNTzBoR3hvOE1lVmNkcFFaXzctQVpGMkxORVFFd1Myc3dScHFUVGhlYw?oc=5",
    "source": "Le Monde.fr",
    "ts": 1793832792,
-   "theme": "fisc"
-  },
-  {
-   "title": "Parcoursup : première réunion de travail lundi, la délicate réforme est lancée",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3VOTno1NFF2ZXc4TDh4MFh3R2ItQmRtMFI2bEJVU0hDdkZEQ2FrQ3pwVGR4LVh2MmNSd3FsWmgtT2dFbnBUNFYyYWZMSXF1RlRsRmxIR0Zrc29hcTgtYjV2NXpoYTRfSXN4MG5TVktfb3FLdFhFaVR0MW44UTFiX3NxM091aG15VGloSUd5SlFCcXZXZUNmVDdEdm1Qc1UxOGdxVGd0SGtCc1J5OUxwVzZBR2MySWZyelo2YUE1TU5kampwaEU3MEZTTVp1MVlwcUN2TWFTWDlKTG1ZOVd3R3hUTGVnbGp1Z3ByN2FkWFFpNHNiaDhKYVZTeUg1V0lVbDBF?oc=5",
-   "source": "Ouest-France",
-   "ts": 1793818323,
-   "theme": "alt"
-  },
-  {
-   "title": "PLF 2027 : l’État de plus en plus dépendant de l’IS",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU05CRFcxTWpsUDZsa1M0dmM2NXdMNHNhaDAyT1RxZm9wVEVhWDVVNnFKRWdESy1YMk5XMUh4WHAwdTg1cDMtc0xlR2wtNEE1YUxpY2wyUGpQZElRWU1PMWU2T2E1dVJrd181MF9wR0ZUMG1MYUl2NGFQcDVQOW42MUtWRjlOQXo3ZHVZMm5n?oc=5",
-   "source": "Telquel.ma",
-   "ts": 1793815253,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : IS, dépenses fiscales... ce qui change et à quoi il faut s’attendre",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2tGRnRLUG00MUJPd2czdFdIMjZRcllOaTVhTU80QUFTT1NqR3V1S2hGcXRQYW5vNTFoQldMOUMxdGwzRGRVcHpEMWEwd0N0TlZ6ZFBOYzg2NThVaUwxLUFVcnNfazBlZ2FMMkhqVXk2UzZiQ1MzN2wxYVRUYzVxVHl30gGHAUFVX3lxTE9lY0VKM196ZzBRQWdJQVlGaHVUTFNvQ0h0ejlXazk4WGhIXzJnX0IxOUFjNlFMb1RBdVNOb1cxRVVmcnRhMlpucEZuTW9GSWNMU1pWMlB1Nllnako1RDJBTTFiZlhFNjk2bms5N0lVSVc0aUhNRFBIRXdGNllORmtTOF9EMXRhWQ?oc=5",
-   "source": "Le Matin.ma",
-   "ts": 1793814180,
    "theme": "fisc"
   }
  ]
