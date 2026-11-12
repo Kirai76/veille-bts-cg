@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T18:05:29+00:00",
- "last_success": "2026-11-12T18:05:29+00:00",
+ "updated": "2026-11-12T19:07:23+00:00",
+ "last_success": "2026-11-12T19:07:23+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -55,15 +55,36 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 18
+   "count": 19
   }
  ],
  "items": [
+  {
+   "title": "Bobo-Dioulasso : La facture électronique certifiée au cœur de la deuxième session 2026 de la CNLF",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTWpXSjk4cmNjdHg5bVlpeUdFSEJWSzVmNkg2UFU2b2p2cVNiRHhhMmdXNHVTZEhnWnZMYzlJRlRUNUF2ZDBzNndYYklMNFlSTm5kYlJnMFBIVUI1NGIzOUdGMEdBUkVTdFhyeFBnSVZaazRsbFk3R1lkZDZXQ3BvWVVuVU10VDZFN19aYlltWDhfVi1sQ0lmTzlPZnlQbUdvYnI4cG5rNDVpSUYybERyY001UUdlMkt1UEd1QjB6dEU1VTFLVDNkYVln?oc=5",
+   "source": "Burkina24.com",
+   "ts": 1794507784,
+   "theme": "fact"
+  },
+  {
+   "title": "Fin de l’abattement pour les retraités, non-remplacement d’un fonctionnaire sur deux : le Sénat veut renforcer l’effort budgétaire « de l’ordre de 6 milliards d’euros »",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNmphcDBtWWtTOUVsTm9MOG9tanN3TFB3cHBuSXFXTjFkUWJ6SEwydmNQQjdSQkN6N1VrUUtmUnVkUlFGeG5zNFF3QXpQV1l1Ym5WY3F0M0p0MjV1cVd6dVBpR2hQUlpvVWdvSkROdDBiTm9nbThMMGtreFNhcUlJejViT0VIcDZaZXlzaTdJc05NQ1VoN1NEOWRkX3pDWmR5NWVPQzJTMy0tTUdWVDFLaHk0SGctT1F6ZUMtaGMteFdkYlkwcktwSDVMMHBfNjIyZUE3OUwxWkYyVGZoMlp1YklHMGsyZ3JmVUY5WkN4dlBnLTRUMmRMaHF3V3JhRWFVWnJoNDlSd2NEeTVJMlp5RkFENzlDZlhfczZV?oc=5",
+   "source": "Public Sénat",
+   "ts": 1794507713,
+   "theme": "fisc"
+  },
+  {
+   "title": "La Cour des comptes cible l'apprentissage dans le supérieur, le CPF et l'Afpa pour réduire les dépenses",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzX3dQbXpOeHhOc25EeTVFankteUpoTzkzbEh4VlVjbjN0ekM3MkR2cFEtLUxhV1p1cVdlRGN2blppQ2hJanZCcGdwY0g0Zw?oc=5",
+   "source": "AEF info",
+   "ts": 1794507075,
+   "theme": "alt"
+  },
   {
    "title": "Facturation électronique : les entreprises privilégient les logiciels",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWThyZkx5cXhHZWlWaTRfakdjbHVxXzUxNVVsdVB0QUpPRWFxQWc5ekNJUEZVZ2tnRzhwT3dGS0hvS1JhYkhDUGdmSVFvazNyUko2ZFFCSkVNSFo3eWNVa0ZHLUV5TGdLRHJ6Ry11LWxuYmJOaEJUUzM2aG50YjVrQzhhRURaeWFndTVvbjE1SjNCVlpoM0lfV3RYMHB2MjhMb1BkSVE5MU83eGIzbTVOaW43MUJUdw?oc=5",
@@ -119,6 +140,13 @@
    "source": "Compta Online",
    "ts": 1794491682,
    "theme": "compta"
+  },
+  {
+   "title": "Budget Italie 2027 : mesures clés, échéance 31 décembre",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTMyd0k3UW4wSENaWEdmVWVGRVdJSjZzdi1EVGFJbGM5c1J5cHhydGFiUjNheUhoUVdzb2xMbXNJeEJ2WUNjSzhZMzFzRVRFMGc1MUFUeExEenN4ZzB2NGRLVnM3Vk5lTUY1d1E5dzV6emowbFVBUTBZamk5QzFKUEJ2SnZNVzFRX0ZtdnU1R1EtY1dZQVhibnFCeTNzdw?oc=5",
+   "source": "Admirals",
+   "ts": 1794491455,
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : La première partie adoptée en commission à la Chambre des représentants",
@@ -251,6 +279,13 @@
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVDNKdVFDaDJSNU9ZWGtlMDJKbkZ5RHZrbFdKQ1VSdzAzbWJjWFpfT0xwZF9CejdjTW1Md09fZUdINXJ4d1poTzBYWEkxcjhNTk1kVHk2WUJJMXlreWFlMGtqY3IyWWFhazYzMnlFbGo2N2pwLWtNekNGTkxnQUhkenh0RUV4XzdZcFhVREdOMHJuUVhXRWt3OWQzdTJBSWJ1VHo1elBRSU9TXy14QXBycXA1U1p2UFBMdE8tQlNiRzlnQXRQVG0xeXJDLWtMXzBwWnM1YkxoMzVGWlNRaDlvRVVSZU9vbGg0a3M1VHNpOHY?oc=5",
    "source": "Actu.fr",
    "ts": 1794424935,
+   "theme": "fisc"
+  },
+  {
+   "title": "Teddy Riner : le candidat à la présidentielle visé par un nouveau contentieux avec le fisc",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEJmRlZDWGtObUtCb0lXUUhpRzVJdmtVQ2R3Ul9qM01oSHhSbktibnh4UTFCbDR1dkRoaDhNejQ1OGdQRFZuR3diNGtjNkRXY3ZXY29Pb1g1NFFlSy1mTFp3bmNnUlRxSzNMYWZSVzRNTl9Hd1AtWE94SV9uYW82QzA5Z2t1b3pEOWZtcmR1UW1SM3ZlNVVUVnlRdG1sVE0xSGI1V3NVZXJSM1R0ZzNkVHNiYVNhUlBSTDhWQWRHYzZEdFczT1Z6dTNoMXV6cjR2NzJGejR3?oc=5",
+   "source": "Sud Ouest",
+   "ts": 1794423850,
    "theme": "fisc"
   },
   {
@@ -1078,41 +1113,6 @@
    "source": "Démarches Administratives",
    "ts": 1793971093,
    "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : « Pour les commerçants, le plus difficile reste à venir »",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQy1FVGRKLXRacThkeVRDVzJ3dnRYWXhWVmdiR0tQSWFsN1NqQUVmal9uTjk2YzFnU1BzZkhiRGtYRlV0SUlLQ0VLdHB5YTdJMTktU0liRjl3RFRsbThYdVQxY1piZjhqbElwMlU5dUswVEdrNmdpQjI2d2MyTUlyVUp1OGJWaENJV2dvOU5WRXpjNkxZN0QzTnM1QUM5LVgwVmdLdg?oc=5",
-   "source": "L'echommerces",
-   "ts": 1793969720,
-   "theme": "fact"
-  },
-  {
-   "title": "La facturation électronique en question : les députés votent sa suspension pour les petites entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUx6b0E1N3YzdzRGdnZMbW5xd2MwNkJzcS0wQ0EwR2VpTWlRMUFTQWh4dkRINFlEQmpxLXROalVYa1YzRVdVbk93WkpNRUNuNUpac0NhLUhqV1JELV9qMlFpeUt0V3NhS0dXQnJwc2R4WjYwWWVpcmNNeUxwcVJudGpOd2lvVnNpMGk4OVpkSXQ0bS16VWswNEsxU3dkRmhxVlFTNlc0dkxjN0wwZ2lJYzB4dVlFTVpGeHV4eEFuQzFyMFdEWllZeVd2X2NFVmxDSE9sbDZCMkE5T1poa2dLcDJhZ1c1UQ?oc=5",
-   "source": "Capital.fr",
-   "ts": 1793967671,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture électronique : les experts-comptables sonnent l'alarme après le moratoire avorté",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSEhTaEwySFFObW1uWERfXzJYNFpGclY3ZF9IUjBrTXNlTUdQcURuQjAzU1duRkJXN29STDBGbkdHcGxGNnhfUnR6ZG1KdmVMcXNFSXRNdll6cnJ3T29ocHd2Qk1nelA4Y18xdUNIVmxUdFNDaUR1WmNoQVNEb0NxbzllSlcxY2hjdXc3S0VDTGlHMDJXNDVYazIteDJWNUo5d2dLOE1lbl84TFVybXBuSmdjcGliRGpVLVc5N2x5NkFCTVM0WGwtNFhBQXNRNE9pSG9xWA?oc=5",
-   "source": "LE MONDE DU CHIFFRE",
-   "ts": 1793965727,
-   "theme": "fact"
-  },
-  {
-   "title": "Solde de la taxe d'apprentissage : le dépôt des dossiers d'habilitation pour 2027 se termine le 11 décembre 2026",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNzRWZGtkTU1PVTN1TWJrTE9Ndk1IalJ1bjh6STQzdmFySWFrX1N4X2paaklXQUViVGpBVmI2SFRsUzZvNFpseFhOc3hDUV9NenctUy1UaDVFbWtIZ2RTTWt6QkpEMzl1YUJkM3BlNzFwT19LVVJDSXlETnpvZEpWeFNVUThWdlppY3ZkTGFkUUphb3BCOVRCcnAwQlltb240TVUzd2Z3eGxudHdlOVBJWEdVQTJFZmdvUHV4QzljVExzNmYtWmpVTmZqc0VndllHWVhmVmpRUFlPZVVR?oc=5",
-   "source": "AEF info",
-   "ts": 1793964060,
-   "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : les associations inquiètes, feux au « vert » pour les industries pétrolières",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkdId0JqQ1B1X3JUNUJ2X0tOTUtJcGZnU09qZDE0NUwyaUZFN2xRS3k5M1R1am0xcjFXdTFNUnp6SmRSaUVPcmtRS1VHZzdYQ2ZQYkJJbHpQSTNFbVJWb3Q2RU1kdGRwUVQ4WE1KSms2dlR2MFZXbGUzdHdDSFYtUUQwQTBPMUVjSVV5NUtCT01WQXJzbk5ERk5Ubw?oc=5",
-   "source": "Le Courrier de l'Atlas",
-   "ts": 1793962520,
-   "theme": "fisc"
   }
  ]
 }
