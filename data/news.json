@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-12T10:15:16+00:00",
- "last_success": "2026-11-12T10:15:16+00:00",
+ "updated": "2026-11-12T11:18:11+00:00",
+ "last_success": "2026-11-12T11:18:11+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 61
+   "count": 60
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Projet de Loi de Finances 2027. « L'absence totale de visibilité » inquiète les entreprises et les élus",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZlppNktIZlBkNGFEY3A1WTVYTmJvQ3NuYkQ0ZlBzdGI0dkRWelBZRFFPYTIzYXVVVFJvUDRjOHZFUHFTYVZrYk5QQlV6OFR0aVpyVmZ3Z1RoSFpQZlNzcWpiYVAzY1I2REg3UzgzWXU5YVIzSmhBNkt0ejY1NndBTmc3em1vYk1XNVJrU1BadXRPVENTNktlZjZwM3Rhd1NndVZjcFprdzRsQWxGSnRNSXZqSnp4V29ZZkdXdXdCUjQ4SjAxWVluMHMxZW9DNXV1S25WLTNmRWxhYmd1VXVr?oc=5",
+   "source": "lalozerenouvelle.com",
+   "ts": 1794481200,
+   "theme": "fisc"
+  },
+  {
+   "title": "Présidentielle 2027. Candidat déclaré, Teddy Riner voit ressurgir des démêlés avec le fisc",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTWhtUWhnNDhieng0Zml5d25KMFFMcXJVcktJVlhOcGw0d1J5ai1nWVI3RVVPSDR0b1dtQnQyb0VXbTAxRE1PbGc0WHR6Xzl3bE5kWWhGZW81RktDck43SF95bGhqQm5RaUhHSmhIbkJSZ2JQYi14NjlZN0FHbmhVZUZPM1lGUWM4UkdlRWhMTmhmSkZRb2VocHFKMWdZZm14eFZCZXY5eXRISkJ1czg0dDZibUVpRXNoUXlPWGxFem5WcDlkU2JObThfdVJvWU9fUzVxU2tCVEg4MnAxWGZKczAwUEJzOFhFRXdpQ3NyQnhOWTVTUS1RV2FWTVBNaDBCaFBmU0RSdThGUQ?oc=5",
+   "source": "Ouest-France",
+   "ts": 1794479388,
+   "theme": "fisc"
+  },
   {
    "title": "Politique de réduction d'impôt de 30 % : stimuler le développement du secteur privé",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGIxZ1pLUDY3RHRiYmo5TXZFRlNDRHkycjUwcUFTTXFKaXRrNjdmVFJlRmhoRlJWZmZGZGdXNkdwb28xSmpHaXk4OWZwZlN1RzRvNmNqeFFsNlZORGxacDBPT0JrSW4xUE55ZTd6WTV3TnRZci1ib1NlOEtEZFlvWDFZVDIxYng4N1F0SFJWRlBwZw?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMktIU19CYl9oXy1JeHp3RjM4azVfOG81UWptOVBrN0VTU0UweVZLcVFSb3F4WlNTb3JYbVIzT1RTUGZoVEdXUWNacXRiZnlJNGlON080VTZIQ29hYU4xNU1EZnJjTDd5RS10dWJvSkh6RTAyaTl0cWZ5M1N1RG5lSS1kSUJIeVdOZVkyUm5jRkc1VWZxZHlJ?oc=5",
    "source": "Mezha.net",
    "ts": 1793904749,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : Jordan Bardella demande le vote «en urgence» d'une «règle d'or» dans la Constitution",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQVNJaC1lcjllaXhMNXZ3WHlNYjdHd2ZzdFZKNUlUTkM4bS1UTkw2bDhkRVp1S1FORXI3TGpSdkdVM21BaUM2OWloeFVyZ3pjbXUxdm1uUnZCOW9xdy1EelhTRDZkWTdDX0E2TkFISmswRFpzLTdPaEhlOEllZVIwcGpST3RaUm1ncENvV2xRQnJEWXZ3TzF2VFJFWDg0TkZvbGVJckFlcDJyMkZYOXlxOUpWenJvblBISWQ2LU0tcVd1TS1wTllUY2dncjl4b1U5TVY0?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793901281,
-   "theme": "fisc"
-  },
-  {
-   "title": "OPINION. « Faire de la France un paradis fiscal ! », par Ferréol Delmas, directeur général du think tank Ecologie responsable",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRFJ1Q0hxNXREa1oyanJHaW03eHRSdGR2WjlQTFBSbGRoN0E1ZzNCOWIyM1B2VURzck95bkxlNE9VRU5aLXZOWDcxV2kzWEw1eGRuYkhTM0l1S3VGTDZhVXpZVXZoMEUxczVyVDRJY2JXN3RYNmNQRUp2OGlnQVBMbkt5OXZublFBRUI2c3NzSXRTRzFtdk1RSE12QlZoc0JSVkRsUGFwTGZTNi0wX0dGN1RnakUxRlVRRkZROXlXcFdZRXAtcXdsT0MxM25qNk1TcFhDcjZueFlLTVNCcUtPQnYwN0MtbUpSWGY2THk1ZndyU1JHc0trdFd5Q3QzSERRbTJJejY0UzBCNHp0ZFloLTJNa0JhSFVmbF9aMkFn?oc=5",
-   "source": "La Tribune",
-   "ts": 1793900485,
    "theme": "fisc"
   }
  ]
