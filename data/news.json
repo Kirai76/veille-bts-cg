@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T04:04:45+00:00",
- "last_success": "2026-11-12T04:04:45+00:00",
+ "updated": "2026-11-12T05:12:02+00:00",
+ "last_success": "2026-11-12T05:12:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 19
   }
  ],
  "items": [
@@ -68,7 +68,7 @@
    "title": "Facturation électronique : les particuliers producteurs photovoltaïques jusqu'à 9 kWc hors du champ",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWFhcG1BSEE2SEZINmZHNTQxWExuRXhIaG9fTlVxQU5mQmVCVVdaUkhmd3BrNlhOREJVVTdKUnk3aHBReEp5clhtYkE1MU8yMlhLdzFZMDdJSVg2eEpFelBIUTFkNmpDX0hDU1JZSllPZzZFekxqXzdoSGpMWFdIZ0JNc0xSbENXVXdLVVFUSmUzM3p6ajhuSmsta25FR05vTGhXaUR0bW1vZE42TUJDU2JPX1V0RXVSTXJWM2lFNlFhRkN4YnFnNXVCeS1tdw?oc=5",
    "source": "LégiFiscal",
-   "ts": 1794438309,
+   "ts": 1794438578,
    "theme": "fact"
   },
   {
@@ -490,6 +490,13 @@
    "source": "LesEco.ma",
    "ts": 1794227886,
    "theme": "fisc"
+  },
+  {
+   "title": "La fiabilité déclarative, un enjeu clé pour sécuriser les droits sociaux",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQU1BaFdHYkNoUmZ2cjRjUjVla1pyZEh1aFBCZUp3WFA2aVhwSmpxM0RmcFNPUE0xY1o4aWtLLS1FZWVRUU5xdTlaZjc3c0F4c0FkbURZcTFzdmNDTjd6Wm9kaElwOE5pNjdpdGlyOWlwY2hlR1VKOURXeGZaWG1TRi1hM2JIam9LOEtGTmE3VG1wYkk3LWpjTWE1V2MyZlBMT3drSEZZdDlwdHpTeTA1Z2trbzF4ZTVCb3lWVGd5dlc4WlI2OWtIWWRvdE9TTEZoeXc?oc=5",
+   "source": "Lassuranceretraite.fr",
+   "ts": 1794227269,
+   "theme": "soc"
   },
   {
    "title": "Son plafond a été récemment relevé de 600 à 1.000 euros: le ministre de l'Economie Roland Lescure annonce le prolongement de la prime carburant en 2027",
@@ -1106,13 +1113,6 @@
    "source": "Direct Sénat",
    "ts": 1793880908,
    "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : facturation électronique et éolien en débat",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzU0M3JzSE8xeVFVaWNqZlpUSGRyNzE4ZVBZb2U0NUtTNnhzcmhmdUZYeEFVel9JaWUxbzNWX0pkaWJRa3Y2bFl2LXN5SWhjdTh3T3d4bjhDY2Rpdm44X3p0dEhOVk1VMjVsdnl3elZ4X0xkRk1Pd1B3LWRmUHZjcE9sYVk2S0k1WDNvaFVFa05tNi15eFVlaUdkQkFlbWhWUFRseFdB?oc=5",
-   "source": "Batiweb",
-   "ts": 1793877199,
-   "theme": "fact"
   }
  ]
 }
