@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11T23:56:26+00:00",
- "last_success": "2026-11-11T23:56:26+00:00",
+ "updated": "2026-11-12T01:25:14+00:00",
+ "last_success": "2026-11-12T01:25:14+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 62
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -101,8 +101,8 @@
   },
   {
    "title": "AFFAIRES EN BOURSE : Banques ; la Lega menace d'autres taxes, mais Forza Italia (FI) temporise",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDNCazRtYWk0S08wR2pjZWctNG83MGVtYmFrQjNfVEt4SEIyVEIwbklxU3FVcm5iajM3UV9Pdmk4RGNWZkJTT2VlZ2hoX0hzeUdDWG83VWtkZFh0ZTJ5X0JHVWpLUVowMTl4cWN2NXlhNXVVdTRQdEgyUHNjS1FTclY1RXFISlVxbXYzUVpybGU4VGlHMUJGbnNJRHJLT29IaXduUk1YeHN1Y21PUUFaZnRTVlMwQlhUeEVkbzhVbGdCdmo2dmZGM3picUY5VEFQY1poRUU0RkJjVnFGUEpEZkNR?oc=5",
-   "source": "Zonebourse",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnMtREJTMWljTk50ejdLX1dRc0xIWlE4U3NkbDBuajc2cHVKdDBvNDhRczZVYnpZTUZack1ua1JKQWtpWlJYZFE0YS1WcWZ2NTlKRGNXSGtUaXdRbko5V015RXRoNHBiRXotMUNvdDZFVHZaS0N4R195NXRkck1iV04xb1ZITFpXTjUxZ1lBY08zOVZ2bWNFNGR2TzdQZE1oM3pMenR2U1ZFSUFTNFdvaDNhWFVvSmMyZURiWWVUeW5oU3BsQVZXNGZ2LWhqcklpMXZVNTN5WmJGbGNyRGh2Mg?oc=5",
+   "source": "Zonebourse Suisse",
    "ts": 1794404909,
    "theme": "fisc"
   },
@@ -326,7 +326,7 @@
   {
    "title": "Ventes en ligne hors UE : les stocks en entrepôt entrent dans la réforme de la TVA",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVlvZU5adVAtcTUtdUg0OWdmTXJiSHNaZXA5SXV5bnhnMk94Ykg1OFNKcHJva3hHaGZHNUYwRWJoOEh2SHJ5NmUxTUdGSTdaYjZqYVBHZGV6bG1kY0ZLUHoyZlB5T2xLZWdfd0k2MGtaeDBzakdwb0ItLUsySEpfbC1GSW9Ya0V0TXQtREYxRWtUcUhmLTQ0NElB?oc=5",
-   "source": "GBV Dillenburg",
+   "source": "Economie Matin",
    "ts": 1794298592,
    "theme": "fisc"
   },
