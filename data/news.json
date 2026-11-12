@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T11:18:11+00:00",
- "last_success": "2026-11-12T11:18:11+00:00",
+ "updated": "2026-11-12T13:25:35+00:00",
+ "last_success": "2026-11-12T13:25:35+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,38 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 16
+   "count": 19
   }
  ],
  "items": [
+  {
+   "title": "Budget britannique 2026 : les mesures clés expliquées",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDExOFJVYTdsemtxMTRncG5yMDNhdDZWRllqbk9lRWlRb1EwN25SbE5BMjktZHlCLUl5dnBDdlJELTlBT0gtUDZjYUlINVB2czdReG1RS3FVMGtkQjdOWkpGdUtyU0x3QXFPRUx4QzBGYUcxOFROZ3NFSEZGVmhaLXFVc090SjhHZzNVUUVtWGJydlVIZk9lNA?oc=5",
+   "source": "Admirals",
+   "ts": 1794487002,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : les propriétaires qui louent un logement meublé sont-ils concernés par la réforme",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUTl2VnJ1eV9RMXFQSllySy1mTXVOYkF1a1pnaU9ncXVwNG9XRmNBV1F0Y2lwT01Wd3dEQ2hwdlI1LVUwVExEV21OQVpzMGlYdUZmUkp4LXZXMzNISko3djNWOUNNRVdDNzNmcFhyWnZHNURpSlRmWTVfWkU0VDVpbmlaZVhlalZ0UXpyRE5mbXhwVExYYU55cEx4QVRrZHZteWxHSVp3U2NNcV81djZySV9hUy04dEhxZUxlU3J0a1Q2RWF3eHJvZ3RsTUduYjd3MWNEemo4MENtLWIyVTQ2c0VoX3lvMzFSUGdTWHZJdUUzSWh4S2dWUTNGYnFfci1KZ1R4YWRwYV9ybEhucG1GemJLU1pIZDg?oc=5",
+   "source": "Boursorama",
+   "ts": 1794485342,
+   "theme": "fact"
+  },
+  {
+   "title": "Esker reconnue Leader dans quatre évaluations IDC MarketScape couvrant la comptabilité fournisseurs, le poste clients et la facturation électronique",
+   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPV3pSOE4wVkFfR2Y5ZVNFNjN0ajhBeGZVTkhMMHBvZG9fS2JNZmtRNURRUDREaWpmb0dsTjZVenVfSkJDRzJ4VjBMeTg1V1pja3haRlZwczlqb0dlcFV2THFhcG5CNC11NkRmTDc0ZjFUSDhlZE1uMUVTeGttaDRYaW4xWmdyQmR2TEFhRmM1anU0VjF2RVpnTDlWYmJGQk8xZHhwWEpDNVhuY2NUUWE4Zmtna3I3em1nNjR0QjJ5RXhwempiLVh1SlZEUWtWd01CSzJUZTUza0g0VWlrNEVSU0dTQ3RnWkRqXzlqWFAwNUNhSGI1QnpiYnFGd28tX240TERBTVNTNjRmTDhSRE9aTHlNdWd6cEM4Z3o2UW10TENYWkQwTWthdlJnUmJBWTUwNkVhLWwzbjdTZEZOSjdtWm1fSk10aDZLeEFpQ3NTVFBZTW8?oc=5",
+   "source": "Le Soleil",
+   "ts": 1794483913,
+   "theme": "fact"
+  },
+  {
+   "title": "Les contrats d'apprentissage visant une certification privée connaissent \"une croissance extrêmement dynamique\" (Dares)",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16bTFNS2g3UzU1TWJpVHUzTnN5YlNLWUpSWnJvOXZnNGNydTBzcjgwdzBYRGdoNGRaZnF2ZzlyMDFhem9QNnBIZmFpT04tZw?oc=5",
+   "source": "AEF info",
+   "ts": 1794481280,
+   "theme": "alt"
+  },
   {
    "title": "Projet de Loi de Finances 2027. « L'absence totale de visibilité » inquiète les entreprises et les élus",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZlppNktIZlBkNGFEY3A1WTVYTmJvQ3NuYkQ0ZlBzdGI0dkRWelBZRFFPYTIzYXVVVFJvUDRjOHZFUHFTYVZrYk5QQlV6OFR0aVpyVmZ3Z1RoSFpQZlNzcWpiYVAzY1I2REg3UzgzWXU5YVIzSmhBNkt0ejY1NndBTmc3em1vYk1XNVJrU1BadXRPVENTNktlZjZwM3Rhd1NndVZjcFprdzRsQWxGSnRNSXZqSnp4V29ZZkdXdXdCUjQ4SjAxWVluMHMxZW9DNXV1S25WLTNmRWxhYmd1VXVr?oc=5",
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51UnUxV0dsWmlNSGQ4UTRucDhhMVY5ZUZIOUZjcVNOOVYxSHZCeS1ZM0MzdEg0eUZKQm1nUllCN2ZBTUIzeWUtQTRvcUtJX3BFUWJDTV9LT3NXWHg2ZE1FTlhDbWlaanQtaXpaQWctUXprVDlHMGNhbnln?oc=5",
    "source": "TV83",
    "ts": 1793934224,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027, ce que les dirigeants de TPE doivent vérifier avec leur expert-comptable avant la fin de l’année",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODkyd0dqUlpCNmdGR3lvbjJBTDMyajUxYUxlNHpTNEZfVzQzM0ZEazlqd0dTNm5QSHBpNmQydHBNY2RKZEN3TnFLalZlNXhJQ3NjcEN3LXJXT0pHUHVWMXdhbXI4LWZsQzM3MUJ4YmhnVkFPVEpzTmgyV05XVmVuWWRnVHJXN0p3WkFoZWJaSkEtY3U3T0lWYVczTnNVUW5VT29TZW1NbVZ1VFliLVBSUjBYMVdhdmtPMTZaWm5tR2MyRmwwNHR1MjlRamJNZ2NrcThxVWVoUGRnVW1nMGttQ01Zcw?oc=5",
-   "source": "Be Magazine",
-   "ts": 1793932030,
-   "theme": "fisc"
-  },
-  {
-   "title": "Actualités économiques et sectorielles d'Asie du Sud du 2 novembre au 8 novembre",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWdCYlRnczNOdklKdXNrUlBwRk10QUZHMXBIdmk4TFBsbUxMRTd5b3p4TUt4X1ZaeHNKX2FjUkhsbHYzNVdsckRNOE1tb244aVYtUGg2R1BKejI3LTlxMTJkQVlxdE9HN2RTdkFMY3l0WXc2Y09pYk9vVWQ3U2NuU2tNSGlLc1NYQWk2UExjZEJrZFd3Sy1ibm00amg4RUJJRzFRQjludXdXTFc0N1BERmNCMkk0cmdXSVNMZzVsM3hIcU1Ja25qMHhQa3pXZWhrM0hSQw?oc=5",
-   "source": "economie.gouv.fr",
-   "ts": 1793919600,
-   "theme": "fisc"
-  },
-  {
-   "title": "« Mettre fin au mythe de la perfusion » : pourquoi les entreprises françaises ont des marges parmi les plus faibles d’Europe",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSDRUdDVmUEJFYzMwS2xFRDFJa2tNVlJZa0l0c3gxNlZOSUF3ZkZEQTFLSFJ6NUNoV01aRUxjQXQ0d0lyYXVDMWF6VGlqbzdremVXV2FMQU1jM0F4ZU1waC13NEhlVFlmcTBjQUp3MDFiOUtxLWlscHNSWGdHQnZpeUJzYndfMzVvczdybGpleGgyVFU4S3VROXV0Sjl3bHAzZU1jQ0hia2NqaFBWTHJZR2Vxd0FNelRxMlVRVzNScml0VXVteGZYQ0FLZmdvRG9HU0NBemJRTVVyTUJ0em9NcFVTd29UdF9wZk5HSEc0bElzSU8zY3c?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793906400,
-   "theme": "fisc"
-  },
-  {
-   "title": "L’UE cible les grandes entreprises pour débloquer l’accord budgétaire",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMktIU19CYl9oXy1JeHp3RjM4azVfOG81UWptOVBrN0VTU0UweVZLcVFSb3F4WlNTb3JYbVIzT1RTUGZoVEdXUWNacXRiZnlJNGlON080VTZIQ29hYU4xNU1EZnJjTDd5RS10dWJvSkh6RTAyaTl0cWZ5M1N1RG5lSS1kSUJIeVdOZVkyUm5jRkc1VWZxZHlJ?oc=5",
-   "source": "Mezha.net",
-   "ts": 1793904749,
    "theme": "fisc"
   }
  ]
