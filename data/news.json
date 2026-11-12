@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T06:13:40+00:00",
- "last_success": "2026-11-12T06:13:40+00:00",
+ "updated": "2026-11-12T07:34:18+00:00",
+ "last_success": "2026-11-12T07:34:18+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 65
+   "count": 66
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 19
+   "count": 18
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : déployer une automatisation totale des transmissions de flux dans les cabinets d'expertise comptable",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYldzMHFoak5IbjBLbzZDMGstQVp1ak5uUUl1RXpfNENNN3czSlBMTU93VnQ1SUpCa3ByX3M5WklCSnlxbWdRRlZfM1V3WVUyTlF2TG43aDVxOUxuNjRoZnZha2hsQ3gxSGRCemZCUzJ3SVlWU016WDJESU5WM09iTlpmaEhVd3I2UkhIamNXeWtvZi1XbzhBRy1BWlBYWUpGamx0OERKd0VZcnlHZ2RvZ0R6UGtvRnc5SUhPT3pBcElpTGZiOEJnaFNsb1VNQzBXUXdLclpLcENiUFg1Tm5MdXd6c280bnpaeWNEX1YwQ3F0cFlXem4xa2VEWTdFR0h2OXQ1M1pjMA?oc=5",
+   "source": "Revue Fiduciaire",
+   "ts": 1794466800,
+   "theme": "fact"
+  },
   {
    "title": "Facturation électronique : les particuliers producteurs photovoltaïques jusqu'à 9 kWc hors du champ",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWFhcG1BSEE2SEZINmZHNTQxWExuRXhIaG9fTlVxQU5mQmVCVVdaUkhmd3BrNlhOREJVVTdKUnk3aHBReEp5clhtYkE1MU8yMlhLdzFZMDdJSVg2eEpFelBIUTFkNmpDX0hDU1JZSllPZzZFekxqXzdoSGpMWFdIZ0JNc0xSbENXVXdLVVFUSmUzM3p6ajhuSmsta25FR05vTGhXaUR0bW1vZE42TUJDU2JPX1V0RXVSTXJWM2lFNlFhRkN4YnFnNXVCeS1tdw?oc=5",
@@ -101,8 +108,8 @@
   },
   {
    "title": "AFFAIRES EN BOURSE : Banques ; la Lega menace d'autres taxes, mais Forza Italia (FI) temporise",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDNCazRtYWk0S08wR2pjZWctNG83MGVtYmFrQjNfVEt4SEIyVEIwbklxU3FVcm5iajM3UV9Pdmk4RGNWZkJTT2VlZ2hoX0hzeUdDWG83VWtkZFh0ZTJ5X0JHVWpLUVowMTl4cWN2NXlhNXVVdTRQdEgyUHNjS1FTclY1RXFISlVxbXYzUVpybGU4VGlHMUJGbnNJRHJLT29IaXduUk1YeHN1Y21PUUFaZnRTVlMwQlhUeEVkbzhVbGdCdmo2dmZGM3picUY5VEFQY1poRUU0RkJjVnFGUEpEZkNR?oc=5",
-   "source": "Zonebourse",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnMtREJTMWljTk50ejdLX1dRc0xIWlE4U3NkbDBuajc2cHVKdDBvNDhRczZVYnpZTUZack1ua1JKQWtpWlJYZFE0YS1WcWZ2NTlKRGNXSGtUaXdRbko5V015RXRoNHBiRXotMUNvdDZFVHZaS0N4R195NXRkck1iV04xb1ZITFpXTjUxZ1lBY08zOVZ2bWNFNGR2TzdQZE1oM3pMenR2U1ZFSUFTNFdvaDNhWFVvSmMyZURiWWVUeW5oU3BsQVZXNGZ2LWhqcklpMXZVNTN5WmJGbGNyRGh2Mg?oc=5",
+   "source": "Zonebourse Suisse",
    "ts": 1794404909,
    "theme": "fisc"
   },
@@ -335,6 +342,13 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHN3S1ZocEdpV1NuQW5Za0RXdHdzVWZHTmpjWHNKUUFrRFhXMzZwQjRrV0x2QVdDT0xVaGV0Nm5oVFBZTUwwQVZ6RFNEaEZITU05dE1iOW5CUjRRb29NSU9ZRmx3aVYyak5oY2JkT1Vqb0h1UjcxcTVTR0FjZ0g5M0V0S1M0SlNRR3JoS3U0QnVIR3c5Y2c?oc=5",
    "source": "Leconomiste Maghrebin",
    "ts": 1794298107,
+   "theme": "fisc"
+  },
+  {
+   "title": "Holding patrimoniale : quels actifs sont concernés par la nouvelle taxe de 20 %",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzUtbk1aMFZVNTYyb3BJUWpMN2F5UHUzaXJ0d2tieU9NQWliaTFRd3ljLTVteXZFalBRNEpiUHlPenhsUFZ0ZDlZZVYxUTNqdVhDbHpxMV9jSHpqMGlrSVhsSExpRElCYXc5QzJvOGJEWHZwVTRWWHEwZnBYQUNhTmVrNzEwZmpf?oc=5",
+   "source": "Banque Populaire",
+   "ts": 1794297600,
    "theme": "fisc"
   },
   {
@@ -1099,20 +1113,6 @@
    "source": "JeChange",
    "ts": 1793885400,
    "theme": "alt"
-  },
-  {
-   "title": "Plainte, marges écrasées, \"impôt indu\" : les stations-service ripostent",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3M3cFEtWm11ODJ0XzMwTFd0aEhENzkxdG5hYk1XXzZDZjFUXzl3dmlrNkg1Y2NzendVTUoxMkJDMGJ2LXZFamlONDIxbUQ2Y1A4YzIybVVVQzk0SHplMVgyblFpMV9mRjNxT2hWQVFROEowNlJjallzRDcyM0tnMC1FUHN4QzU5ZW8tcjlqSFBueURhbFU3a1Q3Qmkta1FRRElRMG16WVduQQ?oc=5",
-   "source": "Medias24",
-   "ts": 1793881440,
-   "theme": "fisc"
-  },
-  {
-   "title": "Pour un budget 2027 utile : la voix des entreprises",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZE9tdFlOY0FuMTNlOTl6X1QtODhDVktLaGpWbnNMUmo0WThZSnhEdGVRZ3Nsd2VnQ29mYmVOT0loTXB1aHRZTEVtOXhCU0x2dFFyUjZ2ZVJSckx6aW4tWnF3WVJuZzJ2dmVnSHBWOHFDVk02UlZ3SWI4UVE2VC1HSHJ2MVZoY0JSNEw0b1pYM0pzX0JkbDVQVHZIYk5CVzNYSXlLSA?oc=5",
-   "source": "Direct Sénat",
-   "ts": 1793880908,
-   "theme": "fisc"
   }
  ]
 }
