@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T16:13:48+00:00",
- "last_success": "2026-11-12T16:13:48+00:00",
+ "updated": "2026-11-12T17:15:47+00:00",
+ "last_success": "2026-11-12T17:15:47+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 60
+   "count": 61
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : les entreprises privilégient les logiciels",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWThyZkx5cXhHZWlWaTRfakdjbHVxXzUxNVVsdVB0QUpPRWFxQWc5ekNJUEZVZ2tnRzhwT3dGS0hvS1JhYkhDUGdmSVFvazNyUko2ZFFCSkVNSFo3eWNVa0ZHLUV5TGdLRHJ6Ry11LWxuYmJOaEJUUzM2aG50YjVrQzhhRURaeWFndTVvbjE1SjNCVlpoM0lfV3RYMHB2MjhMb1BkSVE5MU83eGIzbTVOaW43MUJUdw?oc=5",
+   "source": "Presse Agence",
+   "ts": 1794502800,
+   "theme": "fact"
+  },
+  {
+   "title": "Avec l’intégration d’Inea expertise, le groupe nantais d’expertise-comptable Amarris renforce son ancrage à Rennes",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQY0hOTWZMVnJ5ZWFTemx0ckFJYlUtVWlRTTdaTXhvSVVyLUtHQmF6MEhWNXpMNVFkWmhOelh0M1hWZ0tSSGw1eEhyRV9NRlR3ZzFBQWVqeFc1N1JnNUlhMVBoUmNPcVZUZFRnUFdzY1lnZmNWNEw2aXJOQmJWU1pKcHA2bDBLblRkdC1UdEtVVVdIZzRERGNWaE9QZ2o4N1loN2prYmk4dFh0dGZ4NDVNSk5QZWFoaUFoZjAwMjItUS1pY29VWE5DR2QwUzBtLXBWektVeTBCTXFpTzAzV3o3UXM3RGVCeEN0dk5IQ0tpLVVhSzlIQ2t3MzFMTHpQcF9HblR4cU1TV3BWTkY4OTl0THRTcWdqSFFic2RRRXFMN0p2bFR6WFJ1MGNIcHhFR2tBTThONlFPQnZITFg2cXhtWUpB?oc=5",
+   "source": "Ouest-France",
+   "ts": 1794500823,
+   "theme": "compta"
+  },
   {
    "title": "\"Il a tout pour être un bon politique, il commence déjà avec des casseroles\": candidat à la présidentielle, Teddy Riner voit ressurgir des démêlés avec le fisc",
    "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNODBLMzVRQ1FkckI3WEdrNHhTblVwQ1pRS0J3VjExTXhpalpVRjRjWkk3N01QbldxRjhweENSMTU1UmJ0WmpnZE1OX2c3X3VKX0d5QTNIQ095RjRYMGxkbDk5eTZBaHJXMXRidEYzRmMxTkNRaFpQczgzeml0OXRDQ0h1RnZiU2xibWMxMGtNVE91OS1seHpVR0ZTam40OUtnVW1XVHAwbUFYbm16ZWpMMVZlLWVBYXVnSGlhbkxlTzZYajBILW1DbUlEU2paTlVvV3E0RWJjSWpDNGpEXzE0c3g3b04tTjc1cUt5Nk5xeGlsd2tGRmJlelVFMHNNUjNHSEtXVVpLcld2UGdSM0wxQ25pOXZaaTZockY1VDlCYU1uRUFxVk84bDRJc3A4emU2dTZkMnl3UzU4dHRaZmdJ?oc=5",
@@ -76,6 +90,13 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzEtejd1cVdQakVPd29VZHRjTUcxbHZrbGxnOE43RlpreXJHYmJUWjJJeDY2bFNsU0I5TmxFNUtFUnloVHFfdVAwanI5UGtKSXp4MlhENFh4OER4TklwRFZZOW42d24yMzdxMmtCUTFtUnRaUDNRX1N2QTQ5YzlhWjFnYTI5NURfY0FtLWdjYUExM0hzUk10MDFJVS12OUwzNzNZNnZQel9IVmRCUlRCVDZvZ08zcUVf?oc=5",
    "source": "JDN",
    "ts": 1794494490,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027: les cimentiers et les opérateurs télécoms échappent finalement à l’IS de 40%",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMldsMnVhb0ozMk41dVZLUUwyZlBpQ1JUVlpPUVFjb3Q2VG8xeVlXN1FZRWUyN3NGSjh3R0Y1NWI3ZnVsd2w4ZlFCTVg3amY0d1hMWGkwaTYwMzFtVFVQM0hXUWh5b25lV0dIM0RIUm5jMEZBWTRVdkN3M3c2bm1wWU41VjkyTXJ5cEZ0QTZPTmVPbzVoQWFIX3BySUJVeGlZYnZOblh0cVNwX29vVVFNbWlTR0c5NkVacElZTHBFV05uOUpKdnJMYW15N3ZoRzBUUjhsZ04yOA?oc=5",
+   "source": "Le360 - Le média des actualités du Maroc",
+   "ts": 1794494471,
    "theme": "fisc"
   },
   {
@@ -189,13 +210,6 @@
    "source": "Revue Fiduciaire",
    "ts": 1794466800,
    "theme": "fact"
-  },
-  {
-   "title": "PLF 2027: les cimentiers et les opérateurs télécoms échappent finalement à l’IS de 40%",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMldsMnVhb0ozMk41dVZLUUwyZlBpQ1JUVlpPUVFjb3Q2VG8xeVlXN1FZRWUyN3NGSjh3R0Y1NWI3ZnVsd2w4ZlFCTVg3amY0d1hMWGkwaTYwMzFtVFVQM0hXUWh5b25lV0dIM0RIUm5jMEZBWTRVdkN3M3c2bm1wWU41VjkyTXJ5cEZ0QTZPTmVPbzVoQWFIX3BySUJVeGlZYnZOblh0cVNwX29vVVFNbWlTR0c5NkVacElZTHBFV05uOUpKdnJMYW15N3ZoRzBUUjhsZ04yOA?oc=5",
-   "source": "Le360 - Le média des actualités du Maroc",
-   "ts": 1794463140,
-   "theme": "fisc"
   },
   {
    "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
@@ -1099,20 +1113,6 @@
    "source": "Planète Grandes Écoles",
    "ts": 1793962435,
    "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : quels points de vigilance pour les comités d’audit ?",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkRUOWJoay01VkpIeVBvQ3N0dGFEdmNGMjQ4RXJtc09tZGpuS2lxODM3OElRQWJYWG1BeDVydkllZHR2WEpOQnFpUzhsak45b0dzdWdxdUpwekhVUEpxZHdxTlRTdjZXUmlYZ3ZjMzA4SmkxTXNJTG84RDJnSHBaVy13aHRFMXpFbTlXS0lTVUJXQzU3elJQX0ppZFZQTF94UUtSYUxGX0RId1lUZFRBelN2dlVxTUJyZEhDTlZiQQ?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1793959962,
-   "theme": "fact"
-  },
-  {
-   "title": "Mme To Ai Vang, chef adjointe de la délégation permanente de l'Assemblée nationale de la ville de Can Tho, a fait part de ses observations sur le projet de loi modifiant et complétant un certain nombre d'articles de la loi sur l'impôt sur les sociétés, de la loi sur",
-   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPSXFfU0Y5U01Lell2X24xNzhnY3hTWW5sQnJnd0tBWEhVT19SNnhROTZZWXFudTVPRU85bmRzNUFYSjNOWnBVOHRqMGg4NkpOX1gyVXhJOGkzcmxjeTg0b3Q4UW5UeU14eWpjaUxIV3UwbzFaU2lNdGl6bXBNNnNKNnBaSVpxeHVOaWFLWWQ2LWFCMFdSY3pnMW9aTk92dFR4NUFDUXQ3TGk0Um1qYUdnRlBqaWI4X3BkVkM2WUJyTE1ucUhhVGd0VEl4dXBRYXVlMnZ0WEhsbllhekdOT0FWQU5CeWxWeDNjbFNUYUxLRnkwcVNHcUdCTHAyVU5XclhEUlhXTjJFV2lsa2U3MFRUMzRTUUN0Ym9NNFh4RFU1bE9sT0NmTGxBV3hMNkQ4czlKcndrbGRSNHNBVTk1UWM2ZGtyYWl3QUFmTTAtbTdHV0VRTEN0NU16SXJJemxnYVZORWxPeU5zTQ?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1793957301,
-   "theme": "fisc"
   }
  ]
 }
