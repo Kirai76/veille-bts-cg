@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T17:15:47+00:00",
- "last_success": "2026-11-12T17:15:47+00:00",
+ "updated": "2026-11-12T18:05:29+00:00",
+ "last_success": "2026-11-12T18:05:29+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,22 +45,22 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 19
+   "count": 18
   }
  ],
  "items": [
@@ -210,6 +210,13 @@
    "source": "Revue Fiduciaire",
    "ts": 1794466800,
    "theme": "fact"
+  },
+  {
+   "title": "Taxe sur le tabac : comment Malte tient tête aux 26 autres pays de l’UE",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlBnSXNKS1Exd0tkMDc3dzZKOWdmeFV0RmR2cFFGYUU1aF8zTU1CaHdTMGctTWN1cU5mU1R1T3V5Wlk4cVFEdFdfZUlOb0hjRUU0ZjhSWWkyM24tRTA2cGFHT3JYbVVySjVWRG1nV2NxT1c1SkhEU1JHYUZ4LXkxZzRfenhPRWNZdVFwRzZzYnRvTGd6RnhHUWVoOEFjZ21LNk9OVDVkVk5MRWowWmc?oc=5",
+   "source": "Le Point",
+   "ts": 1794465000,
+   "theme": "fisc"
   },
   {
    "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
@@ -1106,13 +1113,6 @@
    "source": "Le Courrier de l'Atlas",
    "ts": 1793962520,
    "theme": "fisc"
-  },
-  {
-   "title": "BTS les plus populaires : 7 spécialités et leurs débouchés",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3eXYwX04yc082YmFkMVhfR0JjWTlQNU5jZk9PVGhoUU1FYVpPd0F3a2FjQ3dfYUg0LVBaVkJRcjdSeWE3WlNjWF9LcTBxcUh5Tmt1bGhRUThKWTdYd3h4OER5Y2lwQjhrbEVYbjZIMGRETWRub043N2ln?oc=5",
-   "source": "Planète Grandes Écoles",
-   "ts": 1793962435,
-   "theme": "alt"
   }
  ]
 }
