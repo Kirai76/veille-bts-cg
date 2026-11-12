@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T07:34:18+00:00",
- "last_success": "2026-11-12T07:34:18+00:00",
+ "updated": "2026-11-12T09:12:46+00:00",
+ "last_success": "2026-11-12T09:12:46+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 66
+   "count": 62
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 18
+   "count": 16
   }
  ],
  "items": [
@@ -70,6 +70,13 @@
    "source": "Revue Fiduciaire",
    "ts": 1794466800,
    "theme": "fact"
+  },
+  {
+   "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
+   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPc2puLTREUHlTb0ptcXJ6YlEzOXhtX25DWTF2anh6cURwdXV6TzRnV3JvSU5CX3BycElKTzBhVC1qMTdkdWlMbEwzcHN2b1Q5RS1DQ1ZteE9hZHhNRzhZRHRfTnU5UUhGY3RjRGstTWFBWk11aWVjMmxmRnJwTVpndVR5bnR1TGItejhad05JdlJCTnVOU1psSHVLeU5YU2dQMEFyM19jSjRERS1mSUFNVUtoYkFxRkFqeTltUDFfQTdYN0JPdEFrSVhTUElJRWxGanA0Tl9SZ1FXMmVIT2k1SzMtbTFWb3dHLThWUjczcnRUQWc1dWZyeEZiOWNzNlBpRDdyNG1ncDlta0dNMUNocE5NZV9nT2V2dWZzUVFzbVlDb3dMcmFQT2tMMUt3b3FCTGtWTV84dnYzX0pvcU1aRTlYdGk2ek96M0dncDA3NlFibjQ3N014U2hVWHpiUWhi?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1794459642,
+   "theme": "fisc"
   },
   {
    "title": "Facturation électronique : les particuliers producteurs photovoltaïques jusqu'à 9 kWc hors du champ",
@@ -84,6 +91,13 @@
    "source": "Boursorama",
    "ts": 1794433440,
    "theme": "fact"
+  },
+  {
+   "title": "Le candidat Riner voit ressurgir ses soucis avec le fisc",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHpGUG5Ddmx4aGNkemJjdi1tcnc0eUQzbjhheWhHTGhuM2VHc2hhRGFMYUdVZGhRSjYwWlNKRzdGTXZfUFNSa1diODNNYWhRSG9Nbl9CUzRWbmREVkI1c3lNVTB4ellfVjRSLTUtYWJoZGlpdUxyUDE2cXdwS0xJdzZJRnVEOUJ0RUhVRU1obVBPRE5DeTR0SlFrNVI0YS1JaEp2NnhfSWUwakdEWFJWQ0hoTE5WeGpPSTJQcWZMMnhDWUJJUFNWT3Y4LVdmSnd6Nk9aWE5LaVU4Zw?oc=5",
+   "source": "Eurosport",
+   "ts": 1794425280,
+   "theme": "fisc"
   },
   {
    "title": "Candidat à la présidentielle, Teddy Riner rattrapé par le fisc : plus de 244 000 euros réclamés",
@@ -135,6 +149,13 @@
    "theme": "fact"
   },
   {
+   "title": "Sénégal : 480 milliards FCFA d’arriérés privés suspendus au blocage du budget 2027",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUMzUURqVV9KdzlFZVFISTJWclhjX2hobFE4RXBxWDZBQ2VYaS1SMDR1c09nc0tlb19mVkhZU3Y2cTRYZ3B5akJFZ1F3cXptaFY4Nk1LamplYlFsbXV3ZWdqVHVlek1vdkktQWlKejBQbV9YSWtTRW5jVWEzT0g2S0VCS3RXOU95aF9wVzgxbzA0SVZnMWxRQlpfVGowOXhVU1hZU2c3X2FaazJrRWhz?oc=5",
+   "source": "Capmad",
+   "ts": 1794400800,
+   "theme": "fisc"
+  },
+  {
    "title": "PLF 2027: La majorité propose un IS à 40% pour les cimentiers et les télécoms",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTRBb1pvVUg0QkpRckY3N2ZISlZTQUFCNEFmYzllcEQxRWZFcXkzX2xpSEI0cWJzZnQ0X2lnbnlzcjlnZk9jQXZkb3hZOFM1RUMtVVNqbzZpNmM0YlhhMU51aVlxQlR6bXRkUGQzdUMyQXZfeG05VGg2MFo4WElzYllISFJnSXVqS3hxekY3YXBKNUNKRWowQXQwTnk5alZSMXU0M3lsd2tabXo4d1QzTm5xYw?oc=5",
    "source": "Boursenews.ma",
@@ -147,6 +168,13 @@
    "source": "Éditions Francis Lefebvre",
    "ts": 1794389024,
    "theme": "fisc"
+  },
+  {
+   "title": "Journée internationale de la comptabilité : Faire de la profession comptable un acteur incontournable du développement économique du Niger – Le Sahel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR1N4czNWclA3TWlwVEdobHVLaUo1dk14SEVKY1JKUWlfSzdUM1VJdWFOMnhFZXBXbG5EenFadFRDd2Nra2VldHRfcDl2eHBBVUk5TlRqQWNmTkdjVDFRTDBEbW40cjBwdzgzOFpuYVZkU2pjS29GMWxFaWRZQVRxVmlxVU02ZGhtSjJJOVp2LWxqQTh0NUR6VFNfUGNGTXBFZENzT0I2MUFhUzk3NGRXR0NjYnFpUmJHN1pRSVRnNXQtQ2hVVktKSFlJM3p3c0FRRGhxVHcyYVdGTm13eDRFTHNsbGZwN1RteGZab05lWHZIMGs?oc=5",
+   "source": "Le Sahel.org",
+   "ts": 1794388429,
+   "theme": "compta"
   },
   {
    "title": "Une réduction de 30 % de l'impôt sur le revenu sur deux ans profitera à des centaines de milliers de petites entreprises en termes de trésorerie.",
@@ -1085,34 +1113,6 @@
    "source": "Les Numériques",
    "ts": 1793891766,
    "theme": "fact"
-  },
-  {
-   "title": "RSA, AAH, minimum vieillesse… De combien ces aides sociales seront-elles revalorisées en 2027 ?",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0VEWlZuYUctX3k3RjBMUWNBOTg3aTh0dEhob2VaQTAyVy1jU2ZMekQxNmlSUjBicmZKTFk0Y3ZsTTF5WUN3NldSeV9iUmstaDlGd1RDa1RZRmRTUVZpZFEyd1VkMFZCR1BTSnRFZHJIakhKVGZvdE55SHJNLWFYVjdjcXp0czg4d3pvSzh4ZjhNVDhFRlpISVVObUdqRlNVb3J4UEZCMkgxQXpTampjcWlyTkw1RFdRTjF0Y1ozMHgtOHZFUkY4ZUF3?oc=5",
-   "source": "Le Figaro",
-   "ts": 1793891348,
-   "theme": "fisc"
-  },
-  {
-   "title": "L'Opco EP exprime à son tour ses réserves sur la plateforme unique de l'alternance prévue par le PLF 2027",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwc0V3RFh0WER4TF9tYmZOejFrSXJyeUNuVDVOYmhSZlhHeEN5Z094dmlqdUhTejFaMHJHX0prMFBkbnFVeE9WSnQ1U1Y5Zw?oc=5",
-   "source": "AEF info",
-   "ts": 1793891222,
-   "theme": "alt"
-  },
-  {
-   "title": "Expertise comptable : l’Algérie veut prolonger jusqu’en 2030 un régime provisoire créé en 2010",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDRiLXc4dnJQZ1JGeF9TQ1NYQnFGWURCSlJVQURBY0FrRjFoc3JzU3FXMm9hbDRHdHhvMHUxOG5BT1JEWWo4YnpYYVZWc3lCYkRhb2lzTEpBZk5qRXZNT3AtN3gzV25iSTNOV2hQZU1zSHNEVTlYUXctOEZHMzJ4MFoxcVktMHJxNGZORlB6cGU?oc=5",
-   "source": "Twala",
-   "ts": 1793890020,
-   "theme": "compta"
-  },
-  {
-   "title": "Le chômage des jeunes grimpe à 21,6 %, celui des 50 ans et plus à 5,5 % : le détail de l'Insee par âge",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmhaVTQ5TkVQa0dCSXJROXpudWdjdGs0aWprbk04QWI2X0RSZmJHb0UtMUdqQ0ZMMDNCaTBWMENPaTljT2x1ZUdLOVRHZWRJWTczcVFZRXowSUVvV05pQVh6cEFZVjByUmZKdkV3alVxT3pmLWlaal9jbXE4b0ppUGVoZ3YwOXVVT2l3YmNCTFp3UnhvczAwZHlWdlgyc0t0TE1j?oc=5",
-   "source": "JeChange",
-   "ts": 1793885400,
-   "theme": "alt"
   }
  ]
 }
