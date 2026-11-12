@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T15:06:03+00:00",
- "last_success": "2026-11-12T15:06:03+00:00",
+ "updated": "2026-11-12T16:13:48+00:00",
+ "last_success": "2026-11-12T16:13:48+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 18
+   "count": 19
   }
  ],
  "items": [
+  {
+   "title": "\"Il a tout pour être un bon politique, il commence déjà avec des casseroles\": candidat à la présidentielle, Teddy Riner voit ressurgir des démêlés avec le fisc",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNODBLMzVRQ1FkckI3WEdrNHhTblVwQ1pRS0J3VjExTXhpalpVRjRjWkk3N01QbldxRjhweENSMTU1UmJ0WmpnZE1OX2c3X3VKX0d5QTNIQ095RjRYMGxkbDk5eTZBaHJXMXRidEYzRmMxTkNRaFpQczgzeml0OXRDQ0h1RnZiU2xibWMxMGtNVE91OS1seHpVR0ZTam40OUtnVW1XVHAwbUFYbm16ZWpMMVZlLWVBYXVnSGlhbkxlTzZYajBILW1DbUlEU2paTlVvV3E0RWJjSWpDNGpEXzE0c3g3b04tTjc1cUt5Nk5xeGlsd2tGRmJlelVFMHNNUjNHSEtXVVpLcld2UGdSM0wxQ25pOXZaaTZockY1VDlCYU1uRUFxVk84bDRJc3A4emU2dTZkMnl3UzU4dHRaZmdJ?oc=5",
+   "source": "RMC",
+   "ts": 1794495651,
+   "theme": "fisc"
+  },
   {
    "title": "Facture électronique : la réforme ne fera pas payer vos clients plus vite",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzEtejd1cVdQakVPd29VZHRjTUcxbHZrbGxnOE43RlpreXJHYmJUWjJJeDY2bFNsU0I5TmxFNUtFUnloVHFfdVAwanI5UGtKSXp4MlhENFh4OER4TklwRFZZOW42d24yMzdxMmtCUTFtUnRaUDNRX1N2QTQ5YzlhWjFnYTI5NURfY0FtLWdjYUExM0hzUk10MDFJVS12OUwzNzNZNnZQel9IVmRCUlRCVDZvZ08zcUVf?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1793957301,
    "theme": "fisc"
-  },
-  {
-   "title": "Expertise comptable : le chalonnais Exedra rejoint André le Groupe",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSEJzM18xd29KQ0FwM3NTOWtiX3RQM042d2lLbXJPck5keUdaODdWNnlBclFRMGlUcWdSOVdfNURuN1BLeFZXdTRlSnZtWWszeHlhVzJ1cGg4cWNvaURnSlZyRUpxai1KRDJ0MncxbkhKd1JMckpJTV9yQzFyYU1lUHl0R2YxdlRTaUdnNG9Oay0wUUZDSXRFWXBNVy1SWVhybENhLQ?oc=5",
-   "source": "Lyon Capitale",
-   "ts": 1793954321,
-   "theme": "compta"
   }
  ]
 }
