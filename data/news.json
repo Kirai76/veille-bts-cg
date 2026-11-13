@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T04:03:53+00:00",
- "last_success": "2026-11-13T04:03:53+00:00",
+ "updated": "2026-11-13T05:09:55+00:00",
+ "last_success": "2026-11-13T05:09:55+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 56
+   "count": 57
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -50,17 +50,17 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 19
   }
  ],
  "items": [
@@ -105,6 +105,13 @@
    "source": "Ouest-France",
    "ts": 1794500823,
    "theme": "compta"
+  },
+  {
+   "title": "Banques pro proposant la facturation intégrée aux freelances : 4 offres comparées sur la facture électronique",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1RNX2RLLUxmTnFacnRXVlNJT2l1TlhWQlhsclhSNU0yeHg5aDYzM2p1d1Z3S2p3SmpGUWhGNS1vRmYwREt1VF80a19RcnRGNzNEWkk5c0daaFNkUmFkR1Z5UkxRNXBJVjJRWDRCdnlXaU81aWRWeG8wbTJYQnl2ZVpaVC1TbWlXZFZPOUEwSEYxRVE2MlA1ejVOMUh6S1VfSjFyLXY1UlVVUi1WeXkxcWw1cTlhQk5feWc?oc=5",
+   "source": "lebigdata.fr",
+   "ts": 1794496800,
+   "theme": "fact"
   },
   {
    "title": "\"Il a tout pour être un bon politique, il commence déjà avec des casseroles\": candidat à la présidentielle, Teddy Riner voit ressurgir des démêlés avec le fisc",
@@ -1106,13 +1113,6 @@
    "source": "Burkina24.com",
    "ts": 1793974193,
    "theme": "fact"
-  },
-  {
-   "title": "Fiscalité des entreprises : les recettes d’impôt sur les sociétés reculent de 2 milliards d’euros e...",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN21ZWVVTdlRZOC1nYWtUNWVuUk1pZ05BYjFHblplXzJHUlNhM1ZxcDdFYTVYX3Z4ZllXcHFTdXN2bXFEUDMzVVdJNmNSS2FuUjlxNUVOelZaZjh6TG9HbUU3a1YtVUpmM2JxWk93d0xCQXRiU0xrdHdHLUFFOGVjZ1oyaF9IQzV1TFU3eGRqVE5YbG5BUElrQW8tNjktZkp2Mm1DaldTazYyazJTN3dId1NxcGFmZnA0NkduRHphdHNHeVJpR3ZYN1lWYXRfaGxqMFRBNHBrSVZLZVdsQ2dpX3ZlNjlNLUprdVU1c3NqSHhIanI2UElSNNIB_gFBVV95cUxPd3pKMDJfaS1BdjN5VGd1WkV1aW1ReVc5bW15eEJhUEtGV2tLNHdwWDNwdHdWUS15bmdacjVaaWJQbE54akdRUG1xenVmT1NJdDNBcWROeDZJMEVrRVdoUi0wU2R1MGtacndmWExRM1UzUTlzTlRyWFBSLU9YS1FNbWlrOTRVY0ppd09fc25PUF95czgtTTRWVFFjMWp0eGtCZkRwbF9YWGdRWnQ0MHM5dHgzSGtSTWVkTU1rRndkdG5PR193THN3QUJCWTE5UGRlTWltdEtIcm1Xb2NhOW9fS1BYUUdaQ0hCV1ktcHVDMzJxZlBzVGJTRDlaWXJfUQ?oc=5",
-   "source": "Daf-Mag.fr",
-   "ts": 1793973379,
-   "theme": "fisc"
   }
  ]
 }
