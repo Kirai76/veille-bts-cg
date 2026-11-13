@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T21:55:40+00:00",
- "last_success": "2026-11-13T21:55:40+00:00",
+ "updated": "2026-11-13T22:53:28+00:00",
+ "last_success": "2026-11-13T22:53:28+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 56
+   "count": 57
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,23 +60,30 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "Logiciel de facturation auto-entrepreneur : les meilleurs outils compatibles facture électronique",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPbF8yOGxmVmw4VE8tZmVtTkhnLVNKV0FSTW9zRDJPRTRWa2VXRVdvQTJKeENYSUEzWHJwLWZPZ3BaTkxoZVV2c1JPQXZzVERMMjRKcHg0OXdQVk5NUy0wWDJDajZKMmZVQ2xxWkF0RHBHSDQyeXlPVUQybnRFeWd1TDJBSGJ3ZlBNRjU2MTNrcE9DMmZkd0ZlVVdLQzFIUUpNdTFXZy1IQVdwd2RaVmpYcHA4LUJFb2RZNjItcnVCRnhlNHB2S0IzMmpweUpBX21SLXpFUEFGQ0psbUNtc2RXT09HTTFoZzFReHVISkpfY3NnRzFUX3VZSFVuQzdsaXNuelBkX0R3Y3BjdW9ZU3BkeDFIYlRPemRjV3BBLV92eW1HZFQ3SGZsbWlqWEFVQ3Y5?oc=5",
+   "source": "Le Parisien",
+   "ts": 1794607800,
+   "theme": "fact"
+  },
+  {
+   "title": "Budget 2027 des Finances : les députés réclament une évaluation de la loi sur les chèques",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1RmVWw1WXo1R2VkNnhWS293Mkp4WXVWS0VmQjNfNXhkdjdFOFdmdktxV2dsSU1oZGdpWGxhVk1tNHRKeGJQclk0N3FkYVVJWDAtZmhQTTBvQ2R3Mm9DVnFiNDBVbWhOQk9fSEVjZ1JKZ1ZraDZvRFByVjYtdV8tVGxRZExMbGx6UEJkbWgzQnVHak9ZZjBZSXRlRFJQdW9VUGN5VzN2U1JfU3NmVUZKcWlLYXRnakxWdVptc3FQV1lSdFdxdF9JT3pweGhoTmZLbmc?oc=5",
+   "source": "Leconomiste Maghrebin",
+   "ts": 1794591750,
+   "theme": "fisc"
+  },
   {
    "title": "Apprentissage en petite enfance : des candidats, mais des crèches qui renoncent",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2xpVEp3SjVTZTc3bTByM1VrOExFQ1VFelRGcjVLLWwzeGJyR19jdEkzOUNqYzV1ODNXazhpanN4X3lhTkg0d1dhanZ1cmUwcE1LVW5KbUpDdm1LWWFic3pRVjBRU25HVUxaQjRZV2k0c05QaDE3XzlvRDB0N08zUnhUQXZoQXM3Tk1KWGdYYlBHa1BvR1Z6RjZwT3RjN09lZzZyQm5GSk1SME96T1pzekVDOUJ3WUwweVlaRHV5RGhDRFZtRWhn?oc=5",
    "source": "Les pros de la petite enfance",
    "ts": 1794588392,
    "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 des Finances : les députés réclament une évaluation de la loi sur les chèques",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1RmVWw1WXo1R2VkNnhWS293Mkp4WXVWS0VmQjNfNXhkdjdFOFdmdktxV2dsSU1oZGdpWGxhVk1tNHRKeGJQclk0N3FkYVVJWDAtZmhQTTBvQ2R3Mm9DVnFiNDBVbWhOQk9fSEVjZ1JKZ1ZraDZvRFByVjYtdV8tVGxRZExMbGx6UEJkbWgzQnVHak9ZZjBZSXRlRFJQdW9VUGN5VzN2U1JfU3NmVUZKcWlLYXRnakxWdVptc3FQV1lSdFdxdF9JT3pweGhoTmZLbmc?oc=5",
-   "source": "Leconomiste Maghrebin",
-   "ts": 1794588219,
-   "theme": "fisc"
   },
   {
    "title": "Impôt sur la fortune tunisien : les TRE taxés au-delà de 3 M DT nets",
@@ -1106,13 +1113,6 @@
    "source": "Kohen Avocats",
    "ts": 1794090600,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : 1,8 million de factures enregistrées, dont 37 000 réglées",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1lySzhtdnRwV1dzd2dXMzlmN3MtelBpQldCcm5rVVZrc2ZlREU0WWt6V21rLTA1U0ZSTzFQSG9QRDhlcFRxNUowLXNjdmpFUXMwbXdBeU5rZDlVOTgxQUVSVmhxQzVfZ1c2TTBXUV8yV1c4OVBqRlF6d3FQRFJjOW4zaUdhVEZUVDRmODhpZkxzdmR5cFJtd3lVaDI5ejhJY2ZWZFNiZGRnY18xZTR2dzBGdnNNWmM?oc=5",
-   "source": "La Presse de Tunisie",
-   "ts": 1794086224,
-   "theme": "fact"
   }
  ]
 }
