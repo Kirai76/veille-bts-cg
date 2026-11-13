@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T14:59:23+00:00",
- "last_success": "2026-11-13T14:59:23+00:00",
+ "updated": "2026-11-13T15:58:25+00:00",
+ "last_success": "2026-11-13T15:58:25+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -69,6 +69,20 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0l4N2ZURDZlM1pFSGppOW92a09NZXAtamFHeEZVQnJGbkpOaWQ5aVJwRHlfajhUNzBXY05FcktZa2dOMklLWkJyZ3BJOHlFVGo4ZDJCeHNkZE10TWhJU0dsaFVaRWtPdDdBZmp5cW1TbmtybkRUS2xUQTNKc2ZPcjNBemQySUdFdHpQZDRVRDhwOUV0T0k0Rk80YkVlbjJpbHNtUjA2S0xXMWhqdzV6RTBBUWotSU16OFQxbGczb0lOR3ZFNzVUaE1xLWNEbXJGRGc?oc=5",
    "source": "Tunisie Numérique",
    "ts": 1794579300,
+   "theme": "fisc"
+  },
+  {
+   "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réfor...",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
+   "source": "DECIDEURS MAGAZINE",
+   "ts": 1794578726,
+   "theme": "fact"
+  },
+  {
+   "title": "« Plus on augmente les impôts, moins les riches payent d’impôts… et c’est logique ! » L’édito de Charles SANNAT",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUJNSWdpa3JENGNKdXRrbWdDQnBkRC15VVZub0FSU2V5Y0RHVUo4NUloWjJhc0doZ0NuN2U3Q25oX0xTWXhfbXctTGVoaGRCYy1yeVpHM3M5VUdzVnEtQXV2X0x2RFNUZ2Y0dTYteVUtWUlpc0xDT0FQdWN1cDBYSW8tWWdRVU1FTndubVRWX1N3TEJSSUZnZzdSZWFweDNKWGpEMnpUQm00VmdGTWphTWtYRlYzajJNUEF4bnNocXlCcXB5YkRmNQ?oc=5",
+   "source": "Le Grenier de l'éco",
+   "ts": 1794577138,
    "theme": "fisc"
   },
   {
@@ -140,13 +154,6 @@
    "source": "Nice-Matin",
    "ts": 1794565538,
    "theme": "compta"
-  },
-  {
-   "title": "« Plus on augmente les impôts, moins les riches payent d’impôts… et c’est logique ! » L’édito de Charles SANNAT",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUJNSWdpa3JENGNKdXRrbWdDQnBkRC15VVZub0FSU2V5Y0RHVUo4NUloWjJhc0doZ0NuN2U3Q25oX0xTWXhfbXctTGVoaGRCYy1yeVpHM3M5VUdzVnEtQXV2X0x2RFNUZ2Y0dTYteVUtWUlpc0xDT0FQdWN1cDBYSW8tWWdRVU1FTndubVRWX1N3TEJSSUZnZzdSZWFweDNKWGpEMnpUQm00VmdGTWphTWtYRlYzajJNUEF4bnNocXlCcXB5YkRmNQ?oc=5",
-   "source": "Le Grenier de l'éco",
-   "ts": 1794564293,
-   "theme": "fisc"
   },
   {
    "title": "Facturation électronique : les propriétaires qui louent un logement meublé sont-ils concernés par la réforme",
@@ -1106,13 +1113,6 @@
    "source": "Compta Online",
    "ts": 1794041561,
    "theme": "fact"
-  },
-  {
-   "title": "« Un choc fiscal d’une ampleur sans précédent » : La France insoumise fait le pari risqué de lever 106 milliards sans détériorer l’activité",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaEhiMHRDNkNaS3dTYXlNck8tdUkwUmttOEs0OE9GQkZpVGVDaklxV2x6WFRBVUIzNkFaMDZNWlJsNWM3N21oWGw0dlpQTWw0TVpKbGNIbDJTbzA5WGxzcWd1dWx1djZnR1NHSTRaN0RBWTVua19NblZsNmttdjZXSlFYWWdsdEEybnJsNzJ2bGVNYzNWb2JvbldWb1c3Y3FySmIzOVppMWM3N2VpMndGd3YtWHBJNEtjY0tjalQxQU96d1NNS0tURFFITXNnWWxzUHNEaV9GTkJyTWtmaHdqbmtDZnhWel9pRXdtR1E1c0NJRk5tU1VhdlZjUzRuVEt2c2lZ?oc=5",
-   "source": "Challenges",
-   "ts": 1794040080,
-   "theme": "fisc"
   }
  ]
 }
