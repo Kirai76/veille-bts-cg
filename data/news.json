@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T01:21:23+00:00",
- "last_success": "2026-11-13T01:21:23+00:00",
+ "updated": "2026-11-13T02:57:09+00:00",
+ "last_success": "2026-11-13T02:57:09+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -91,6 +91,13 @@
    "source": "Presse Agence",
    "ts": 1794502800,
    "theme": "fact"
+  },
+  {
+   "title": "Concours de prof à bac+3 : « bradé » ? Le patron des INSPÉ répond",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmEycThCRUZkOGhISWo4WkVRR2NCRXhlMDdRUVFMYi1xUmQ5Tkh2SnAtRHd6bmhjMGV6VHBpWTFVdHY4TlFuOC1DS2dBTG14cUdkT0hOQWJtTVhxNWFhbmRWd3ZUWUNYSXdyZ2tZbUJ1ODhEck9HUFpUeTF4dmUwTnFLaGlkT1V4bjU0cEVCSDhoNmlNTkxpVGV6WUM0VmxReUdtUXZxUHR4WFA1YjBHeV83Qmt6aHpWbm0zS2NQQldEbllmZElxMw?oc=5",
+   "source": "Studyrama.com",
+   "ts": 1794502422,
+   "theme": "alt"
   },
   {
    "title": "Avec l’intégration d’Inea expertise, le groupe nantais d’expertise-comptable Amarris renforce son ancrage à Rennes",
@@ -1106,13 +1113,6 @@
    "source": "La Gazette France",
    "ts": 1793973285,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : le rejet du budget 2027 change-t-il vos échéances ?",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXdBaW5XTE9lSUhWZVJHdi1Nczg4TmhuT3EybURRVnRHeHZtZXphR3lXTnN4d3F5WFZsaUhiUnFZaUpOdGRJdkxxcnpTZmpEU1VHYnVpSzlTaWdzQTM4dlFWNHE5UG9aWXZOMURYT3BBbWFUSTdhMi1uVWpiSXBEdWY1UWtyYWlTNW1ldGh1eE9ybi1lR3Z2S1hXWFdQajJtR291SDJvMGlqRzBOQUw5aFRkakQwdVd1Sld0Skp5eFRIWWlY?oc=5",
-   "source": "Démarches Administratives",
-   "ts": 1793971093,
-   "theme": "fact"
   }
  ]
 }
