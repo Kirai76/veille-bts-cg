@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T15:58:25+00:00",
- "last_success": "2026-11-13T15:58:25+00:00",
+ "updated": "2026-11-13T17:04:04+00:00",
+ "last_success": "2026-11-13T17:04:04+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -65,9 +65,23 @@
  ],
  "items": [
   {
+   "title": "Apprentissage en petite enfance : des candidats, mais des crèches qui renoncent",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2xpVEp3SjVTZTc3bTByM1VrOExFQ1VFelRGcjVLLWwzeGJyR19jdEkzOUNqYzV1ODNXazhpanN4X3lhTkg0d1dhanZ1cmUwcE1LVW5KbUpDdm1LWWFic3pRVjBRU25HVUxaQjRZV2k0c05QaDE3XzlvRDB0N08zUnhUQXZoQXM3Tk1KWGdYYlBHa1BvR1Z6RjZwT3RjN09lZzZyQm5GSk1SME96T1pzekVDOUJ3WUwweVlaRHV5RGhDRFZtRWhn?oc=5",
+   "source": "Les pros de la petite enfance",
+   "ts": 1794588392,
+   "theme": "alt"
+  },
+  {
+   "title": "Budget 2027 des Finances : les députés réclament une évaluation de la loi sur les chèques",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1RmVWw1WXo1R2VkNnhWS293Mkp4WXVWS0VmQjNfNXhkdjdFOFdmdktxV2dsSU1oZGdpWGxhVk1tNHRKeGJQclk0N3FkYVVJWDAtZmhQTTBvQ2R3Mm9DVnFiNDBVbWhOQk9fSEVjZ1JKZ1ZraDZvRFByVjYtdV8tVGxRZExMbGx6UEJkbWgzQnVHak9ZZjBZSXRlRFJQdW9VUGN5VzN2U1JfU3NmVUZKcWlLYXRnakxWdVptc3FQV1lSdFdxdF9JT3pweGhoTmZLbmc?oc=5",
+   "source": "Leconomiste Maghrebin",
+   "ts": 1794588219,
+   "theme": "fisc"
+  },
+  {
    "title": "Tunisie : chèques, article 66 et financement des jeunes… des députés réclament des ajustements au PLF 2027",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0l4N2ZURDZlM1pFSGppOW92a09NZXAtamFHeEZVQnJGbkpOaWQ5aVJwRHlfajhUNzBXY05FcktZa2dOMklLWkJyZ3BJOHlFVGo4ZDJCeHNkZE10TWhJU0dsaFVaRWtPdDdBZmp5cW1TbmtybkRUS2xUQTNKc2ZPcjNBemQySUdFdHpQZDRVRDhwOUV0T0k0Rk80YkVlbjJpbHNtUjA2S0xXMWhqdzV6RTBBUWotSU16OFQxbGczb0lOR3ZFNzVUaE1xLWNEbXJGRGc?oc=5",
-   "source": "Tunisie Numérique",
+   "source": "Tunisie Numerique",
    "ts": 1794579300,
    "theme": "fisc"
   },
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5RDY3YlNnY0FOM2M2WTBFWnRLYUhnZnpYdmpQTU12X1hkUU1ZeEo3RnRBeFBKRGZMWXJyR0IxUXlxbnVVcXFTVUxCb3lCbmNqUG1Ta0JaVnpnWmh3dHZrQ3Z5bGgzcVZoa0o4bFJtUGtPdw?oc=5",
    "source": "Compta Online",
    "ts": 1794060824,
-   "theme": "fact"
-  },
-  {
-   "title": "Tunisie : 1,8 million de factures électroniques enregistrées, seulement 37 000 réglées",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ib2dueTd3SlZYLTJHS0czV2NBd3JWTjF2MXZfNE5aeEN4c3NIVkJIZS0xNlF4RGlHQkdqMW5vYlp2S2drN2FsWlJCTWNLeENPQXFVbnNfNXdSck5EVnU4cVEwUXdhMUZ1czRIazk4LW11SURUX3EySUtpQ1Axbzg?oc=5",
-   "source": "Tuniscope",
-   "ts": 1794049425,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : préparer les dossiers clients avant 2027",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjkwLUswMVBkN2JYUm5GdlRieW9YYVRmb0ExTDdXN3NjbEZzRDlEX1N0TmtvcC1fYWp6YmxSQi10dHljekJNLUNRTXltZkYzZ3U2b3ZrMGR6bzF1Q1p3Wi00b3RCanFXR01oLTlQYktVMW9sS2tTMElnd3ljX2FMVm5BMA?oc=5",
-   "source": "Compta Online",
-   "ts": 1794041561,
    "theme": "fact"
   }
  ]
