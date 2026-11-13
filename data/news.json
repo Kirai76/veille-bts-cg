@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T19:05:22+00:00",
- "last_success": "2026-11-13T19:05:22+00:00",
+ "updated": "2026-11-13T20:02:29+00:00",
+ "last_success": "2026-11-13T20:02:29+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -79,6 +79,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Impôt sur la fortune tunisien : les TRE taxés au-delà de 3 M DT nets",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnlIMTIxSXl6b0x3Rk5aUUtLNlZaaDV4YjhRTjBJbEtCZl92ZXdGVUxvb3dxWnpPUV8yVndvWG5kRTR3eXREQVFpaUNjWUNETzZ3UWE1OHNnNFJNczRaa1pPVVdDcUd0OEVFelF4cTB2MWRuWTBBWGJPbVdCLUxtQXZ3d2xUTDcwSGl2emNWbFh5TEI2aV9CVWVvTW9vbE5FV1FISDFab1o4S1BsS1E?oc=5",
+   "source": "Mediaterranee.com",
+   "ts": 1794585977,
+   "theme": "fisc"
+  },
+  {
    "title": "Tunisie : chèques, article 66 et financement des jeunes… des députés réclament des ajustements au PLF 2027",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0l4N2ZURDZlM1pFSGppOW92a09NZXAtamFHeEZVQnJGbkpOaWQ5aVJwRHlfajhUNzBXY05FcktZa2dOMklLWkJyZ3BJOHlFVGo4ZDJCeHNkZE10TWhJU0dsaFVaRWtPdDdBZmp5cW1TbmtybkRUS2xUQTNKc2ZPcjNBemQySUdFdHpQZDRVRDhwOUV0T0k0Rk80YkVlbjJpbHNtUjA2S0xXMWhqdzV6RTBBUWotSU16OFQxbGczb0lOR3ZFNzVUaE1xLWNEbXJGRGc?oc=5",
    "source": "Tunisie Numerique",
@@ -98,6 +105,13 @@
    "source": "DECIDEURS MAGAZINE",
    "ts": 1794578726,
    "theme": "fact"
+  },
+  {
+   "title": "Députés réclament évaluation de la loi sur les chèques",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdV95Y1RoenMtN1VMd2FkN1dvOENpZ3lMQUoxZTNwVEdqNUItM052eTJ3RWFCUzc1Q3YwVzJUczYzcmdLZFZnVDNlUlFIcmVNZWZEcm44eUVwN2VPT1pLN1lscERJRDZTYWZVdnRwN2oxZEdQcXpWQ3FleG1HUXBpaGFxMWlncDJWUUlTT2k1SFF2aWFwM2VrbG9fS0R3VXdaVkVRQXZMSklNbXJTc2N3N0d1ZlBfVG1pbjZjTWM1TUF4N1Z4bEZWWktyeF9iMzhOLTJ4ekctWEVmQ3EzMXNB?oc=5",
+   "source": "African Manager",
+   "ts": 1794578425,
+   "theme": "fisc"
   },
   {
    "title": "« Plus on augmente les impôts, moins les riches payent d’impôts… et c’est logique ! » L’édito de Charles SANNAT",
@@ -1099,20 +1113,6 @@
    "source": "Challenges",
    "ts": 1794070800,
    "theme": "fisc"
-  },
-  {
-   "title": "Firme étrangère et URSSAF : comment embaucher un salarié en France sans établissement et contester le redressement",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0xVNWVLakVEczJLSzRZaWhpMk9yRXRXMzRBeEFma2RxQ1E1NmNfbmZUcFZBWEFxbkpCVDd1YmEwc2k5NGNLZEZFa1pkejJBeUU2ejljWTFTOThmVUNZU2M0SFc0MXFtU1BnRXRsVi1GNlVpYzJ4TTgzV2swWVItLU96T0hzVUhuZjJDU0RYVlZrQ29CUzhqZnVCU3FoNzJJbXFaeWJXMnZjcGFKWDFnbFNmUXB6LTk0QWRfbUdqV21ScEk?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1794066960,
-   "theme": "soc"
-  },
-  {
-   "title": "Facturation électronique : les raisons du succès de ces plateformes françaises",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcVlxNUtTZWlXWXRwQTJTTUhwWDFQaEU2enYxcVZKcFdCV25tWVN4Yzk0b1RoS29weXhpYkZMTnRNNmJBVGNyNG1mdHE1WXFSOFF6R0pacjlRS1k3RnUzNlFDbVMwSEp0Tl8wTXlmSWZnY0lQMnhGRUgyQjE1TDNtaWZ3b0QzWGVwMXo5MFJmd1VwSEd3bGpqQnNmbFZfQTN3TE0yWVEzbVNrRk1QZFluUHF4bEppWFNTUW00WDZWc0F0bEx0VHpzUmU4RDhjbEdhMmxCcG5VQkIzMGlhZXExVzZSek5RaFdXNFZXTnRIdEV2anN0SVJMRlNaZXN4Q3k5XzlSU2hWdVFteEUyLTRWbG0wQW1ONE0?oc=5",
-   "source": "Le Parisien",
-   "ts": 1794061320,
-   "theme": "fact"
   }
  ]
 }
