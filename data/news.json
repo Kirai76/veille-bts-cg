@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T02:57:09+00:00",
- "last_success": "2026-11-13T02:57:09+00:00",
+ "updated": "2026-11-13T04:03:53+00:00",
+ "last_success": "2026-11-13T04:03:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -50,17 +50,17 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 19
+   "count": 20
   }
  ],
  "items": [
@@ -370,6 +370,13 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXBPejVpZnVSSW5aTkVoQWVlWHY1bFdkY1Q4akNneEJEZEFHQm5zSVNDZUF4NndNWThXUVlIT244Zm1vZzlkU09mYktMS3QzblpVMmhHSXRRWFBwWG16MVFJbUE0OFh4OWVyejhvdmJUUjMzNjFkRUNqdHdlcWM2RkY4bEdDYUZkY3RmTlNzNkh5UXlsNHJTM3JBWk5wYnZhMGRJZzdEZ0JUaUJMY1BLRGlPbF8?oc=5",
    "source": "Vietnam.vn",
    "ts": 1794384510,
+   "theme": "fisc"
+  },
+  {
+   "title": "Taxe foncière 2026 majorée de 10 % : remise gracieuse, réclamation et sursis de paiement, comment contester",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVp2bmc0MVRDVE9BcXcwOURHOXVaYmUweXdXX0FJZnRZUjVXOXRRa1cySHZCN3BXRDZTbHFaVlh2c3FZOGtXMnotZ3ZDMTh3YTBJZGsyekJvUXJOamZRdE9hWVI3X3NlRW1KNHpzdU9DdHZMLXYxaWdOWTItMjhMYmFYLWxrQmlVLWtxcWVUZklVR1ZzZWc0dF9DWk5ySzlSekpZaWhDNzFVb3piUFh1djFIemY?oc=5",
+   "source": "Kohen Avocats",
+   "ts": 1794380700,
    "theme": "fisc"
   },
   {
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN21ZWVVTdlRZOC1nYWtUNWVuUk1pZ05BYjFHblplXzJHUlNhM1ZxcDdFYTVYX3Z4ZllXcHFTdXN2bXFEUDMzVVdJNmNSS2FuUjlxNUVOelZaZjh6TG9HbUU3a1YtVUpmM2JxWk93d0xCQXRiU0xrdHdHLUFFOGVjZ1oyaF9IQzV1TFU3eGRqVE5YbG5BUElrQW8tNjktZkp2Mm1DaldTazYyazJTN3dId1NxcGFmZnA0NkduRHphdHNHeVJpR3ZYN1lWYXRfaGxqMFRBNHBrSVZLZVdsQ2dpX3ZlNjlNLUprdVU1c3NqSHhIanI2UElSNNIB_gFBVV95cUxPd3pKMDJfaS1BdjN5VGd1WkV1aW1ReVc5bW15eEJhUEtGV2tLNHdwWDNwdHdWUS15bmdacjVaaWJQbE54akdRUG1xenVmT1NJdDNBcWROeDZJMEVrRVdoUi0wU2R1MGtacndmWExRM1UzUTlzTlRyWFBSLU9YS1FNbWlrOTRVY0ppd09fc25PUF95czgtTTRWVFFjMWp0eGtCZkRwbF9YWGdRWnQ0MHM5dHgzSGtSTWVkTU1rRndkdG5PR193THN3QUJCWTE5UGRlTWltdEtIcm1Xb2NhOW9fS1BYUUdaQ0hCV1ktcHVDMzJxZlBzVGJTRDlaWXJfUQ?oc=5",
    "source": "Daf-Mag.fr",
    "ts": 1793973379,
-   "theme": "fisc"
-  },
-  {
-   "title": "Alerte patronale sur le budget de l’État",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaGRPXzN1VERfRGpfMWFUSkxwc2JoUkN6NEtwODNWVTJpVG1RZ3h0cGdROHVzdFN5Z3F5Y3RjT1BIeTJkM3NwVEFaa01hU1EtNldINGh3SVF0X0tNN0F5XzYyc21FdnF6RUVtb1I4Z3FDT2dOVzhsUUdPRjNFLVBuS0lvUlJTQQ?oc=5",
-   "source": "La Gazette France",
-   "ts": 1793973285,
    "theme": "fisc"
   }
  ]
