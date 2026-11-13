@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T17:58:34+00:00",
- "last_success": "2026-11-13T17:58:34+00:00",
+ "updated": "2026-11-13T19:05:22+00:00",
+ "last_success": "2026-11-13T19:05:22+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -84,6 +84,13 @@
    "source": "Tunisie Numerique",
    "ts": 1794579300,
    "theme": "fisc"
+  },
+  {
+   "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réforme après son entrée en vigueur serait une erreur",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
+   "source": "DECIDEURS MAGAZINE",
+   "ts": 1794578726,
+   "theme": "fact"
   },
   {
    "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réfor...",
@@ -195,6 +202,13 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VGE4dEp5LUxaX2RabjhVREc3andNV0ZZdkJibnpxRFJYaFNGLWZJeTNqb0h2ajhZbXV5S2duNlpXbGJSLUdaWWtUZ1NaOU9Vc2hab3E5T092Y2FIX00yR3lIWVhIT0NEU3NxdzNxYUs2Q2VYRGc?oc=5",
    "source": "L'Essentiel de l'Éco",
    "ts": 1794550500,
+   "theme": "fisc"
+  },
+  {
+   "title": "Actualités économiques et sectorielles d'Asie du Sud - semaine du 9 novembre",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclpYb1JzT1cxb1JpUk1HMHJwbEFwQXdhX3NfSDgzNU5ZcThqcXFWb25TVkJqeWhHUjVRMFFIWmk0ZDFRM1NQclJPUUhrMW92NlVhWGxZNVAtb2I4ZnJFaUtxUkp3dkZUV0tWZ21LVVdyM1VwbFgyVk92RzE4LVFvcllrU1dwQjB0OFRSREpOR05iZG9za0c2Wk5MYlNkTmdXVVJ4NzI0MDduVmo3d1RMSzZNNnUxb25BbjZiTUlMb2QxLVJES3pJSVVR?oc=5",
+   "source": "economie.gouv.fr",
+   "ts": 1794524400,
    "theme": "fisc"
   },
   {
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcVlxNUtTZWlXWXRwQTJTTUhwWDFQaEU2enYxcVZKcFdCV25tWVN4Yzk0b1RoS29weXhpYkZMTnRNNmJBVGNyNG1mdHE1WXFSOFF6R0pacjlRS1k3RnUzNlFDbVMwSEp0Tl8wTXlmSWZnY0lQMnhGRUgyQjE1TDNtaWZ3b0QzWGVwMXo5MFJmd1VwSEd3bGpqQnNmbFZfQTN3TE0yWVEzbVNrRk1QZFluUHF4bEppWFNTUW00WDZWc0F0bEx0VHpzUmU4RDhjbEdhMmxCcG5VQkIzMGlhZXExVzZSek5RaFdXNFZXTnRIdEV2anN0SVJMRlNaZXN4Q3k5XzlSU2hWdVFteEUyLTRWbG0wQW1ONE0?oc=5",
    "source": "Le Parisien",
    "ts": 1794061320,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture électronique : 6 pièges à éviter selon le secteur de vos clients",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5RDY3YlNnY0FOM2M2WTBFWnRLYUhnZnpYdmpQTU12X1hkUU1ZeEo3RnRBeFBKRGZMWXJyR0IxUXlxbnVVcXFTVUxCb3lCbmNqUG1Ta0JaVnpnWmh3dHZrQ3Z5bGgzcVZoa0o4bFJtUGtPdw?oc=5",
-   "source": "Compta Online",
-   "ts": 1794060824,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture électronique : 6 pièges à éviter selon le secteur du client",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5RDY3YlNnY0FOM2M2WTBFWnRLYUhnZnpYdmpQTU12X1hkUU1ZeEo3RnRBeFBKRGZMWXJyR0IxUXlxbnVVcXFTVUxCb3lCbmNqUG1Ta0JaVnpnWmh3dHZrQ3Z5bGgzcVZoa0o4bFJtUGtPdw?oc=5",
-   "source": "Compta Online",
-   "ts": 1794060824,
    "theme": "fact"
   }
  ]
