@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T23:53:19+00:00",
- "last_success": "2026-11-12T23:53:19+00:00",
+ "updated": "2026-11-13T01:21:23+00:00",
+ "last_success": "2026-11-13T01:21:23+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 57
+   "count": 56
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
