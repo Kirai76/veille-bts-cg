@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T22:53:28+00:00",
- "last_success": "2026-11-13T22:53:28+00:00",
+ "updated": "2026-11-13T23:49:39+00:00",
+ "last_success": "2026-11-13T23:49:39+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Facturation électronique : les entreprises privilégient les logiciels",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWThyZkx5cXhHZWlWaTRfakdjbHVxXzUxNVVsdVB0QUpPRWFxQWc5ekNJUEZVZ2tnRzhwT3dGS0hvS1JhYkhDUGdmSVFvazNyUko2ZFFCSkVNSFo3eWNVa0ZHLUV5TGdLRHJ6Ry11LWxuYmJOaEJUUzM2aG50YjVrQzhhRURaeWFndTVvbjE1SjNCVlpoM0lfV3RYMHB2MjhMb1BkSVE5MU83eGIzbTVOaW43MUJUdw?oc=5",
+   "source": "Presse Agence",
+   "ts": 1794610800,
+   "theme": "fact"
+  },
   {
    "title": "Logiciel de facturation auto-entrepreneur : les meilleurs outils compatibles facture électronique",
    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPbF8yOGxmVmw4VE8tZmVtTkhnLVNKV0FSTW9zRDJPRTRWa2VXRVdvQTJKeENYSUEzWHJwLWZPZ3BaTkxoZVV2c1JPQXZzVERMMjRKcHg0OXdQVk5NUy0wWDJDajZKMmZVQ2xxWkF0RHBHSDQyeXlPVUQybnRFeWd1TDJBSGJ3ZlBNRjU2MTNrcE9DMmZkd0ZlVVdLQzFIUUpNdTFXZy1IQVdwd2RaVmpYcHA4LUJFb2RZNjItcnVCRnhlNHB2S0IzMmpweUpBX21SLXpFUEFGQ0psbUNtc2RXT09HTTFoZzFReHVISkpfY3NnRzFUX3VZSFVuQzdsaXNuelBkX0R3Y3BjdW9ZU3BkeDFIYlRPemRjV3BBLV92eW1HZFQ3SGZsbWlqWEFVQ3Y5?oc=5",
@@ -259,13 +266,6 @@
    "source": "AEF info",
    "ts": 1794507404,
    "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : les entreprises privilégient les logiciels",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWThyZkx5cXhHZWlWaTRfakdjbHVxXzUxNVVsdVB0QUpPRWFxQWc5ekNJUEZVZ2tnRzhwT3dGS0hvS1JhYkhDUGdmSVFvazNyUko2ZFFCSkVNSFo3eWNVa0ZHLUV5TGdLRHJ6Ry11LWxuYmJOaEJUUzM2aG50YjVrQzhhRURaeWFndTVvbjE1SjNCVlpoM0lfV3RYMHB2MjhMb1BkSVE5MU83eGIzbTVOaW43MUJUdw?oc=5",
-   "source": "Presse Agence",
-   "ts": 1794502800,
-   "theme": "fact"
   },
   {
    "title": "Concours de prof à bac+3 : « bradé » ? Le patron des INSPÉ répond",
