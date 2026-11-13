@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T09:13:12+00:00",
- "last_success": "2026-11-13T09:13:12+00:00",
+ "updated": "2026-11-13T10:10:27+00:00",
+ "last_success": "2026-11-13T10:10:27+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 55
+   "count": 56
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,20 +50,41 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 19
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "Ordre des experts-comptables d'Occitanie : Facture électronique, crise économique... Entretien croisé avec Éric Gillis et Marc Siré",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQmZkWEVmeXR1RlE1Rmd4MHdYQ0VLSzhWVHV5dDBwdGNGeURlV05Ed0lGYmtZZ1p3b3dqdWJ4OWE4VXl3WFRpU0RRZ19DTjJESVV1VTI3Z2dfYUZyb2dfZjRpNkxtNDVqOFZ2bVg2T1hPRE0yekNrZWNHYXR0dzBwempjc1hkaFU5bC1oRmlWT3hSY2F4eUwzRF9DYUp1dktHbXJOU3dBbVota19ZVDAyT2ZKUDJMdENidVh2RWZHbXBmT0JqcWJYQXZtVkpBVEtGM0hCNlh2blJHaUE5RXpqT3BzRy05LUZzSGxsOHBGXzVsUm5iQ1kyaDByVl9WaUJDMmVra21R?oc=5",
+   "source": "Echo des Tribunes",
+   "ts": 1794562980,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : les propriétaires qui louent un logement meublé sont-ils concernés par la réforme",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUTl2VnJ1eV9RMXFQSllySy1mTXVOYkF1a1pnaU9ncXVwNG9XRmNBV1F0Y2lwT01Wd3dEQ2hwdlI1LVUwVExEV21OQVpzMGlYdUZmUkp4LXZXMzNISko3djNWOUNNRVdDNzNmcFhyWnZHNURpSlRmWTVfWkU0VDVpbmlaZVhlalZ0UXpyRE5mbXhwVExYYU55cEx4QVRrZHZteWxHSVp3U2NNcV81djZySV9hUy04dEhxZUxlU3J0a1Q2RWF3eHJvZ3RsTUduYjd3MWNEemo4MENtLWIyVTQ2c0VoX3lvMzFSUGdTWHZJdUUzSWh4S2dWUTNGYnFfci1KZ1R4YWRwYV9ybEhucG1GemJLU1pIZDg?oc=5",
+   "source": "Boursorama",
+   "ts": 1794560940,
+   "theme": "fact"
+  },
+  {
+   "title": "PLF 2027 : voici la liste complète des amendements fiscaux adoptés en commission",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmo2OUZXOXdqTkVNRGhvZDRHOEhCVURjb21WODVtckQ0c2JGVS12d2ZhMW9icGVsTm02VGs2Ty1wM1dFUE93VnA5OXVuNTBobjFLZTg0Wi1VaWY5UVVyNkszb0M4RnZEZEstZldmU3VtcThDNFlORmlCd0VmdzlpZDlwME9PQ3psdG9ad2ZVWHB2UFBKV1VsWHRXTnJjQndsclpkUUMxOWJWbHphT095U1hITV9jSmFUOWow?oc=5",
+   "source": "Medias24",
+   "ts": 1794559020,
+   "theme": "fisc"
+  },
   {
    "title": "Vinci Autoroutes, la fin programmée d’une machine à profits",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzE3VmwwRUlhaUNXYk4zRnR2N2dBZmNDdEFaRlZsVUFkcFVFMlZOU0JhOXhMOHhoOTdvN2xkTEE0Smc3SzkxeUQtX2ZpeHNJbFJvd1d3WnVIYU41anJMSDNvUE12SWw3Vk1ndk9CTGxsaTV2U3E3aWc3Uks5MkViZjE3bDFCa2VqSkFqSlhGMWphUE5vNUE?oc=5",
@@ -196,13 +217,6 @@
    "source": "Admirals",
    "ts": 1794487002,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les propriétaires qui louent un logement meublé sont-ils concernés par la réforme",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUTl2VnJ1eV9RMXFQSllySy1mTXVOYkF1a1pnaU9ncXVwNG9XRmNBV1F0Y2lwT01Wd3dEQ2hwdlI1LVUwVExEV21OQVpzMGlYdUZmUkp4LXZXMzNISko3djNWOUNNRVdDNzNmcFhyWnZHNURpSlRmWTVfWkU0VDVpbmlaZVhlalZ0UXpyRE5mbXhwVExYYU55cEx4QVRrZHZteWxHSVp3U2NNcV81djZySV9hUy04dEhxZUxlU3J0a1Q2RWF3eHJvZ3RsTUduYjd3MWNEemo4MENtLWIyVTQ2c0VoX3lvMzFSUGdTWHZJdUUzSWh4S2dWUTNGYnFfci1KZ1R4YWRwYV9ybEhucG1GemJLU1pIZDg?oc=5",
-   "source": "Boursorama",
-   "ts": 1794485342,
-   "theme": "fact"
   },
   {
    "title": "Esker reconnue Leader dans quatre évaluations IDC MarketScape couvrant la comptabilité fournisseurs, le poste clients et la facturation électronique",
@@ -339,8 +353,8 @@
   },
   {
    "title": "AFFAIRES EN BOURSE : Banques ; la Lega menace d'autres taxes, mais Forza Italia (FI) temporise",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDNCazRtYWk0S08wR2pjZWctNG83MGVtYmFrQjNfVEt4SEIyVEIwbklxU3FVcm5iajM3UV9Pdmk4RGNWZkJTT2VlZ2hoX0hzeUdDWG83VWtkZFh0ZTJ5X0JHVWpLUVowMTl4cWN2NXlhNXVVdTRQdEgyUHNjS1FTclY1RXFISlVxbXYzUVpybGU4VGlHMUJGbnNJRHJLT29IaXduUk1YeHN1Y21PUUFaZnRTVlMwQlhUeEVkbzhVbGdCdmo2dmZGM3picUY5VEFQY1poRUU0RkJjVnFGUEpEZkNR?oc=5",
-   "source": "Zonebourse",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnMtREJTMWljTk50ejdLX1dRc0xIWlE4U3NkbDBuajc2cHVKdDBvNDhRczZVYnpZTUZack1ua1JKQWtpWlJYZFE0YS1WcWZ2NTlKRGNXSGtUaXdRbko5V015RXRoNHBiRXotMUNvdDZFVHZaS0N4R195NXRkck1iV04xb1ZITFpXTjUxZ1lBY08zOVZ2bWNFNGR2TzdQZE1oM3pMenR2U1ZFSUFTNFdvaDNhWFVvSmMyZURiWWVUeW5oU3BsQVZXNGZ2LWhqcklpMXZVNTN5WmJGbGNyRGh2Mg?oc=5",
+   "source": "Zonebourse Suisse",
    "ts": 1794404909,
    "theme": "fisc"
   },
@@ -1099,20 +1113,6 @@
    "source": "L'Humanité",
    "ts": 1793980080,
    "theme": "fisc"
-  },
-  {
-   "title": "Réforme de la facturation électronique : quel logiciel choisir avant septembre 2026 ?",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVRESjB4M1NsbXJMd2dzZXhPMUs0YlRfaXc2MDlKZmpiZE83SDEwWU9RNkJCYVNIM3NRY3pQM0dHVzJ5UmF6WGhwWHNWMnRIVlduQUZ5Um1CckdMRnY1MEJTR1FnVGhRUEpxazRzMW90WVRyTEJITzRJdTZpazZzbUdYWVVZRXNyWWszZkNNLW1meWF4ZUlOaTNuZGpqNVRqOGozTlc4SUJPblBEVVVaUS1aNTF1U1RNWmRaWQ?oc=5",
-   "source": "Clubic",
-   "ts": 1793979540,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : les fintechs profitent de la réforme pour conquérir de nouveaux clients",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOajJPMDVqNEY0Vy1td1o5SFl1SFFvZjNIcmpIZl85d2xrcFhMSGZ2b2stN29MbXlkTDVGa0I5bFVRYlFET19IN2dxMWFQaEh2Ym1BenV2Yk5EenZsVEVRUk5uR2twd2xSdWNKbERpNnY4alRTaWoxWUdZM0sxbl9GZTFaRGQzVUJrallNY2h3YlJrZDNQcnhzS21lWnlzcDA4eHl3NEROdTlSMFE0YUxkdWkySkt4STlzd1BGUDdBeHhYY190dW9rbVlpQU1DdkRpdEp1dHM5WnBIMVFkZXhZMElZbw?oc=5",
-   "source": "Option Finance",
-   "ts": 1793978609,
-   "theme": "fact"
   }
  ]
 }
