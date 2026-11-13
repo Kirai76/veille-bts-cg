@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T06:10:48+00:00",
- "last_success": "2026-11-13T06:10:48+00:00",
+ "updated": "2026-11-13T07:28:30+00:00",
+ "last_success": "2026-11-13T07:28:30+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
@@ -55,15 +55,29 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 19
   }
  ],
  "items": [
+  {
+   "title": "Vinci Autoroutes, la fin programmée d’une machine à profits",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzE3VmwwRUlhaUNXYk4zRnR2N2dBZmNDdEFaRlZsVUFkcFVFMlZOU0JhOXhMOHhoOTdvN2xkTEE0Smc3SzkxeUQtX2ZpeHNJbFJvd1d3WnVIYU41anJMSDNvUE12SWw3Vk1ndk9CTGxsaTV2U3E3aWc3Uks5MkViZjE3bDFCa2VqSkFqSlhGMWphUE5vNUE?oc=5",
+   "source": "L'Essentiel de l'Éco",
+   "ts": 1794553560,
+   "theme": "fisc"
+  },
+  {
+   "title": "Que pèse la France pour le CAC 40 ?",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VGE4dEp5LUxaX2RabjhVREc3andNV0ZZdkJibnpxRFJYaFNGLWZJeTNqb0h2ajhZbXV5S2duNlpXbGJSLUdaWWtUZ1NaOU9Vc2hab3E5T092Y2FIX00yR3lIWVhIT0NEU3NxdzNxYUs2Q2VYRGc?oc=5",
+   "source": "L'Essentiel de l'Éco",
+   "ts": 1794550500,
+   "theme": "fisc"
+  },
   {
    "title": "« Plus on augmente les impôts, moins les riches payent d’impôts… et c’est logique ! » L’édito de Charles SANNAT",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUJNSWdpa3JENGNKdXRrbWdDQnBkRC15VVZub0FSU2V5Y0RHVUo4NUloWjJhc0doZ0NuN2U3Q25oX0xTWXhfbXctTGVoaGRCYy1yeVpHM3M5VUdzVnEtQXV2X0x2RFNUZ2Y0dTYteVUtWUlpc0xDT0FQdWN1cDBYSW8tWWdRVU1FTndubVRWX1N3TEJSSUZnZzdSZWFweDNKWGpEMnpUQm00VmdGTWphTWtYRlYzajJNUEF4bnNocXlCcXB5YkRmNQ?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOajJPMDVqNEY0Vy1td1o5SFl1SFFvZjNIcmpIZl85d2xrcFhMSGZ2b2stN29MbXlkTDVGa0I5bFVRYlFET19IN2dxMWFQaEh2Ym1BenV2Yk5EenZsVEVRUk5uR2twd2xSdWNKbERpNnY4alRTaWoxWUdZM0sxbl9GZTFaRGQzVUJrallNY2h3YlJrZDNQcnhzS21lWnlzcDA4eHl3NEROdTlSMFE0YUxkdWkySkt4STlzd1BGUDdBeHhYY190dW9rbVlpQU1DdkRpdEp1dHM5WnBIMVFkZXhZMElZbw?oc=5",
    "source": "Option Finance",
    "ts": 1793978609,
-   "theme": "fact"
-  },
-  {
-   "title": "Apprentissage : profitez des aides au recrutement avant la fin de l’année",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2oyai1mdnNibUY4SmVpdFVhX3YyY3VEYmV2QU5ZWlpoczViMF9ZREFGUkNSM3Q4ZllmM0JNY3JjUE90Q213M0dPeWhXb0ZRTTZaLXNSMzN3X0FNQXB1dDZkX1RmakVWRklMVWZ1Yldod2Y3N1FfOHJjcGRnaHlnMlFLZVhuTFBvZFh3STJVX0dXRlFUZnVZcWozRjM2Uncy?oc=5",
-   "source": "Drieets",
-   "ts": 1793974646,
-   "theme": "alt"
-  },
-  {
-   "title": "Facture électronique : les auto-entrepreneurs qui ont fait ce choix sont ravis",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMGVFX3E3TWNLcW9mUlJMOUYwRzluQUpXcmVEMFdXWjRhcGwzTTFyczJkTWZOTEQ2UUtiYjE5b2pVVHZKdG93cmpRZEhqblRGS2FnV2ZDTnBtZXVDZm15c3pJTzFNOTZsTFdBZWh3ejRjU1FJNDJIUHBocmMycjRuSm1WbEM5cGRZYTdRaXFTVDF1RzRGQW9RODJkejFiN05lSXVVMXp3ODlHVzIzZXFSaXFodDlGMW1BS3pVc003RG55elhoQ2c5ZVBhVXZtT2VZNkhVd09OMUZaS1VpRnFLbGtwb1E0bktYRjd3MDdQWUZtZEVtTFYwaEtHc2RSek9xS2dudW5jUGRwd1FjOUhIazF4aGM0VHc?oc=5",
-   "source": "Le Parisien",
-   "ts": 1793974620,
    "theme": "fact"
   }
  ]
