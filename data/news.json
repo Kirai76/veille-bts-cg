@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T10:10:27+00:00",
- "last_success": "2026-11-13T10:10:27+00:00",
+ "updated": "2026-11-13T11:10:48+00:00",
+ "last_success": "2026-11-13T11:10:48+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 19
   }
  ],
  "items": [
+  {
+   "title": "Les entreprises espagnoles peuvent bénéficier d’allègements fiscaux pour les dons admissibles",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPbU5paGFIWmtZOHBhQ3NPSlN4T1J4SFd1TXN4RGVHb2VRd3Y0WC1kRWt3ZV9iV3RzUGFUNnBFU3p3clZCZ3ZwcHJqcjBEd0RjUmtlVG05UDFGSHdHYkJtN3dRSVM3anJtODRCNlJpbEQ?oc=5",
+   "source": "Mezha.net",
+   "ts": 1794567812,
+   "theme": "fisc"
+  },
+  {
+   "title": "« Qui mieux qu’un expert-comptable pour analyser un pacte d’associés ? » : la Cour internationale d’arbitrage Méditerranée veut attirer les professionnels du chiffre",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYkVBOFdrVUE3amgzZllSUmktZk5EVEJWMjJCZkNucjhVS0FPUWxYS2EtRjBEMXpITk0zUmVUMDJOdnQtUmUwamJINDJIQ2pKdVlQeTM4Z2R4anBkZ0lucWFCYWYxRWpudTRraWxZM1Q0OG9mZWMtbEtaanhUXzFqWW82VkR0cFdXV1lRRmRnUklIUjdRR0NlNnQ4ZFdMYVhWU1hJVXlBczNza3VpVlJsUnlnN0h4b3hDS1hnaC1CNC11OGh4YlNydDJqMF9FTUw2TzZlbVBHTWtnNXpuOS1xQXh5RTV5RzBpWEN2ZXVwMmZ2ZlRTM3doMWYyYVlEUHZybEZUMHducGY2SlNkRDgzRmlRWjh6MDVWUGxDZmEtTFktZTEtZ040RA?oc=5",
+   "source": "Nice-Matin",
+   "ts": 1794565538,
+   "theme": "compta"
+  },
   {
    "title": "Ordre des experts-comptables d'Occitanie : Facture électronique, crise économique... Entretien croisé avec Éric Gillis et Marc Siré",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQmZkWEVmeXR1RlE1Rmd4MHdYQ0VLSzhWVHV5dDBwdGNGeURlV05Ed0lGYmtZZ1p3b3dqdWJ4OWE4VXl3WFRpU0RRZ19DTjJESVV1VTI3Z2dfYUZyb2dfZjRpNkxtNDVqOFZ2bVg2T1hPRE0yekNrZWNHYXR0dzBwempjc1hkaFU5bC1oRmlWT3hSY2F4eUwzRF9DYUp1dktHbXJOU3dBbVota19ZVDAyT2ZKUDJMdENidVh2RWZHbXBmT0JqcWJYQXZtVkpBVEtGM0hCNlh2blJHaUE5RXpqT3BzRy05LUZzSGxsOHBGXzVsUm5iQ1kyaDByVl9WaUJDMmVra21R?oc=5",
@@ -150,7 +164,7 @@
   },
   {
    "title": "Banques pro proposant la facturation intégrée aux freelances : 4 offres comparées sur la facture électronique",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1RNX2RLLUxmTnFacnRXVlNJT2l1TlhWQlhsclhSNU0yeHg5aDYzM2p1d1Z3S2p3SmpGUWhGNS1vRmYwREt1VF80a19RcnRGNzNEWkk5c0daaFNkUmFkR1Z5UkxRNXBJVjJRWDRCdnlXaU81aWRWeG8wbTJYQnl2ZVpaVC1TbWlXZFZPOUEwSEYxRVE2MlA1ejVOMUh6S1VfSjFyLXY1UlVVUi1WeXkxcWw1cTlhQk5feWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOejBTcmlZQVBqeWRzMzB3Ql8ySUhWLXNpa3NJNV9JRVg3MnUzWm1TSW9TMGIzMVF6aW5rY0dwVG5WQkxmUldBSlFDOHBNZ05McWlPVGNScUlkYUJUcVhib1RkTURGRXI4NlNBNFZlUUUtQ1ZLNWwzT2t0T3hTdzNMQ25Eem8?oc=5",
    "source": "lebigdata.fr",
    "ts": 1794496800,
    "theme": "fact"
@@ -182,6 +196,13 @@
    "source": "JDN",
    "ts": 1794494309,
    "theme": "fact"
+  },
+  {
+   "title": "Il alourdit le déficit de 900 millions d'euros: contre l'avis du gouvernement, le Sénat reporte de trois mois une hausse des charges patronales",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTkpSdkVfZWI0b3VTbUk3aEN2cjQtS3VFbkxacXJMcEgzbUM4T3NiWWVKcmk2N3NCSF9GTy1LNWtVNGpZUnlwcnRIR0tJRXVPVTZVeE52N0pFTnM3NUNLcU10Z250TlN4Qm5rRFZYeXhhVF9EWkFCdkx4MlQ3OVFKNGZzdkx1cTN0aW95MTlHSmw0YTZhYzNDSU1ORC1BOGI1ZEVjTi11eXlnYVZ6WEdMd3hXNXZidjQ3U1BsRzAzVEJBci15Xy15U3E3VlYxeTRVcm5HT3gzSEpYbnp0N1R3T0J2TWszNmF0Sk5PcGtUVlFNeDF0SGVlWTFmV21DUy1RTy0zWlVsME9jMjczMEF5eWZkaWVsa1Q2UlAxak5BaWJiWWMzSVA3clZPNmhHUQ?oc=5",
+   "source": "BFM",
+   "ts": 1794493691,
+   "theme": "fisc"
   },
   {
    "title": "L'attribution gratuite d'un bien ou d'un service aux salariés à l'épreuve de l'acte anormal de gestion",
@@ -1092,27 +1113,6 @@
    "source": "Le Dauphiné Libéré",
    "ts": 1793987672,
    "theme": "fact"
-  },
-  {
-   "title": "Formation professionnelle : douze ans de pilotage par le budget (Laurent Durain)",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVF9VTG03OUo3UnV5dU03azBFeFBxSzROc2QyanNwczdmUXplRXY3NE5fcXBoOFNJOWdsUnZCeE14a2VFMjVtNXIwU0E4Q2k4VlVOZEtndWRnUGpZNFlKY2V1ZWtRRXBTbVJXeGlPbWExSDlpaFNaZUJNNmV5QW5DLWZPU3hBZUpnVkpMcHJPX2JlX3g0Tkt4MkpTR1ZIb1IyX1d0Z3RfZUFIZktTUDFua0Mxajk?oc=5",
-   "source": "AEF info",
-   "ts": 1793981601,
-   "theme": "alt"
-  },
-  {
-   "title": "Rejet du budget 2027 : l'exemption sur la facturation électronique annulée, le calendrier maintenu",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JEeW4zckF5cjhwYnBhd0c4d09IY3A3dmUta3h0MEF4NFNTaWZZaG53aUZqWHJKYlAzVTRtT0hHYk84cVBrRnZBZk8zVkxRaG5OZzN4SGJ2VlpWNVlWMTIzMWZtWjBnOW45OHUtZVN2ZlFpTDA4SEVvZTAwdGpxVlFyam83eldJT0UxalFCenZ0ODBndHl6VGlyU3lybU0yU0dNYVN1aTdCT2NTLXYtMXd3d2c2UC1ZSzdHVHU2Q1h0anV0cktqS0dMdGdhT1RzYkJB?oc=5",
-   "source": "ZDNET",
-   "ts": 1793980086,
-   "theme": "fact"
-  },
-  {
-   "title": "Cadeaux fiscaux : Macron a privé les finances publiques de 929 milliards d’euros",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVMtY3BVTWRwVThzUUVITTFodUZXcWVDa21FU2JrdW0wd1V3NjBySUN2M3FOSVNwUFBIMEFOSVpnMGhGa18xSE5uVnBWeU9zc3BlN0FFbE1xdnQwcFVrUXpXbXppeTFpSlI2S1JGZjlSZ0V4Vm9pLXlPUDI5SlVKb0VhanN0OXJtaVQ2TmJlQUJkaThpOU5lZFluajduTFlWbVZ2U1A0WDM3MGRwOXRZYTRhbFZYRlgzZ1pYemhkMmhJTEdfTnpRZnBvQTc?oc=5",
-   "source": "L'Humanité",
-   "ts": 1793980080,
-   "theme": "fisc"
   }
  ]
 }
