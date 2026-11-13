@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T21:00:17+00:00",
- "last_success": "2026-11-13T21:00:17+00:00",
+ "updated": "2026-11-13T21:55:40+00:00",
+ "last_success": "2026-11-13T21:55:40+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 21
   }
  ],
  "items": [
@@ -111,6 +111,13 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdV95Y1RoenMtN1VMd2FkN1dvOENpZ3lMQUoxZTNwVEdqNUItM052eTJ3RWFCUzc1Q3YwVzJUczYzcmdLZFZnVDNlUlFIcmVNZWZEcm44eUVwN2VPT1pLN1lscERJRDZTYWZVdnRwN2oxZEdQcXpWQ3FleG1HUXBpaGFxMWlncDJWUUlTT2k1SFF2aWFwM2VrbG9fS0R3VXdaVkVRQXZMSklNbXJTc2N3N0d1ZlBfVG1pbjZjTWM1TUF4N1Z4bEZWWktyeF9iMzhOLTJ4ekctWEVmQ3EzMXNB?oc=5",
    "source": "African Manager",
    "ts": 1794578425,
+   "theme": "fisc"
+  },
+  {
+   "title": "Impôt sur les sociétés: le ciblage du secteur des hydrocarbures ravive le débat sur la justice fiscale",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3pBQjVKWGY1dm82OVBoR2FDdVVzRllLNVhHTDRLSmhtRFBld1c5ZU1Ldjc5Vmh1VmNUSDloTkNzeFJDb1AyaGprWC1Ud3d2SUhVOXNYakRneVNKZzZ4Yzl5eDh1VGpHcXB3emNzdmtCcVh0bHFPNm1UT3cwelk2R2xTSlJxUEdfZzZnanRLLUFFazhDQWN1dUt5Y0tHcjRDcWxLNVJ1X3dVN2E1V2Z5MWphNGNVR0RhSDZpR2VKMlkxY3pqYUNUUU1uWXNMQ2VLUzBCb0k0Qk1DREwwTzRaSHBRYmhSUQ?oc=5",
+   "source": "Le360 - Le média des actualités du Maroc",
+   "ts": 1794577140,
    "theme": "fisc"
   },
   {
@@ -241,9 +248,9 @@
   },
   {
    "title": "La Cour des comptes cible l'apprentissage dans le supérieur, le CPF et l'Afpa pour réduire les dépenses",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzX3dQbXpOeHhOc25EeTVFankteUpoTzkzbEh4VlVjbjN0ekM3MkR2cFEtLUxhV1p1cVdlRGN2blppQ2hJanZCcGdwY0g0Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0NwcHZBQ2pYZU55Q0UzN241MjFlLU50eFQ1SlhkNVB2ZVh5TEZOUi1kNGdramg0aWNYQUpiemdJWVlBUFBMcjBIVE44eEwwbHdkcnBhcVY4M2VRUjlyaEdJWkwyaDVzUnlERG5wYmtKSy1qLWJ6enU0ZzUtbFRnUmtwd1FLZmpSc290QlI4QmZSY0xCX0k3VmZ5Tm1PeWJrTzc5Ymd3c1hLUGc5dnRJakRXR2JPUXVyc0J2MDBtVU1NbVZ3MDROcXRRRm5WRFJYazMwcw?oc=5",
    "source": "AEF info",
-   "ts": 1794507075,
+   "ts": 1794507404,
    "theme": "alt"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "La Presse de Tunisie",
    "ts": 1794086224,
    "theme": "fact"
-  },
-  {
-   "title": "« Un choc fiscal sans précédent » : dans son programme présenté au Bourget, LFI fait le pari risqué de lever 106 milliards sans détériorer l’activité",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaEhiMHRDNkNaS3dTYXlNck8tdUkwUmttOEs0OE9GQkZpVGVDaklxV2x6WFRBVUIzNkFaMDZNWlJsNWM3N21oWGw0dlpQTWw0TVpKbGNIbDJTbzA5WGxzcWd1dWx1djZnR1NHSTRaN0RBWTVua19NblZsNmttdjZXSlFYWWdsdEEybnJsNzJ2bGVNYzNWb2JvbldWb1c3Y3FySmIzOVppMWM3N2VpMndGd3YtWHBJNEtjY0tjalQxQU96d1NNS0tURFFITXNnWWxzUHNEaV9GTkJyTWtmaHdqbmtDZnhWel9pRXdtR1E1c0NJRk5tU1VhdlZjUzRuVEt2c2lZ?oc=5",
-   "source": "Challenges",
-   "ts": 1794070800,
-   "theme": "fisc"
   }
  ]
 }
