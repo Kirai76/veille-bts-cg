@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T07:28:30+00:00",
- "last_success": "2026-11-13T07:28:30+00:00",
+ "updated": "2026-11-13T09:13:12+00:00",
+ "last_success": "2026-11-13T09:13:12+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 57
+   "count": 55
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -35,12 +35,12 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "query": "expert-comptable profession comptable",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "query": "BTS comptabilité gestion",
@@ -339,8 +339,8 @@
   },
   {
    "title": "AFFAIRES EN BOURSE : Banques ; la Lega menace d'autres taxes, mais Forza Italia (FI) temporise",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnMtREJTMWljTk50ejdLX1dRc0xIWlE4U3NkbDBuajc2cHVKdDBvNDhRczZVYnpZTUZack1ua1JKQWtpWlJYZFE0YS1WcWZ2NTlKRGNXSGtUaXdRbko5V015RXRoNHBiRXotMUNvdDZFVHZaS0N4R195NXRkck1iV04xb1ZITFpXTjUxZ1lBY08zOVZ2bWNFNGR2TzdQZE1oM3pMenR2U1ZFSUFTNFdvaDNhWFVvSmMyZURiWWVUeW5oU3BsQVZXNGZ2LWhqcklpMXZVNTN5WmJGbGNyRGh2Mg?oc=5",
-   "source": "Zonebourse Suisse",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNDNCazRtYWk0S08wR2pjZWctNG83MGVtYmFrQjNfVEt4SEIyVEIwbklxU3FVcm5iajM3UV9Pdmk4RGNWZkJTT2VlZ2hoX0hzeUdDWG83VWtkZFh0ZTJ5X0JHVWpLUVowMTl4cWN2NXlhNXVVdTRQdEgyUHNjS1FTclY1RXFISlVxbXYzUVpybGU4VGlHMUJGbnNJRHJLT29IaXduUk1YeHN1Y21PUUFaZnRTVlMwQlhUeEVkbzhVbGdCdmo2dmZGM3picUY5VEFQY1poRUU0RkJjVnFGUEpEZkNR?oc=5",
+   "source": "Zonebourse",
    "ts": 1794404909,
    "theme": "fisc"
   },
