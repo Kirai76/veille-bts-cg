@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T13:21:43+00:00",
- "last_success": "2026-11-13T13:21:43+00:00",
+ "updated": "2026-11-13T14:59:23+00:00",
+ "last_success": "2026-11-13T14:59:23+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 57
+   "count": 56
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,31 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 21
   }
  ],
  "items": [
+  {
+   "title": "Tunisie : chèques, article 66 et financement des jeunes… des députés réclament des ajustements au PLF 2027",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0l4N2ZURDZlM1pFSGppOW92a09NZXAtamFHeEZVQnJGbkpOaWQ5aVJwRHlfajhUNzBXY05FcktZa2dOMklLWkJyZ3BJOHlFVGo4ZDJCeHNkZE10TWhJU0dsaFVaRWtPdDdBZmp5cW1TbmtybkRUS2xUQTNKc2ZPcjNBemQySUdFdHpQZDRVRDhwOUV0T0k0Rk80YkVlbjJpbHNtUjA2S0xXMWhqdzV6RTBBUWotSU16OFQxbGczb0lOR3ZFNzVUaE1xLWNEbXJGRGc?oc=5",
+   "source": "Tunisie Numérique",
+   "ts": 1794579300,
+   "theme": "fisc"
+  },
+  {
+   "title": "Gérald Darmanin proche de la sortie, le « nouvel impôt de production » de Marine Le Pen... les indiscrétions politiques de Challenges",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOekhmWHVFYy1BYVNDeE8tbm5vNEdBNk9tVkJob1hZRnkzTmJKaWVnNkF2bG5CSmF2NEtZUWVKcTdHbDNsd252bHFIRlhuZGRMWW14M3lmMEh6bVh4ZlFEVkExNzNlcFlIaGgzYV9jUlBfZW5PYW1lSXB2Nm5vc0c3N0FjdXY4aFdXNFZHX2xHLVpZWURjT21PeHY2QUNTZVJ0Z3E4NlRzdmFfcXdLNUh6YnNYV0tncVRyUHl3ZnFFYkxvX1otOGF0bHI5VWpITWJCeVBNRTFCaXYyWnpSVnZzeHVaMGIxelBMRTFCNGxnOUdMS3VsZmdtWjlLeGk?oc=5",
+   "source": "Challenges",
+   "ts": 1794576900,
+   "theme": "fisc"
+  },
+  {
+   "title": "À la découverte de la prospérité : la grande histoire des mines de diamants du Canada",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQmlNZE5NTFgzZjFXR09LTEd1NjktOW9Ra3NMV2J3OWUxLTBTUXBVMHU3LXhGTHNISzd4ZXFKbUd5cDdvUU1oMnVBeTN5OWJ3TDNRUmZucnZRc2RuRHAwZlRuY3R3UWIyQ3p5ejN2WERZdWw3UXdRN0ExYkhRZjFzazZ2dDlPY0hfbHRxMHJJWS1xdFROanJCTkZZQjlCYjBMS2JwNWVKQ2VUSDZoOFlGWVRUbE54dDRlS1NnWEJwUmtMUzlhakJRb3JnX3pmS1ZYSEE?oc=5",
+   "source": "Natural Diamond Council",
+   "ts": 1794575931,
+   "theme": "fisc"
+  },
   {
    "title": "Entreprises publiques, eau, électricité : la BAD appuie les réformes marocaines à hauteur de 4,74 milliards de DH",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN1h3eHNfNWF1bVRsRi1Gb0xOdGVYWEFlNm1zUDU3RDNKNllXcmZKQXMyTDRrZVFDTnhITnY4d1ZvWUNEeDJEdkstcDV3eDRidE05SW1RcVhLZm03N3B2NVJJcXZ2UldwWjZMLWZrVk1TaHREV0pMZWZFVkRNU2dOeVZFMnFlRjdxZzVnd2YtR0tVbXdIV0dxNF9fYlJtNnFJUkhKbnFvcUlMM0RRSV8tVGJmUGY4RktsaHhiR1dtc0RtNGp6UlFIVG9GMnREbjBnTmw3VVNubFN6cXE3UmtvTWZTWklmZ25iZExGQWFn?oc=5",
@@ -77,6 +98,13 @@
    "source": "Mezha.net",
    "ts": 1794571620,
    "theme": "fisc"
+  },
+  {
+   "title": "Ordre des experts-comptables d'Occitanie : Facture électronique, crise économique... Entretien croisé avec Éric Gillis et Marc Siré",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSWktVFA2MXU5MTRCN1dKV08tMkZfNE9sZlhqaXJJWlBNd2ZXWFU4TDRxN3VVYTZBTHVfRm1pcUhxWTAxdDQ5aWZzOUE2alZhYlNxSGo1d3BUWjJZZGxiTjFldTR0TmxwNG93V1FZM1FTQUJOYnRoNnY3bnREWmJmYm50UzFiZFdYS29ZWUlqbHlXdTAtRDJQRlVJZEdVZmpTOTR3Q2hFQlpMT0hOTW1IQ0JST0dHWktMZkgtZ0hGbFFKelEzdzUwczQ5ZVlDdk91MGFENzZGRE1qcGZ1VXVsdkN0UGJMRmZFSHJhLTVGOGlNdkl4TXN5SHdremphMHY2LTUzdU1HeGZDUQ?oc=5",
+   "source": "Echo des Tribunes",
+   "ts": 1794571380,
+   "theme": "fact"
   },
   {
    "title": "Facturation électronique 2026 : ce que la réforme change pour les directions financières",
@@ -119,13 +147,6 @@
    "source": "Le Grenier de l'éco",
    "ts": 1794564293,
    "theme": "fisc"
-  },
-  {
-   "title": "Ordre des experts-comptables d'Occitanie : Facture électronique, crise économique... Entretien croisé avec Éric Gillis et Marc Siré",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQmZkWEVmeXR1RlE1Rmd4MHdYQ0VLSzhWVHV5dDBwdGNGeURlV05Ed0lGYmtZZ1p3b3dqdWJ4OWE4VXl3WFRpU0RRZ19DTjJESVV1VTI3Z2dfYUZyb2dfZjRpNkxtNDVqOFZ2bVg2T1hPRE0yekNrZWNHYXR0dzBwempjc1hkaFU5bC1oRmlWT3hSY2F4eUwzRF9DYUp1dktHbXJOU3dBbVota19ZVDAyT2ZKUDJMdENidVh2RWZHbXBmT0JqcWJYQXZtVkpBVEtGM0hCNlh2blJHaUE5RXpqT3BzRy05LUZzSGxsOHBGXzVsUm5iQ1kyaDByVl9WaUJDMmVra21R?oc=5",
-   "source": "Echo des Tribunes",
-   "ts": 1794562980,
-   "theme": "fact"
   },
   {
    "title": "Facturation électronique : les propriétaires qui louent un logement meublé sont-ils concernés par la réforme",
@@ -1092,27 +1113,6 @@
    "source": "Challenges",
    "ts": 1794040080,
    "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique auto-entrepreneur : comment facturer sans TVA, recevoir et émettre en 2026-2027",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3h1bnpXSjgxOGRoSlVXcmFLUFNWeUozX01XcDAwcDA2a2sxNzd3NElXNldidTMwVEo0VW5PVGtsMWpjUFFVd0VGNFIwNlhZWXpuZUhKNW1iR2ZreXpfMFhVREtDTWg2U2xMbF9wWFBLQ2F2Ym5hVlBxWkU4QXBYcVdNMWM3T3hYZXBRblNVempxVk9zVU5BU0ZIaWVZSmRZdF9UanBpejBTcG5GUTZheldBRVNFZVhUQmdV?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1794039000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les députés votent sa suspension pour les petites entreprises, ce qui pourrait changer pour vous",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS2o1VnFJOGFwbkFpdUFSZ2k2WTJ0MlNpcGFkQ0VfcFZMakhGQ0hjSTZRZTdwTE1ramFmcVZPRkhmQm96Vm50Zm4wM1J3MUpPMzdjNi1qdFpiWjRfY2Rud1NGVUNoemxzNTZtZkJOQjR1VWJyT3g3QlljNTBISVlnT0w0MTZOTDJOX0J0OUNIc0p1enFFNGlXeHU3Zm9oQk1BY2hIRVhyaDVoMU80cmQyZTdpZktiUzR2eEZ3Y3lySllVVWdyeGEyY0Fhb01BUFV0YTNfa1NqbWZ4bzN2Zk1tVEM4M1ZkcWtsb09reGZKbw?oc=5",
-   "source": "NextPlz",
-   "ts": 1794038400,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : deux mois après le lancement, des factures se perdent encore entre les plateformes",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYkdkR2dVdllublIxTGEtQW1KM0xaNm9HZW9WMUZLZ2ttQWVRZ3labHVUSURCS1dGcDJ1cjJOaVpodDJUQ0w5a1VhcHFmVmtqeTRJeklBZmc1ZDR2STdIbDU2QWN5cDF2LVN1VFNTUUZkY1BDc0xCOHlLSXc5ODgtVnVYQXBDRkNlX2JVUEN3YmtpNHk1bk1LM3lKQU9PM1cyZlpBVGhMblZfd1RxR2JaZjc3Y2hoVXVNZ2FhNEhCNTFOcHhlLVUyenlYTThlbG44c2FsNHZKYWlDc1ZLbEcyZkVFRFMyUQ?oc=5",
-   "source": "Clubic",
-   "ts": 1794036300,
-   "theme": "fact"
   }
  ]
 }
