@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T12:04:20+00:00",
- "last_success": "2026-11-13T12:04:20+00:00",
+ "updated": "2026-11-13T13:21:43+00:00",
+ "last_success": "2026-11-13T13:21:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 19
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "Entreprises publiques, eau, électricité : la BAD appuie les réformes marocaines à hauteur de 4,74 milliards de DH",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN1h3eHNfNWF1bVRsRi1Gb0xOdGVYWEFlNm1zUDU3RDNKNllXcmZKQXMyTDRrZVFDTnhITnY4d1ZvWUNEeDJEdkstcDV3eDRidE05SW1RcVhLZm03N3B2NVJJcXZ2UldwWjZMLWZrVk1TaHREV0pMZWZFVkRNU2dOeVZFMnFlRjdxZzVnd2YtR0tVbXdIV0dxNF9fYlJtNnFJUkhKbnFvcUlMM0RRSV8tVGJmUGY4RktsaHhiR1dtc0RtNGp6UlFIVG9GMnREbjBnTmw3VVNubFN6cXE3UmtvTWZTWklmZ25iZExGQWFn?oc=5",
+   "source": "Telquel.ma",
+   "ts": 1794574575,
+   "theme": "alt"
+  },
+  {
+   "title": "Le propriétaire de Tinder, Match Group, condamné à une amende de €11 millions en Irlande",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFNxaFFDVVl0ejlOWEdUbGJJLVBoeGFpbUxDYWVsaDg5QlpkMjd6VGhzUl9DbXFPY0o1V1dHQTJaYmdMU251a01OS1JZTDVNbEkyby1LUGNZdHNPU1Y0bHdtdzVnX3dyc3N6TDFMVFZwbjVWdC1acnhYR3hTN1ZwMmx0RE4xaExhcF9XN3p0NXlJOEx2YWY5NGplMA?oc=5",
+   "source": "Mezha.net",
+   "ts": 1794571620,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation électronique 2026 : ce que la réforme change pour les directions financières",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQkVRQjZOcmJFT21hbVFodXk1ejg1QzhrdDdlVlhwSk1kVndvU2FoNDZGRC1Jb0Zwci1PdnQyRlJDZnMzRnR6c3JyTks0LWN1TmlvU3Z6MEI0WVEzaXRxeEpiNDBvcTgwc0JPcDZNVmt2LXoxLXJiM0pySDcyQQ?oc=5",
@@ -100,6 +114,13 @@
    "theme": "compta"
   },
   {
+   "title": "« Plus on augmente les impôts, moins les riches payent d’impôts… et c’est logique ! » L’édito de Charles SANNAT",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUJNSWdpa3JENGNKdXRrbWdDQnBkRC15VVZub0FSU2V5Y0RHVUo4NUloWjJhc0doZ0NuN2U3Q25oX0xTWXhfbXctTGVoaGRCYy1yeVpHM3M5VUdzVnEtQXV2X0x2RFNUZ2Y0dTYteVUtWUlpc0xDT0FQdWN1cDBYSW8tWWdRVU1FTndubVRWX1N3TEJSSUZnZzdSZWFweDNKWGpEMnpUQm00VmdGTWphTWtYRlYzajJNUEF4bnNocXlCcXB5YkRmNQ?oc=5",
+   "source": "Le Grenier de l'éco",
+   "ts": 1794564293,
+   "theme": "fisc"
+  },
+  {
    "title": "Ordre des experts-comptables d'Occitanie : Facture électronique, crise économique... Entretien croisé avec Éric Gillis et Marc Siré",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQmZkWEVmeXR1RlE1Rmd4MHdYQ0VLSzhWVHV5dDBwdGNGeURlV05Ed0lGYmtZZ1p3b3dqdWJ4OWE4VXl3WFRpU0RRZ19DTjJESVV1VTI3Z2dfYUZyb2dfZjRpNkxtNDVqOFZ2bVg2T1hPRE0yekNrZWNHYXR0dzBwempjc1hkaFU5bC1oRmlWT3hSY2F4eUwzRF9DYUp1dktHbXJOU3dBbVota19ZVDAyT2ZKUDJMdENidVh2RWZHbXBmT0JqcWJYQXZtVkpBVEtGM0hCNlh2blJHaUE5RXpqT3BzRy05LUZzSGxsOHBGXzVsUm5iQ1kyaDByVl9WaUJDMmVra21R?oc=5",
    "source": "Echo des Tribunes",
@@ -132,13 +153,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VGE4dEp5LUxaX2RabjhVREc3andNV0ZZdkJibnpxRFJYaFNGLWZJeTNqb0h2ajhZbXV5S2duNlpXbGJSLUdaWWtUZ1NaOU9Vc2hab3E5T092Y2FIX00yR3lIWVhIT0NEU3NxdzNxYUs2Q2VYRGc?oc=5",
    "source": "L'Essentiel de l'Éco",
    "ts": 1794550500,
-   "theme": "fisc"
-  },
-  {
-   "title": "« Plus on augmente les impôts, moins les riches payent d’impôts… et c’est logique ! » L’édito de Charles SANNAT",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUJNSWdpa3JENGNKdXRrbWdDQnBkRC15VVZub0FSU2V5Y0RHVUo4NUloWjJhc0doZ0NuN2U3Q25oX0xTWXhfbXctTGVoaGRCYy1yeVpHM3M5VUdzVnEtQXV2X0x2RFNUZ2Y0dTYteVUtWUlpc0xDT0FQdWN1cDBYSW8tWWdRVU1FTndubVRWX1N3TEJSSUZnZzdSZWFweDNKWGpEMnpUQm00VmdGTWphTWtYRlYzajJNUEF4bnNocXlCcXB5YkRmNQ?oc=5",
-   "source": "Le Grenier de l'éco",
-   "ts": 1794550132,
    "theme": "fisc"
   },
   {
@@ -1099,20 +1113,6 @@
    "source": "Clubic",
    "ts": 1794036300,
    "theme": "fact"
-  },
-  {
-   "title": "« La pâtisserie, c’est ma passion depuis l’âge de 14 ans » : Anaïs a plaqué la comptabilité pour réaliser son rêve",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNmhuM0RaQVFPVE5tc2hqeWUwc0VpOEZnWlBaOEtPYVlqMEt1WUtIZUFkT0VpdXh6b3psYUR4RVFrTzBJSTdqNGw0VUJPNTctNFVDRzdFOGZYbEllR3VrVk04ZVEzSXVsc3VFYnptc0NYMUl4aVlueXdSdFVsLVJxZndtallFZnR1WHZGX2VwN3FSenM3Q1FKcllySDJqY3NEM2pjZXJ3SXpZbGc2b2ZzTzFjNlpwTzYzRXJRclBMeTNMa256cTlzNTl0Q1FFUnpDLW5ZZFg4MWFTWEJ6TWtfMVRIRjdMOXYwNWVWZmRIdDlVQWtoS19TWFJqWE9UbWFfN21waHZfVUdJNHhRMzY1ZENuUzZ3M2hR?oc=5",
-   "source": "Ouest-France",
-   "ts": 1794031261,
-   "theme": "alt"
-  },
-  {
-   "title": "Formation en alternance : une entreprise sur deux prête à accueillir un stagiaire",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1NJMmNQUmtUVHIxU0V0WUUydUVoaFo1aUFQc1diNFhwbXZsVnYzMmo3TGZwdnpTMTVzYXV0b3EwRVNVb3NjUTV6Vm9hbUwzZnVIeG5VcTNTN1lsYl84QkNMUmN1Q3dvOV9aU3V1UTJLWFBmLXJsZGc3TDlBSDYyM0c2MmNwQ0RPWGpSNnRQLWd5akY4UFVFYXA3U01jLTlDSHpPT0FkQUJWaTI2TkxpSFIyRlBFb013OERMZVZoTFVIQms?oc=5",
-   "source": "Le Soir",
-   "ts": 1794027600,
-   "theme": "alt"
   }
  ]
 }
