@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T21:46:49+00:00",
- "last_success": "2026-11-14T21:46:49+00:00",
+ "updated": "2026-11-14T22:47:35+00:00",
+ "last_success": "2026-11-14T22:47:35+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -315,6 +315,13 @@
    "source": "economie.gouv.fr",
    "ts": 1794524400,
    "theme": "fisc"
+  },
+  {
+   "title": "La liste des métiers en tension en 2026",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TM3ktYlFqZXBwc2ZMYzdwRTRUbDgtMFhLRkZHYTVoU1V2d1MyRHJicGc0Vy1pSHhPWXg0X243WUszUS1MNmlfUGpaOTlTV0U5VXpFTk80ZFl0RVNWeWt6SUkzUVM?oc=5",
+   "source": "Nouvelle Vie Professionnelle",
+   "ts": 1794517872,
+   "theme": "alt"
   },
   {
    "title": "Bobo-Dioulasso : La facture électronique certifiée au cœur de la deuxième session 2026 de la CNLF",
@@ -1106,13 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1794209303,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : un troisième webinaire consacré à la réforme",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUFOTDlPSGlQUzBfMmtjWERUWUFybUNhUUF3bGFBdnNxbDY0cWZ1Z0VocDZnRWw2UkN5bUE3WUxOcjI2UWlCMDZnLXdKLVp0YlljNkE5Wk8xWTR1akNSZkU3eEN1aDkySS16S3JlbHNwb0Uxb1I2QXJuWk40LVM5ZVp5cjhoN1diaTNkSmEzdGxsaWREQnhsNTBpY3RISG9hZlB3cFUzUWFwVUVzN05PN3VqZFJlcldrY0hoSEJubGEtbHVw?oc=5",
-   "source": "LE MONDE DU CHIFFRE",
-   "ts": 1794209100,
-   "theme": "fact"
   }
  ]
 }
