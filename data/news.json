@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T20:49:09+00:00",
- "last_success": "2026-11-14T20:49:09+00:00",
+ "updated": "2026-11-14T21:46:49+00:00",
+ "last_success": "2026-11-14T21:46:49+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -76,6 +76,13 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzVFY1BWaElnQXhpTjlOYVB0UXRVeFN3UURkUlgzLUZhQ2QtOGVuNVFQWXprM190V2RucXFpXy1uWnAzNExLajlodjFrSUxIRzl5RHc0T3NKMjlsS1hDMTRJZl9ieGlYbm80ajk5VnZQV19xYVdEdEJBNkdjSVJ2SzhLZjRveVhBTzlVOVFsSEI3ZnJoR1I1UGZzN2c1eUFDd2FEeVNzRnR3c21h?oc=5",
    "source": "Vietnam.vn",
    "ts": 1794668566,
+   "theme": "fisc"
+  },
+  {
+   "title": "Carburants: Fouzi Lekjaa justifie la surtaxe des pétroliers et laisse ouverte la piste d’un plafonnement des marges",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVG15NC1qZGJfNmdxejlMTkw4VjRkdkROM2U0MEFMRE8tTmpCeE9wVFRoZFlYeGFKVTRkZzVRZ083WlhKQ0E3WkVnVUhWc2stS2FsTTdxOXg1ekwyWUkyQlhUVXRHMnVqYi1nY2s1QnhWLUVRTUMyZ1dVV3JuSVBHWVpkdE9ZeEZUVWxlc0h4REJURUw0dUE1Rk9CQWxaZ1NQN3Fyb1A4c0NGMkVhdmxtQ1RlUVdILWhRWTNlSmwxSDQzTUplVUhacUFaYnM5WmxMd2Z5VW40bUpaeEIwdHc4?oc=5",
+   "source": "Le360",
+   "ts": 1794661260,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "LE MONDE DU CHIFFRE",
    "ts": 1794209100,
    "theme": "fact"
-  },
-  {
-   "title": "Aubigny-sur-Nère : Top Garage C2A reçoit une aide de 20.000 euros pour soutenir l'économie locale",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnkzNGpKQmVIV25IQkl5RjhrV3lNdnAwbHo5b2lXbkpCTW9YU3FPYW9qSm1tM2N0VTlrLUdXZnluRkJSM0lycEVMWk1helZOblhvTkFRSHctU2haVEM1Y3RQdlM4YTlCYnFxa09qMTVlNUtLWF9qTzdPQzFGcjFtNVd2LWl0X3lDRWp2TzR4eUJ2TVlScUpBUEFUZUg2OEdpYmFaeDM0VFNLcUpCa3M4TVVibFlEWWRXaUh6ZnVaTlBzSWJ0cnhQQlc1XzBaT05HekJHNHl6MHozRUxwTGJYYkxuRUU4a2ctZkhoQUtldmJtYkp1?oc=5",
-   "source": "Le Berry Républicain",
-   "ts": 1794201180,
-   "theme": "alt"
   }
  ]
 }
