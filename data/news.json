@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T16:51:48+00:00",
- "last_success": "2026-11-14T16:51:48+00:00",
+ "updated": "2026-11-14T17:47:00+00:00",
+ "last_success": "2026-11-14T17:47:00+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 56
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
