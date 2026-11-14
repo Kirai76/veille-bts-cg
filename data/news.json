@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T23:49:39+00:00",
- "last_success": "2026-11-13T23:49:39+00:00",
+ "updated": "2026-11-14T01:14:11+00:00",
+ "last_success": "2026-11-14T01:14:11+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 18
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -89,7 +89,7 @@
    "title": "Apprentissage en petite enfance : des candidats, mais des crèches qui renoncent",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2xpVEp3SjVTZTc3bTByM1VrOExFQ1VFelRGcjVLLWwzeGJyR19jdEkzOUNqYzV1ODNXazhpanN4X3lhTkg0d1dhanZ1cmUwcE1LVW5KbUpDdm1LWWFic3pRVjBRU25HVUxaQjRZV2k0c05QaDE3XzlvRDB0N08zUnhUQXZoQXM3Tk1KWGdYYlBHa1BvR1Z6RjZwT3RjN09lZzZyQm5GSk1SME96T1pzekVDOUJ3WUwweVlaRHV5RGhDRFZtRWhn?oc=5",
    "source": "Les pros de la petite enfance",
-   "ts": 1794588392,
+   "ts": 1794591556,
    "theme": "alt"
   },
   {
@@ -413,6 +413,13 @@
    "source": "Le Sahel.org",
    "ts": 1794471624,
    "theme": "compta"
+  },
+  {
+   "title": "Réductions de capital : les sociétés dispensées de droits d’enregistrement",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1p1VnBkdUZvYkF3YTYxZmJpNXh4Wk9Wb1EtekVkS0duVlJaNkVkQjBhWUxkQlFRZjRzQ0xoQkpvdDFnZmhBWDhPZFlUSm5LNXZ0aF8zWmdyMUltYkZYWmNCVEs3T3QtRkp5emxmakJRVFZsSXcxd19leFFkM3V1WnRVeHpCemFPVzhoLXByU0NPS29CdjNVRkhlb3A?oc=5",
+   "source": "Le Desk",
+   "ts": 1794471420,
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : Le pari risqué du gouvernement sur la baisse des cours du pétrole",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVERpaU4teFU0VGg4UGJPSzJnZC1ad3FiWDhzelYyc1RLdVFDTVFyTGEzVnpnS0hhdW9OQnNNS1pHbnhfMG5BZHMyM0xiZkl2OGhLVERJWUNMZkJ6aGFINmp5U1JSQXcxdDNjTnYyOTZQS1JBaDdwQW1TMVJoZDJ3ejBvZlVfX0dZX2treFBleEpUU28wQ3pCcmJQYnVvUnI3UDRj?oc=5",
    "source": "Kohen Avocats",
    "ts": 1794110340,
-   "theme": "fisc"
-  },
-  {
-   "title": "Remboursement trop-perçu impôt 2026 : date de versement, réclamation et intérêts moratoires",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDdRRGdBbDBTZ0ZnSHBfaExwWUs2WmlwTWlwVUV5OW11TTRpQXR1bk1kaGRDb1M4MERTdlNvNkJVN2RJODhEVXBybi1QRW53RUZIQnVoMmttY1Z3b1YwNEpLc0VQa0FZdTNueFFmOGpTSUFIb1NwamVsSXZkVTY1MXY0VkRjWGxCdVpGOUJvUEMwTTJjakc0T2Vqam5WeUNlcEc1U0lRT1o5SUFZZ2MyeHhR?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1794090600,
    "theme": "fisc"
   }
  ]
