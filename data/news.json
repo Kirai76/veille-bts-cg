@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T02:14:18+00:00",
- "last_success": "2026-11-14T02:14:18+00:00",
+ "updated": "2026-11-14T03:01:39+00:00",
+ "last_success": "2026-11-14T03:01:39+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
