@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T05:01:50+00:00",
- "last_success": "2026-11-14T05:01:50+00:00",
+ "updated": "2026-11-14T05:58:12+00:00",
+ "last_success": "2026-11-14T05:58:12+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
