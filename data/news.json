@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T07:14:33+00:00",
- "last_success": "2026-11-14T07:14:33+00:00",
+ "updated": "2026-11-14T08:14:24+00:00",
+ "last_success": "2026-11-14T08:14:24+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 56
+   "count": 55
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -45,25 +45,32 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "Expertise comptable : les petits cabinets peuvent-ils encore rester indépendants ?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHpLNVdaQWFkRndLRHVvZFVaTVJvLUotZDY4bm1CYkZlOVFPNDAyelNfNFZlSXJtSEpGSk5LZ3ppa3AzSnVoQzUtcnRuM3dnaXVTVlZJbFkycDY3eUZsZzBNLWNaNmdSQXYzMDBxWF9TZnpFZ2RTeloxZzlyYnBzNVkteEtQbFFWY3lubGxlQ1RwUTVLdmx4ZEIwOThmb0xGZUVmZnJLZDlfT0dseVNpT0pBMmRQNnFndlFkT1VaR0o4TjVvS0d1YU9wME0?oc=5",
+   "source": "Echo des Tribunes",
+   "ts": 1794643260,
+   "theme": "compta"
+  },
   {
    "title": "Mettre en œuvre une réduction de 30 % de l’impôt sur le revenu des particuliers et des petites entreprises au cours de la période 2026-2027.",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGhhMlBoemk4d2drbFltalJQdkE0WmdlU2VXM2NsLWNhcy1iZW1jYm0xSlhPbmU2c3JZbi1XdE9rUWc2Um1CdHNuTkduTWRTY0lzaXFkYkQwRmo3eGxuV0dIR2ZFUzR3X3l6ZnBHTC0zcEUwdURXWElUSFY0NVFjZ2pIUXNGYVRHdTI5OHROMmJveXVxNjJDUy1GRDFheE5HV3dtQ1JfUTFxdXQ3LWQ2Z3N3dw?oc=5",
@@ -98,6 +105,13 @@
    "source": "Leconomiste Maghrebin",
    "ts": 1794591750,
    "theme": "fisc"
+  },
+  {
+   "title": "Maroc-BAD: un accord de financement de 434 M€ pour renforcer la gouvernance et la résilience au changement climatique",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDZqUzB6TDFBWFRSVEtaVGJfcmFta2pqem1EdXJzMWxGSGhqak9KdWNGS0dtQ2xXSkVSa3RhWldGRWVOekxSN3NCczdoRTV1bGo3ZU9LaFFTbVhCMWhrc2RsdW91cGkxTjVWbTdHYmlxclU0WnJXUG03VUhidE11QmU0V1ZMNnhkc3JiZDJLaXJIZ2ZtV1hvQ0xaMXZQVUZ1NXExVzcxMU9rb2YwcVlYbldRRlJ0aGlQTXZUamR5WFlHNUxFOGRpSjlwZ0JNQQ?oc=5",
+   "source": "libération",
+   "ts": 1794591720,
+   "theme": "alt"
   },
   {
    "title": "Apprentissage en petite enfance : des candidats, mais des crèches qui renoncent",
@@ -237,6 +251,13 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmo2OUZXOXdqTkVNRGhvZDRHOEhCVURjb21WODVtckQ0c2JGVS12d2ZhMW9icGVsTm02VGs2Ty1wM1dFUE93VnA5OXVuNTBobjFLZTg0Wi1VaWY5UVVyNkszb0M4RnZEZEstZldmU3VtcThDNFlORmlCd0VmdzlpZDlwME9PQ3psdG9ad2ZVWHB2UFBKV1VsWHRXTnJjQndsclpkUUMxOWJWbHphT095U1hITV9jSmFUOWow?oc=5",
    "source": "Medias24",
    "ts": 1794559020,
+   "theme": "fisc"
+  },
+  {
+   "title": "Donations : la recette pour profiter des super-abattements prévus en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3k2TUZ1UDdnb0pEOGZXN3VjTjNoSTh3OWVRUzZ6V0JoRFo3RkY5SEx1VklMOE1LbFhDS2FBdXVaYV9uQWZPTFh5WkRabHI4b3oteFU2a3RfY2ZIT3AwUDJtbzVudmhOU2FxQ0ZGQ1BkWkgzTmVVaTlQQVFXd2pIa3N4eUR0NmJnS0lzdVpaMEcxelZIVWw5MWNPbUFvUl92WkpreHRldDl4SFpUTEEtOVBvRkRGTktzZ1F3?oc=5",
+   "source": "Le Figaro",
+   "ts": 1794558600,
    "theme": "fisc"
   },
   {
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd29kQkVmT0I2N3pORHdMbDBZeXdueFlEdW5Nei1Db044UGVta2VJUjNLQ3E4a1RwMzlqcDU2bXVqNDFDcHVGV3hLLXMtd3Z0QkUybHROcVZMdEhlTDZJa1g3dlhqa2ROZEVfa1JLbU5PYWNyWG5LNWhTUDdXYTVHQkdITjRkRVRoRTNxYnlxRkR3TXV3Ql9nUTZwM3ROcWJjRDZhV3BR?oc=5",
    "source": "Kohen Avocats",
    "ts": 1794171840,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les réductions d'impôts soutiennent les entreprises familiales et les petites entreprises.",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXpZSHBrUVk0S3lXTFphLUZCNlNtT3c3dEhIXzdXX2k5TGZsNVdjMHJNeGxLUk4tSUlqZVc3VUVnbHpRYmR2S21qTnNQOUxhSmJucUxnV1hXb0xpR292bDR2bTFCUFo4OGFqQnhkckMzaXlHZVN4OGZDU2RTSVBGMEdGMU1JR0E4OGc?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1794161816,
-   "theme": "fisc"
-  },
-  {
-   "title": "Transférer le siège de sa SAS à Dubaï en restant en France : ce que le fisc redresse et comment le contester",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEd2UUtPV0Q0aEhIcVEwUUduUUpvOHI3MGFCYWxGazNQUjdJV3YtamJFTTQ5RFNQWG1XU2QtYmNlUEhGU3pxQWN2OWpQUFVmX3pjQzM4QS1zdjVhRG1fR1d6N21LMzRwQWlOYm0yVF83NWx0UWxWYTgzNHY4QWV3UHppb2NTNy1vcEdIdmFIcURGQjlKamJ6dzZOWGlZM2JxU1drV2dyNA?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1794153060,
-   "theme": "fisc"
-  },
-  {
-   "title": "Dette intérieure : 480 milliards de FCFA prévus en 2027 pour apurer les arriérés dus aux entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVQ1ZlppRW9idEtPMU1nZlN2aktQWjMwTnRPWGFhTWlPYXI1Uk9Qbm03Z3NDNmFKTDVsWG1LRE95YkUwaURaczFpcXRocTExczNuRlZtQy1EZjUzUmk5cENPRkdsOVhXUTZxcmlZQVJEVGdrVzVlWnZLM0VFTW81ajRMX3NZbThzb3JSaTlraWtnUzlLMUIwRG9XeGxYWW5pWTZnLU1SM1VzUm1Sc3BENGdER1E1VWs5ajdQWE9GMldnQ2M?oc=5",
-   "source": "LACTUACHO.COM",
-   "ts": 1794126170,
    "theme": "fisc"
   }
  ]
