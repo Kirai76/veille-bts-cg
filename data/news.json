@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T18:55:15+00:00",
- "last_success": "2026-11-14T18:55:15+00:00",
+ "updated": "2026-11-14T19:51:09+00:00",
+ "last_success": "2026-11-14T19:51:09+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 18
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -625,6 +625,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Réduction Fillon 2026 / RGDU : calcul, SMIC et simulateur Excel",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlTRndnNDJIRjJjTTRSczlDU19pMTR4S1FBbmk3ZkJtUEtHMGM1WEgtdjhSZEpMei11R3V6VFZ6RF9VUE9rMDlydXY3d0V1TGJWRzhtRV9VcVR5SGJEZHRKX2F0Qi1seUxKV1VYVVFmSENHbWh4bXNJRHhXRzVFOVpreHdTWXkxZkdSS1l0WmVEa0syd2F6aS1PTXhJYlU?oc=5",
+   "source": "Compta Online",
+   "ts": 1794384000,
+   "theme": "soc"
+  },
+  {
    "title": "Taxe foncière 2026 majorée de 10 % : remise gracieuse, réclamation et sursis de paiement, comment contester",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVp2bmc0MVRDVE9BcXcwOURHOXVaYmUweXdXX0FJZnRZUjVXOXRRa1cySHZCN3BXRDZTbHFaVlh2c3FZOGtXMnotZ3ZDMTh3YTBJZGsyekJvUXJOamZRdE9hWVI3X3NlRW1KNHpzdU9DdHZMLXYxaWdOWTItMjhMYmFYLWxrQmlVLWtxcWVUZklVR1ZzZWc0dF9DWk5ySzlSekpZaWhDNzFVb3piUFh1djFIemY?oc=5",
    "source": "Kohen Avocats",
@@ -998,7 +1005,7 @@
   {
    "title": "La fiabilité déclarative, un enjeu clé pour sécuriser les droits sociaux",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQU1BaFdHYkNoUmZ2cjRjUjVla1pyZEh1aFBCZUp3WFA2aVhwSmpxM0RmcFNPUE0xY1o4aWtLLS1FZWVRUU5xdTlaZjc3c0F4c0FkbURZcTFzdmNDTjd6Wm9kaElwOE5pNjdpdGlyOWlwY2hlR1VKOURXeGZaWG1TRi1hM2JIam9LOEtGTmE3VG1wYkk3LWpjTWE1V2MyZlBMT3drSEZZdDlwdHpTeTA1Z2trbzF4ZTVCb3lWVGd5dlc4WlI2OWtIWWRvdE9TTEZoeXc?oc=5",
-   "source": "lassuranceretraite.fr",
+   "source": "Lassuranceretraite.fr",
    "ts": 1794227269,
    "theme": "soc"
   },
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjM5bHpQOFFtUjJXb3JjSXoyNDJvRW5qZkJlU2wxbjVPdkJYdUhYRGxucTN3aTg2d3ZNSngxQmR3ai10OE13bTBLSl9wZG5wR1lqSjdleVJ3ZkdtVmkxQ01aTmRrV1BCR21QQnZBR3FSUm54T2xrYUZnM24ySUp6ZlQwZnRKUm1JZ2FvVlZEUk5FZk43Y2haOHlqNVpLSE9DY1piYUhYZTQ1cjg?oc=5",
    "source": "Vietnam.vn",
    "ts": 1794199656,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique obligatoire : calendrier 2026-2027, sanctions et mise en conformité de votre entreprise",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWRldkVWMl9HWnFsZXhFRzBSTGtCWWlNclJaUF9STWh1NHpkdFgwdTg4UHQ5R0EwQXdiU1JXOVZhZEd5c2RHMnVIRE5lc1JmZFBIVldocVBHZ3NiZDhvNXNrR0cyUGtRclZGcVQ2eHBXWFdPQkxma2FMX0Y2M2xlNHBsdkNPSEFOMVVjOW93c0lsUVVzLVFxN2xKYmRpOWJYc2FmS2dWTzIwSThyMGc?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1794193740,
    "theme": "fact"
   }
  ]
