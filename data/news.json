@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T15:49:42+00:00",
- "last_success": "2026-11-14T15:49:42+00:00",
+ "updated": "2026-11-14T16:51:48+00:00",
+ "last_success": "2026-11-14T16:51:48+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -329,6 +329,13 @@
    "source": "Studyrama.com",
    "ts": 1794502422,
    "theme": "alt"
+  },
+  {
+   "title": "A peine candidat, Teddy Riner face à des affaires fiscales",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHBHOEFIWGpHaDhvQ1JDUm13YzFOcVVwMDNzV1NRcmM4dlhNU3FyZENSWEhXaEVEU1oxY3hrMTVBSkF0LTBoVjR5aktxdVRBS2ZacEVBTzJIUVlTSjRYRHc5NDZxLUpaS3B5QV9rTDNaYUtWc2xqc2FXbldIN3RuTTBoeVFsa2pXNjBwSDQxSHlQUmlvSVMwQW1ic0ZvNnNNVEVqYlgyaXh0QzQ?oc=5",
+   "source": "Capital.fr",
+   "ts": 1794501222,
+   "theme": "fisc"
   },
   {
    "title": "Avec l’intégration d’Inea expertise, le groupe nantais d’expertise-comptable Amarris renforce son ancrage à Rennes",
@@ -991,7 +998,7 @@
   {
    "title": "La fiabilité déclarative, un enjeu clé pour sécuriser les droits sociaux",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQU1BaFdHYkNoUmZ2cjRjUjVla1pyZEh1aFBCZUp3WFA2aVhwSmpxM0RmcFNPUE0xY1o4aWtLLS1FZWVRUU5xdTlaZjc3c0F4c0FkbURZcTFzdmNDTjd6Wm9kaElwOE5pNjdpdGlyOWlwY2hlR1VKOURXeGZaWG1TRi1hM2JIam9LOEtGTmE3VG1wYkk3LWpjTWE1V2MyZlBMT3drSEZZdDlwdHpTeTA1Z2trbzF4ZTVCb3lWVGd5dlc4WlI2OWtIWWRvdE9TTEZoeXc?oc=5",
-   "source": "Lassuranceretraite.fr",
+   "source": "lassuranceretraite.fr",
    "ts": 1794227269,
    "theme": "soc"
   },
@@ -1106,13 +1113,6 @@
    "source": "Kohen Avocats",
    "ts": 1794193740,
    "theme": "fact"
-  },
-  {
-   "title": "Nantes : Fiche-Paie.net racheté par Indy, ce qui change pour les clients et les équipes",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZks0ZFZXT0l6N21ZZ3VFOEEwdkJGQTRUZ3BBWUFQei1Ya08xbTlraWp2b0UyTVd3RUtENVpaekJxbzd2Ty13dEpBZXJBOVBneUZraFZlMjBpU0xBMVJ6ZF94X1d4U2F5RTRySW56eWJYU19GaGY4bE9YUVpnU0VhbFBXNWR3aWQ3VGdFMzdvZmxza05yNi12UFAxVQ?oc=5",
-   "source": "https://infos-media-nantes.fr/",
-   "ts": 1794187126,
-   "theme": "soc"
   }
  ]
 }
