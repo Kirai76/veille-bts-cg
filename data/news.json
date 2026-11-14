@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T05:58:12+00:00",
- "last_success": "2026-11-14T05:58:12+00:00",
+ "updated": "2026-11-14T07:14:33+00:00",
+ "last_success": "2026-11-14T07:14:33+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,17 +25,17 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Mettre en œuvre une réduction de 30 % de l’impôt sur le revenu des particuliers et des petites entreprises au cours de la période 2026-2027.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGhhMlBoemk4d2drbFltalJQdkE0WmdlU2VXM2NsLWNhcy1iZW1jYm0xSlhPbmU2c3JZbi1XdE9rUWc2Um1CdHNuTkduTWRTY0lzaXFkYkQwRmo3eGxuV0dIR2ZFUzR3X3l6ZnBHTC0zcEUwdURXWElUSFY0NVFjZ2pIUXNGYVRHdTI5OHROMmJveXVxNjJDUy1GRDFheE5HV3dtQ1JfUTFxdXQ3LWQ2Z3N3dw?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1794639710,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation électronique : les entreprises privilégient les logiciels",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWThyZkx5cXhHZWlWaTRfakdjbHVxXzUxNVVsdVB0QUpPRWFxQWc5ekNJUEZVZ2tnRzhwT3dGS0hvS1JhYkhDUGdmSVFvazNyUko2ZFFCSkVNSFo3eWNVa0ZHLUV5TGdLRHJ6Ry11LWxuYmJOaEJUUzM2aG50YjVrQzhhRURaeWFndTVvbjE1SjNCVlpoM0lfV3RYMHB2MjhMb1BkSVE5MU83eGIzbTVOaW43MUJUdw?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVQ1ZlppRW9idEtPMU1nZlN2aktQWjMwTnRPWGFhTWlPYXI1Uk9Qbm03Z3NDNmFKTDVsWG1LRE95YkUwaURaczFpcXRocTExczNuRlZtQy1EZjUzUmk5cENPRkdsOVhXUTZxcmlZQVJEVGdrVzVlWnZLM0VFTW81ajRMX3NZbThzb3JSaTlraWtnUzlLMUIwRG9XeGxYWW5pWTZnLU1SM1VzUm1Sc3BENGdER1E1VWs5ajdQWE9GMldnQ2M?oc=5",
    "source": "LACTUACHO.COM",
    "ts": 1794126170,
-   "theme": "fisc"
-  },
-  {
-   "title": "Contrôle fiscal d'entreprise : proposition de rectification reçue, comment contester et dans quels délais (2026)",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1YyRmgzbnVraXEzd3hiVUR6cGxUWVdnTmZUZWlVSjRXZWJfZlhsZFluNVhQc0Y3ZWh4a3lTdEh2TldmU0QwYk0zSU1FdUFsenVaQk1LOXhsNTFMRm5uMm5MRFQ3N1BrY1g0bTVGWEUtcVdpT3BnY0xrdi1hdkVTbUQ3UnlDUk0weXlXSzRqNWMwQV9wa0xwMjdsOERIZnNvTFd2Z1VJQ0x1RDBsT3BB?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1794124920,
    "theme": "fisc"
   }
  ]
