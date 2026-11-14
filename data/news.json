@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T13:58:45+00:00",
- "last_success": "2026-11-14T13:58:45+00:00",
+ "updated": "2026-11-14T14:52:21+00:00",
+ "last_success": "2026-11-14T14:52:21+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 55
+   "count": 56
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 21
   }
  ],
  "items": [
@@ -83,6 +83,13 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGhhMlBoemk4d2drbFltalJQdkE0WmdlU2VXM2NsLWNhcy1iZW1jYm0xSlhPbmU2c3JZbi1XdE9rUWc2Um1CdHNuTkduTWRTY0lzaXFkYkQwRmo3eGxuV0dIR2ZFUzR3X3l6ZnBHTC0zcEUwdURXWElUSFY0NVFjZ2pIUXNGYVRHdTI5OHROMmJveXVxNjJDUy1GRDFheE5HV3dtQ1JfUTFxdXQ3LWQ2Z3N3dw?oc=5",
    "source": "Vietnam.vn",
    "ts": 1794639710,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027: le PJD explique pourquoi il a voté contre la surtaxe de 40% sur les sociétés pétrolières",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNDJxVlNiUmVydFkxZ3NOazlDVFp6eEJzZHJCSWREOFhXMjgxdUVzYUJYV1dmM0xsYjYzcTc5cjNBTlhEZjc2dGo3TUh6UjJIUGJvSEZUN1F1T3hBekVTOGVwRjRtc1JEMVk1S0NuT0hRS3ZDS2NubFc0b1pHMVA2ZUNHVVFxTVlVZkNEMmtVeDRZLVJ1YjRiQ3NDbmlfWnNaQ0dTaElub3ktM0RhSThKc21UYl81Y2J3bHhjVE5PMVZ5UGJxbm9DR1lNU0phOHp5SWl0MkcwbEs4LXFNR3VZd3BiY05CMGJsTVE?oc=5",
+   "source": "Le360",
+   "ts": 1794638460,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "www.entrepriseromande.ch",
    "ts": 1794186000,
    "theme": "fisc"
-  },
-  {
-   "title": "LCB-FT : les alertes de l'Ordre aux experts-comptables",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qbnpQWkJKUUZlS2YyVEVxemVBZS05WFF4Qk82cFdyaEtIT3IwcnNmaTk1b0l5UWVkcmNES0VvczhNbVRlcnVjTnBuMUw0eXJDamFTc1ZXZWZVU0VPQjVaMlp1QlNENXhTSTc4eg?oc=5",
-   "source": "Compta Online",
-   "ts": 1794174434,
-   "theme": "compta"
   }
  ]
 }
