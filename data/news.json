@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-15T13:04:44+00:00",
- "last_success": "2026-11-15T13:04:44+00:00",
+ "updated": "2026-11-15T14:00:45+00:00",
+ "last_success": "2026-11-15T14:00:45+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 56
+   "count": 63
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Nagakawa, le seul fabricant de climatiseurs coté en bourse, a annoncé de manière inattendue une perte après deux trimestres de profits records.",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHJzY3RiTGhVSmRKbkpXajVtLTZFSVZpcERLYWNzNXZCckw2cVVpN2VveUZWVk5nTElMelk5eWItNGdoZDUzZnVpbER2aHJZakNrRWRsbVJiQXJVSnl1OEZ3eFJrcGk5aXR2Z3ZIc2dqU01LZG9ndmhFMkZuZGs2SFJPXzdraFZ4eG1vUnBrdWxtUzBBTS04RXlDMFAtYlVob3c?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1794749703,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facture électronique gratuite : les cinq meilleures plateformes pour auto-entrepreneurs",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPREdZTElzR1hETWR3VXVTSGhPOFZQLWdBVUFLVklFSE1UZU9lRVp2bHhqYy1WZ19PXzBnazRDRVFoTFJtY1ZILW52UFZzcEZsM1AxYWlXYU9DV2dZSlRTc0lXOURMc1lPYWdFMmpkRDFCeThvQ0thall0S3h4bFpWMWE2TXBsT2tCTVBWMHZSLUpoZXhTYUZneXlCOS1VanNvM3ppOTlGSi1RN1pWTGdyV3k3Rkd5U0FYUEVRUXJCYlMtbTctS0RHMDI2SjhPZEN4X0NCYm5KWTNuMlBLdVh1MDZlX3hoMU9ocWpSc0tlU3BBWUk1MjRKNFgyQk9rTVBnbEM0aGZsZTN3WDdVbXBxUDFTeWlJWFhiYVROUFBkb09uTkE?oc=5",
+   "source": "Le Parisien",
+   "ts": 1794748200,
+   "theme": "fact"
+  },
+  {
+   "title": "De nouvelles mesures pour soutenir l’investissement et diversifier l’économie",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRjU5S0xIb0NudlNOQ0RBdkx0cTNXU1JTclJjLWdjdTJEcVpjbXUtSHc2cHpHRnBZUEFQOFNoVDl0UGpNR1VNb3paSXRpLVFfeEVJR0IzZFlWX0JFc1J5cXIwMDZ4T3Noc1BkdWdPYVlHaWNzdmZOSTM3YXIybWNFRzZuczlJdnBadHZXMnZDTDRnSHBRYjlWYjhmZTJuVW9pdGNMQ0JXUTNzM0x0YVdGa1ljQWdwbFdreDZ6YnN1d1N1RHNNUEhHOVRHbEZDVU9tZFE?oc=5",
+   "source": "وكالة الأنباء الجزائرية",
+   "ts": 1794747420,
+   "theme": "fisc"
+  },
   {
    "title": "Le budget 2027 du Maroc adopté par 179 députés contre 126",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWdEa1V6ZHh5eUFCUWloMDFTLW5kR01lSGdhWnZkNVE5dnBzMzRsVGJ3OTdFLXNwVDVmOTRYb2RaU3Z6aV9zRUxHQ3FnTkRKV3k0SU9HX0kxeDZGbk1FTXpFUWlxbkVYdlJWdHFKS1dKNkprSVRTRDBsSUt6NEIwV19JVTQ?oc=5",
@@ -1092,27 +1113,6 @@
    "source": "Yahoo Finance France",
    "ts": 1794222000,
    "theme": "fact"
-  },
-  {
-   "title": "L’investissement public porté à 12,5 milliards de dinars en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE5GZWRvN19jQWpKVzg4ZGU3SGQ3Z2dwZ1NtblFfZHRFXzlpZTRLT1lHWXBISmFvZUxoMGJfMFRNQnU0dFNVYksyWkZGbG9QSnNBMU1tNGsxV0NCdVRTTVI1cF9qNVhWbkNGMk5UWFM0NEN2WFR4VkRlNDBIQ2tKYWxhbzFMME5JdzA2X3RFX1ktXy12SmtMZFIyX1JUNFkyQUlNU25FeHhud2FYeVNyN190SEtvSF82Nm53?oc=5",
-   "source": "Mosaique FM",
-   "ts": 1794220020,
-   "theme": "fisc"
-  },
-  {
-   "title": "Prix de transfert sans comparables : une remise systématique de 35 % suffit à prouver le transfert de bénéfices",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjNJeVNncFY0MFRua1V2OEk4TXB1eTIyRzBBcEZqbDM2WWJCdHU5X3lHOWxLTm9UN0MtaDJOT0Z6RHR1UXQzMlRuQi1EZG4tNGlwZHYtT1FMLWV3dTJJczFvRm05aEVkYS1ubHJScTFpQzhfb2xuOE4zdzNOYVBzRV92U3RmSXZLdjExZ0lOSzFST1RFSS04M0FvZk81UWhXSkJ2MVZ3?oc=5",
-   "source": "Fiscalonline",
-   "ts": 1794215520,
-   "theme": "fisc"
-  },
-  {
-   "title": "Paradis fiscal : Apple économise 2,7 milliards de dollars d’impôts grâce à Singapour",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3FaRlpJYnRZWk14WE9jcnA3TVc1dG5xTDBKY29zZmlGWlBwSWU4TzVkRk56aEtUeks2WTUwQmFmclN6S1lrT1QyZ0U0cFhabHNMa2dNMm02WFhtenpPa1FPb3Z3cEZMWWhDRXRtSFNRN2tta0RiNndzZmgzMTJRYngxbXNZajUtWHFGZEtqczB5WmhOOTBMZ3pzRUxGYzRSLS1fY3VDaWJmMElSX3NiaFQyVVhhaFU?oc=5",
-   "source": "iPhoneAddict.fr",
-   "ts": 1794215403,
-   "theme": "fisc"
   }
  ]
 }
