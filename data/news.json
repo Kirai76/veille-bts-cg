@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:56:53+00:00",
- "last_success": "2026-11-15T18:56:53+00:00",
+ "updated": "2026-11-15T19:52:20+00:00",
+ "last_success": "2026-11-15T19:52:20+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -65,9 +65,16 @@
  ],
  "items": [
   {
+   "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
+   "source": "Facebook",
+   "ts": 1794771302,
+   "theme": "fisc"
+  },
+  {
    "title": "Projet de loi de finances, Confimprenditori : « Les entreprises ont besoin de réformes, pas de primes à durée limitée »",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODdCcURhZWpVejdvNk5aQlVBWjhTZHlUcU1DNk9TTVVpU1BvSVBMalc1SlhPWjIzLTgtQTYwSElBRmY2M0g5SndFN3VUQmFCRDNzcHFCSFJEbTFYc3FXMXJkRjdxSWxhM0k5SFUtSnh4bHhZT3RkdFlQUll4Rk1XQWtwRmw3WEx1ZjZQMzRXeVZrNnJ0OVlIWDlSUnFoZFpBZDlqX3duazdqbVlFWktVbldXZF9yeVZxV0lMSTJiazNUYkhyaFU5Nm5hR0RmbEE3UTB1QnhLR3h6U3ZqY0MzWHhaVk9aNkVfTUJEMF9UNjM?oc=5",
-   "source": "fr.lapresse.it",
+   "source": "LaPresse News",
    "ts": 1794768241,
    "theme": "fisc"
   },
@@ -76,13 +83,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONThSU2UzYUVjVnNpRV8yUHNZN19VeUpVU1Y2YnBCQ1BUT25wLXFMR3RKdnZjMko0NkxyVzNBOHZ3ZU1vbjB0UXBrZmdYYlI5NHJTU2tlOHZUMGpjbFF3OEF0MFltQS12am1OdEZpeXphTDkzeGRPNnhIY1JDZF81czVkSVp4ZFhHUVhUckpaMERYbERYYlByUFVpSHBkMmFLY21rbmhR?oc=5",
    "source": "lnt.ma",
    "ts": 1794760590,
-   "theme": "fisc"
-  },
-  {
-   "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
-   "source": "Facebook",
-   "ts": 1794760228,
    "theme": "fisc"
   },
   {
