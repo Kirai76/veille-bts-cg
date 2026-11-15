@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T21:49:34+00:00",
- "last_success": "2026-11-15T21:49:34+00:00",
+ "updated": "2026-11-15T22:49:59+00:00",
+ "last_success": "2026-11-15T22:49:59+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 62
+   "count": 63
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -68,7 +68,7 @@
    "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
    "source": "Facebook",
-   "ts": 1794776574,
+   "ts": 1794781946,
    "theme": "fisc"
   },
   {
@@ -399,6 +399,13 @@
    "source": "L'Essentiel de l'Éco",
    "ts": 1794550500,
    "theme": "fisc"
+  },
+  {
+   "title": "Réunion à Lamotte-Beuvron sur la réforme de la facturation électronique pour entreprises et commerçants",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX2JGNG5SVjNBVDZDRG1MRGpuM0hPNHFfQ1RnYmpYSjFvTi1Zb0I4ZThlUDhBdWRzbmZEb2tXbXhhaEZqR1ZuczZ5SWUtVVNVUVJXbzZLQVEyeW9UdGhYLU5HQUIydENEeHNYNG9kQlhzSFYxWHkzVER5OHd0aTFVc1BZczBkSkktcVhGVGdTUW9CWnRkelRrc2h0ejhmNk5rODdQY3pvX1pqRXBxSWZhMlNHUzhPNmtwODJCeGhnNnV3a2RXaEZWNlowNDQzcnBUeTFWVmNHQ3JKOEFKUy1XbHowUzJVbmVHZ2RLY0wtTWg1dVF1M2Jj?oc=5",
+   "source": "La République du Centre",
+   "ts": 1794545460,
+   "theme": "fact"
   },
   {
    "title": "Actualités économiques et sectorielles d'Asie du Sud - semaine du 9 novembre",
@@ -1102,13 +1109,6 @@
   },
   {
    "title": "Exercice illégal de l'expertise comptable : ce que le phénomène révèle des mutations de la profession",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VWVEaGprS2Yza181bDdkeUxKeXJrbzZoUW5JVW9XbFR0TDg4STA0emt4SHFvR082cFdVdWFoVWduUWxsT2xkMjd2OGk4UVlLX0tXWG42SHBSbExJRXI2QU00VkVGN2tDUGlmZmNZM05nTVNmWjBJeUpJcDcwUQ?oc=5",
-   "source": "Compta Online",
-   "ts": 1794234527,
-   "theme": "compta"
-  },
-  {
-   "title": "Exercice illégal de l'expertise comptable : un phénomène qui s'étend",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VWVEaGprS2Yza181bDdkeUxKeXJrbzZoUW5JVW9XbFR0TDg4STA0emt4SHFvR082cFdVdWFoVWduUWxsT2xkMjd2OGk4UVlLX0tXWG42SHBSbExJRXI2QU00VkVGN2tDUGlmZmNZM05nTVNmWjBJeUpJcDcwUQ?oc=5",
    "source": "Compta Online",
    "ts": 1794234527,
