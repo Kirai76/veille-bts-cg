@@ -1,74 +1,88 @@
 {
- "updated": "2026-11-15T17:46:38+00:00",
- "last_success": "2026-11-15T16:52:00+00:00",
+ "updated": "2026-11-15T18:56:53+00:00",
+ "last_success": "2026-11-15T18:56:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 60
   },
   {
    "query": "e-reporting facture plateforme agréée",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 2
   },
   {
    "query": "expert-comptable profession comptable",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 21
   }
  ],
  "items": [
+  {
+   "title": "Projet de loi de finances, Confimprenditori : « Les entreprises ont besoin de réformes, pas de primes à durée limitée »",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODdCcURhZWpVejdvNk5aQlVBWjhTZHlUcU1DNk9TTVVpU1BvSVBMalc1SlhPWjIzLTgtQTYwSElBRmY2M0g5SndFN3VUQmFCRDNzcHFCSFJEbTFYc3FXMXJkRjdxSWxhM0k5SFUtSnh4bHhZT3RkdFlQUll4Rk1XQWtwRmw3WEx1ZjZQMzRXeVZrNnJ0OVlIWDlSUnFoZFpBZDlqX3duazdqbVlFWktVbldXZF9yeVZxV0lMSTJiazNUYkhyaFU5Nm5hR0RmbEE3UTB1QnhLR3h6U3ZqY0MzWHhaVk9aNkVfTUJEMF9UNjM?oc=5",
+   "source": "fr.lapresse.it",
+   "ts": 1794768241,
+   "theme": "fisc"
+  },
   {
    "title": "PLF 2027 : la Chambre des représentants adopte la première partie par 179 voix contre 126",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONThSU2UzYUVjVnNpRV8yUHNZN19VeUpVU1Y2YnBCQ1BUT25wLXFMR3RKdnZjMko0NkxyVzNBOHZ3ZU1vbjB0UXBrZmdYYlI5NHJTU2tlOHZUMGpjbFF3OEF0MFltQS12am1OdEZpeXphTDkzeGRPNnhIY1JDZF81czVkSVp4ZFhHUVhUckpaMERYbERYYlByUFVpSHBkMmFLY21rbmhR?oc=5",
    "source": "lnt.ma",
    "ts": 1794760590,
+   "theme": "fisc"
+  },
+  {
+   "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
+   "source": "Facebook",
+   "ts": 1794760228,
    "theme": "fisc"
   },
   {
@@ -1099,20 +1113,6 @@
    "source": "lassuranceretraite.fr",
    "ts": 1794227269,
    "theme": "soc"
-  },
-  {
-   "title": "Son plafond a été récemment relevé de 600 à 1.000 euros: le ministre de l'Economie Roland Lescure annonce le prolongement de la prime carburant en 2027",
-   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOelFhMnd4R2xHVExtUlpKN2tHSDBzNEgxVF9fTDgxRm9iRktIVDZlSlFGeFFxdTJVTVdOTy15VkNJQS10SmNtZUxpV2hkdzRvZ0xySW8tOUYyODNqeGJOT2tuUktFVlBvTXV6RmdfamlRaVpNQXFrbjFMMnc5ZDFXQ3EwTEV1dXgxZ09qSTRQaE1sMnhPYjlSdmZPdk0yNlFKQThhMDMxQktYT2dwOTlTR1dvb3k2aHV2MlB1c3l6bWhhVXhJZTVjdXoyTWtSc0hYWElHUHUwZFNFZFdFYlJPcEpRaFdNdklYcllhTG12czdpZGpzcmFFZTdvXzRVcm5hUEFZa2RVeGVjRmlTcVc1YUszTmdHNUg3V2pEcTZVVU80ZWRXM1BDRjdPVllLN0hRLWdOR0tKU2dhRF9LWGgw?oc=5",
-   "source": "BFM",
-   "ts": 1794226328,
-   "theme": "fisc"
-  },
-  {
-   "title": "Hausse de la TVA, gel des prestations sociales ou suppression de l'abattement de 10% des retraités... Les propositions choc de la Cour des comptes pour économiser jusqu'à 38 milliards d'euros dès 2027",
-   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTmZidmZlbVVwMndVV2JQRUZjQm9HR01MWnJacEQxZktpdHVsNTNCLUl1X1BxZTZwUGNNbXlkXzBoM1hhalAzaWU5S1NQSHk2YnZjTDcycjFQT3pKU3N5aV81bDNNeVJ0V1hfalJRVTJIYnk1X2VTQW4yRzFwbHpfWEJEeENZSXk3RDI2NnQ2SmZEd0J6bEE4VThHVWxwdFdBeVZoNnYwdmdrUnBtSy1CODNnd1VSbmpfSF8wS1A5dU9UQldCT0JPU2ZOOXhpM0pkaEN2LTRxVzVOUlk1TU5WbS1aVk9ZUWxHZnV1VXFLWW40dUJYOWE0QjJXQ2tQZ1RfVzVXUk9jZjVpemliQVcyaTBrUEtZaDBlcXlrbnY5VjhDVTJGMDZhcXlKQ09CVUc1ak9CVkJOOS0wLUZWN1pkLVJqUEk2ZktJQ1JBTDd2bzdpMm9rMXFzYmVpTWdfN1d5cUsxbFB0cmctV2NvZTFPb2J0VjRXbFVVVnY4?oc=5",
-   "source": "BFM",
-   "ts": 1794222215,
-   "theme": "fisc"
   }
  ]
 }
