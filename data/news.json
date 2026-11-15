@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T19:52:20+00:00",
- "last_success": "2026-11-15T19:52:20+00:00",
+ "updated": "2026-11-15T20:49:42+00:00",
+ "last_success": "2026-11-15T20:49:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 60
+   "count": 61
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -50,17 +50,17 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
@@ -69,6 +69,13 @@
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
    "source": "Facebook",
    "ts": 1794771302,
+   "theme": "fisc"
+  },
+  {
+   "title": "Les prix des carburants repartent légèrement à la baisse au Maroc à partir de minuit",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUpQVjl0ZHZaV2hFWENFT1Y4RjdlYkFmUHRVY2o0SVBuYVdkdzVPTjZ0d2RZYU5yek9ZRHRDUXJ6SnRNd2lORi1GcEpZR2FpZzhNVEtvcHlLcmR0UmdmNk0zdTR2d0p2UlRTNGRJOWppU0ZDWVRyUlczaDNjSVJBZTdDbzdwbG1SWVdGZmszenZKcWFWV1VMRy1mZ0Rhck5DZS14WGN6UHBaVjRxeG5qc0hSVnMyTmc4c3Jxbw?oc=5",
+   "source": "Hespress Français - Actualités du Maroc",
+   "ts": 1794769320,
    "theme": "fisc"
   },
   {
@@ -84,6 +91,13 @@
    "source": "lnt.ma",
    "ts": 1794760590,
    "theme": "fisc"
+  },
+  {
+   "title": "Miss France 2027 : Naïla Parotte prête à faire rayonner nos îles",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVRVVUJmcGlvUXo1Z3Z1dWl3Q0NrWHhpNGZTeS15dVQ1VVhlOTRwMm8tSEFDZkg2VXBJXy1wUC1VNHJPVG5BQ09UcGY3eTI5cVdqdkNNN2FEQnV5NG5QU2FaU1UwSnZyLXJkQ24wRnIxY08talRFNDN3ejdrNTIwekJGMm5JWEJmc2twVDh5SkpaZjRwcWstTWY2Qm9RdE9uSF9Cd2dsTW5ncjctNjBlZEtkaGNNU0pZeGd1U3E1cjJzdXB0YjJiZVhxS2pCZjl0WTZoZXdQUEJWWFI3YUxF?oc=5",
+   "source": "Le Journal de Saint-Barth",
+   "ts": 1794751452,
+   "theme": "alt"
   },
   {
    "title": "Nagakawa, le seul fabricant de climatiseurs coté en bourse, a annoncé de manière inattendue une perte après deux trimestres de profits records.",
@@ -1099,20 +1113,6 @@
    "source": "GBV Dillenburg",
    "ts": 1794230491,
    "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027: un taux d’IS de 40% pour les grands opérateurs des hydrocarbures",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHgtQ1pobHgxckdKX2ZaTVNtVlNEUXNnRFZTVkI4LWZwOUtyc2Y4OEdFN05VVFZNRmI3WFRWQ196aHlwQUl2VmxEb0pQYjNFUV9zb3FhelJRZ195WnhEQ2xveUFkcWlydFdvREhFOWNkZ1A1a1JOTVVablNiUE9tbXlxeDhXN2h6SWRfaHFIcV9TZDEycDQ3RV9VWXZxZUozYkE?oc=5",
-   "source": "LesEco.ma",
-   "ts": 1794227886,
-   "theme": "fisc"
-  },
-  {
-   "title": "La fiabilité déclarative, un enjeu clé pour sécuriser les droits sociaux",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQU1BaFdHYkNoUmZ2cjRjUjVla1pyZEh1aFBCZUp3WFA2aVhwSmpxM0RmcFNPUE0xY1o4aWtLLS1FZWVRUU5xdTlaZjc3c0F4c0FkbURZcTFzdmNDTjd6Wm9kaElwOE5pNjdpdGlyOWlwY2hlR1VKOURXeGZaWG1TRi1hM2JIam9LOEtGTmE3VG1wYkk3LWpjTWE1V2MyZlBMT3drSEZZdDlwdHpTeTA1Z2trbzF4ZTVCb3lWVGd5dlc4WlI2OWtIWWRvdE9TTEZoeXc?oc=5",
-   "source": "lassuranceretraite.fr",
-   "ts": 1794227269,
-   "theme": "soc"
   }
  ]
 }
