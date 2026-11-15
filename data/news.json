@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T09:56:21+00:00",
- "last_success": "2026-11-15T09:56:21+00:00",
+ "updated": "2026-11-15T10:54:18+00:00",
+ "last_success": "2026-11-15T10:54:18+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -60,22 +60,22 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "Le budget 2027 du Maroc adopté par 179 députés contre 126",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWdEa1V6ZHh5eUFCUWloMDFTLW5kR01lSGdhWnZkNVE5dnBzMzRsVGJ3OTdFLXNwVDVmOTRYb2RaU3Z6aV9zRUxHQ3FnTkRKV3k0SU9HX0kxeDZGbk1FTXpFUWlxbkVYdlJWdHFKS1dKNkprSVRTRDBsSUt6NEIwV19JVTQ?oc=5",
+   "source": "Atlasinfo",
+   "ts": 1794729806,
+   "theme": "fisc"
+  },
   {
    "title": "Les actions immobilières sont-elles à nouveau intéressantes, après leur chute en bourse ?",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHd2RjFpTWFmNmFTU0RvTTQ2SS1aUGhrdXpCT3QwemFMN2oycU9WNExoR2haYjlpZ1o4U0dFUXBwUURTRmxPR05TWWlJS09oLVJkdkp3VU9HTEgtSHlOeHlTTlE3ZGc2TXBkV19MRmpJNVF2U0dWYzY5Y3BCUjctazJqTzVvRUNrR19qWDd3?oc=5",
    "source": "Trends-Tendances",
    "ts": 1794726551,
-   "theme": "fisc"
-  },
-  {
-   "title": "Le budget 2027 du Maroc adopté par 179 députés contre 126",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWdEa1V6ZHh5eUFCUWloMDFTLW5kR01lSGdhWnZkNVE5dnBzMzRsVGJ3OTdFLXNwVDVmOTRYb2RaU3Z6aV9zRUxHQ3FnTkRKV3k0SU9HX0kxeDZGbk1FTXpFUWlxbkVYdlJWdHFKS1dKNkprSVRTRDBsSUt6NEIwV19JVTQ?oc=5",
-   "source": "Atlasinfo",
-   "ts": 1794724439,
    "theme": "fisc"
   },
   {
