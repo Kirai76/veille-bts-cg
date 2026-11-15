@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T14:53:32+00:00",
- "last_success": "2026-11-15T14:53:32+00:00",
+ "updated": "2026-11-15T15:50:41+00:00",
+ "last_success": "2026-11-15T15:50:41+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 22
+   "count": 21
   }
  ],
  "items": [
@@ -90,6 +90,13 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWdEa1V6ZHh5eUFCUWloMDFTLW5kR01lSGdhWnZkNVE5dnBzMzRsVGJ3OTdFLXNwVDVmOTRYb2RaU3Z6aV9zRUxHQ3FnTkRKV3k0SU9HX0kxeDZGbk1FTXpFUWlxbkVYdlJWdHFKS1dKNkprSVRTRDBsSUt6NEIwV19JVTQ?oc=5",
    "source": "Atlasinfo",
    "ts": 1794729806,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027: pourquoi l’impôt sur les grands distributeurs d’hydrocarbures passe de 35% à 40%",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQemxlSkxfNVRQd1p6bEVuTUFmd1BNOGFUaUltTGJvcnMxb0ZIODNpcGVLaTdMUEJjTXdsaGxkcVdpQ2ZxYWpTT3Q5VWh2d3NhMkE2ajlneGExRkZYVUdta0tfcDh0Vl9YOW1WUWpJYnFVOUxmY05xeEdtdUhhUHZUU0VKdGRXb1RHc2VaVUhIMFVoWDM5Y1hmYWhyRWh2UWtLRnJLek5YVXBSYncwSndaaV9VTkJtajBkVFB1NTFpekNYc1JFN1p6T2h0aVpWcnV1N3VyWFlzRHZvdw?oc=5",
+   "source": "Le360",
+   "ts": 1794728280,
    "theme": "fisc"
   },
   {
@@ -905,16 +912,16 @@
    "theme": "fisc"
   },
   {
-   "title": "Prime Macron 2026/2027, Partage de la valeur, Prime pouvoir d'achat",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjU1VzB6aXI1WEhNOVBDVjJMeFd2RjBSdW9RN0ZDTVBvZzQtU3VHdkhJMWVkNnZrN2h0MXA0YWNUWDYwdThodklnNV8waTdzOGFJUnB5dUtvNXNaaVRaOGQxZ1BaV0RrNUdLSENUQ2JjQXo2MF9rRFJXRWdneWlxdDVRci1FSUhTdHE1WHNlSjNJczZ4cVRzaFByeXQ0S0JaSmhTUE9ONzh4d05LY21YQ3Z2d2xabDR2ZXdVdFR1d1ZfWVNRdTdv?oc=5",
-   "source": "Juritravail",
+   "title": "Entreprises nouvelles - Exonération IS/IR 2026",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzg4OW1QVkoyam5vVzI1Q3A5NUJIbXFxc0Z3amZSYm5xbnRwZml6MUJueDZVYmRfM21kMnRVVTVjVnB3Q0FPY3BqeDRNUVpVY3ZmWXpLUzNYNC14YzFlVVJFblBwSXdrWGtobTdLQjFYbUdQY2FGdHFIamVFUzdOdldMSlhwd24zQVhVM2ZVMVlPRjE1a3dGWFBLMA?oc=5",
+   "source": "LégiFiscal",
    "ts": 1794297600,
    "theme": "fisc"
   },
   {
-   "title": "Entreprises nouvelles - Exonération IS/IR 2026",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzg4OW1QVkoyam5vVzI1Q3A5NUJIbXFxc0Z3amZSYm5xbnRwZml6MUJueDZVYmRfM21kMnRVVTVjVnB3Q0FPY3BqeDRNUVpVY3ZmWXpLUzNYNC14YzFlVVJFblBwSXdrWGtobTdLQjFYbUdQY2FGdHFIamVFUzdOdldMSlhwd24zQVhVM2ZVMVlPRjE1a3dGWFBLMA?oc=5",
-   "source": "LégiFiscal",
+   "title": "Prime Macron 2026/2027, Partage de la valeur, Prime pouvoir d'achat",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjU1VzB6aXI1WEhNOVBDVjJMeFd2RjBSdW9RN0ZDTVBvZzQtU3VHdkhJMWVkNnZrN2h0MXA0YWNUWDYwdThodklnNV8waTdzOGFJUnB5dUtvNXNaaVRaOGQxZ1BaV0RrNUdLSENUQ2JjQXo2MF9rRFJXRWdneWlxdDVRci1FSUhTdHE1WHNlSjNJczZ4cVRzaFByeXQ0S0JaSmhTUE9ONzh4d05LY21YQ3Z2d2xabDR2ZXdVdFR1d1ZfWVNRdTdv?oc=5",
+   "source": "Juritravail",
    "ts": 1794297600,
    "theme": "fisc"
   },
@@ -1082,7 +1089,7 @@
   {
    "title": "La fiabilité déclarative, un enjeu clé pour sécuriser les droits sociaux",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQU1BaFdHYkNoUmZ2cjRjUjVla1pyZEh1aFBCZUp3WFA2aVhwSmpxM0RmcFNPUE0xY1o4aWtLLS1FZWVRUU5xdTlaZjc3c0F4c0FkbURZcTFzdmNDTjd6Wm9kaElwOE5pNjdpdGlyOWlwY2hlR1VKOURXeGZaWG1TRi1hM2JIam9LOEtGTmE3VG1wYkk3LWpjTWE1V2MyZlBMT3drSEZZdDlwdHpTeTA1Z2trbzF4ZTVCb3lWVGd5dlc4WlI2OWtIWWRvdE9TTEZoeXc?oc=5",
-   "source": "Lassuranceretraite.fr",
+   "source": "lassuranceretraite.fr",
    "ts": 1794227269,
    "theme": "soc"
   },
@@ -1104,13 +1111,6 @@
    "title": "Le propriétaire d’un studio loué en meublé doit lui aussi recevoir ses factures électroniques depuis septembre",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHlzQXdFZXB2a0lBNHJuMVUtR2xBamZnOGlpQXczU3UySjFBR19uSkRWN0t1LTFrVkRVRGZyLXY3N1JlYnFsRUxTMG5XMTY4MmtxTy1HQWJoUWs5RnNRSGVnMGY1WG5xdzg2RWFYeXFmWXJxOVh5bE5UR0RyOGExMWZ0UzFJbm83OUVKbWJrenNwU2M4NHdwOVlpSEF3RTJXRzZFa1kxOE9teUk3N2ZhbXZIaUVWdk9WUnNaWUhxbFpydXZvV2EzWmJoRQ?oc=5",
    "source": "Capital.fr",
-   "ts": 1794222000,
-   "theme": "fact"
-  },
-  {
-   "title": "Location meublée : qui échappe finalement à la facturation électronique et qui est concerné ?",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTlVRVFrVmZJdlRXZUZJMlJZSlo5Qy15MG9zWVZ5cTBnazJ3dzB4dzlpa2p1d25UNkd1ajk2a1dCdFotWVFEU3d3MC16RzFqTTZiT1BROXhVd1lGblkzOF9NcTNYTkZsdWM0bUY3NlZFS0tyYzZUM25GNTJGVnVjblNmR0p4WVRseURWVkNGeWNXRzRtbDR0UGZPQ0pIMFJaS0hYSWhtdFdveEE?oc=5",
-   "source": "Yahoo Finance France",
    "ts": 1794222000,
    "theme": "fact"
   }
