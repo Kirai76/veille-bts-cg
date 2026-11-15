@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:49:59+00:00",
- "last_success": "2026-11-15T22:49:59+00:00",
+ "updated": "2026-11-15T23:53:51+00:00",
+ "last_success": "2026-11-15T23:53:51+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "SCI et location meublée, 4 semaines de location saisonnière suffisent pour être à l'IS",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmV2eEtSRGdpQVhUbG9DZ25WelNNbk5rWEYzMzB6XzgwcHRQYktOZnllRjdwWXlNcFBVNTVsMHZyMTAwSDFyN2Y1bEdrQ2JSUlZPY3JUdTRGR2xlRkdTekFYbVR2WVZlSmFNUnMxQ1NjNFdiY1RDWjR1bzQ5SXJoQk9GN0ZYR3FKRlRlQWpGNXY1TWtPWmdaODgyOVpPUEVuLXhPV3p6RFBMeFVqeUpkV2dmZ0t3VVBKTGRfQ1FDbm10WWc?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1794783753,
+   "theme": "fisc"
+  },
   {
    "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNkc3YnRtRHQzUXRTTTBDMmxUREVjNHFvSlVVX2tscW43X0ktRUlBMVBoSHpBWjJzanZHTS04RFRCRnQxdVVOQzVXTjQxTXpDVE1sRHB0NFJUTVlCQm1JNUtaTm85a3MxcVpub09nQ0hKek0?oc=5",
    "source": "Compta Online",
    "ts": 1794234705,
-   "theme": "compta"
-  },
-  {
-   "title": "Exercice illégal de l'expertise comptable : ce que le phénomène révèle des mutations de la profession",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VWVEaGprS2Yza181bDdkeUxKeXJrbzZoUW5JVW9XbFR0TDg4STA0emt4SHFvR082cFdVdWFoVWduUWxsT2xkMjd2OGk4UVlLX0tXWG42SHBSbExJRXI2QU00VkVGN2tDUGlmZmNZM05nTVNmWjBJeUpJcDcwUQ?oc=5",
-   "source": "Compta Online",
-   "ts": 1794234527,
    "theme": "compta"
   }
  ]
