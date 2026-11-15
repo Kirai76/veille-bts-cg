@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T10:54:18+00:00",
- "last_success": "2026-11-15T10:54:18+00:00",
+ "updated": "2026-11-15T11:52:10+00:00",
+ "last_success": "2026-11-15T11:52:10+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 21
   }
  ],
  "items": [
