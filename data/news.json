@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T15:50:41+00:00",
- "last_success": "2026-11-15T15:50:41+00:00",
+ "updated": "2026-11-15T16:52:00+00:00",
+ "last_success": "2026-11-15T16:52:00+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 62
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 22
   }
  ],
  "items": [
+  {
+   "title": "PLF 2027 : la Chambre des représentants adopte la première partie par 179 voix contre 126",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONThSU2UzYUVjVnNpRV8yUHNZN19VeUpVU1Y2YnBCQ1BUT25wLXFMR3RKdnZjMko0NkxyVzNBOHZ3ZU1vbjB0UXBrZmdYYlI5NHJTU2tlOHZUMGpjbFF3OEF0MFltQS12am1OdEZpeXphTDkzeGRPNnhIY1JDZF81czVkSVp4ZFhHUVhUckpaMERYbERYYlByUFVpSHBkMmFLY21rbmhR?oc=5",
+   "source": "lnt.ma",
+   "ts": 1794760590,
+   "theme": "fisc"
+  },
   {
    "title": "Nagakawa, le seul fabricant de climatiseurs coté en bourse, a annoncé de manière inattendue une perte après deux trimestres de profits records.",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHJzY3RiTGhVSmRKbkpXajVtLTZFSVZpcERLYWNzNXZCckw2cVVpN2VveUZWVk5nTElMelk5eWItNGdoZDUzZnVpbER2aHJZakNrRWRsbVJiQXJVSnl1OEZ3eFJrcGk5aXR2Z3ZIc2dqU01LZG9ndmhFMkZuZGs2SFJPXzdraFZ4eG1vUnBrdWxtUzBBTS04RXlDMFAtYlVob3c?oc=5",
@@ -447,7 +454,7 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOGhZZTR3M2oxclJsRDE0QkdvOGlfYjZyTWhzNkFNa28xNGppUDlEbG4tRm5tVTJlVzdSV3pkb2g1ZFBlN0JlcXdBdmJXb2FhY3lNSmMyd21WVml5UGJoVTR0aF8wMHljczZ4WjR0ODYzQ0UtWnJCSlB1WThsYzBrVUFxQXoxRUVVd3h4YkVzSGZScWM4SWRpQVBXTkp0RzliLTJUWjRJLS1pUV9sdjRzODFDYnZOU3JlM2pZOWZiWXNoYUdONjJ1SGx4Y1hpRkM3OGgyaENGbjJOR2Z2bUpV?oc=5",
    "source": "JDN",
    "ts": 1794494309,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Il alourdit le déficit de 900 millions d'euros: contre l'avis du gouvernement, le Sénat reporte de trois mois une hausse des charges patronales",
@@ -1106,13 +1113,6 @@
    "source": "BFM",
    "ts": 1794222215,
    "theme": "fisc"
-  },
-  {
-   "title": "Le propriétaire d’un studio loué en meublé doit lui aussi recevoir ses factures électroniques depuis septembre",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHlzQXdFZXB2a0lBNHJuMVUtR2xBamZnOGlpQXczU3UySjFBR19uSkRWN0t1LTFrVkRVRGZyLXY3N1JlYnFsRUxTMG5XMTY4MmtxTy1HQWJoUWs5RnNRSGVnMGY1WG5xdzg2RWFYeXFmWXJxOVh5bE5UR0RyOGExMWZ0UzFJbm83OUVKbWJrenNwU2M4NHdwOVlpSEF3RTJXRzZFa1kxOE9teUk3N2ZhbXZIaUVWdk9WUnNaWUhxbFpydXZvV2EzWmJoRQ?oc=5",
-   "source": "Capital.fr",
-   "ts": 1794222000,
-   "theme": "fact"
   }
  ]
 }
