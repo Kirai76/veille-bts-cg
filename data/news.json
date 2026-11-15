@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15T05:04:10+00:00",
- "last_success": "2026-11-15T05:04:10+00:00",
+ "updated": "2026-11-15T05:59:48+00:00",
+ "last_success": "2026-11-15T05:59:48+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 59
+   "count": 58
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Budget 2027 : la Tunisie gère la contrainte, sans oser la réforme",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmxNbVhTVWlNNzVWeV82SUNQbXlfLVZNdmNzNE5SUDEyZ1dNNGtYaWZERGpWd0FLdG5hdGNUSGZrdTFnN3VEWm1hWFg1bTAyM0Zpb2NWQllISE5WSWxBZVJPOXV0NmdyRmV5bloyMWp6bExGR184T3o1SGdnaTdrVi1aSTZFRHE3SkliX2I4S0psYjQ2LVlDTnZ4VnZaVzgxQThMNTYzRk92b3dsckRQeQ?oc=5",
+   "source": "Leconomiste Maghrebin",
+   "ts": 1794719415,
+   "theme": "fisc"
+  },
   {
    "title": "PLF 2027: le PJD explique pourquoi il a voté contre la surtaxe de 40% sur les sociétés pétrolières",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNDJxVlNiUmVydFkxZ3NOazlDVFp6eEJzZHJCSWREOFhXMjgxdUVzYUJYV1dmM0xsYjYzcTc5cjNBTlhEZjc2dGo3TUh6UjJIUGJvSEZUN1F1T3hBekVTOGVwRjRtc1JEMVk1S0NuT0hRS3ZDS2NubFc0b1pHMVA2ZUNHVVFxTVlVZkNEMmtVeDRZLVJ1YjRiQ3NDbmlfWnNaQ0dTaElub3ktM0RhSThKc21UYl81Y2J3bHhjVE5PMVZ5UGJxbm9DR1lNU0phOHp5SWl0MkcwbEs4LXFNR3VZd3BiY05CMGJsTVE?oc=5",
@@ -863,6 +870,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Entreprises nouvelles - Exonération IS/IR 2026",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzg4OW1QVkoyam5vVzI1Q3A5NUJIbXFxc0Z3amZSYm5xbnRwZml6MUJueDZVYmRfM21kMnRVVTVjVnB3Q0FPY3BqeDRNUVpVY3ZmWXpLUzNYNC14YzFlVVJFblBwSXdrWGtobTdLQjFYbUdQY2FGdHFIamVFUzdOdldMSlhwd24zQVhVM2ZVMVlPRjE1a3dGWFBLMA?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1794297600,
+   "theme": "fisc"
+  },
+  {
    "title": "Holding patrimoniale : quels actifs sont concernés par la nouvelle taxe de 20 %",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzUtbk1aMFZVNTYyb3BJUWpMN2F5UHUzaXJ0d2tieU9NQWliaTFRd3ljLTVteXZFalBRNEpiUHlPenhsUFZ0ZDlZZVYxUTNqdVhDbHpxMV9jSHpqMGlrSVhsSExpRElCYXc5QzJvOGJEWHZwVTRWWHEwZnBYQUNhTmVrNzEwZmpf?oc=5",
    "source": "Banque Populaire",
@@ -1099,20 +1113,6 @@
    "source": "L'economiste du faso",
    "ts": 1794211488,
    "theme": "fact"
-  },
-  {
-   "title": "Les actions Winamp Group restent éligibles au PEA-PME",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94SnJCbEd2Mkh3WTZQZVBROEktS21yWUpsZGJNaWVWNlFSRGx5MC00OHRGanBEazF0anRpT2tKYWxDMUxqSHFzZnR3aVQtMVdqWWx0TWo2cEZyWk96cUNSWEdNZDhpVWM?oc=5",
-   "source": "Business Wire",
-   "ts": 1794209400,
-   "theme": "fisc"
-  },
-  {
-   "title": "Réduire les coûts pour l'économie.",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ob0JUb3lRMkRjN1hpQWQ2cmlBWW5vT1BPdjR0Q1FWTkdZSl9DMjI4ZHM1S0hyZGFIcW02WlNhT2hMY25KNUFIUVB3NEo0ZHFyemxuUDdSdFZKOG1PQnROSXgtV0c?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1794209303,
-   "theme": "fisc"
   }
  ]
 }
