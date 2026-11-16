@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:07:30+00:00",
- "last_success": "2026-11-16T19:07:30+00:00",
+ "updated": "2026-11-16T20:06:12+00:00",
+ "last_success": "2026-11-16T20:06:12+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,12 +10,12 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
-   "ok": true,
-   "count": 33
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,22 +45,22 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "items": [
@@ -121,18 +121,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Les crypto-actifs en entreprise : bilan, IS et TVA",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFBqTnV5clVJZE5scF96TzhqTHlGYksxR25QLUlPTDNjY3l0bXdhdUhnNlhvQVk3ckdwYzZtN0drMlJuTVNwNEJBWVBiblNSU1lqS2NIQUhaVjB2WG02d2lmN3RJWlFOcHpOWmhybHIzRGNEdnJzM0ZTUVZ3SVBUUEpfVG9Odw?oc=5",
-   "source": "groupe SVP",
-   "ts": 1794834000,
-   "theme": "fisc"
-  },
-  {
    "title": "Emploi des jeunes : appel à la mobilisation des entreprises à Paris",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0xDYTI5OGRtUHF3LTVYcVpqY0Vrd1NoS18wTE9KenpiWDRVZ3NKam5TSlVveGl4ejVvczM3Vmtpa1ZBSno1YVN5dXc4aWZSdGU1S1R2bmxaak5mdnlTOHV3NDl3WlZ4MUZYeVNjOXJGZmhuQnNZcUZHenl5R1VMdlNnM1hQWXAtUU5ZTmFCYlpvanJzYmNZY0pzZWhZczdTQlB3VExlSTFDS0E?oc=5",
    "source": "Presse Agence",
    "ts": 1794834000,
    "theme": "alt"
+  },
+  {
+   "title": "Les crypto-actifs en entreprise : bilan, IS et TVA",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFBqTnV5clVJZE5scF96TzhqTHlGYksxR25QLUlPTDNjY3l0bXdhdUhnNlhvQVk3ckdwYzZtN0drMlJuTVNwNEJBWVBiblNSU1lqS2NIQUhaVjB2WG02d2lmN3RJWlFOcHpOWmhybHIzRGNEdnJzM0ZTUVZ3SVBUUEpfVG9Odw?oc=5",
+   "source": "groupe SVP",
+   "ts": 1794834000,
+   "theme": "fisc"
   },
   {
    "title": "\"Tooprè\" : où sont les distributeurs en libre-service de produits locaux en Bourgogne-Franche-Comté ?",
@@ -259,6 +259,13 @@
    "source": "LégiFiscal",
    "ts": 1794783753,
    "theme": "fisc"
+  },
+  {
+   "title": "Expertise comptable: UNE IVOIRIENNE AU CŒUR DE L'IFAC -",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlrOGtfMnNqMTZkR0RDZGp0N19rcmc1LVdCblZLVDcxclgyaXJ1ZWZRYzh6MFgwQ29sR3E4c2RWZ0dabU9DWUZNUWdZbkhrdW1UQi1saldEb01jcFJPRTRHMks1NHh3WTBZZmZseF9ueUI3YTBocWk1c3F5NURWd0dhWGlDMGRwYXVLSE51b01QTS1WcFpUOHE5NEtOQQ?oc=5",
+   "source": "Connectionivoirienne",
+   "ts": 1794772462,
+   "theme": "compta"
   },
   {
    "title": "Les prix des carburants repartent légèrement à la baisse au Maroc à partir de minuit",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzZDSnJQNUM1N2dJWkdsaG1yTHZ2OFFwTlRPYnFKVVZVaTV1SFFsNHRFRlVKWFRqVjcwZVgwYVZtankzZXRBOE1UdDdaeFVNbFdZeUxLb1ZZa2FJbDBqUjJ5TTRKdnhDSElyb3FEVVRub3RUeXRkbUZuTGVOemhJWl9XZHZMeFE2aGIzc0tlWUloQlhrZUE2a1BBcGtsbldHWEMzYXROTFhlV2pYZXBMNEFyb2lDYmVFX21CT2FwYXFTclJSVXhUNnVhSTlLRjR1WGJvRFJEMWk5NHloVnFiaFRzM2JDNUVfNk5mbU1pVWVkUE55?oc=5",
    "source": "NextPlz",
    "ts": 1794319200,
-   "theme": "fisc"
-  },
-  {
-   "title": "Entreprises publiques : L’État paie sans compter et sans demander des comptes",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDBGb2ttQkJYWjNtOXJDWkliZmxNOGJsbU42X3MxdElFWDN4LTBGeVg2d2JBRDlqQkV5SEtnTjE1anljYVF5cGVNM3VEZ0lCeWtXazlGZnN6SWRaaTBOX18wSDIzbFRyd1RvdExha1JUd1JTemdjV0d6cmNDNWtGM0pINEZFNGwzbFVBTzREUDhsOUUyQ3lVWGgwbGJfRjQ3VHlXMA?oc=5",
-   "source": "African Manager",
-   "ts": 1794315600,
    "theme": "fisc"
   }
  ]
