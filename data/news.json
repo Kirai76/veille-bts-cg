@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16T11:32:55+00:00",
- "last_success": "2026-11-16T11:32:55+00:00",
+ "updated": "2026-11-16T15:17:15+00:00",
+ "last_success": "2026-11-16T15:17:15+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 66
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -55,15 +55,71 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 19
+   "count": 21
   }
  ],
  "items": [
+  {
+   "title": "Hub Business Solutions : les 6 modules de la suite HBS d'Épithète",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pa1dmWHBXR2FGVnNNcmVoMzJkRUFHeHp5aWxhNmtpVDkyLXNWMVRsbUdkclZ6UHM5RXpCMk9mc0gzZkUwZjB1akJSZS1Ya1llWUcxRmxkQUJUODlNaXRBQTFFakhVWmQwdlBJ?oc=5",
+   "source": "Compta Online",
+   "ts": 1794840297,
+   "theme": "fact"
+  },
+  {
+   "title": "Alternance, emploi, financement des études : comment Actual Académie veut changer la donne dans l’enseignement supérieur",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUks4aEJpbnJzTVQ5RHE2VWpwVWo4dVBmUTRLQ3B2aXExNFFZQXE1WVppZmJMVUdCV0lBSzVuQnpiZ2NaTUFzaDNZNjVtNklpNy1vVnkwTHAwMDVUdk56TzYwQXB3dVVhbjlDWjFGenpYZnJXRmZST1lhTzdEZTM2MV82RDE1RUNxQ01xcEVVX3NSNjhxUDk4YW5NYU1WWXZtS3ZFZ2pmMnlsdl9mUVI0bWltSl8?oc=5",
+   "source": "Studyrama.com",
+   "ts": 1794840149,
+   "theme": "alt"
+  },
+  {
+   "title": "SBIA AUDIT & CONSEIL : anticipe deux mutations qui redessinent le conseil aux entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFhKcWpmd1hNRmxFeDIxeW44RVFnSHhSaFFQdXB5cTBiVHFCS0lTY1ZjUHVqZFJ5NWF1NU4tNEJ5YU1YdXJzZDVJOW04dDhHWVU4Z1hNNWlWbnNka1FyNG9CZktUY1RJVXhZeXRLRWk2djFqWXJTN050TlVKRkFfT0pLbWYxTmVzZEgwcWdSOUliRjhERUFXaC1TWGNVVXVGLXduX2Y4R0Q1aXhKeTdqSUVBdUxwbjJGU2E1NmFmbVFJVTBWcDN1S1RYQXBrVlJiMUE?oc=5",
+   "source": "Capital.fr",
+   "ts": 1794839400,
+   "theme": "fact"
+  },
+  {
+   "title": "Collecter l’impôt coûte 41 % plus cher en France qu’en Espagne",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0hhSml6WDFfY3p2VzF4Z05udTVwSEFTVl9SU0paSkQ4bjZrU2NhQS11REx4S1VUY0tWMF9pUjU1bG5zeUJDcWtDc2tTOEF5WmNBY1BxNG5aSkt1RlRpNmlQSFVIMm42Tnh3ZkJSYUhrckE3a2toN0g5M0FkYUltd2ZnOVRXdU95djFvRldTbjRXbDRDT0NpRFVZVWZCR09Temp2Q0NRTQ?oc=5",
+   "source": "Contribuables Associés",
+   "ts": 1794839060,
+   "theme": "fisc"
+  },
+  {
+   "title": "Les crypto-actifs en entreprise : bilan, IS et TVA",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFBqTnV5clVJZE5scF96TzhqTHlGYksxR25QLUlPTDNjY3l0bXdhdUhnNlhvQVk3ckdwYzZtN0drMlJuTVNwNEJBWVBiblNSU1lqS2NIQUhaVjB2WG02d2lmN3RJWlFOcHpOWmhybHIzRGNEdnJzM0ZTUVZ3SVBUUEpfVG9Odw?oc=5",
+   "source": "groupe SVP",
+   "ts": 1794834000,
+   "theme": "fisc"
+  },
+  {
+   "title": "Emploi des jeunes : appel à la mobilisation des entreprises à Paris",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0xDYTI5OGRtUHF3LTVYcVpqY0Vrd1NoS18wTE9KenpiWDRVZ3NKam5TSlVveGl4ejVvczM3Vmtpa1ZBSno1YVN5dXc4aWZSdGU1S1R2bmxaak5mdnlTOHV3NDl3WlZ4MUZYeVNjOXJGZmhuQnNZcUZHenl5R1VMdlNnM1hQWXAtUU5ZTmFCYlpvanJzYmNZY0pzZWhZczdTQlB3VExlSTFDS0E?oc=5",
+   "source": "Presse Agence",
+   "ts": 1794834000,
+   "theme": "alt"
+  },
+  {
+   "title": "\"Toopré\" : où sont les distributeurs en libre-service de produits locaux en Bourgogne-Franche-Comté ?",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeEpoanY5cnhDcmU3eUFmdjdkS2xZWE5HRFFfNFdRaU5qMjlzMXVXbjJ0Q0Zlb05rM2xiR1g5Zk1TbldCQmZvTWNQbTVhMHNZWjZCR0VKSmtWb05VMi1ObnhsRVhhbllhTHdPZTNyaVZ1aXVnZUdPbmltdm5US0FraTlXTUZmM21EeTBxRlV0dER2Ui0wMmV3X2IwUDF6WDVUd1F5bGZzM3pUUkJUaEJoenZSLUYyNG41WTZMd1U4bnA?oc=5",
+   "source": "maCommune.info",
+   "ts": 1794830400,
+   "theme": "alt"
+  },
+  {
+   "title": "PLF 2027 : les distributeurs de carburants soumis à une fiscalité plus lourde",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81aFdRVk1fdFF6aUJQWFg0cE1JOEY3ZmZfQ0Y3SGtYaEU4cjBhcnZXa1psVEF6YkRJQUhxQzhFZjd3U1ZkbVZVYWxIUEtmM1JBbUxOTVV2NWRQanFtZVk5Q2JKQlBJR2MtbXNLR3k3elNBUDRNSmww?oc=5",
+   "source": "la vérité",
+   "ts": 1794829867,
+   "theme": "fisc"
+  },
   {
    "title": "Budget 2027 : Si Sébastien Lecornu « procède par ordonnances, il y aura une censure », prévient Olivier Faure",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmx0Qk9qTmtYQ3pGTnI5MUlEV2pBMV9VM0JqamQ2MzZGbHFtTE1rWDBTRWlfQU94T1FVNVV5dkRtbk5uWGpRaDAzSl9ZZHpPeUtPWUFtRUNvZ1Q4RDcybjR0VkZoQXJJbGVNWmU0QmRZTTBuY0dEdmlxaUtFaWxtcnVXMERING5CVWlaRFJseDVDQQ?oc=5",
@@ -159,7 +215,7 @@
    "title": "Kerogo Finance : transformer l’expertise comptable pour mieux accompagner les entreprises",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVl9PdE03cVlwc2cxSFN3TVNacVp5Q3VweUVWdUFJc205RzYtVnJ4Qm11b3FDZmtqaHJ2Zm1vNkFiWE5LalNBaHJzUjlnWDF5bTM5MEFhbHktUk1oTjlscE9KRG5Oem83R05qZzhSc0lLMWNxaHZIVjhTM05GYi1aN3hIQktuLUc5UEdDaHQ1czFHNy1RdWRub3NNSElHdmVCeFlhUmlaaWktMGFSM19HWmdkWnQzUVBjV2ZwaUhaRzRFYXpHa1RCNw?oc=5",
    "source": "Le Figaro",
-   "ts": 1794812400,
+   "ts": 1794812410,
    "theme": "compta"
   },
   {
@@ -1057,62 +1113,6 @@
    "source": "Le Point",
    "ts": 1794301200,
    "theme": "compta"
-  },
-  {
-   "title": "Ventes en ligne hors UE : les stocks en entrepôt entrent dans la réforme de la TVA",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVlvZU5adVAtcTUtdUg0OWdmTXJiSHNaZXA5SXV5bnhnMk94Ykg1OFNKcHJva3hHaGZHNUYwRWJoOEh2SHJ5NmUxTUdGSTdaYjZqYVBHZGV6bG1kY0ZLUHoyZlB5T2xLZWdfd0k2MGtaeDBzakdwb0ItLUsySEpfbC1GSW9Ya0V0TXQtREYxRWtUcUhmLTQ0NElB?oc=5",
-   "source": "Economie Matin",
-   "ts": 1794298592,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi de finances 2027 – Un air de déjà-vu",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHN3S1ZocEdpV1NuQW5Za0RXdHdzVWZHTmpjWHNKUUFrRFhXMzZwQjRrV0x2QVdDT0xVaGV0Nm5oVFBZTUwwQVZ6RFNEaEZITU05dE1iOW5CUjRRb29NSU9ZRmx3aVYyak5oY2JkT1Vqb0h1UjcxcTVTR0FjZ0g5M0V0S1M0SlNRR3JoS3U0QnVIR3c5Y2c?oc=5",
-   "source": "Leconomiste Maghrebin",
-   "ts": 1794298107,
-   "theme": "fisc"
-  },
-  {
-   "title": "Entreprises nouvelles - Exonération IS/IR 2026",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzg4OW1QVkoyam5vVzI1Q3A5NUJIbXFxc0Z3amZSYm5xbnRwZml6MUJueDZVYmRfM21kMnRVVTVjVnB3Q0FPY3BqeDRNUVpVY3ZmWXpLUzNYNC14YzFlVVJFblBwSXdrWGtobTdLQjFYbUdQY2FGdHFIamVFUzdOdldMSlhwd24zQVhVM2ZVMVlPRjE1a3dGWFBLMA?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1794297600,
-   "theme": "fisc"
-  },
-  {
-   "title": "Prime Macron 2026/2027, Partage de la valeur, Prime pouvoir d'achat",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjU1VzB6aXI1WEhNOVBDVjJMeFd2RjBSdW9RN0ZDTVBvZzQtU3VHdkhJMWVkNnZrN2h0MXA0YWNUWDYwdThodklnNV8waTdzOGFJUnB5dUtvNXNaaVRaOGQxZ1BaV0RrNUdLSENUQ2JjQXo2MF9rRFJXRWdneWlxdDVRci1FSUhTdHE1WHNlSjNJczZ4cVRzaFByeXQ0S0JaSmhTUE9ONzh4d05LY21YQ3Z2d2xabDR2ZXdVdFR1d1ZfWVNRdTdv?oc=5",
-   "source": "Juritravail",
-   "ts": 1794297600,
-   "theme": "fisc"
-  },
-  {
-   "title": "Holding patrimoniale : quels actifs sont concernés par la nouvelle taxe de 20 %",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzUtbk1aMFZVNTYyb3BJUWpMN2F5UHUzaXJ0d2tieU9NQWliaTFRd3ljLTVteXZFalBRNEpiUHlPenhsUFZ0ZDlZZVYxUTNqdVhDbHpxMV9jSHpqMGlrSVhsSExpRElCYXc5QzJvOGJEWHZwVTRWWHEwZnBYQUNhTmVrNzEwZmpf?oc=5",
-   "source": "Banque Populaire",
-   "ts": 1794297600,
-   "theme": "fisc"
-  },
-  {
-   "title": "De Jean-Luc Dehaene à Bart De Wever: ces taxes qui ont sauvé… ou coulé les gouvernements",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmJZWTZ0MnI3ZUZLZlNzSGs5NWVLZVltRWhTNmJHQjF0RUZsRGt5Mi10eHRsbVVremhQcUJhamRyZ252U2p4Qnh0NWJhYTFKZUJtUEpLRlNqSnkxODhiNk5RWHpLd3pveG1penA0d25DZmlEZ0IwOTBibFFKZC1DVkR5ZEw3c3RDRUR5SDVNRlNvTVlrdm1LVzZEQ1M2XzhpM255ZENlY2FVazd2RTFkWWZVT0d1UmFSUkNlcDNxVVZEc0lMRjQwX0U4ZE5iX2kzYnRfdFU4N1Y?oc=5",
-   "source": "Trends-Tendances",
-   "ts": 1794290424,
-   "theme": "fisc"
-  },
-  {
-   "title": "CFE 2026 : date d'envoi, de réception, paiement....",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVkZLbmNvOG9tOVkxbzhnTE9JSGFOQnFMLTBqX0xuWjdzRVFvYWxtUXhFWld5RnJzN2lPWi1PdENzZ2JxOTVVaHQwTnBfejNRYzlhcG1jc09yWFdyOUhfSS1IYzkyOGVzalp2SGcyb3E0VXFHOHlMbUtkTTJ4cUFnSGxsNTNOb3c5eUZTaXpMZDd5V0NWbE45TFhUMHVpN09HTGR4Wkp4bnVueG96TFVoaDhnQXgwQ3FTeGswNmFLWEpkTGhrSmFBaVdNMDVHbXBHTkVyZ2dsWEU2SFlqblotZmtkUEhvdUJFSEIxdUQzSC1sOERxU1hNeFJFUXhPMUd4cUdoV0NEX1RldF9xekE?oc=5",
-   "source": "Corrige ton impôt",
-   "ts": 1794269828,
-   "theme": "fisc"
-  },
-  {
-   "title": "Enseignement privé non lucratif : le succès des formations en management de MADE iN Sainte-Marie Lyon",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWG81T1RpaXNJQnRsY0psOGZEenVjeUpBenNmNGxsNnFoYURqaXd5WWFzUXJmemRWcE9GRXBxZ0VoMVQzSXoxcF9fWjZWbGVtOFRLSEdXdU5kNzJHRnJEeHJTM1VRY0JVZFJHakJoLVVjblRpQnFEVkVKUHFTMXdTbE16MGR0MkQ5cGpRNVNuZ3paV0VHSnRyb256VWY5ZTNPbG4tMHBTSk1Pa21HRFhDdTA0V0w4aTJNdUNKRjRkUWZpaXA5QTdTMzV3QUFDdEFUSHc?oc=5",
-   "source": "L'Etudiant",
-   "ts": 1794265200,
-   "theme": "alt"
   }
  ]
 }
