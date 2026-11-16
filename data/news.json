@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:35:13+00:00",
- "last_success": "2026-11-16T04:35:13+00:00",
+ "updated": "2026-11-16T06:34:20+00:00",
+ "last_success": "2026-11-16T06:34:20+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "query": "aide embauche apprenti",
@@ -65,10 +65,17 @@
  ],
  "items": [
   {
+   "title": "La machine réglementaire de l’UE continue tout simplement d’avancer à toute vapeur",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDQ2UGUzQmhMQVhIWDhNb1dnbXVNaG1wZWtoQlNURFBWd2xYNFBJbHQ2Y0tELU16QzczNm05aE9YZ2hGNEhwLXdrR1FuUnVrNUtIMHQwN0kyb1dkejd6X2RVc3gybVFyWFlrS2VOdy1SMXA5S3luVXQxa2RWVWN0S3IwYjFGLWRVV09Zb29naVl0QTNmUFE?oc=5",
+   "source": "Economie Matin",
+   "ts": 1794806283,
+   "theme": "fisc"
+  },
+  {
    "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
    "source": "Facebook",
-   "ts": 1794796427,
+   "ts": 1794803670,
    "theme": "fisc"
   },
   {
@@ -975,16 +982,16 @@
    "theme": "fisc"
   },
   {
-   "title": "Entreprises nouvelles - Exonération IS/IR 2026",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzg4OW1QVkoyam5vVzI1Q3A5NUJIbXFxc0Z3amZSYm5xbnRwZml6MUJueDZVYmRfM21kMnRVVTVjVnB3Q0FPY3BqeDRNUVpVY3ZmWXpLUzNYNC14YzFlVVJFblBwSXdrWGtobTdLQjFYbUdQY2FGdHFIamVFUzdOdldMSlhwd24zQVhVM2ZVMVlPRjE1a3dGWFBLMA?oc=5",
-   "source": "LégiFiscal",
+   "title": "Prime Macron 2026/2027, Partage de la valeur, Prime pouvoir d'achat",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjU1VzB6aXI1WEhNOVBDVjJMeFd2RjBSdW9RN0ZDTVBvZzQtU3VHdkhJMWVkNnZrN2h0MXA0YWNUWDYwdThodklnNV8waTdzOGFJUnB5dUtvNXNaaVRaOGQxZ1BaV0RrNUdLSENUQ2JjQXo2MF9rRFJXRWdneWlxdDVRci1FSUhTdHE1WHNlSjNJczZ4cVRzaFByeXQ0S0JaSmhTUE9ONzh4d05LY21YQ3Z2d2xabDR2ZXdVdFR1d1ZfWVNRdTdv?oc=5",
+   "source": "Juritravail",
    "ts": 1794297600,
    "theme": "fisc"
   },
   {
-   "title": "Prime Macron 2026/2027, Partage de la valeur, Prime pouvoir d'achat",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjU1VzB6aXI1WEhNOVBDVjJMeFd2RjBSdW9RN0ZDTVBvZzQtU3VHdkhJMWVkNnZrN2h0MXA0YWNUWDYwdThodklnNV8waTdzOGFJUnB5dUtvNXNaaVRaOGQxZ1BaV0RrNUdLSENUQ2JjQXo2MF9rRFJXRWdneWlxdDVRci1FSUhTdHE1WHNlSjNJczZ4cVRzaFByeXQ0S0JaSmhTUE9ONzh4d05LY21YQ3Z2d2xabDR2ZXdVdFR1d1ZfWVNRdTdv?oc=5",
-   "source": "Juritravail",
+   "title": "Entreprises nouvelles - Exonération IS/IR 2026",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzg4OW1QVkoyam5vVzI1Q3A5NUJIbXFxc0Z3amZSYm5xbnRwZml6MUJueDZVYmRfM21kMnRVVTVjVnB3Q0FPY3BqeDRNUVpVY3ZmWXpLUzNYNC14YzFlVVJFblBwSXdrWGtobTdLQjFYbUdQY2FGdHFIamVFUzdOdldMSlhwd24zQVhVM2ZVMVlPRjE1a3dGWFBLMA?oc=5",
+   "source": "LégiFiscal",
    "ts": 1794297600,
    "theme": "fisc"
   },
@@ -1106,13 +1113,6 @@
    "source": "lequotidien",
    "ts": 1794235744,
    "theme": "fact"
-  },
-  {
-   "title": "2027, une année charnière pour les cabinets d'expertise comptable ?",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNkc3YnRtRHQzUXRTTTBDMmxUREVjNHFvSlVVX2tscW43X0ktRUlBMVBoSHpBWjJzanZHTS04RFRCRnQxdVVOQzVXTjQxTXpDVE1sRHB0NFJUTVlCQm1JNUtaTm85a3MxcVpub09nQ0hKek0?oc=5",
-   "source": "Compta Online",
-   "ts": 1794234705,
-   "theme": "compta"
   }
  ]
 }
