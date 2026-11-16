@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:17:15+00:00",
- "last_success": "2026-11-16T15:17:15+00:00",
+ "updated": "2026-11-16T17:24:01+00:00",
+ "last_success": "2026-11-16T17:24:01+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Sommes-nous égaux devant l’impôt sur le revenu ? La chronique de Marc Fiorentino",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVUNzNFNGb19DNDNDYlNmcXRPT2FkV3RfaTBGVy1fS28yUnNfaTZwM091TzBfZUtxV0o4Z0kzY1pVWVg2R3ZVQUFWMkt3ZWlWbldPelVHLUJaN2RZWl9IankycWtpNm1Wc0VMdkREU0NBSVU2bF9rWFJlb3E4bVgxNkU2cTNOVG9ZOVIwbzZZZHl1cnBYVVlSb1J6bnk2Wk93d09vZWNBdGhtOXFsdXVvLXkxVEw1SWQ1ajlpbVI5Zm8zVkJDbGRmSS1YU2swc3ZDTGZKQkZZSXk2MlJIVEY0b1czX2NIQU5OVi1WTTFGMHI?oc=5",
+   "source": "La Tribune",
+   "ts": 1794844802,
+   "theme": "fisc"
+  },
+  {
+   "title": "Emmanuel Macron a-t-il vraiment mené une politique de l’offre ?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGpiTTBUY2hZempaeDBTR0dLMVVvUDVBWVR4VVp1ZkJfVnFEd0kyZlBjclVHN2RBRmVCcXRKV2VpWS1WaTg4LTdlVUxRZTBpc0xYSlJTZzBZM0RMeVRHdkRucjJQcDVPMGFGQjU5UjB5dkVHdE4taS1jOWdvMFlNUk1pQ2JKOWxUWUY4RW5VdkxDaURScTBCdQ?oc=5",
+   "source": "l'Opinion",
+   "ts": 1794844800,
+   "theme": "fisc"
+  },
+  {
+   "title": "Emploi des jeunes : le gouvernement mobilise les entreprises",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWk2ZzlqUTFUMF9SNGZSTEhCSE1adllISkU0V01qSF9PYzlkY1h2RzdlU0dYc1czSjYxODhyV2ctUUVNbTJyNmV6eHVjUlNvQzBEVndrcG1najhhWnRFUmkyb3dJTm1NclExeUhSWEg4ZmVRUTI0aGEyX2FMMzdwN2ktNTRKTEpmUFZYNkRUcGpCU2NFeFl3eV9LbE5hd081SEw3eFRfNkxLTER1M1BUNWdDa1RKV2xmdW5XSQ?oc=5",
+   "source": "Presse Agence",
+   "ts": 1794843905,
+   "theme": "alt"
+  },
   {
    "title": "Hub Business Solutions : les 6 modules de la suite HBS d'Épithète",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pa1dmWHBXR2FGVnNNcmVoMzJkRUFHeHp5aWxhNmtpVDkyLXNWMVRsbUdkclZ6UHM5RXpCMk9mc0gzZkUwZjB1akJSZS1Ya1llWUcxRmxkQUJUODlNaXRBQTFFakhVWmQwdlBJ?oc=5",
@@ -1092,27 +1113,6 @@
    "source": "Infomédiaire",
    "ts": 1794309658,
    "theme": "fact"
-  },
-  {
-   "title": "Pennylane en panne ? Le numéro 1 de la facturation électronique rencontre des problèmes aujourd'hui",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzh3QjVvbm8yWWhMNERFSHVtb0pwS1BFNTlvb1RQc21YNDVJUjNFM2dzM2pPZTMwM0YxaWtSb3BKMW5EVzdnSnNTb2ozcE52ZE1YUGY4bm9BSGV2VmpFSG9UbFZLbGNGRDBubU5UajZEelNsUXFDVkJwdWlrNC1jQW9vTHd3SGxjLXliNFY4cDRMSjRwZzBqMVFuUmZERFNHQkhoeEozNFpHUFVXb1N2MGQ3NUR5MHNXWEp1SXRoNWpmVmN6X0tzT0taNUJpUU5IT2sxYmd6TVJNVFFQdFE?oc=5",
-   "source": "Clubic",
-   "ts": 1794307080,
-   "theme": "fact"
-  },
-  {
-   "title": "Pennylane en panne ? Le numéro 1 de la facturation électronique rencontre des problèmes ce mardi matin",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzh3QjVvbm8yWWhMNERFSHVtb0pwS1BFNTlvb1RQc21YNDVJUjNFM2dzM2pPZTMwM0YxaWtSb3BKMW5EVzdnSnNTb2ozcE52ZE1YUGY4bm9BSGV2VmpFSG9UbFZLbGNGRDBubU5UajZEelNsUXFDVkJwdWlrNC1jQW9vTHd3SGxjLXliNFY4cDRMSjRwZzBqMVFuUmZERFNHQkhoeEozNFpHUFVXb1N2MGQ3NUR5MHNXWEp1SXRoNWpmVmN6X0tzT0taNUJpUU5IT2sxYmd6TVJNVFFQdFE?oc=5",
-   "source": "Clubic",
-   "ts": 1794307080,
-   "theme": "fact"
-  },
-  {
-   "title": "« Il risque d’y avoir de la casse » : expert-comptable, un métier très exposé à l’IA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSC04cXRvUWFJVXM3Z0hsbzBUeFBnWXowY1JrdUkzQUJCSkFSQ3M1c1daNEt3QmN3RHltaE1ZcV9QRXZYc1ZiQ09oWXc1Zk90ZzNPM3VmZUM5MW5fejhhdkxzZUJWcHotT2dwUExZVmJGWnRvSFpGU01qUU51eEFoYnFMenZuYmRzYUhoM1VvVnZhemVYMUw2Z3NBd0pHY0xBVm41czM4UnJGY1VacHRaTEVCd1NFQVd6OFQ3b2JkVkdqWUlRODMwUlFYS3IxTHo3?oc=5",
-   "source": "Le Point",
-   "ts": 1794301200,
-   "theme": "compta"
   }
  ]
 }
