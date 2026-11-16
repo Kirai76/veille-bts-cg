@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:35:04+00:00",
- "last_success": "2026-11-16T01:35:04+00:00",
+ "updated": "2026-11-16T03:07:42+00:00",
+ "last_success": "2026-11-16T03:07:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -68,7 +68,7 @@
    "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
    "source": "Facebook",
-   "ts": 1794786461,
+   "ts": 1794796427,
    "theme": "fisc"
   },
   {
@@ -384,6 +384,13 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3k2TUZ1UDdnb0pEOGZXN3VjTjNoSTh3OWVRUzZ6V0JoRFo3RkY5SEx1VklMOE1LbFhDS2FBdXVaYV9uQWZPTFh5WkRabHI4b3oteFU2a3RfY2ZIT3AwUDJtbzVudmhOU2FxQ0ZGQ1BkWkgzTmVVaTlQQVFXd2pIa3N4eUR0NmJnS0lzdVpaMEcxelZIVWw5MWNPbUFvUl92WkpreHRldDl4SFpUTEEtOVBvRkRGTktzZ1F3?oc=5",
    "source": "Le Figaro",
    "ts": 1794558600,
+   "theme": "fisc"
+  },
+  {
+   "title": "Bénéfice imposable - Résultat comptable et fiscal 2026",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWd3Z0R0S2dFYzBrNVpMS3pOd0twU2szRUtwZjNmVnItalhZdTc4eDZBMWRlUmF5RXJHck8zN2hzamVnaDFyUUN6VnpiVmpoWWVGTjdRRkk4WXAyR1V5NXhjclRKM0hwR2huNXN0YWFKWjBjSThxamVtbDFKaDJ1ckEwU05tdw?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1794556800,
    "theme": "fisc"
   },
   {
@@ -1102,13 +1109,6 @@
   },
   {
    "title": "2027, une année charnière pour les cabinets d'expertise comptable ?",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNkc3YnRtRHQzUXRTTTBDMmxUREVjNHFvSlVVX2tscW43X0ktRUlBMVBoSHpBWjJzanZHTS04RFRCRnQxdVVOQzVXTjQxTXpDVE1sRHB0NFJUTVlCQm1JNUtaTm85a3MxcVpub09nQ0hKek0?oc=5",
-   "source": "Compta Online",
-   "ts": 1794234705,
-   "theme": "compta"
-  },
-  {
-   "title": "Cabinets d'expertise comptable : 2027, l'année charnière ?",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNkc3YnRtRHQzUXRTTTBDMmxUREVjNHFvSlVVX2tscW43X0ktRUlBMVBoSHpBWjJzanZHTS04RFRCRnQxdVVOQzVXTjQxTXpDVE1sRHB0NFJUTVlCQm1JNUtaTm85a3MxcVpub09nQ0hKek0?oc=5",
    "source": "Compta Online",
    "ts": 1794234705,
