@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:53:51+00:00",
- "last_success": "2026-11-15T23:53:51+00:00",
+ "updated": "2026-11-16T01:35:04+00:00",
+ "last_success": "2026-11-16T01:35:04+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
@@ -65,17 +65,17 @@
  ],
  "items": [
   {
+   "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
+   "source": "Facebook",
+   "ts": 1794786461,
+   "theme": "fisc"
+  },
+  {
    "title": "SCI et location meublée, 4 semaines de location saisonnière suffisent pour être à l'IS",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmV2eEtSRGdpQVhUbG9DZ25WelNNbk5rWEYzMzB6XzgwcHRQYktOZnllRjdwWXlNcFBVNTVsMHZyMTAwSDFyN2Y1bEdrQ2JSUlZPY3JUdTRGR2xlRkdTekFYbVR2WVZlSmFNUnMxQ1NjNFdiY1RDWjR1bzQ5SXJoQk9GN0ZYR3FKRlRlQWpGNXY1TWtPWmdaODgyOVpPUEVuLXhPV3p6RFBMeFVqeUpkV2dmZ0t3VVBKTGRfQ1FDbm10WWc?oc=5",
    "source": "LégiFiscal",
    "ts": 1794783753,
-   "theme": "fisc"
-  },
-  {
-   "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
-   "source": "Facebook",
-   "ts": 1794781946,
    "theme": "fisc"
   },
   {
