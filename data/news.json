@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16T17:24:01+00:00",
- "last_success": "2026-11-16T17:24:01+00:00",
+ "updated": "2026-11-16T19:07:30+00:00",
+ "last_success": "2026-11-16T19:07:30+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 66
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,15 +55,22 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 23
   }
  ],
  "items": [
+  {
+   "title": "\"Nous avons davantage besoin d'une vision que de mesures pour la formation\" (Guillaume Houzel, collectif \"Avenir compétences\")",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN1YwSk9NMFRhdHRoaVdmRmZHeng3MGN2RC1ra1NfTmZWR2dCcXZMWGtma3Z4QzJuaXpFdUlJQnRvSTB6T2k1RHktZ3hpUjd0bEdDZ0ZCbm9qTzl0OW9PWnc3N1JGRXhTOHJLZEw3Q01rVkNYSTZ4WWZFZExCLWJiN09NWG94R0daWmNiYndZTUtzN0dweTJVdTBVbkxncXk3Vm0tRXoxRzNWc2RId2xXVTNfVUFqNHR3cDgzd2ZFcldualVuOHJKLWw4M2VmWmFLdEtQekpzLVdIYnY3cjNmWklvWW9FOGlLajZHYg?oc=5",
+   "source": "AEF info",
+   "ts": 1794848460,
+   "theme": "alt"
+  },
   {
    "title": "Sommes-nous égaux devant l’impôt sur le revenu ? La chronique de Marc Fiorentino",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVUNzNFNGb19DNDNDYlNmcXRPT2FkV3RfaTBGVy1fS28yUnNfaTZwM091TzBfZUtxV0o4Z0kzY1pVWVg2R3ZVQUFWMkt3ZWlWbldPelVHLUJaN2RZWl9IankycWtpNm1Wc0VMdkREU0NBSVU2bF9rWFJlb3E4bVgxNkU2cTNOVG9ZOVIwbzZZZHl1cnBYVVlSb1J6bnk2Wk93d09vZWNBdGhtOXFsdXVvLXkxVEw1SWQ1ajlpbVI5Zm8zVkJDbGRmSS1YU2swc3ZDTGZKQkZZSXk2MlJIVEY0b1czX2NIQU5OVi1WTTFGMHI?oc=5",
@@ -128,7 +135,7 @@
    "theme": "alt"
   },
   {
-   "title": "\"Toopré\" : où sont les distributeurs en libre-service de produits locaux en Bourgogne-Franche-Comté ?",
+   "title": "\"Tooprè\" : où sont les distributeurs en libre-service de produits locaux en Bourgogne-Franche-Comté ?",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeEpoanY5cnhDcmU3eUFmdjdkS2xZWE5HRFFfNFdRaU5qMjlzMXVXbjJ0Q0Zlb05rM2xiR1g5Zk1TbldCQmZvTWNQbTVhMHNZWjZCR0VKSmtWb05VMi1ObnhsRVhhbllhTHdPZTNyaVZ1aXVnZUdPbmltdm5US0FraTlXTUZmM21EeTBxRlV0dER2Ui0wMmV3X2IwUDF6WDVUd1F5bGZzM3pUUkJUaEJoenZSLUYyNG41WTZMd1U4bnA?oc=5",
    "source": "maCommune.info",
    "ts": 1794830400,
@@ -138,7 +145,7 @@
    "title": "PLF 2027 : les distributeurs de carburants soumis à une fiscalité plus lourde",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81aFdRVk1fdFF6aUJQWFg0cE1JOEY3ZmZfQ0Y3SGtYaEU4cjBhcnZXa1psVEF6YkRJQUhxQzhFZjd3U1ZkbVZVYWxIUEtmM1JBbUxOTVV2NWRQanFtZVk5Q2JKQlBJR2MtbXNLR3k3elNBUDRNSmww?oc=5",
    "source": "la vérité",
-   "ts": 1794829867,
+   "ts": 1794830387,
    "theme": "fisc"
   },
   {
@@ -804,7 +811,7 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYldzMHFoak5IbjBLbzZDMGstQVp1ak5uUUl1RXpfNENNN3czSlBMTU93VnQ1SUpCa3ByX3M5WklCSnlxbWdRRlZfM1V3WVUyTlF2TG43aDVxOUxuNjRoZnZha2hsQ3gxSGRCemZCUzJ3SVlWU016WDJESU5WM09iTlpmaEhVd3I2UkhIamNXeWtvZi1XbzhBRy1BWlBYWUpGamx0OERKd0VZcnlHZ2RvZ0R6UGtvRnc5SUhPT3pBcElpTGZiOEJnaFNsb1VNQzBXUXdLclpLcENiUFg1Tm5MdXd6c280bnpaeWNEX1YwQ3F0cFlXem4xa2VEWTdFR0h2OXQ1M1pjMA?oc=5",
    "source": "Revue Fiduciaire",
    "ts": 1794466800,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "Taxe sur le tabac : comment Malte tient tête aux 26 autres pays de l’UE",
@@ -1106,13 +1113,6 @@
    "source": "African Manager",
    "ts": 1794315600,
    "theme": "fisc"
-  },
-  {
-   "title": "Le Nigeria mobilise près de 24,5 milliards de dollars de recettes publiques en dix mois",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1MGJFWEFQMy1RUDl0cDdOekdYN1N4MWFnRHBGY2JCSjBIUFpzR1VkV2ZYc2pOTFRxNmZ3QkVKSUc2Tjhja3I3NElQS3k3a29ZX1FTVkh5QWppYjNmWWU5QUd5cll2bmxGbk1KUWdVQy1ram5MamVZZVFB?oc=5",
-   "source": "Infomédiaire",
-   "ts": 1794309658,
-   "theme": "fact"
   }
  ]
 }
