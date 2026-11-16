@@ -1,75 +1,89 @@
 {
- "updated": "2026-11-16T21:57:56+00:00",
- "last_success": "2026-11-16T20:06:12+00:00",
+ "updated": "2026-11-16T22:57:19+00:00",
+ "last_success": "2026-11-16T22:57:19+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 2
   },
   {
    "query": "expert-comptable profession comptable",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 21
   }
  ],
  "items": [
+  {
+   "title": "Entreprises françaises : ni gavées, ni choyées, mais fragilisées",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzMwcTdMWUV1STBxQVFqdzlGeGt3Vi1vaEFLTmFFNWpkdVhnZDFlVGY3SHB1REE5YlA4QUdUU0pseTBMOWsxWW8zcXRJMmdHcVBRUjNydFd2RDB0OUNLd2d0SUNTSDhVOVBXdDRQdjZMWUIxR0FLMHhtNnlXVWtoX1kwVXhsbG1PY2ZKekVDeGV0Zw?oc=5",
+   "source": "Contrepoints",
+   "ts": 1794862123,
+   "theme": "fisc"
+  },
   {
    "title": "\"Nous avons davantage besoin d'une vision que de mesures pour la formation\" (Guillaume Houzel, collectif \"Avenir compétences\")",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN1YwSk9NMFRhdHRoaVdmRmZHeng3MGN2RC1ra1NfTmZWR2dCcXZMWGtma3Z4QzJuaXpFdUlJQnRvSTB6T2k1RHktZ3hpUjd0bEdDZ0ZCbm9qTzl0OW9PWnc3N1JGRXhTOHJLZEw3Q01rVkNYSTZ4WWZFZExCLWJiN09NWG94R0daWmNiYndZTUtzN0dweTJVdTBVbkxncXk3Vm0tRXoxRzNWc2RId2xXVTNfVUFqNHR3cDgzd2ZFcldualVuOHJKLWw4M2VmWmFLdEtQekpzLVdIYnY3cjNmWklvWW9FOGlLajZHYg?oc=5",
    "source": "AEF info",
    "ts": 1794848460,
    "theme": "alt"
+  },
+  {
+   "title": "Collecter l’impôt coûte 41 % plus cher en France qu’en Espagne",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0hhSml6WDFfY3p2VzF4Z05udTVwSEFTVl9SU0paSkQ4bjZrU2NhQS11REx4S1VUY0tWMF9pUjU1bG5zeUJDcWtDc2tTOEF5WmNBY1BxNG5aSkt1RlRpNmlQSFVIMm42Tnh3ZkJSYUhrckE3a2toN0g5M0FkYUltd2ZnOVRXdU95djFvRldTbjRXbDRDT0NpRFVZVWZCR09Temp2Q0NRTQ?oc=5",
+   "source": "Contribuables Associés",
+   "ts": 1794846293,
+   "theme": "fisc"
   },
   {
    "title": "Sommes-nous égaux devant l’impôt sur le revenu ? La chronique de Marc Fiorentino",
@@ -100,6 +114,13 @@
    "theme": "fact"
   },
   {
+   "title": "« Au-delà du diplôme, ce que nous promettons, c’est du travail » - Entretien avec Thomas Legrain, directeur d’Actual Académie",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUks4aEJpbnJzTVQ5RHE2VWpwVWo4dVBmUTRLQ3B2aXExNFFZQXE1WVppZmJMVUdCV0lBSzVuQnpiZ2NaTUFzaDNZNjVtNklpNy1vVnkwTHAwMDVUdk56TzYwQXB3dVVhbjlDWjFGenpYZnJXRmZST1lhTzdEZTM2MV82RDE1RUNxQ01xcEVVX3NSNjhxUDk4YW5NYU1WWXZtS3ZFZ2pmMnlsdl9mUVI0bWltSl8?oc=5",
+   "source": "Studyrama.com",
+   "ts": 1794840149,
+   "theme": "alt"
+  },
+  {
    "title": "Alternance, emploi, financement des études : comment Actual Académie veut changer la donne dans l’enseignement supérieur",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUks4aEJpbnJzTVQ5RHE2VWpwVWo4dVBmUTRLQ3B2aXExNFFZQXE1WVppZmJMVUdCV0lBSzVuQnpiZ2NaTUFzaDNZNjVtNklpNy1vVnkwTHAwMDVUdk56TzYwQXB3dVVhbjlDWjFGenpYZnJXRmZST1lhTzdEZTM2MV82RDE1RUNxQ01xcEVVX3NSNjhxUDk4YW5NYU1WWXZtS3ZFZ2pmMnlsdl9mUVI0bWltSl8?oc=5",
    "source": "Studyrama.com",
@@ -112,13 +133,6 @@
    "source": "Capital.fr",
    "ts": 1794839400,
    "theme": "fact"
-  },
-  {
-   "title": "Collecter l’impôt coûte 41 % plus cher en France qu’en Espagne",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0hhSml6WDFfY3p2VzF4Z05udTVwSEFTVl9SU0paSkQ4bjZrU2NhQS11REx4S1VUY0tWMF9pUjU1bG5zeUJDcWtDc2tTOEF5WmNBY1BxNG5aSkt1RlRpNmlQSFVIMm42Tnh3ZkJSYUhrckE3a2toN0g5M0FkYUltd2ZnOVRXdU95djFvRldTbjRXbDRDT0NpRFVZVWZCR09Temp2Q0NRTQ?oc=5",
-   "source": "Contribuables Associés",
-   "ts": 1794839060,
-   "theme": "fisc"
   },
   {
    "title": "Emploi des jeunes : appel à la mobilisation des entreprises à Paris",
@@ -286,6 +300,13 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONThSU2UzYUVjVnNpRV8yUHNZN19VeUpVU1Y2YnBCQ1BUT25wLXFMR3RKdnZjMko0NkxyVzNBOHZ3ZU1vbjB0UXBrZmdYYlI5NHJTU2tlOHZUMGpjbFF3OEF0MFltQS12am1OdEZpeXphTDkzeGRPNnhIY1JDZF81czVkSVp4ZFhHUVhUckpaMERYbERYYlByUFVpSHBkMmFLY21rbmhR?oc=5",
    "source": "lnt.ma",
    "ts": 1794760590,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027 : l’investissement public peut-il encore créer davantage de richesse ?",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVE1Y2FoempBOFV2Uy1RMzIzdEhXbkdPZHJrSk42WnBwLVY4ZGFVNHhiNmhMS0FDTnk3NGY1VWl4OFVKVnNlZlBfRlJSRnAyeDJZLUE0bEdhbXJPMzNnOXpKdEI5X3RBS1RXRVlTbmIzQ3hGQWpENVRjTnVEUGlIYWxHSDVENUV2TVdSdWFDRXM5SzlNVUM1WFpMUHN5T0J1Sk8xU9IBqgFBVV95cUxQOGFKZ1RGWFc0T3kxQ2tJZVBzakxGTTBZLUhTWkpnYkNTTk9PRDgxT284a3hzSnhjSFFULTd5R3Z0UWI1S1Z1MnNDaUlxTW1QRGZiSFVrNHQxX3pwc2RxSkVRZHJCekt3MEg5Q3BwQ1J3OC1iX3RQcFczYlRyWHlxNW9mY0ZNZ3BsRFFNSkxIU1lpVWFjMVlIRWpwdi10Rk5lTjVaNzNvWHFzQQ?oc=5",
+   "source": "Le Matin.ma",
+   "ts": 1794755700,
    "theme": "fisc"
   },
   {
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSlhRTXBtRkl0WmRTazVRc0U0UW41bDUydVZoQ0RuWmY4TzVwWlhSQUI4Ym5aaUQ3eHV0TnBoRGhMWlZ0OUVWcmlGNWZhUER2OHJ6dllmNjcxeHNaUFlCT1VWN2lxV2hvVjhjNTNkM213Y2NlR3czYzVPQ0p4QTFWUWVPU1k3NTdUaUdHblhUM0NWYUMtQVBoQU5OZDJ3djJVWDFUekMtMWowVEoxZXJuazBrWThPcGR5RFc5bDNtemtLX2s2QXhuSlAzRkpMc1NScURVM1FmV0dwZExGQjNRYktIR0dDa0c3YVFFR3N3WmpUZUs5UVVWTmx4dS1lWmtZTm14dnl1d3AzSUg2OVFWUHJYOTlSS3JscS1RWVlzZ0wzR1kzUnc?oc=5",
    "source": "Public Sénat",
    "ts": 1794320928,
-   "theme": "fisc"
-  },
-  {
-   "title": "La majorité veut taxer cimentiers et opérateurs télécoms comme les banques",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2FEZW1aZ0doUDJGcnVja2VaX1NWTU1KLTJ2QV9RcnpfZE4zc2l3Nkp0LTlYVTFNTlI2WlB3OHd2QzQtUVpRTjQ2OGx3bGs2bllrNVVGbVFPZUZwZnlBRC1Vcmc2WFlfMFl2bzU4cV9HSkZOLWxBdUdZMjVXb2VTalczUmNGQnp5dkhaWE84aTZlQlRZb0lxdWhES2tvakRETGlLTnVGWQ?oc=5",
-   "source": "Le Desk",
-   "ts": 1794320460,
-   "theme": "fisc"
-  },
-  {
-   "title": "Flat tax 2026 ou PFU : assurance vie, dividendes, plus-values, bitcoin",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2JCS0N6cGp6a3NiRWRSVDN4ejFzR201TU5meVhOZDltMHQtZnVZMVlyOWVQajdVeVpmLVRQUWR2dGN5YW43QkpKRWFFanE4azNYU2dJN1VUNG55T3FJN1lfaXliZnJEMm51NTExcjBTQm1PdkR0QmtLZ2ZZWkUzZEFDbw?oc=5",
-   "source": "Tout Sur Mes Finances",
-   "ts": 1794320287,
-   "theme": "fisc"
-  },
-  {
-   "title": "Contrôles fiscaux : une vague de vérifications cible certains Français depuis juin, vous pourriez être le prochain sur la liste",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzZDSnJQNUM1N2dJWkdsaG1yTHZ2OFFwTlRPYnFKVVZVaTV1SFFsNHRFRlVKWFRqVjcwZVgwYVZtankzZXRBOE1UdDdaeFVNbFdZeUxLb1ZZa2FJbDBqUjJ5TTRKdnhDSElyb3FEVVRub3RUeXRkbUZuTGVOemhJWl9XZHZMeFE2aGIzc0tlWUloQlhrZUE2a1BBcGtsbldHWEMzYXROTFhlV2pYZXBMNEFyb2lDYmVFX21CT2FwYXFTclJSVXhUNnVhSTlLRjR1WGJvRFJEMWk5NHloVnFiaFRzM2JDNUVfNk5mbU1pVWVkUE55?oc=5",
-   "source": "NextPlz",
-   "ts": 1794319200,
    "theme": "fisc"
   }
  ]
