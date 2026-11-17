@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T05:09:38+00:00",
- "last_success": "2026-11-17T05:09:38+00:00",
+ "updated": "2026-11-17T06:11:07+00:00",
+ "last_success": "2026-11-17T06:11:07+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -321,6 +321,13 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONThSU2UzYUVjVnNpRV8yUHNZN19VeUpVU1Y2YnBCQ1BUT25wLXFMR3RKdnZjMko0NkxyVzNBOHZ3ZU1vbjB0UXBrZmdYYlI5NHJTU2tlOHZUMGpjbFF3OEF0MFltQS12am1OdEZpeXphTDkzeGRPNnhIY1JDZF81czVkSVp4ZFhHUVhUckpaMERYbERYYlByUFVpSHBkMmFLY21rbmhR?oc=5",
    "source": "lnt.ma",
    "ts": 1794760590,
+   "theme": "fisc"
+  },
+  {
+   "title": "France Inter. . Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzVkR2RBUTRvdnZBVExRSXdrbklUcG91TDc5VmZNOEs0YVdkcVNNeVM5ODFkQ1BubE5UZm1OLVhDNTdIRGQ5eDZDRzh6UUc0R2FjZnlGOGtRTURHOGJvTEM3bzRzUHZrbnVWZzFobTlxeDY5RkY4dEx5a1pLTE1MTHB3anE3bGdEaExLR1NULUdlem9ISHdubXFDNVVwWXZTYWEzUVZmaW5wZ3BIajhlUDltaVlrMjBQOF9WRw?oc=5",
+   "source": "Facebook",
+   "ts": 1794760220,
    "theme": "fisc"
   },
   {
@@ -856,6 +863,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Déclaration des taxes sur l'affectation des véhicules de tourisme (ex-tvs) 2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2QzZqNHZRM0lxWTVqenh6LUxkOUM0Uzd0RlN4Q04wYmRqT1hfc3FsZ1BNUHJPQWF5enIxcFVTN2NheUdkYWsyTTIzcTZuQlBFNmEzMk56QlNkbWh0WExHVVpaSk1Kc3EwcUh0TUpUQQ?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1794470400,
+   "theme": "fisc"
+  },
+  {
    "title": "PLF 2027 : Le pari risqué du gouvernement sur la baisse des cours du pétrole",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3hJcExnNTByWmcwM1NoMmp3TXVlRHVQMGFrMGR2VFFYaUF4cUdybFZWd20wYmllakQtZXhoOEduS3VMbWNLd2pJWTVnbWcwUmdPMXZZcVRwakY2UHl3U0Z3bEI0ZExodHVnVEdtNGM2Mml6dTNPcWZtbjd0bEZ4cEtIaVZ0WlBGNklWZDZFMG9YZ2c2UjlPcXl5M2pwU29CRXdJREcybDg0Q010TVU4?oc=5",
    "source": "Hespress Français - Actualités du Maroc",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDM5UGpkYms0d1VXSDFEZ0dDT3ZGaWNKQndIQWV0T0VraENOTUVOVHo2Q2JGYnAyTUt0UjZTYjBMZmhQQ2g2YmMxa2xQTExFSFBMN3lKRllqdDF0eTgxYXppNm9YV3FTYXp6VnZuRFZnd1dKTTdldjVsYmsyTldIUXhzakcyTVhEZEdUZDFQSGFPbHRPdDd5UkJGTXliZUFpRnQ2NzhaOExWckRQRjM0?oc=5",
    "source": "Watson",
    "ts": 1794332820,
-   "theme": "fisc"
-  },
-  {
-   "title": "Predilife relève son chiffre d’affaires semestriel 2026 et réduit sa perte nette",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjZJM1lYaWo4dGNCN0VLS0JCeV9PMVdrTExTXzVMMXVMYVR4ODlZNWYzOEstdElkYl9qUXRaTVRhcjhkUk81N3NuYk5PSkswQXY4aDM2RGNoR09ZVWJJb0xJQlNwcHN0Zno3NUNITnczN2wyLUo1UVFSVFRJT280SGh1enVEc1c4NllFYS1xWWFWZlhTTUpoNEFGSTBMYkpKNmNDUy1EYThfZWRmSXBJcDNEYVM1Y05ZV3RHaw?oc=5",
-   "source": "ABC Bourse",
-   "ts": 1794332409,
-   "theme": "fisc"
-  },
-  {
-   "title": "Impôt sur les sociétés : la majorité veut étendre le taux de 40 % aux cimentiers et aux opérateurs télécoms",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTlRXbWt4aGZOWFQ3bXlKdTZIQmppaGVLNTdwSWc1SHZLcXRLRE1DYUZZQ001Mjc1RFVqaUlSeGdIR21yd2RTam82XzMxWl9YcFlCOUVpTWFCOEdCR2Q4ajBJbDgyd1JEYzN3dFdOc0ZnelNSMFV1cV9MUkU2UlpFOXZMX0ZYZ3E5dWYzelhqbDYwWm11bF9VZjY0a3kyZlhDQVVrNmNodmJiWkhLQUNiVmNLNWxWenRFZ3c5Vk9MeHVpN1c1SXFJeUJDTnBMM0hVU1ZUOUJyQ0d5TUYwbUUzb3VQMUxMVHN5cUNaaU9OT29TSUpYdUs0bUoxTVdqVnhUekgzX0hCZTR4bjNHdE1mWTFxN0haSlVydlN6elFR?oc=5",
-   "source": "L'Opinion",
-   "ts": 1794325256,
    "theme": "fisc"
   }
  ]
