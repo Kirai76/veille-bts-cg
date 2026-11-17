@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T13:22:48+00:00",
- "last_success": "2026-11-17T13:22:48+00:00",
+ "updated": "2026-11-17T15:03:07+00:00",
+ "last_success": "2026-11-17T15:03:07+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -60,10 +60,66 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 26
+   "count": 28
   }
  ],
  "items": [
+  {
+   "title": "Présidentielle 2027. Marine Le Pen dévoile son programme sur les retraites : les cinq principales mesures",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZkhNZkZRNGY3UUJuM3NWeHJWRV93YUNxZVNqc0lNQ0wzNTd2Z2t6YTBEamljMVRVbklfX3JpR2pkOU1UUmhoMVNyYktjdzJBQlh5NmlGal90aHlzNFEwMUtvYWlYekdKb3VvM3pDUl9mbXF0ZGlkUVhyLTFRODJFZTBmOTc0UV80ekFibXFtdE5mRVhQTjVaOVZ1TlNMQm9pME5SQ1dzcGduNDR6SHpLeWpyT0tsQkJwSDNzQ3pCSGs3Si1oamFPSFVVNG9qdXRmeF92QmxQbExIVTdBRjVRelVCTS1PajlHc0QxdEVvazFiNVZHZmJlQnRfMXlsOUZHMk55Mml3a2tWRHJqVFphdFU0WUxZVHJ5bG9j?oc=5",
+   "source": "Ouest-France",
+   "ts": 1794926087,
+   "theme": "alt"
+  },
+  {
+   "title": "Fiscalité : les riches paient-ils leur juste part d’impôt ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUNCQlgxWlpTU2FmWnRRU3RnUzg5YlJ5R1NSa2JhbFFMZjVSazBLcEdIa1ZOZ21OTmktclN6aGpmeW1GZ01Ma3ZsOXJ4b1EtSDRBY2tQWVMxWWZRcnhXc3R0NVdlZWhkZGdnZUdYTHE0a3ljREdJOHNaVWFwMkNYTWtTb0ZTcHFT?oc=5",
+   "source": "Les Surligneurs",
+   "ts": 1794925974,
+   "theme": "fisc"
+  },
+  {
+   "title": "SCI familiale et location meublée : le piège fiscal qui peut coûter très cher aux associés",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbXRORE56WTh4TkxWdVF1OHprX1pOZWNmQmpnZmV2Rm95Q2otLWY2bmJzZWNSSWVsN3ZBTTI4alF6V2U4MzU5bEIwRjFJWGtXZzVYcVlLWE1oaXlfUTFNYmhSdmZHQktKeFFOcUNXYlVvczlGc0N3aTNBSWVmbFlJS3d3NFpBczQ5ZUJreDBpeXNYdHdpdFpDQW9Kek9yNkZwekpvX3VqSDFMWGFlSm5UU1hTWWhqOUFSeWtqSWZRX0NUNmwxU040eXpFU2IzRDlPZDNuQWtudmluZkYwcnZtdFAyZkxleUd4aHFfNXpyeDRNMXR1TU5SdkJkOWxIRUprX1cxVjVUclI3Tkk?oc=5",
+   "source": "eurojuris france",
+   "ts": 1794925788,
+   "theme": "fisc"
+  },
+  {
+   "title": "Banque en ligne pro avec facturation intégrée : les trois meilleures offres",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaDZyVlhxejRRcVJZOUJrVm5nRTBkRU05bEJfMTBHNW1VSnJFRGEydDlhX0FLRmRaTWZUSWFZZU5rYlJSaGpXdG13T29pNTV4bWYxakc0SmtlYWxpdTRsS3lFcFZ0QmZjTF96eWY5al8xaWR2TVpfOEV4MGZ3V29mTTlqTGxuVmFkcXBaOWh2ckJzNDd3YnhWUlRDYXdBLVpSUURxYTdRQ01IRndhcGszLTFWMFhTWkhQNG5PTDR2RmlBcmFxN3BITDBkaG9yM2lURXlLaWIxaHZNbjdJdWoxUTdmbDNlbjlKRnNoa3RnTXk1Y1pKeWFOcmN2VC05WUl1OFJFVlpzUUhGWmRaODN2VFh4MUZ6cVNqaGFIUzF3?oc=5",
+   "source": "Le Parisien",
+   "ts": 1794923760,
+   "theme": "fact"
+  },
+  {
+   "title": "Réforme des retraites: pourquoi le RN veut supprimer les critères de pénibilité du travail",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkdqb0RVd0RTVWViU3JxVWRuRHZnZUh1LWxNelN4SFBUMlhsTzZsQUVPN0ZXTko1QzVnblZtVHNQNF9Cbk5QWWZ0QWRudVdEamJQdzdkZnZnbG1WLWxfaG8yTmxGd3oxLWJaWTRyOGNHYzJTd0tGYk5CdXFFdEROMXJuYXQ2UzJlRE9weWp0LVR3OWtQa2hlMUVEUEFPUmR5Y0xndGloazBOQjQ?oc=5",
+   "source": "LCP-Assemblée nationale",
+   "ts": 1794923742,
+   "theme": "alt"
+  },
+  {
+   "title": "Budget 2027 : le SNJT appelle l’État à élaborer un plan national de sauvetage des médias",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEl1Q21tSWtwdWYteGZEa3pFUWt3MGFyd3dNVHhOUFk1YTRzRGhycWQxMlFISnlKX0hRaXJXQV9zd3Nna2xHeEU1Q2FTajNlVGc4MmN6MllMRkdYdjZDUmQ5N2l6WWVubEhCbVhsc1gzWWUwenBLelFnRWJDMmdDckRTdEgyVkFRazVyMmFoc1hVdF9PU3VGRDBMWFNVSWJVQTBsRmc4eHU2SzJDRl9EbENheTFWY3YyR09z?oc=5",
+   "source": "Tunisie Numerique",
+   "ts": 1794922080,
+   "theme": "fisc"
+  },
+  {
+   "title": "Profession comptable : le confort d'aujourd'hui, un piège pour demain",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDBFeFhlRXhOOGRjNHNJZ3dOZ3VSZWljdGRqUHBJREFidll2YVNUN2JtYnBVSlJTcmJyLVZQYWdtaHBybkR5NWVCX1FpN29ibUNPNDhONUdXMm42TGk0RHgzbHRzMTFzSE45UzU0NWVGZWx6dVZVdVI0N2MwQm54Wg?oc=5",
+   "source": "Compta Online",
+   "ts": 1794921623,
+   "theme": "compta"
+  },
+  {
+   "title": "IA, management, équilibre de vie : trois étudiants de l'ENOES racontent la profession qu'ils veulent",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZndhSTFEN2lMcno1ejQ3TlB3ZzVOOVAxa1VnN1hnb1dvZUZwbHJvZmFvaDlhNzZ5U09qMkFkOGs2RER0SGszYmRzbnBhclRjS1JFTHYtM0YwRUYtNFVEeXYwR040VTMwWTNfQ1lWcw?oc=5",
+   "source": "Compta Online",
+   "ts": 1794921322,
+   "theme": "compta"
+  },
   {
    "title": "Étudiants en expertise comptable : la profession qu'ils veulent",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZndhSTFEN2lMcno1ejQ3TlB3ZzVOOVAxa1VnN1hnb1dvZUZwbHJvZmFvaDlhNzZ5U09qMkFkOGs2RER0SGszYmRzbnBhclRjS1JFTHYtM0YwRUYtNFVEeXYwR040VTMwWTNfQ1lWcw?oc=5",
@@ -76,6 +132,13 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTBzMHpueHpDRjlkaHdjYnhZYmQ2dUdJbWo4TDYyRkhIdkZLVEQyLUtrU1F2SS11TXVrYVExTVVTR0pDd2hYelNJVnBQWkVNN291MnFCUzkxeDBhckVqUW95OWg0VmpKMGk1X25aT1V1YUpnRW93cWlidDZlTTR3cmEtd21NVHZ1NGpSX0QtaENOTXZxM25IZ3NXclI2SkNLLV8tc2d2NXdlMTNoWF9oMXI3emNRemlrNjRxLVgyRll4WFU?oc=5",
    "source": "Euronews.com",
    "ts": 1794920891,
+   "theme": "alt"
+  },
+  {
+   "title": "Âge d'entrée sur le marché du travail, départ légal entre 60 et 62 ans, décote durcie, part de capitalisation... Ce qu'il faut retenir de la réforme des retraites présentée par le RN",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNUy1LS09aNEtwdmcya2dQbzFfN0ZGbXhQNHRSRWhYZkpuUDY4RHpqbUd5azBITHN0RjJZVzl3OFBBQjUxUUtvbUpUQjd5dWJyU0s4ZXFLeTNCSmtjWnRmTUE1R1d5SUJXNmFvRXBkbkJ6cWVNdkE3VXRnM2pGakxkOTcycTRvZHNvT3Y3TlpVdnUzazJybHdnU3RfcVdiODBJNEZKNk5SNW9mN3ZGUUFUUnN3cGdkN0JGNzQ1QUlqUk11bDZCUHNyMFdxWFRCT09JblR1T2tzV2FWMlIyT3ZhREozZjNNRmVkOHA4UWZINE1zZHBjQnJUQjBWNWFlbHlGemh5N0czRmRXQUpUYUZ2YkJrUEJKTXA4ekhWX1ViZTM0Zk1qR2pDZFVLRHZlYVVlMU5KcExTRE1HaFMycXREcExjWEpCYThnLVVTTEFiSFBpaWI5UUprS0tZSVdsQWJVZjIzQkJLOA?oc=5",
+   "source": "BFM",
+   "ts": 1794916503,
    "theme": "alt"
   },
   {
@@ -1049,69 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNWhtWHlRaHZHaFVqTVJ6b0xnWXNxX3RWY19yUE8zQWpCaFdJSVFDcTNYVEhxbFlSVnlySVdKWkE3Z1dPUHlaLW9DVUk2YWFpUWsyNnVVTWItX2pYN2ZQdGx1WGJqZmxmRWdIbUcwcklhY1NFTHNLTVNYVklOYnlSaUN4cURuQVZGbzQzR3FYUHI4RDIwbzJ5dDV1cDdrRE1FN2NTQmlIWGFaLXd0ZFJsTEQwcm00dW45cVJHVFdqcW9HbXhTaGtCWk01clFkTlRSZV9majBZRTBLR2tqcTlndHI5c3lMdzBlUzRsWUhmNWEtVFZmX1E?oc=5",
    "source": "Telquel.ma",
    "ts": 1794403000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique : la pause des PME n’aura duré que vingt-quatre heures",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2JVVzhtMWFXRnh0anllV3ZXRVgwQ3F4ZkRHeTd6dGx1Z25uV3RWTk5pRTQwa0I4OGJpbHBnWm5ORng4VW9CVlB2cGtZenduNzRIRVlTUHljZE1CQzlJX1FKNTNRR3A2bW1rdnFNZU5USVpsQjZaNVZISzZEWTFqcmVCREtZcWtaUWtUZkEwZzRYUmVYbTZfVFdR?oc=5",
-   "source": "Le nouvel Économiste",
-   "ts": 1794402140,
-   "theme": "fact"
-  },
-  {
-   "title": "Sénégal : 480 milliards FCFA d’arriérés privés suspendus au blocage du budget 2027",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUMzUURqVV9KdzlFZVFISTJWclhjX2hobFE4RXBxWDZBQ2VYaS1SMDR1c09nc0tlb19mVkhZU3Y2cTRYZ3B5akJFZ1F3cXptaFY4Nk1LamplYlFsbXV3ZWdqVHVlek1vdkktQWlKejBQbV9YSWtTRW5jVWEzT0g2S0VCS3RXOU95aF9wVzgxbzA0SVZnMWxRQlpfVGowOXhVU1hZU2c3X2FaazJrRWhz?oc=5",
-   "source": "Capmad",
-   "ts": 1794400800,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027: La majorité propose un IS à 40% pour les cimentiers et les télécoms",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTRBb1pvVUg0QkpRckY3N2ZISlZTQUFCNEFmYzllcEQxRWZFcXkzX2xpSEI0cWJzZnQ0X2lnbnlzcjlnZk9jQXZkb3hZOFM1RUMtVVNqbzZpNmM0YlhhMU51aVlxQlR6bXRkUGQzdUMyQXZfeG05VGg2MFo4WElzYllISFJnSXVqS3hxekY3YXBKNUNKRWowQXQwTnk5alZSMXU0M3lsd2tabXo4d1QzTm5xYw?oc=5",
-   "source": "Boursenews.ma",
-   "ts": 1794393863,
-   "theme": "fisc"
-  },
-  {
-   "title": "[FORMATION] Actualité fiscale et loi de finances 2027 - Spécial ETI et grandes entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzNuMW5HWUZqNjdBSzE4SEJ5T3p5VDFONi1SLW9aZEZYOWNBQmVYT1phVHpnN2RjZUlNMzlwUEJub3hzdlNPa2dnSVJQdUloWGxDMHdLbW9meWNvOWZwZHlUdEpKY3NSOG5HbHhpTC1PcWIwZVJaMXhnRmY0SEY2bjh6QnBISDdtaDN4VFhXM3J4cGdPb19MVG5WaW5hVGxjSnVJNHFkN3JSUE1xdEt6RXQzNlZnU1Brbl83M0ZYakFrUXNtV0tEeHNxNkwxQzJZRU1fc1FIdlpoQmFV?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1794389024,
-   "theme": "fisc"
-  },
-  {
-   "title": "Journée internationale de la comptabilité : Faire de la profession comptable un acteur incontournable du développement économique du Niger – Le Sahel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR1N4czNWclA3TWlwVEdobHVLaUo1dk14SEVKY1JKUWlfSzdUM1VJdWFOMnhFZXBXbG5EenFadFRDd2Nra2VldHRfcDl2eHBBVUk5TlRqQWNmTkdjVDFRTDBEbW40cjBwdzgzOFpuYVZkU2pjS29GMWxFaWRZQVRxVmlxVU02ZGhtSjJJOVp2LWxqQTh0NUR6VFNfUGNGTXBFZENzT0I2MUFhUzk3NGRXR0NjYnFpUmJHN1pRSVRnNXQtQ2hVVktKSFlJM3p3c0FRRGhxVHcyYVdGTm13eDRFTHNsbGZwN1RteGZab05lWHZIMGs?oc=5",
-   "source": "Le Sahel.org",
-   "ts": 1794388429,
-   "theme": "compta"
-  },
-  {
-   "title": "Une réduction de 30 % de l'impôt sur le revenu sur deux ans profitera à des centaines de milliers de petites entreprises en termes de trésorerie.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXBPejVpZnVSSW5aTkVoQWVlWHY1bFdkY1Q4akNneEJEZEFHQm5zSVNDZUF4NndNWThXUVlIT244Zm1vZzlkU09mYktMS3QzblpVMmhHSXRRWFBwWG16MVFJbUE0OFh4OWVyejhvdmJUUjMzNjFkRUNqdHdlcWM2RkY4bEdDYUZkY3RmTlNzNkh5UXlsNHJTM3JBWk5wYnZhMGRJZzdEZ0JUaUJMY1BLRGlPbF8?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1794384510,
-   "theme": "fisc"
-  },
-  {
-   "title": "Réduction Fillon 2026 / RGDU : calcul, SMIC et simulateur Excel",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlTRndnNDJIRjJjTTRSczlDU19pMTR4S1FBbmk3ZkJtUEtHMGM1WEgtdjhSZEpMei11R3V6VFZ6RF9VUE9rMDlydXY3d0V1TGJWRzhtRV9VcVR5SGJEZHRKX2F0Qi1seUxKV1VYVVFmSENHbWh4bXNJRHhXRzVFOVpreHdTWXkxZkdSS1l0WmVEa0syd2F6aS1PTXhJYlU?oc=5",
-   "source": "Compta Online",
-   "ts": 1794384000,
-   "theme": "soc"
-  },
-  {
-   "title": "Taxe foncière 2026 majorée de 10 % : remise gracieuse, réclamation et sursis de paiement, comment contester",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVp2bmc0MVRDVE9BcXcwOURHOXVaYmUweXdXX0FJZnRZUjVXOXRRa1cySHZCN3BXRDZTbHFaVlh2c3FZOGtXMnotZ3ZDMTh3YTBJZGsyekJvUXJOamZRdE9hWVI3X3NlRW1KNHpzdU9DdHZMLXYxaWdOWTItMjhMYmFYLWxrQmlVLWtxcWVUZklVR1ZzZWc0dF9DWk5ySzlSekpZaWhDNzFVb3piUFh1djFIemY?oc=5",
-   "source": "Kohen Avocats",
-   "ts": 1794380700,
-   "theme": "fisc"
-  },
-  {
-   "title": "Impôt sur le revenu : pourquoi les 0,1 % les plus riches ont payé 9,4 % de moins",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3k2LU4zeXY1MHJFX1U1SzZDcHVVb3VIb0h0QzhEX1IyNXg1Z0pFdUpkakNxR0hxNGVITzJhM2p3OFYyYThBWERrcEt5YTRlRjFwNXZoNk02aVRHbzNuZkhDTXFkYWNCRUlnN19TMkg2Q3pVbU0tQXVramRHcDBRc2lnYVNTcHNUVm14dnB2Q2pSNWNJWUhEaGNxSVI5eVlOUWF4VXlYVDJkYzlvMU1SYl9aeGVQbVR1?oc=5",
-   "source": "www.leconseilpatrimoine.fr",
-   "ts": 1794379905,
    "theme": "fisc"
   }
  ]
