@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T23:03:35+00:00",
- "last_success": "2026-11-17T23:03:35+00:00",
+ "updated": "2026-11-17T23:57:44+00:00",
+ "last_success": "2026-11-17T23:57:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -69,6 +69,13 @@
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZjdKbDFTSmIxQWRvWmFrQk1lRUZDLVZwUTJac1JmN1dBQ1p2ajYwMlRJeEIwdks2bHhKQlJfSGpUelVXVjNBcXdhcnhJVlFOLVdleUs1Y3ZKdHRUSW13amZmdmk3ZWZNSy1aQ1Rpc1pCanBSN2xlQS1CRmtlNDE3N0x2TXdlWW5Bck1ZUkF0Q2pLR3dydWhUQi1oVER2cWNnN2dZODhHZjRDSzYyMzJGMGU0WGgwMmViWEdpTFNfbjdjbVJ5cnQwX1o5MXNEc2t2UDFORTFyRkhhV2M5TmNGazUtb19XdDJuTUNLWWxpWjcwNDAxZm9EMEQ3c29HUdIBgwJBVV95cUxQRU4tbmpsS2txZkRUSGJzaHVJRXJ6N3BKY28teGdCc2hYcnVEa0ZWekZ6R3AwR0lTMkxSaWgycEN2dmJpZnBINVhCUlc5bWluNFd0MmQyNHU2YS1tRFNHQkhXVkF0RWdySUNBTUVoWFV3bllkanR0eENZbzQ2dHczbkNhdDBoZlpOZ2sxUnZDWmV5THRzN3V6clJyRFFWYk8xVGJxdDN6c2lCMHB1SmdXOW9SNWdieVBNX256c0s2aWVtYWtiV2ZCUGk2Vmh5QUFWbzdqSjJmRUViaUpoeFozYWJCQjU0eEU5aEZKbGxSdzVvTTc3SnpIcUtFbkphRWdzblE4?oc=5",
    "source": "Europe 1",
    "ts": 1794943800,
+   "theme": "alt"
+  },
+  {
+   "title": "Financement des parcours, qualité, accès à la formation... La CPOF avance ses propositions pour la présidentielle 2027",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ0FIYnB6SUZRSXVBcS1LQVJydGUzYzdLbV94c1FOOUJDMVVCbUhmQWJ4c2Z5Wm51RVV6OGRXbDFZTUlYcWJlb0JudWhxYTdYdEFCejMzZXl6V2JyT0s3LUltS2M4RkpRN3Q5STBRbmc3V2NhR1FVTFVIVlNaZWo0VWtRQm1SekdiU0Njci01TDNjSm9vNlhLV01LUGV6eTVfSWRtX0JmU050a0N1UXo1UTRkeW94eHVkNTdVSW40RzBrNlBXSDhqTTg5QTNwTXJNd1F5MlhDMFRhZ25JOGlBVE53aWpGdw?oc=5",
+   "source": "AEF info",
+   "ts": 1794936780,
    "theme": "alt"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Le Sahel.org",
    "ts": 1794471624,
    "theme": "compta"
-  },
-  {
-   "title": "Réductions de capital : les sociétés dispensées de droits d’enregistrement",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1p1VnBkdUZvYkF3YTYxZmJpNXh4Wk9Wb1EtekVkS0duVlJaNkVkQjBhWUxkQlFRZjRzQ0xoQkpvdDFnZmhBWDhPZFlUSm5LNXZ0aF8zWmdyMUltYkZYWmNCVEs3T3QtRkp5emxmakJRVFZsSXcxd19leFFkM3V1WnRVeHpCemFPVzhoLXByU0NPS29CdjNVRkhlb3A?oc=5",
-   "source": "Le Desk",
-   "ts": 1794471420,
-   "theme": "fisc"
   }
  ]
 }
