@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-17T06:11:07+00:00",
- "last_success": "2026-11-17T06:11:07+00:00",
+ "updated": "2026-11-17T07:31:39+00:00",
+ "last_success": "2026-11-17T07:31:39+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 0
   },
   {
    "query": "e-reporting facture plateforme agréée",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -30,17 +30,17 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "query": "expert-comptable profession comptable",
@@ -54,16 +54,23 @@
   },
   {
    "query": "BTS comptabilité gestion",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 20
+   "count": 21
   }
  ],
  "items": [
+  {
+   "title": "APN : feu vert pour le PLF 2027",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1feWhSWkJWM05UTUhhd0lDdXB0WFg4dVM3elJUSlZjLXV0VFJxdFREeGZBcEduZnBiUmlDVjVET0lfeTlDOGVSM0hreHF0cmQtVUQ2SDQtRlZ6d28xOHctVkI0VUQxZFZmd2dqMQ?oc=5",
+   "source": "L'Algérie Aujourd'hui",
+   "ts": 1794897465,
+   "theme": "fisc"
+  },
   {
    "title": "Expertise comptable : à quoi ressemblera le cabinet de demain ?",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUtGS0w0RHgtc2ZfRExNOS1vOTlnanFpbkhfMno2NjJMd3ZwVU81UHdFM0kxZ3ZLaFA0bzlNV1J4UHF6bjJodHRHX19pOVpSNjctdjNKVnRNQ200SWg4MW4zbE11ZEtoUElXa1RWYXRldE1YdkhjM1lkazg1S2pzWm5tUQ?oc=5",
@@ -230,7 +237,7 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXdHQjA1Q3A5UVJyMWJIZG5hMU5SYTVOTlF1YmhlSlYteE9LbWx5Z1EtMkJ1bWtsZHV6RlFaZWM3Tm9IYTJmZzRCNjJaaVV4UWd0c3dldkxqYmxvTFd4S3pCMTlzS3lSZXRxVGJ3X1ppTmN4U1ZfYUpBWGxBX0ZWbmdEaEhsb0hnUExJWWFPUXpnOHdSWXdCcmpOT1VjZC1DSGs3a0g0bFJSb3l6X3JfSlNDUGUxelozdHprVmMtdWkxa1lwZWptaEdOZnBydWRvYk9rSkMyamlRVFFBTVJfVFdFRDJnZzJEcUlRZFd0bw?oc=5",
    "source": "Carnet Le Parisien",
    "ts": 1794818901,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Facture à 180 milliards : les super riches fuient le Royaume-Uni face à la fiscalité imposée par les travaillistes",
@@ -356,7 +363,7 @@
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPREdZTElzR1hETWR3VXVTSGhPOFZQLWdBVUFLVklFSE1UZU9lRVp2bHhqYy1WZ19PXzBnazRDRVFoTFJtY1ZILW52UFZzcEZsM1AxYWlXYU9DV2dZSlRTc0lXOURMc1lPYWdFMmpkRDFCeThvQ0thall0S3h4bFpWMWE2TXBsT2tCTVBWMHZSLUpoZXhTYUZneXlCOS1VanNvM3ppOTlGSi1RN1pWTGdyV3k3Rkd5U0FYUEVRUXJCYlMtbTctS0RHMDI2SjhPZEN4X0NCYm5KWTNuMlBLdVh1MDZlX3hoMU9ocWpSc0tlU3BBWUk1MjRKNFgyQk9rTVBnbEM0aGZsZTN3WDdVbXBxUDFTeWlJWFhiYVROUFBkb09uTkE?oc=5",
    "source": "Le Parisien",
    "ts": 1794748200,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "De nouvelles mesures pour soutenir l’investissement et diversifier l’économie",
@@ -503,7 +510,7 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
    "source": "DECIDEURS MAGAZINE",
    "ts": 1794578726,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réfor...",
@@ -608,7 +615,7 @@
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUTl2VnJ1eV9RMXFQSllySy1mTXVOYkF1a1pnaU9ncXVwNG9XRmNBV1F0Y2lwT01Wd3dEQ2hwdlI1LVUwVExEV21OQVpzMGlYdUZmUkp4LXZXMzNISko3djNWOUNNRVdDNzNmcFhyWnZHNURpSlRmWTVfWkU0VDVpbmlaZVhlalZ0UXpyRE5mbXhwVExYYU55cEx4QVRrZHZteWxHSVp3U2NNcV81djZySV9hUy04dEhxZUxlU3J0a1Q2RWF3eHJvZ3RsTUduYjd3MWNEemo4MENtLWIyVTQ2c0VoX3lvMzFSUGdTWHZJdUUzSWh4S2dWUTNGYnFfci1KZ1R4YWRwYV9ybEhucG1GemJLU1pIZDg?oc=5",
    "source": "Boursorama",
    "ts": 1794560940,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : voici la liste complète des amendements fiscaux adoptés en commission",
@@ -881,7 +888,7 @@
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYldzMHFoak5IbjBLbzZDMGstQVp1ak5uUUl1RXpfNENNN3czSlBMTU93VnQ1SUpCa3ByX3M5WklCSnlxbWdRRlZfM1V3WVUyTlF2TG43aDVxOUxuNjRoZnZha2hsQ3gxSGRCemZCUzJ3SVlWU016WDJESU5WM09iTlpmaEhVd3I2UkhIamNXeWtvZi1XbzhBRy1BWlBYWUpGamx0OERKd0VZcnlHZ2RvZ0R6UGtvRnc5SUhPT3pBcElpTGZiOEJnaFNsb1VNQzBXUXdLclpLcENiUFg1Tm5MdXd6c280bnpaeWNEX1YwQ3F0cFlXem4xa2VEWTdFR0h2OXQ1M1pjMA?oc=5",
    "source": "Revue Fiduciaire",
    "ts": 1794466800,
-   "theme": "fact"
+   "theme": "compta"
   },
   {
    "title": "Taxe sur le tabac : comment Malte tient tête aux 26 autres pays de l’UE",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcFhQdEp5YklCT24zQzlSMk1yNjFscHNVejlXWW12XzQ3T2h1c2JXU1o0dVNLMHdEek0ydk53dmI3cnNpeXltaXk1emF3eWNueVBNUGlCYTM3MjBoVmVCUnpMSTExQkU1WVpvcWViZzJ1X0xsSjdhcU1scGo5QVpoZ3dISENfT2sxVGxLUGZ1MUpBYmJVWlR4a1N6LXZ4M2x4WlBCNlNfMGlDbVlkbnpiM2NGMFd4NlZld0hfOEJMU0tFN3dPQ1hxVmxmc1R3WExTM2NmbzROUERpNFJPdjJGNWJVU2k3MTJaR3JmalB2TQ?oc=5",
    "source": "NextPlz",
    "ts": 1794333600,
-   "theme": "fisc"
-  },
-  {
-   "title": "Ce paradoxe suisse complique les projets de réforme de la retraite",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDM5UGpkYms0d1VXSDFEZ0dDT3ZGaWNKQndIQWV0T0VraENOTUVOVHo2Q2JGYnAyTUt0UjZTYjBMZmhQQ2g2YmMxa2xQTExFSFBMN3lKRllqdDF0eTgxYXppNm9YV3FTYXp6VnZuRFZnd1dKTTdldjVsYmsyTldIUXhzakcyTVhEZEdUZDFQSGFPbHRPdDd5UkJGTXliZUFpRnQ2NzhaOExWckRQRjM0?oc=5",
-   "source": "Watson",
-   "ts": 1794332820,
    "theme": "fisc"
   }
  ]
