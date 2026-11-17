@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T09:14:45+00:00",
- "last_success": "2026-11-17T09:14:45+00:00",
+ "updated": "2026-11-17T10:22:15+00:00",
+ "last_success": "2026-11-17T10:22:15+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -50,17 +50,17 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 22
   }
  ],
  "items": [
@@ -667,18 +667,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Crédit Impôt Recherche (CIR) 2026 : présentation du dispositif",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QeUVYSTdZaTgxV2otY1YxN1VqY0dyWWRMdXoyS1A2VURPWGdrRXRyV1phNDl3eU9DMEU3dW1YWldfTFAxbkFkbzVBZU00MTdkWTBlS1dlMDNVV2tXMktaWWVZbWxWOUVUaUg0VjhYaWxfb1BjQjBRUWVvQVlOZw?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1794556800,
-   "theme": "fisc"
-  },
-  {
    "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
    "source": "Mes Allocs",
    "ts": 1794556800,
    "theme": "alt"
+  },
+  {
+   "title": "Crédit Impôt Recherche (CIR) 2026 : présentation du dispositif",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QeUVYSTdZaTgxV2otY1YxN1VqY0dyWWRMdXoyS1A2VURPWGdrRXRyV1phNDl3eU9DMEU3dW1YWldfTFAxbkFkbzVBZU00MTdkWTBlS1dlMDNVV2tXMktaWWVZbWxWOUVUaUg0VjhYaWxfb1BjQjBRUWVvQVlOZw?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1794556800,
+   "theme": "fisc"
   },
   {
    "title": "Vinci Autoroutes, la fin programmée d’une machine à profits",
