@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T15:03:07+00:00",
- "last_success": "2026-11-17T15:03:07+00:00",
+ "updated": "2026-11-17T16:07:03+00:00",
+ "last_success": "2026-11-17T16:07:03+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,45 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 28
+   "count": 30
   }
  ],
  "items": [
+  {
+   "title": "Les entreprises sont tenues de soumettre une série de « déclarations en blanc » pour se dissoudre.",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE56MDN4czdlaHBhNTMxRG5iWGZoNlB3WHc1NHNyMlZ5T3VtZE9hYUJyOExSSTczUUlfNkNWdlJJU2V4bXpUNzI3M003cUFQYl96MzFwYk1ObDN3dWd3UHIzUXAxNEpVelNoSi1vZFNVNkZ3LVhwalEzaEF0cEpXSDNiWXN5X3Ez?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1794931495,
+   "theme": "fisc"
+  },
+  {
+   "title": "Le Conseil d'État rejette le référé contre la publicité d'informations anticipant une hausse du reste à charge sur le CPF",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2pxbFdISGtISjdDZk1jT1FRMlpfR3JFaW5KRnFLd3EzSjJUZE1YTjFCLTVVeUo1VllqZWRraFBzNHQyVjg1TVB0WFpkTVg5bXhWTnEySUNKQ3B1MERBNlBtU3R3YlRZMkZlTGxOODRXcWloSk85ZXVHbi1IVVVzQTlXUU1fak4zaTdHYi1ld0ZyYWNjU01kbFNoOXpZUGF3VWFCSDBOcmJWeXZNVUJzS2hROUQ2Y3pMWVpFdFNiLVFEdWNaWUxOLUhnc04wenhUUXBseUpLUU9uSmFPUGdzZDBoVmxsaFczdWtMVkpn?oc=5",
+   "source": "AEF info",
+   "ts": 1794930623,
+   "theme": "alt"
+  },
+  {
+   "title": "Marine Le Pen promet la retraite à 60 ans à qui a commencé avant 20 ans, mais valider un trimestre demanderait plus d’heures",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDZsZ1pMWW90c3BkR0hqT0RMYVZlWFhRaTg5aFIxUFhoUnYxa1pXR0w5R08xZ0UxV0VHZTd0ZGgtUnlvQkdZNU4xRHFoMEhvdXNjclJTZUh0QVVrTG5HU1NsZnZKSnRQeVI3aUFfaGgtVWpubExNMkhCMXdTMDBxWWJqQmRvX2VrZWRrU0dyZlJZSnE3eV9IQXB1QXdJWDJ1Ui1EdXplcHRtOTJjbXpTTlRhdHJIMmtOMk51MUFfZk1FMElyU1F4ODdpOA?oc=5",
+   "source": "Capital.fr",
+   "ts": 1794930312,
+   "theme": "alt"
+  },
+  {
+   "title": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFBYemllS1d0aWI5cG9PT2cyRU5md3RlT19weFVIUElBTnRHSm1mNUNzeWpBMk1LN29yUlo3UDJzcnRla2xRbzljYXc1aEViVnVDVEJRNzN1SkZ1V3h1OXZqaUotQnUzV2dpUjFvRm5KVktGQ1dnempQUlFLNXM2UF9RTkJQbXFFeXFPTkN3R1U1Y18xWkNvVWVUSHdiVXBDbllXN1JoemM0YU5WZGlpRWl5ZFpXWFlWQzVhTG5rS0JYTldkSkFUcWRINjV0ejhiVzRBeWhmZWtHWFhudXlkNWdxcUE5ZHB4aVlTOFZSdjQ3d1di?oc=5",
+   "source": "France 24",
+   "ts": 1794929495,
+   "theme": "alt"
+  },
+  {
+   "title": "Loi de finances 2027 : quatre partis disent non, le PT choisit l’abstention",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWhwaHNtSUdib0dqN3gyWlk5V3RQVUVsWTlzSmx5QzhWTGphOEdiaE1pMThyLXR2M2F2dXpreFAtZ2N2bHpjRE9WNTk4aW5NUVdyanFxel9MTXZHT0V0TnJEa1QteU5lRkJoSDYwMjBnb1Rmc3VQZzVKLUJaRlpnS0Z4LVd6dk9RQ0NjTXFOS2xSWEdLUFJUV0VIV3lPeFBJby1LdjU1Yw?oc=5",
+   "source": "Maghreb Émergent",
+   "ts": 1794927921,
+   "theme": "fisc"
+  },
   {
    "title": "Présidentielle 2027. Marine Le Pen dévoile son programme sur les retraites : les cinq principales mesures",
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZkhNZkZRNGY3UUJuM3NWeHJWRV93YUNxZVNqc0lNQ0wzNTd2Z2t6YTBEamljMVRVbklfX3JpR2pkOU1UUmhoMVNyYktjdzJBQlh5NmlGal90aHlzNFEwMUtvYWlYekdKb3VvM3pDUl9mbXF0ZGlkUVhyLTFRODJFZTBmOTc0UV80ekFibXFtdE5mRVhQTjVaOVZ1TlNMQm9pME5SQ1dzcGduNDR6SHpLeWpyT0tsQkJwSDNzQ3pCSGs3Si1oamFPSFVVNG9qdXRmeF92QmxQbExIVTdBRjVRelVCTS1PajlHc0QxdEVvazFiNVZHZmJlQnRfMXlsOUZHMk55Mml3a2tWRHJqVFphdFU0WUxZVHJ5bG9j?oc=5",
@@ -83,6 +118,13 @@
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbXRORE56WTh4TkxWdVF1OHprX1pOZWNmQmpnZmV2Rm95Q2otLWY2bmJzZWNSSWVsN3ZBTTI4alF6V2U4MzU5bEIwRjFJWGtXZzVYcVlLWE1oaXlfUTFNYmhSdmZHQktKeFFOcUNXYlVvczlGc0N3aTNBSWVmbFlJS3d3NFpBczQ5ZUJreDBpeXNYdHdpdFpDQW9Kek9yNkZwekpvX3VqSDFMWGFlSm5UU1hTWWhqOUFSeWtqSWZRX0NUNmwxU040eXpFU2IzRDlPZDNuQWtudmluZkYwcnZtdFAyZkxleUd4aHFfNXpyeDRNMXR1TU5SdkJkOWxIRUprX1cxVjVUclI3Tkk?oc=5",
    "source": "eurojuris france",
    "ts": 1794925788,
+   "theme": "fisc"
+  },
+  {
+   "title": "Loi de finances 2027 : les commissions des finances adoptent les articles 13 à 34",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjhFY0w2YjMxZGtsQlpNRkpDVHVOQ05pU3dwS3BNSmlqOVZZRHpkem5iLVUwT1lwRGp2QmtxLWlxZVJkc0l6VDE0WHl5eTVQWDJpTFlHdTFtd3F4OHVTQnZ6VnBrZ2x5ZTRDZm1FdzRNR0hCWHFfUWZKS2tTOVRtcDdZU3pFMnEwQl9CcWZGeFZ2NXVzQm5vX2R6Mmk4d0ZOMHQyTi1JSTREai1GekpMbXNjMGpfQmd1Vl9qRndob1owTnJW0gHKAUFVX3lxTE1kcmdnQnhlS0U4UTd5WmNabENIRzBNV3E3Y0JTY2FHZW8zaTNkWnJwT1d3OHNTTmtnelVWMmhja3Jnd0JCd2NmT3NjeDRvTWExU0lzazVMYWhMQ1RZb0JfTUxZSjc3VDRiaC1RZnFpNjFfcW11US13cWg3eE9MSk9NTzI2YVltekswVkVoMmxnYVFOT3hKTHNoNU9STjdZalFSMld1REJPSk5BdEQ0Z1lGTXlOMnMyRk9IU2d2NXhSQm53a2RUQkdwblE?oc=5",
+   "source": "Nessma TV",
+   "ts": 1794925620,
    "theme": "fisc"
   },
   {
@@ -145,7 +187,7 @@
    "title": "Retraites : le RN promet des années en moins et des milliards en plus",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1NGNkxjcEFkYlRpNklHUEdyWGZqbjRRTzRWVlA0NE8yNVNxczlfRjQyM2FSallKNzlDbHlmYm9Ydm9PV1A3M3Rkc3c4NHBoTHRSUy1MeU1oaUhIUU5LT2cyNUhqQ0FHcU1Rc1RLZVRnTmRRN3ZRNEhwN3dfM3NjZWR0R05OOEN0ekhtWl9IY0tlR3hvc1RaaGdB?oc=5",
    "source": "Zinfos974",
-   "ts": 1794915568,
+   "ts": 1794915781,
    "theme": "alt"
   },
   {
@@ -168,6 +210,13 @@
    "source": "Afrik",
    "ts": 1794910899,
    "theme": "fisc"
+  },
+  {
+   "title": "Missions d’experts : séduire les jeunes et agir pour l’attractivité du métier d’expert-comptable",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZBWXpZX0p6VnBWdWIwMGUtOTIwMTlDZDV0MUVQWG1IZFpfbFVjcUJ5UDhGY3BUeTZ2OVUtRXlsQURMaXVGY1lOaFc5UUN6N0l6U3ZHOGJjVjNRNmRsM0lRWG8zdk84VXd4dk1tX0dmbmpTaHpsbXV5WW1Ed2pwdTI4Ym5vYmpHSGo3UzgwX2VvbVFZZGtDNlRxM0F4bFVoaml6RkZfek1URWxlLURqOFB1WTFJc3lBLU5QX01QbklLd0dQ?oc=5",
+   "source": "La Semaine",
+   "ts": 1794910800,
+   "theme": "compta"
   },
   {
    "title": "Réforme de la formation des infirmiers : quels leviers pour la mettre en oeuvre ? (Patricia Amé, université de Rennes)",
@@ -343,6 +392,13 @@
    "source": "la vérité",
    "ts": 1794830387,
    "theme": "fisc"
+  },
+  {
+   "title": "Apprentissage : le gouvernement prévoit de reconduire les aides à l’embauche en 2027",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeXM0ZWhfS2M0bGNBZU9ZcW5Ra2xkYTRxWnBaUTVWanJCSWUwV1BpWC10Q1JMUkFyTGVGUFE4TVhIT3VPamJreFdyQTNYSzdPU1BzYm5OTlViSGpSV2JuckhOTUVKR094dlpZN1NzX1VWLXdtWE9qc0dHN0c2b1I3NUx6OE9ITUxmc0daQW11T0cxa0t2a1Y5ZnUzcW45ZmM3cnA2dVFhdHpHQmswV3AzQUU5ZktPQi02ZmExSFZkMFo1TjF6bTFLUlE5emQ2V08tQndadnZuVjItMV85RG9nMnIyTGRpNFdQU3MzazFpeVlSVlpFWlNGS3dtQQ?oc=5",
+   "source": "Focus RH",
+   "ts": 1794827629,
+   "theme": "alt"
   },
   {
    "title": "Budget 2027 : Si Sébastien Lecornu « procède par ordonnances, il y aura une censure », prévient Olivier Faure",
@@ -1057,62 +1113,6 @@
    "source": "LégiFiscal",
    "ts": 1794438578,
    "theme": "fact"
-  },
-  {
-   "title": "Réforme de la facturation électronique : à quelles obligations êtes-vous tenu depuis le 1er septembre ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWmV1M1VOeE1NSUJ3N21FYXNRNHoza2ZUbWlEdDZJaFhjdHY2bXN6R1BJYm50dFhrMDhaMkpWd0lWVUE0LTR2aGpnZHBaOVpTRVhEU2RFT2F3Qk45dEJ3OWdhb29PaHFiZV9jOVJjREJmaG9EckhGVXJjNk9zVGZRUWM4cnJQcEUzazVONjlKUXZkdWhXS2NxUjd4UXFTRmphREYxTUdWNlhjdWM5eEkzeVhBZDBxZm9GYUd0T3I2akhwc3g4cTlxdkU4enlXYkRNc0xDb0JNWmlad2ptYXBuZ0xYdFNlUS10RGJoa0V1ekprcVdOejhwUDk4SURLWWJIaG4yanlCN2I?oc=5",
-   "source": "Boursorama",
-   "ts": 1794433440,
-   "theme": "fact"
-  },
-  {
-   "title": "Le candidat Riner voit ressurgir ses soucis avec le fisc",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHpGUG5Ddmx4aGNkemJjdi1tcnc0eUQzbjhheWhHTGhuM2VHc2hhRGFMYUdVZGhRSjYwWlNKRzdGTXZfUFNSa1diODNNYWhRSG9Nbl9CUzRWbmREVkI1c3lNVTB4ellfVjRSLTUtYWJoZGlpdUxyUDE2cXdwS0xJdzZJRnVEOUJ0RUhVRU1obVBPRE5DeTR0SlFrNVI0YS1JaEp2NnhfSWUwakdEWFJWQ0hoTE5WeGpPSTJQcWZMMnhDWUJJUFNWT3Y4LVdmSnd6Nk9aWE5LaVU4Zw?oc=5",
-   "source": "Eurosport",
-   "ts": 1794425280,
-   "theme": "fisc"
-  },
-  {
-   "title": "Candidat à la présidentielle, Teddy Riner rattrapé par le fisc : plus de 244 000 euros réclamés",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVDNKdVFDaDJSNU9ZWGtlMDJKbkZ5RHZrbFdKQ1VSdzAzbWJjWFpfT0xwZF9CejdjTW1Md09fZUdINXJ4d1poTzBYWEkxcjhNTk1kVHk2WUJJMXlreWFlMGtqY3IyWWFhazYzMnlFbGo2N2pwLWtNekNGTkxnQUhkenh0RUV4XzdZcFhVREdOMHJuUVhXRWt3OWQzdTJBSWJ1VHo1elBRSU9TXy14QXBycXA1U1p2UFBMdE8tQlNiRzlnQXRQVG0xeXJDLWtMXzBwWnM1YkxoMzVGWlNRaDlvRVVSZU9vbGg0a3M1VHNpOHY?oc=5",
-   "source": "Actu.fr",
-   "ts": 1794424935,
-   "theme": "fisc"
-  },
-  {
-   "title": "Teddy Riner : le candidat à la présidentielle visé par un nouveau contentieux avec le fisc",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEJmRlZDWGtObUtCb0lXUUhpRzVJdmtVQ2R3Ul9qM01oSHhSbktibnh4UTFCbDR1dkRoaDhNejQ1OGdQRFZuR3diNGtjNkRXY3ZXY29Pb1g1NFFlSy1mTFp3bmNnUlRxSzNMYWZSVzRNTl9Hd1AtWE94SV9uYW82QzA5Z2t1b3pEOWZtcmR1UW1SM3ZlNVVUVnlRdG1sVE0xSGI1V3NVZXJSM1R0ZzNkVHNiYVNhUlBSTDhWQWRHYzZEdFczT1Z6dTNoMXV6cjR2NzJGejR3?oc=5",
-   "source": "Sud Ouest",
-   "ts": 1794423850,
-   "theme": "fisc"
-  },
-  {
-   "title": "La fin des factures papier ? La décision de Telenet qui pourrait impacter toute la Belgique, « pour nous, cette mesure n’est pas légale »",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmdFNUtWTWVDTFRNcDh3aDBtT3pOWjVTS2MyM3dPS2NZTG5uSHd3UU1MSHlick5QRTBJYlAzYzhqWndPUW9ibTctMW0zT185UGdIdk85clpSVm5ZeEJnRmtUdDJlY1FCS3FJbFFCZE9YQjF5cFdVaGtsNkJuUDZ6NTBaTzNvcTJzRDRDdGdNVDRFVmtsUi1UdHYzSHNwVEI0TDQyR2ZMOF9WS014N0pCcEdRNE81bURib0xCdDZCZFNOLW1vRnhEazcxOVE?oc=5",
-   "source": "Sudinfo",
-   "ts": 1794420000,
-   "theme": "fact"
-  },
-  {
-   "title": "AFFAIRES EN BOURSE : Banques ; la Lega menace d'autres taxes, mais Forza Italia (FI) temporise",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUnMtREJTMWljTk50ejdLX1dRc0xIWlE4U3NkbDBuajc2cHVKdDBvNDhRczZVYnpZTUZack1ua1JKQWtpWlJYZFE0YS1WcWZ2NTlKRGNXSGtUaXdRbko5V015RXRoNHBiRXotMUNvdDZFVHZaS0N4R195NXRkck1iV04xb1ZITFpXTjUxZ1lBY08zOVZ2bWNFNGR2TzdQZE1oM3pMenR2U1ZFSUFTNFdvaDNhWFVvSmMyZURiWWVUeW5oU3BsQVZXNGZ2LWhqcklpMXZVNTN5WmJGbGNyRGh2Mg?oc=5",
-   "source": "Zonebourse Suisse",
-   "ts": 1794404909,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les recettes d'impôt sur les sociétés aux Émirats arabes unis augmentent de 34 % en 2025 pour atteindre 46,5 milliards de dirhams - Actualités et statistiques",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXMyaEtQbDdyeDBpLUtDZzM5RTByZGpWZWpSSXQ5NDBtamtMTnpjMFdXMDdXWVNJOFNsU0c0N0psR1h6NEx6TWFPOUdsTFQ1VG1SU3FzeE9YLW5NbVkxV2tTMjJlNTF2S3pRazI3aUxkaTVDR1NwSDUzSk85QmJrM3QzcHBkTVVmaGhvbE5oemNtY1E5YWVr?oc=5",
-   "source": "IndexBox",
-   "ts": 1794403237,
-   "theme": "fisc"
-  },
-  {
-   "title": "Le groupe haraki appelle à plafonner les importations de viande et à réduire l’impôt sur les sociétés de carburants",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNWhtWHlRaHZHaFVqTVJ6b0xnWXNxX3RWY19yUE8zQWpCaFdJSVFDcTNYVEhxbFlSVnlySVdKWkE3Z1dPUHlaLW9DVUk2YWFpUWsyNnVVTWItX2pYN2ZQdGx1WGJqZmxmRWdIbUcwcklhY1NFTHNLTVNYVklOYnlSaUN4cURuQVZGbzQzR3FYUHI4RDIwbzJ5dDV1cDdrRE1FN2NTQmlIWGFaLXd0ZFJsTEQwcm00dW45cVJHVFdqcW9HbXhTaGtCWk01clFkTlRSZV9majBZRTBLR2tqcTlndHI5c3lMdzBlUzRsWUhmNWEtVFZmX1E?oc=5",
-   "source": "Telquel.ma",
-   "ts": 1794403000,
-   "theme": "fisc"
   }
  ]
 }
