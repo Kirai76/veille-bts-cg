@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T11:59:19+00:00",
- "last_success": "2026-11-17T11:59:19+00:00",
+ "updated": "2026-11-17T13:22:48+00:00",
+ "last_success": "2026-11-17T13:22:48+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 65
+   "count": 63
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 23
+   "count": 26
   }
  ],
  "items": [
+  {
+   "title": "Étudiants en expertise comptable : la profession qu'ils veulent",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZndhSTFEN2lMcno1ejQ3TlB3ZzVOOVAxa1VnN1hnb1dvZUZwbHJvZmFvaDlhNzZ5U09qMkFkOGs2RER0SGszYmRzbnBhclRjS1JFTHYtM0YwRUYtNFVEeXYwR040VTMwWTNfQ1lWcw?oc=5",
+   "source": "Compta Online",
+   "ts": 1794921322,
+   "theme": "compta"
+  },
+  {
+   "title": "Dose de capitalisation, départ de 60 à 62 ans... Marine Le Pen dévoile sa réforme des retraites",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTBzMHpueHpDRjlkaHdjYnhZYmQ2dUdJbWo4TDYyRkhIdkZLVEQyLUtrU1F2SS11TXVrYVExTVVTR0pDd2hYelNJVnBQWkVNN291MnFCUzkxeDBhckVqUW95OWg0VmpKMGk1X25aT1V1YUpnRW93cWlidDZlTTR3cmEtd21NVHZ1NGpSX0QtaENOTXZxM25IZ3NXclI2SkNLLV8tc2d2NXdlMTNoWF9oMXI3emNRemlrNjRxLVgyRll4WFU?oc=5",
+   "source": "Euronews.com",
+   "ts": 1794920891,
+   "theme": "alt"
+  },
   {
    "title": "Retraites : le RN promet des années en moins et des milliards en plus",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1NGNkxjcEFkYlRpNklHUEdyWGZqbjRRTzRWVlA0NE8yNVNxczlfRjQyM2FSallKNzlDbHlmYm9Ydm9PV1A3M3Rkc3c4NHBoTHRSUy1MeU1oaUhIUU5LT2cyNUhqQ0FHcU1Rc1RLZVRnTmRRN3ZRNEhwN3dfM3NjZWR0R05OOEN0ekhtWl9IY0tlR3hvc1RaaGdB?oc=5",
@@ -1099,20 +1113,6 @@
    "source": "www.leconseilpatrimoine.fr",
    "ts": 1794379905,
    "theme": "fisc"
-  },
-  {
-   "title": "API, IA et e-facture : le TMS change de dimension",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGx0UExBck5qNnhSWXFHV1oyUEJiYUZTYnJjTk10TVBhRE4xd2h3NktYeG5MOEtEdlBqSE5FRVBHYkdKMkdXT1BkTkU2Q09QbDJoRkQ4Rm82dWt6WUs4NHVQY1ZOMmt5M0JjQTQ1cFB4dTh5b0I3R3JUblNucFVmYUhZMnRfMGhWd2tfU01UWk9udw?oc=5",
-   "source": "Le Journal du Poids Lourd",
-   "ts": 1794376993,
-   "theme": "fact"
-  },
-  {
-   "title": "La facture électronique, le premier pas vers une comptabilité optimisée",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTjEzRnp6d3MyQW5DZVdHQ2VXYnRKdlJGZWVqR3RHT1JKbm5tbTBGbTNiLTBnVFlCQlB5UW9CSFJMcFM1NXJMSjcydGVzeGpZeEhTNFZmOUxkaDk4SURSQ2JIbXM3SUZObnpMYlk2Skw3eWNQcktTbGVPVmhTaVJReXVtbERkVVNySDEwLVJ1YUFRVUVsZ29ZWC1aTHdHR3RCZGplTVdKQmxuc3lwdEI0WE1LQlgzN1k4NGpwRU9SWnBial9tS3g4d0Q2ZHZyS3JUWGVoUUJLYw?oc=5",
-   "source": "Le Monde.fr",
-   "ts": 1794376809,
-   "theme": "fact"
   }
  ]
 }
