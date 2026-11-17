@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T21:10:45+00:00",
- "last_success": "2026-11-17T21:10:45+00:00",
+ "updated": "2026-11-17T22:02:04+00:00",
+ "last_success": "2026-11-17T22:02:04+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,12 +10,12 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -119,6 +119,13 @@
    "source": "Maghreb Émergent",
    "ts": 1794927921,
    "theme": "fisc"
+  },
+  {
+   "title": "Réforme des retraites : les cinq propositions du projet de Marine Le Pen",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVBwSnRGU0FyX3ltbng0dThlZE5oR2JnZ295cUFBU0s4amNoNnM4czEzNGdWN3BjV25DdlZyTW5UdW5fdlR3MWhFay1hQ0NHelNhMF9mMlM0Q1dzcWpMYjVLc0s2aG9YRHhwVDlOQWhOM0oxZ2Qtd0RXYUxTQnI4OEk2ZW8yQ29TRFV3X2xzTmpVQlF1TWt5R0VZMGtWeW93dzlKSEFB?oc=5",
+   "source": "l'Opinion",
+   "ts": 1794927569,
+   "theme": "alt"
   },
   {
    "title": "Présidentielle 2027. Marine Le Pen dévoile son programme sur les retraites : les cinq principales mesures",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2QzZqNHZRM0lxWTVqenh6LUxkOUM0Uzd0RlN4Q04wYmRqT1hfc3FsZ1BNUHJPQWF5enIxcFVTN2NheUdkYWsyTTIzcTZuQlBFNmEzMk56QlNkbWh0WExHVVpaSk1Kc3EwcUh0TUpUQQ?oc=5",
    "source": "LégiFiscal",
    "ts": 1794470400,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : Le pari risqué du gouvernement sur la baisse des cours du pétrole",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3hJcExnNTByWmcwM1NoMmp3TXVlRHVQMGFrMGR2VFFYaUF4cUdybFZWd20wYmllakQtZXhoOEduS3VMbWNLd2pJWTVnbWcwUmdPMXZZcVRwakY2UHl3U0Z3bEI0ZExodHVnVEdtNGM2Mml6dTNPcWZtbjd0bEZ4cEtIaVZ0WlBGNklWZDZFMG9YZ2c2UjlPcXl5M2pwU29CRXdJREcybDg0Q010TVU4?oc=5",
-   "source": "Hespress Français - Actualités du Maroc",
-   "ts": 1794467340,
    "theme": "fisc"
   }
  ]
