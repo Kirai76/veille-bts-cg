@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T04:04:31+00:00",
- "last_success": "2026-11-17T04:04:31+00:00",
+ "updated": "2026-11-17T05:09:38+00:00",
+ "last_success": "2026-11-17T05:09:38+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Expertise comptable : à quoi ressemblera le cabinet de demain ?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUtGS0w0RHgtc2ZfRExNOS1vOTlnanFpbkhfMno2NjJMd3ZwVU81UHdFM0kxZ3ZLaFA0bzlNV1J4UHF6bjJodHRHX19pOVpSNjctdjNKVnRNQ200SWg4MW4zbE11ZEtoUElXa1RWYXRldE1YdkhjM1lkazg1S2pzWm5tUQ?oc=5",
+   "source": "Compta Online",
+   "ts": 1794888968,
+   "theme": "compta"
+  },
   {
    "title": "La réforme du régime simplifié de TVA",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0ZYczJ4ZHAzNl9SQzJmdWRzdGRQcktqLTkwWmtFUXhFOTNiOUtQUF9WQW15dEZnYjllRUNGWGxwYjdpVGdSa3l4blRVTU85dl9ORFhDTnpFTXVrcENWR20zRXV0WmNGWkRNbTB1cjVxN3lKc2l3V0h5REgxcDFlTk5FTDBqX000cjdRdUFHM1YtTDVodUh6UW9va216QQ?oc=5",
@@ -917,13 +924,6 @@
    "source": "Sudinfo",
    "ts": 1794420000,
    "theme": "fact"
-  },
-  {
-   "title": "Expertise comptable : à quoi ressemblera le cabinet de demain ?",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUtGS0w0RHgtc2ZfRExNOS1vOTlnanFpbkhfMno2NjJMd3ZwVU81UHdFM0kxZ3ZLaFA0bzlNV1J4UHF6bjJodHRHX19pOVpSNjctdjNKVnRNQ200SWg4MW4zbE11ZEtoUElXa1RWYXRldE1YdkhjM1lkazg1S2pzWm5tUQ?oc=5",
-   "source": "Compta Online",
-   "ts": 1794406607,
-   "theme": "compta"
   },
   {
    "title": "AFFAIRES EN BOURSE : Banques ; la Lega menace d'autres taxes, mais Forza Italia (FI) temporise",
