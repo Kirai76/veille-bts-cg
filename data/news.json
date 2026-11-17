@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T02:58:27+00:00",
- "last_success": "2026-11-17T02:58:27+00:00",
+ "updated": "2026-11-17T04:04:31+00:00",
+ "last_success": "2026-11-17T04:04:31+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 66
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "items": [
+  {
+   "title": "La réforme du régime simplifié de TVA",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0ZYczJ4ZHAzNl9SQzJmdWRzdGRQcktqLTkwWmtFUXhFOTNiOUtQUF9WQW15dEZnYjllRUNGWGxwYjdpVGdSa3l4blRVTU85dl9ORFhDTnpFTXVrcENWR20zRXV0WmNGWkRNbTB1cjVxN3lKc2l3V0h5REgxcDFlTk5FTDBqX000cjdRdUFHM1YtTDVodUh6UW9va216QQ?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1794881861,
+   "theme": "fisc"
+  },
   {
    "title": "Entreprises françaises : ni gavées, ni choyées, mais fragilisées",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzMwcTdMWUV1STBxQVFqdzlGeGt3Vi1vaEFLTmFFNWpkdVhnZDFlVGY3SHB1REE5YlA4QUdUU0pseTBMOWsxWW8zcXRJMmdHcVBRUjNydFd2RDB0OUNLd2d0SUNTSDhVOVBXdDRQdjZMWUIxR0FLMHhtNnlXVWtoX1kwVXhsbG1PY2ZKekVDeGV0Zw?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTlRXbWt4aGZOWFQ3bXlKdTZIQmppaGVLNTdwSWc1SHZLcXRLRE1DYUZZQ001Mjc1RFVqaUlSeGdIR21yd2RTam82XzMxWl9YcFlCOUVpTWFCOEdCR2Q4ajBJbDgyd1JEYzN3dFdOc0ZnelNSMFV1cV9MUkU2UlpFOXZMX0ZYZ3E5dWYzelhqbDYwWm11bF9VZjY0a3kyZlhDQVVrNmNodmJiWkhLQUNiVmNLNWxWenRFZ3c5Vk9MeHVpN1c1SXFJeUJDTnBMM0hVU1ZUOUJyQ0d5TUYwbUUzb3VQMUxMVHN5cUNaaU9OT29TSUpYdUs0bUoxTVdqVnhUekgzX0hCZTR4bjNHdE1mWTFxN0haSlVydlN6elFR?oc=5",
    "source": "L'Opinion",
    "ts": 1794325256,
-   "theme": "fisc"
-  },
-  {
-   "title": "Impôt à 40% : pourquoi les cimenteries et les télécoms sont-elles dans le viseur ?",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREoxbWs2LWJmSjVHYXVDSmJOSHhCWHhjWE5RY1kyNGJ2QW94Z3ItbEs3U1FuX1ZqUWVvUmJLU0F2aHJreW1hVzJERlFLSy00bWJIbEVja0ppSVYxb256Y2V5SzFEQ0pYTzFsUFMxckxzVFlGMkhXbmlzRXhkVTBGMGpGT3JrMmRZVGxkWm5BaGtob0FUa1oyWldydkREVDNxcVB2R1FtZHlCUHBPM0M3cEZB?oc=5",
-   "source": "Lebrief",
-   "ts": 1794324360,
    "theme": "fisc"
   }
  ]
