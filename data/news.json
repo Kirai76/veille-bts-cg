@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T22:02:04+00:00",
- "last_success": "2026-11-17T22:02:04+00:00",
+ "updated": "2026-11-17T23:03:35+00:00",
+ "last_success": "2026-11-17T23:03:35+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 63
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 44
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
@@ -55,15 +55,22 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 31
+   "count": 32
   }
  ],
  "items": [
+  {
+   "title": "En direct - Grèves successives, élection présidentielle, réforme des retraites... Ce qu'il faut retenir de l'interview de Jordan Bardella",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZjdKbDFTSmIxQWRvWmFrQk1lRUZDLVZwUTJac1JmN1dBQ1p2ajYwMlRJeEIwdks2bHhKQlJfSGpUelVXVjNBcXdhcnhJVlFOLVdleUs1Y3ZKdHRUSW13amZmdmk3ZWZNSy1aQ1Rpc1pCanBSN2xlQS1CRmtlNDE3N0x2TXdlWW5Bck1ZUkF0Q2pLR3dydWhUQi1oVER2cWNnN2dZODhHZjRDSzYyMzJGMGU0WGgwMmViWEdpTFNfbjdjbVJ5cnQwX1o5MXNEc2t2UDFORTFyRkhhV2M5TmNGazUtb19XdDJuTUNLWWxpWjcwNDAxZm9EMEQ3c29HUdIBgwJBVV95cUxQRU4tbmpsS2txZkRUSGJzaHVJRXJ6N3BKY28teGdCc2hYcnVEa0ZWekZ6R3AwR0lTMkxSaWgycEN2dmJpZnBINVhCUlc5bWluNFd0MmQyNHU2YS1tRFNHQkhXVkF0RWdySUNBTUVoWFV3bllkanR0eENZbzQ2dHczbkNhdDBoZlpOZ2sxUnZDWmV5THRzN3V6clJyRFFWYk8xVGJxdDN6c2lCMHB1SmdXOW9SNWdieVBNX256c0s2aWVtYWtiV2ZCUGk2Vmh5QUFWbzdqSjJmRUViaUpoeFozYWJCQjU0eEU5aEZKbGxSdzVvTTc3SnpIcUtFbkphRWdzblE4?oc=5",
+   "source": "Europe 1",
+   "ts": 1794943800,
+   "theme": "alt"
+  },
   {
    "title": "Les entreprises sont tenues de soumettre une série de « déclarations en blanc » pour se dissoudre.",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE56MDN4czdlaHBhNTMxRG5iWGZoNlB3WHc1NHNyMlZ5T3VtZE9hYUJyOExSSTczUUlfNkNWdlJJU2V4bXpUNzI3M003cUFQYl96MzFwYk1ObDN3dWd3UHIzUXAxNEpVelNoSi1vZFNVNkZ3LVhwalEzaEF0cEpXSDNiWXN5X3Ez?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1p1VnBkdUZvYkF3YTYxZmJpNXh4Wk9Wb1EtekVkS0duVlJaNkVkQjBhWUxkQlFRZjRzQ0xoQkpvdDFnZmhBWDhPZFlUSm5LNXZ0aF8zWmdyMUltYkZYWmNCVEs3T3QtRkp5emxmakJRVFZsSXcxd19leFFkM3V1WnRVeHpCemFPVzhoLXByU0NPS29CdjNVRkhlb3A?oc=5",
    "source": "Le Desk",
    "ts": 1794471420,
-   "theme": "fisc"
-  },
-  {
-   "title": "Déclaration des taxes sur l'affectation des véhicules de tourisme (ex-tvs) 2026",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2QzZqNHZRM0lxWTVqenh6LUxkOUM0Uzd0RlN4Q04wYmRqT1hfc3FsZ1BNUHJPQWF5enIxcFVTN2NheUdkYWsyTTIzcTZuQlBFNmEzMk56QlNkbWh0WExHVVpaSk1Kc3EwcUh0TUpUQQ?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1794470400,
    "theme": "fisc"
   }
  ]
