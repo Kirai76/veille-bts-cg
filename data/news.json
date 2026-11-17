@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T16:07:03+00:00",
- "last_success": "2026-11-17T16:07:03+00:00",
+ "updated": "2026-11-17T17:15:31+00:00",
+ "last_success": "2026-11-17T17:15:31+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 30
+   "count": 31
   }
  ],
  "items": [
@@ -91,6 +91,13 @@
    "source": "France 24",
    "ts": 1794929495,
    "theme": "alt"
+  },
+  {
+   "title": "Impôts locaux : un rapport propose de recalculer la taxe foncière sur la valeur de marché",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ29jeFJZMGFWNkg4U0l3NS1iOGFuTU03SUFZMVdQYUFwejUycXpMX01DOEg4X21ndUoxTmlMMG4xcWtmVGRzYXVNRldZV0FhZzluUm1BTGEyNlc0SEQ0NW5RelRMdkdiRXRvVkxHR01uZFNoQUlkYUhwTnd5b1ZycHU0MmpHZFdTS2hzRTg2QTdOVmY1dEdvajVPdG9Zb3l5Y2pScVNmZ05NMjVaZmtXaG1HbG9xajhtVHV5UDNZMkZBV3lKNFNTQy0tVU9TbEJfbXhR?oc=5",
+   "source": "Capital.fr",
+   "ts": 1794928888,
+   "theme": "fisc"
   },
   {
    "title": "Loi de finances 2027 : quatre partis disent non, le PT choisit l’abstention",
@@ -174,6 +181,13 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTBzMHpueHpDRjlkaHdjYnhZYmQ2dUdJbWo4TDYyRkhIdkZLVEQyLUtrU1F2SS11TXVrYVExTVVTR0pDd2hYelNJVnBQWkVNN291MnFCUzkxeDBhckVqUW95OWg0VmpKMGk1X25aT1V1YUpnRW93cWlidDZlTTR3cmEtd21NVHZ1NGpSX0QtaENOTXZxM25IZ3NXclI2SkNLLV8tc2d2NXdlMTNoWF9oMXI3emNRemlrNjRxLVgyRll4WFU?oc=5",
    "source": "Euronews.com",
    "ts": 1794920891,
+   "theme": "alt"
+  },
+  {
+   "title": "SEEPH2026 : 30 ans de mobilisation en faveur de l’emploi des personnes en situation de handicap",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzBxTjJmUTltOWg2bG13ZHU1VmFXTkQ1ZGFxQmZjc2ZSNU9UMW1UckdrTnRLMXhrLTUxMkVlSzJXaUJ3SXA5eFNET3JYV3U5eDAycEtQcjRWcnppTjN5bDVXVGtldVAyWnJ3Y2M4M3MySjcxbUdZRFZneWRqWWY1eGQxWFo0eDBRVGtlQTlSaUY?oc=5",
+   "source": "Handicap.gouv",
+   "ts": 1794916800,
    "theme": "alt"
   },
   {
@@ -1099,20 +1113,6 @@
    "source": "Le Point",
    "ts": 1794465000,
    "theme": "fisc"
-  },
-  {
-   "title": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
-   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPc2puLTREUHlTb0ptcXJ6YlEzOXhtX25DWTF2anh6cURwdXV6TzRnV3JvSU5CX3BycElKTzBhVC1qMTdkdWlMbEwzcHN2b1Q5RS1DQ1ZteE9hZHhNRzhZRHRfTnU5UUhGY3RjRGstTWFBWk11aWVjMmxmRnJwTVpndVR5bnR1TGItejhad05JdlJCTnVOU1psSHVLeU5YU2dQMEFyM19jSjRERS1mSUFNVUtoYkFxRkFqeTltUDFfQTdYN0JPdEFrSVhTUElJRWxGanA0Tl9SZ1FXMmVIT2k1SzMtbTFWb3dHLThWUjczcnRUQWc1dWZyeEZiOWNzNlBpRDdyNG1ncDlta0dNMUNocE5NZV9nT2V2dWZzUVFzbVlDb3dMcmFQT2tMMUt3b3FCTGtWTV84dnYzX0pvcU1aRTlYdGk2ek96M0dncDA3NlFibjQ3N014U2hVWHpiUWhi?oc=5",
-   "source": "Le Monde.fr",
-   "ts": 1794459642,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les particuliers producteurs photovoltaïques jusqu'à 9 kWc hors du champ",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWFhcG1BSEE2SEZINmZHNTQxWExuRXhIaG9fTlVxQU5mQmVCVVdaUkhmd3BrNlhOREJVVTdKUnk3aHBReEp5clhtYkE1MU8yMlhLdzFZMDdJSVg2eEpFelBIUTFkNmpDX0hDU1JZSllPZzZFekxqXzdoSGpMWFdIZ0JNc0xSbENXVXdLVVFUSmUzM3p6ajhuSmsta25FR05vTGhXaUR0bW1vZE42TUJDU2JPX1V0RXVSTXJWM2lFNlFhRkN4YnFnNXVCeS1tdw?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1794438578,
-   "theme": "fact"
   }
  ]
 }
