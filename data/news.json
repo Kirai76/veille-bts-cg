@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-17T07:31:39+00:00",
- "last_success": "2026-11-17T07:31:39+00:00",
+ "updated": "2026-11-17T09:14:45+00:00",
+ "last_success": "2026-11-17T09:14:45+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 0
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
@@ -54,8 +54,8 @@
   },
   {
    "query": "BTS comptabilité gestion",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,27 @@
   }
  ],
  "items": [
+  {
+   "title": "Réforme de la formation des infirmiers : quels leviers pour la mettre en oeuvre ? (Patricia Amé, université de Rennes)",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jSlVzWVJDdUNVNXVOZzl6MERfT3dOQUhBRXpkZVhwVncwbmNYajhuM0pzT2FYS3BfdFZfRVJBV3ljb2J2NHdBRUsxdHZFZw?oc=5",
+   "source": "AEF info",
+   "ts": 1794903886,
+   "theme": "alt"
+  },
+  {
+   "title": "Comptable ou expert-comptable : deux métiers que l'on confond souvent, mais qui n'ont rien à voir",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJFSWtkNGxGZGdiYkphUHJZMlhnS3d1MFAtdTBWYWhQLTItX3A0SGsyaWhKVHg3VG1BYWFETzdfT0h0cGZwdTRPSWxOcXVLcW44OTFBQzN1ZkM2MjZ6MlNjVUw5NVduSzhZemNxZDAxTlhzNDRNZnhDaFE5VDlOcmJGQUlSNlpMR2dBMzZfMTNXM1pOakhEaTJyM0NUV0FGNU00V2hNblA0OVZxQXRCemRXb0drRy0wdk5wbFZCU3VCb2NCaWNOUUZzM3lSdWpN?oc=5",
+   "source": "Economie News",
+   "ts": 1794902375,
+   "theme": "compta"
+  },
+  {
+   "title": "OPINION. « Impôt sur les sociétés : remettre l'impôt à l'endroit »",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjNEdlpUU0lPTFM1V2JlcEh4dlltb2VPMHZ2aEs4MElENjBZNV8wQWdwU3N3SF95QmRGcmgtM2VpckJmTFJwa3N0OG12Tkd5N0l6elJ3UjR1bzkzUkJUMWYzXzNNcWdjM3NqNWlfODJRcFRwd3lYZGpueGJkTlZiZ2xhTE5qb18zd0czSmZzUmxaYllBRjBQN3pvVGZycUNZUTlBVkpTenkxSWs3akVjZQ?oc=5",
+   "source": "La Tribune",
+   "ts": 1794901202,
+   "theme": "fisc"
+  },
   {
    "title": "APN : feu vert pour le PLF 2027",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1feWhSWkJWM05UTUhhd0lDdXB0WFg4dVM3elJUSlZjLXV0VFJxdFREeGZBcEduZnBiUmlDVjVET0lfeTlDOGVSM0hreHF0cmQtVUQ2SDQtRlZ6d28xOHctVkI0VUQxZFZmd2dqMQ?oc=5",
@@ -84,6 +105,20 @@
    "source": "LégiFiscal",
    "ts": 1794881861,
    "theme": "fisc"
+  },
+  {
+   "title": "Congo : l'État veut diviser par dix le coût de création des entreprises agricoles",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWI1OG5zREVPcGhmQi1vWUcxSFhKSnFHcnczenR4cEctOC1mVVBZR0dqcTZCZDB6VS1FUWpOYU83SmFHbGEycmFqWVQ4TUtVTWV6R3BVbk1FMHBRTkU0V1RuallZSmRtLVBRSk5OWDVUTjFxSV9pUkVPNEROTGNDLXA3Z01nTFBnazNabDBSZnlRTHdudUk2X2ZMVnVUdFdq?oc=5",
+   "source": "EcoMatin",
+   "ts": 1794869156,
+   "theme": "fisc"
+  },
+  {
+   "title": "Expertise comptable: UNE IVOIRIENNE AU CŒUR DE L'IFAC -",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlrOGtfMnNqMTZkR0RDZGp0N19rcmc1LVdCblZLVDcxclgyaXJ1ZWZRYzh6MFgwQ29sR3E4c2RWZ0dabU9DWUZNUWdZbkhrdW1UQi1saldEb01jcFJPRTRHMks1NHh3WTBZZmZseF9ueUI3YTBocWk1c3F5NURWd0dhWGlDMGRwYXVLSE51b01QTS1WcFpUOHE5NEtOQQ?oc=5",
+   "source": "Connectionivoirienne",
+   "ts": 1794862954,
+   "theme": "compta"
   },
   {
    "title": "Entreprises françaises : ni gavées, ni choyées, mais fragilisées",
@@ -133,13 +168,6 @@
    "source": "Presse Agence",
    "ts": 1794843905,
    "theme": "alt"
-  },
-  {
-   "title": "Expertise comptable: UNE IVOIRIENNE AU CŒUR DE L'IFAC -",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlrOGtfMnNqMTZkR0RDZGp0N19rcmc1LVdCblZLVDcxclgyaXJ1ZWZRYzh6MFgwQ29sR3E4c2RWZ0dabU9DWUZNUWdZbkhrdW1UQi1saldEb01jcFJPRTRHMks1NHh3WTBZZmZseF9ueUI3YTBocWk1c3F5NURWd0dhWGlDMGRwYXVLSE51b01QTS1WcFpUOHE5NEtOQQ?oc=5",
-   "source": "Connectionivoirienne",
-   "ts": 1794842671,
-   "theme": "compta"
   },
   {
    "title": "Hub Business Solutions : les 6 modules de la suite HBS d'Épithète",
@@ -237,7 +265,7 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXdHQjA1Q3A5UVJyMWJIZG5hMU5SYTVOTlF1YmhlSlYteE9LbWx5Z1EtMkJ1bWtsZHV6RlFaZWM3Tm9IYTJmZzRCNjJaaVV4UWd0c3dldkxqYmxvTFd4S3pCMTlzS3lSZXRxVGJ3X1ppTmN4U1ZfYUpBWGxBX0ZWbmdEaEhsb0hnUExJWWFPUXpnOHdSWXdCcmpOT1VjZC1DSGs3a0g0bFJSb3l6X3JfSlNDUGUxelozdHprVmMtdWkxa1lwZWptaEdOZnBydWRvYk9rSkMyamlRVFFBTVJfVFdFRDJnZzJEcUlRZFd0bw?oc=5",
    "source": "Carnet Le Parisien",
    "ts": 1794818901,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Facture à 180 milliards : les super riches fuient le Royaume-Uni face à la fiscalité imposée par les travaillistes",
@@ -363,7 +391,7 @@
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPREdZTElzR1hETWR3VXVTSGhPOFZQLWdBVUFLVklFSE1UZU9lRVp2bHhqYy1WZ19PXzBnazRDRVFoTFJtY1ZILW52UFZzcEZsM1AxYWlXYU9DV2dZSlRTc0lXOURMc1lPYWdFMmpkRDFCeThvQ0thall0S3h4bFpWMWE2TXBsT2tCTVBWMHZSLUpoZXhTYUZneXlCOS1VanNvM3ppOTlGSi1RN1pWTGdyV3k3Rkd5U0FYUEVRUXJCYlMtbTctS0RHMDI2SjhPZEN4X0NCYm5KWTNuMlBLdVh1MDZlX3hoMU9ocWpSc0tlU3BBWUk1MjRKNFgyQk9rTVBnbEM0aGZsZTN3WDdVbXBxUDFTeWlJWFhiYVROUFBkb09uTkE?oc=5",
    "source": "Le Parisien",
    "ts": 1794748200,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "De nouvelles mesures pour soutenir l’investissement et diversifier l’économie",
@@ -510,7 +538,7 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
    "source": "DECIDEURS MAGAZINE",
    "ts": 1794578726,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réfor...",
@@ -615,7 +643,7 @@
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUTl2VnJ1eV9RMXFQSllySy1mTXVOYkF1a1pnaU9ncXVwNG9XRmNBV1F0Y2lwT01Wd3dEQ2hwdlI1LVUwVExEV21OQVpzMGlYdUZmUkp4LXZXMzNISko3djNWOUNNRVdDNzNmcFhyWnZHNURpSlRmWTVfWkU0VDVpbmlaZVhlalZ0UXpyRE5mbXhwVExYYU55cEx4QVRrZHZteWxHSVp3U2NNcV81djZySV9hUy04dEhxZUxlU3J0a1Q2RWF3eHJvZ3RsTUduYjd3MWNEemo4MENtLWIyVTQ2c0VoX3lvMzFSUGdTWHZJdUUzSWh4S2dWUTNGYnFfci1KZ1R4YWRwYV9ybEhucG1GemJLU1pIZDg?oc=5",
    "source": "Boursorama",
    "ts": 1794560940,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : voici la liste complète des amendements fiscaux adoptés en commission",
@@ -639,18 +667,18 @@
    "theme": "fisc"
   },
   {
-   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
-   "source": "Mes Allocs",
-   "ts": 1794556800,
-   "theme": "alt"
-  },
-  {
    "title": "Crédit Impôt Recherche (CIR) 2026 : présentation du dispositif",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QeUVYSTdZaTgxV2otY1YxN1VqY0dyWWRMdXoyS1A2VURPWGdrRXRyV1phNDl3eU9DMEU3dW1YWldfTFAxbkFkbzVBZU00MTdkWTBlS1dlMDNVV2tXMktaWWVZbWxWOUVUaUg0VjhYaWxfb1BjQjBRUWVvQVlOZw?oc=5",
    "source": "LégiFiscal",
    "ts": 1794556800,
    "theme": "fisc"
+  },
+  {
+   "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
+   "source": "Mes Allocs",
+   "ts": 1794556800,
+   "theme": "alt"
   },
   {
    "title": "Vinci Autoroutes, la fin programmée d’une machine à profits",
@@ -1085,34 +1113,6 @@
    "source": "NGC France",
    "ts": 1794338668,
    "theme": "soc"
-  },
-  {
-   "title": "Sénégal | Finances publiques : le blocage du PLF 2027 menace 480 milliards FCFA pour le secteur privé",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNBdXBQdy10VWJLRGNIa2padFJ3OFUzNThPc2EweTZGaFE5amlwT3NGd2E4NlA1NWJpSTJ3cHJVRHB0SlBNaEJBem9UU29MOUwzOWtXczZiUG1WMUE1RkQxZWFENHVmWFU3cmM0NWpQRF9HTDlVdUtENjQ3cDJqRF9oQnA?oc=5",
-   "source": "Afrimag",
-   "ts": 1794337271,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les recettes de l’impôt sur le revenu progressent de près d’un milliard d’euros en 2025",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2Y3b0RxVXdEV25pZExfU01kVFhmNWxzSnJIaXRxSFQ2ck9VNTR0SC1tb2ljWHRVakJFMHA1SzEwcjJEVGZHQ2g3Y2haaEJvVTJaRkd3UEE2QmRrOUxOX3BVSU41bXB0V1B4SlNtbkZGRU1KNzUtUDlxd0pjRENoTnMwRVk1dnN1amdReWF4QkR4bm9tenkxWGFjQXczLWFoVUtFdTF3YkhtaGJfSXhySlRKbmJDY3p6eEM1dFJkTldxQTIzV3JHVQ?oc=5",
-   "source": "Le Figaro",
-   "ts": 1794335090,
-   "theme": "fisc"
-  },
-  {
-   "title": "Des éditeurs de logiciels de formation se regroupent pour proposer des règles communes de conformité pour les OF et CFA",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSF9qY0dDaV8tdy1OWHNzel9qWnZ6TGdlZnVTbThZbzRWRGhqdVBMd29jWWxRNWtSSHg4UTBTdWtoNndNYkM3cTlKb05vVWtpbzZyUWl1MFN1bkFlazdPdTdjRWVESUlWNFhZRVhFYnRjeXZpdGNTenpYM0RsbUlWaUZ6S0xjQWFUR0stUkNlODNjS3M4MzlKWmpoSTZSd3E0bk04QmVoTVZTd2dXRU0xNjNjM2ZBY0F2aTVJallMbXBsV2pvX1J3UllUYnQxY0ZkZEpOanFKRE1QVktBUlctemRsN1U5WVJ5bEhDcmlB?oc=5",
-   "source": "AEF info",
-   "ts": 1794334595,
-   "theme": "alt"
-  },
-  {
-   "title": "Prime carburant en 2027 : de 600 à 1000€, cette aide prolongée par Roland Lescure pourrait réserver une jolie surprise aux bénéficiaires",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcFhQdEp5YklCT24zQzlSMk1yNjFscHNVejlXWW12XzQ3T2h1c2JXU1o0dVNLMHdEek0ydk53dmI3cnNpeXltaXk1emF3eWNueVBNUGlCYTM3MjBoVmVCUnpMSTExQkU1WVpvcWViZzJ1X0xsSjdhcU1scGo5QVpoZ3dISENfT2sxVGxLUGZ1MUpBYmJVWlR4a1N6LXZ4M2x4WlBCNlNfMGlDbVlkbnpiM2NGMFd4NlZld0hfOEJMU0tFN3dPQ1hxVmxmc1R3WExTM2NmbzROUERpNFJPdjJGNWJVU2k3MTJaR3JmalB2TQ?oc=5",
-   "source": "NextPlz",
-   "ts": 1794333600,
-   "theme": "fisc"
   }
  ]
 }
