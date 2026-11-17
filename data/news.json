@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T17:15:31+00:00",
- "last_success": "2026-11-17T17:15:31+00:00",
+ "updated": "2026-11-17T18:12:42+00:00",
+ "last_success": "2026-11-17T18:12:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -69,6 +69,13 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE56MDN4czdlaHBhNTMxRG5iWGZoNlB3WHc1NHNyMlZ5T3VtZE9hYUJyOExSSTczUUlfNkNWdlJJU2V4bXpUNzI3M003cUFQYl96MzFwYk1ObDN3dWd3UHIzUXAxNEpVelNoSi1vZFNVNkZ3LVhwalEzaEF0cEpXSDNiWXN5X3Ez?oc=5",
    "source": "Vietnam.vn",
    "ts": 1794931495,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027 : ce qui va changer pour les salariés et les entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0NZVlBYeVRnUXhGRnNkbUpsUnotUHZ0V0hSWUhQWVJkQS1wTmg4aWhuX0hoc3dDX1pYWndNUm9keVlGYmR5dEhnTlc5LVB0UmpxZUltM1RhRmd5SGNLQ0QxcVF3TjZTdVp3QXdxMGxFMG9KbU1wTFRrZnVNa1l5WnhTUkRIWXV6ZDFTaTFyelBLY20tWF9BUU9hUndhODluV3hR?oc=5",
+   "source": "Lebrief",
+   "ts": 1794931200,
    "theme": "fisc"
   },
   {
@@ -91,6 +98,13 @@
    "source": "France 24",
    "ts": 1794929495,
    "theme": "alt"
+  },
+  {
+   "title": "Facturation électronique : les directions achats face au défi des fournisseurs",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZjhjSUxlUWRlZTBReWZRUXRuVU5Cckh5Qk9TOXNpMFhaMGhxWDFxU3ZCbVBlTXJJS1FQdWk5dDN5MkF2eThEZ0pyS2xhaHgybkQ2aGdDZU9UYXBES2xUSGlaQU43aFNLZ1dOTUtvSlJOejZqQmU1Ri0tTkxKMWppV0hVclllZ1I2U2draFk3VzJzZGRBSTRLZkMwZXk2NzBqZk9vbUJ1QzZodnliNURHVE5lMDR6TW9mNXNQVmhOTndtaF8wa2pNMnpFZTYtQ09Yc0FWT2loUks1WkJUNUhWVnE0OEV2bnhNT2Nj?oc=5",
+   "source": "www.republikgroup.com",
+   "ts": 1794929140,
+   "theme": "fact"
   },
   {
    "title": "Impôts locaux : un rapport propose de recalculer la taxe foncière sur la valeur de marché",
@@ -299,7 +313,7 @@
    "title": "L'Opco EP vise 80 % des dossiers d'alternance traités en moins de 24 heures à compter de janvier 2027",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZXE1Nm9nQTBTd1k3YUNQTUdvdjZDLWNOdXh0MWhPdVhWN3FndG4zMGxzNVUwelc4a2Z1WGp5ZEhqa0NiV0pfUUU2TEFvazRGNU9UU0k1WWNIRDdQTWpHTXpwOXlKVFRRVU1uOTBvdDBtTUlpcGdaNmk3dkk3d3k5Qi15N1dZaEJMSGJUZzJNX0NaUE5MdXJxTzZLS1ZEWi1kNFA5RG9ZdXVIM2oySGtReE41cWJlSU9iZzd3S05HSE8xVXRMdkh4S2UxY182Zw?oc=5",
    "source": "AEF info",
-   "ts": 1794853440,
+   "ts": 1794853510,
    "theme": "alt"
   },
   {
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3hJcExnNTByWmcwM1NoMmp3TXVlRHVQMGFrMGR2VFFYaUF4cUdybFZWd20wYmllakQtZXhoOEduS3VMbWNLd2pJWTVnbWcwUmdPMXZZcVRwakY2UHl3U0Z3bEI0ZExodHVnVEdtNGM2Mml6dTNPcWZtbjd0bEZ4cEtIaVZ0WlBGNklWZDZFMG9YZ2c2UjlPcXl5M2pwU29CRXdJREcybDg0Q010TVU4?oc=5",
    "source": "Hespress Français - Actualités du Maroc",
    "ts": 1794467340,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : déployer une automatisation totale des transmissions de flux dans les cabinets d'expertise comptable",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYldzMHFoak5IbjBLbzZDMGstQVp1ak5uUUl1RXpfNENNN3czSlBMTU93VnQ1SUpCa3ByX3M5WklCSnlxbWdRRlZfM1V3WVUyTlF2TG43aDVxOUxuNjRoZnZha2hsQ3gxSGRCemZCUzJ3SVlWU016WDJESU5WM09iTlpmaEhVd3I2UkhIamNXeWtvZi1XbzhBRy1BWlBYWUpGamx0OERKd0VZcnlHZ2RvZ0R6UGtvRnc5SUhPT3pBcElpTGZiOEJnaFNsb1VNQzBXUXdLclpLcENiUFg1Tm5MdXd6c280bnpaeWNEX1YwQ3F0cFlXem4xa2VEWTdFR0h2OXQ1M1pjMA?oc=5",
-   "source": "Revue Fiduciaire",
-   "ts": 1794466800,
-   "theme": "compta"
-  },
-  {
-   "title": "Taxe sur le tabac : comment Malte tient tête aux 26 autres pays de l’UE",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlBnSXNKS1Exd0tkMDc3dzZKOWdmeFV0RmR2cFFGYUU1aF8zTU1CaHdTMGctTWN1cU5mU1R1T3V5Wlk4cVFEdFdfZUlOb0hjRUU0ZjhSWWkyM24tRTA2cGFHT3JYbVVySjVWRG1nV2NxT1c1SkhEU1JHYUZ4LXkxZzRfenhPRWNZdVFwRzZzYnRvTGd6RnhHUWVoOEFjZ21LNk9OVDVkVk5MRWowWmc?oc=5",
-   "source": "Le Point",
-   "ts": 1794465000,
    "theme": "fisc"
   }
  ]
