@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T19:08:12+00:00",
- "last_success": "2026-11-18T19:08:12+00:00",
+ "updated": "2026-11-18T20:09:12+00:00",
+ "last_success": "2026-11-18T20:09:12+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Ces « dingueries » fiscales du budget 2027 que dénonce le collectif de dirigeants « Trop, c’est trop »",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSkhINTZXeTdDUnBYUE1US0RrSV8xUmVVVXVISi13TmRSM2IweWFtWTdaWFVqSXJUMUUtWUlpU0IxUkVUUjRSOHZvdVBEOXdjbFpOMTJNRXM2WnFpa1BlekFNazNpZnpTZURUUDFHWmZSRklWUHN0RTN6MndKeVJmcm9OZUFRYTNlWFp0VHpWUzhTNW80WU1LNm1xODBCOEZEQkRiRjZTQm5rTzBoSGRQVDZSeGQxbVctc0wxZVpwQU5VVmhrSE5LNkg3NldiLUFWS3NEeg?oc=5",
+   "source": "Le Figaro",
+   "ts": 1795029849,
+   "theme": "fisc"
+  },
   {
    "title": "Impôt sur les sociétés: un montant record de 22,32 milliards d'euros en 2025, mais les bénéfices commencent à baisser",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJZWEdOMGV0c3RvZk1FaFpwLXJBM3ZscTl3NjFjYVpJTThOQ0l3YXo3MTNUNWg1MVpEWV9lcVdpSmpzdlJsVmxTaWMxc3VUVkhva21UUlNUeGNtTEY4X1pEeFduc0NXeWZWeGVVWC1NblRpMUdRd2o5NFYtWGd5QlVhcHl1SWJfM0IyRkw5bHZibzdhak1IUXhYeU5qT3A3T2d5MTJZbG9mN0RmLTdhU1dHZkdzV3FBMXIzNDAyc2V2NG8?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Nice-Matin",
    "ts": 1794565538,
    "theme": "compta"
-  },
-  {
-   "title": "Facturation électronique : les propriétaires qui louent un logement meublé sont-ils concernés par la réforme",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUTl2VnJ1eV9RMXFQSllySy1mTXVOYkF1a1pnaU9ncXVwNG9XRmNBV1F0Y2lwT01Wd3dEQ2hwdlI1LVUwVExEV21OQVpzMGlYdUZmUkp4LXZXMzNISko3djNWOUNNRVdDNzNmcFhyWnZHNURpSlRmWTVfWkU0VDVpbmlaZVhlalZ0UXpyRE5mbXhwVExYYU55cEx4QVRrZHZteWxHSVp3U2NNcV81djZySV9hUy04dEhxZUxlU3J0a1Q2RWF3eHJvZ3RsTUduYjd3MWNEemo4MENtLWIyVTQ2c0VoX3lvMzFSUGdTWHZJdUUzSWh4S2dWUTNGYnFfci1KZ1R4YWRwYV9ybEhucG1GemJLU1pIZDg?oc=5",
-   "source": "Boursorama",
-   "ts": 1794560940,
-   "theme": "fact"
   }
  ]
 }
