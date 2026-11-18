@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T05:13:50+00:00",
- "last_success": "2026-11-18T05:13:50+00:00",
+ "updated": "2026-11-18T06:18:53+00:00",
+ "last_success": "2026-11-18T06:18:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Présidentielle 2027 : le RN propose une avantageuse réforme des retraites mais sacrifie les précaires et la politique du logement pour la financer",
+   "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOeF9kUHc0engxa1pLSm9lZktKajU4ekJhUVJ5THZjV0lEb0JQbXlVQTJuQ2hTbThWWDBLajZEUVNab2NuaUtYMDRRLWhkV25nTS1yVzJsV1g4czZJRDlVek1ibkh4RGdyZlRzLUV5M1Rnb3F5ZjdybjNLMk04cy10SFlwbDh6TkFWMndIQkF0bFp4VkFnX3dBNzBqd0NnUUFIbnd5ZjFBTHpyOWFQdll1ZThSVkc3eWg3OWUzTjdycTk0N1o0S2ZzT3M0eW9lbmRLa0FISGpYbkZOTDZIdW14UFdLTkkzZlB3LTkyeW4zd2pfc2VlbHpGTWl3bHdJTS02dUZuZWJVU3FZb1o0c0hpSk9jUlZ1U3Q1b0ZJYjdQQ0lEYXNWbi0tOXFFT3hrNWphRE54dzBsTFJ0MTMwejZubw?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1794981981,
+   "theme": "alt"
+  },
   {
    "title": "Facturation électronique 2026 : ce que les indépendants geeks doivent vraiment savoir",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnh3aXNqczN6bU54aVhOZkVITm90VVhvZUpqRTZTcE1DSEtBOVpPRFhGc3d0R1FpeThVeklXdzVlVkNPSTdsaS1sY0ZMVGxlX01QSVpnbXJjb2VWLXN3X1RRVXplQWpkVVhlUDB1Y3pZWFpsc0Z3VXY0NV9PVEhGTXNqVzVCUnl1MzhFc01WYkJNSFF6ZUNBZUVqNGNBR0dwcGliUUVfLVZaeEtDWjRB?oc=5",
@@ -84,6 +91,13 @@
    "source": "AEF info",
    "ts": 1794936780,
    "theme": "alt"
+  },
+  {
+   "title": "Un rapport d'experts rejette la création d'un nouvel impôt local sur la résidence",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV195a3BNTkFVZEpOQ3ZMb0NzaFlvaEVtMXJCeVI0TUdmSkNQUVBUa3c1YTZLQjdZUWozQkdLQWV5bURSbEQwOTJDODFmY2c0SGQxOFJZelZzTFM1dk9HbGlKMll5RFItVF80T3FoUGVhUHNyM0YzUWI4UVNtNTRNcTZmQVNXOUhqOTZaTWRIZjF2NWdNam40ZTkxajRPTV9Oek84MUFFVmxON3cweU1UamViQl9NQQ?oc=5",
+   "source": "Banque des Territoires",
+   "ts": 1794935260,
+   "theme": "fisc"
   },
   {
    "title": "Les entreprises sont tenues de soumettre une série de « déclarations en blanc » pour se dissoudre.",
@@ -1099,20 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1794475465,
    "theme": "fisc"
-  },
-  {
-   "title": "Impôt sur les bénéfices : les nouvelles règles comptables du règlement ANC 2026-04",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUt1RDdlQk1lY1hJeW1VMnJBN2RjWEJwVDBfYmgwOU42dmI2bzRtbFFSc0tRZDdJbGFCS2plV0ZYYmRYb0JFOWlqdlVHQ2tvd0ttd2JlMjR2VUFiaEJBZjRnRjloVm1rQzE2UTRjTzE5cGRTMWJpWUpoSjNBQW9yZHRORkl4UW9LUXJBRXFPSjctYkw0dGpJXy0xNDR0ajYxWU56c3dSdDZVMWhsWFJHUV9NVE9SVTVuYXFjZV9MakRNazJoM2c?oc=5",
-   "source": "Lefebvre Dalloz Compétences",
-   "ts": 1794475208,
-   "theme": "fisc"
-  },
-  {
-   "title": "Projet LF 2027 et expertise comptable : Une transition prolongée jusqu’en 2030",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVBsWVkwaGNsZktwcWJNV0lmMzVjb3BlT2pZcUhYbHdkVWVrd0d2ZV9Na3BXMmpUOVI1WDBZZW40Zm5kbHM1LXFYMTNlQzJaTTBjalpzYnZHb1RrdHFzY3pESzU0M1ZIcjJOd2F5WjI0TjczYnltMXJaek9NWkRzZGY1LTVTczZxWnZjLVpZdE9uZjlhcWVRVi1UWQ?oc=5",
-   "source": "El Watan",
-   "ts": 1794474098,
-   "theme": "compta"
   }
  ]
 }
