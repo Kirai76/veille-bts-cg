@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T10:15:57+00:00",
- "last_success": "2026-11-18T10:15:57+00:00",
+ "updated": "2026-11-18T11:18:34+00:00",
+ "last_success": "2026-11-18T11:18:34+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "La souveraineté stratégique de la France \"commence en mer\" : les armateurs alertent les candidats à la présidentielle",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU3JSMlhPbC1Tc3VOWXJ0RUlOTWVNMFJ3eDNialF2Q0FObjNLYTBVMzRZajNUQmQzeWFYVmFFNUdySElFeERnUFpqZUdzeXk0ZmRxcUlGZUpsYWQ1SzM5MmlvZ3k4LU5OZHlJbnlITDRXQThJS0JoUG1ndkFocXNWbktJWnZNWkF0TU0zR3hrdDNGb1ladmpxWHJNbEdSVGRORFhoTjZ0R0lqeDU4N0dMYkpSYjR6OV81ZmwzeWk5M3BnZWI2WGhzanhYQXY1T3M2dDVFdDlhR3JmRU42TnhiNnpmeGlLUFBkSGNfdUF5WEtGQnFlNDZaNlNxVkx6dw?oc=5",
+   "source": "lanouvellerepublique.fr",
+   "ts": 1794997507,
+   "theme": "fisc"
+  },
+  {
+   "title": "« Infinançable » : les angles morts de la réforme des retraites de Marine Le Pen",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTg2aG9FMEhoN0JFNHRtWjJrQ0xaeGZ3WHNJSG5WR1RnZ2J1V29nVUROWDFMS3c0QU40UVZGWUIweTJZWVdPVmEzdlV2RGt6ZHJHazh5a1E0QVo5Nm44TkItV2x5bXlfT0djMFNBa2F4eEVlV3Rtb092TlFaRUwydDN3OGdxZG11TXdFSkROVmYxdVdqQlpJY1VocFRLN0NLcmRvQXFCQkU2X00?oc=5",
+   "source": "La Tribune",
+   "ts": 1794992744,
+   "theme": "alt"
+  },
   {
    "title": "Présidentielle 2027 : le RN propose une avantageuse réforme des retraites mais sacrifie les précaires et la politique du logement pour la financer",
    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOeF9kUHc0engxa1pLSm9lZktKajU4ekJhUVJ5THZjV0lEb0JQbXlVQTJuQ2hTbThWWDBLajZEUVNab2NuaUtYMDRRLWhkV25nTS1yVzJsV1g4czZJRDlVek1ibkh4RGdyZlRzLUV5M1Rnb3F5ZjdybjNLMk04cy10SFlwbDh6TkFWMndIQkF0bFp4VkFnX3dBNzBqd0NnUUFIbnd5ZjFBTHpyOWFQdll1ZThSVkc3eWg3OWUzTjdycTk0N1o0S2ZzT3M0eW9lbmRLa0FISGpYbkZOTDZIdW14UFdLTkkzZlB3LTkyeW4zd2pfc2VlbHpGTWl3bHdJTS02dUZuZWJVU3FZb1o0c0hpSk9jUlZ1U3Q1b0ZJYjdQQ0lEYXNWbi0tOXFFT3hrNWphRE54dzBsTFJ0MTMwejZubw?oc=5",
@@ -112,6 +126,13 @@
    "source": "Europe 1",
    "ts": 1794943800,
    "theme": "alt"
+  },
+  {
+   "title": "NIS 2 : une transposition à périmètre élargi",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2VXa3ZsdC1BTXYxZl9PVlppeG0yallMS0p4d010N0Zud3VmLUpMc2l1RkVNaktVbm1BbEFPLWlQSHdLTXlEb2dnYS1DMWtXZ25pZDlBRS16YkVxSUhwUVlBU2N1dXhVNl9QT3FDVUlVNU9zN0FEa0J6eW9KMktCTkl3VFVoeVZjcUlhbkRvVnnSAZYBQVVfeXFMUFNpRl9xT1E2ZDhRMENBa25aVUNlQzU0a015dnk0WEQzdHdsZ0NxTUVqM1pZS0ZmNEM2WGNoUWl0OS03cWlUZUxDY3VVbzVWU2hhV2JuWjRGX2hyNWtPaHh2bnZudXY2dkJUREh3eC0yMk5NLTgtRktYTFZqMXBKS0tUQUNXYmxnVUJlYmlzanNocmlPMVVR?oc=5",
+   "source": "Silicon.fr",
+   "ts": 1794936949,
+   "theme": "fact"
   },
   {
    "title": "Financement des parcours, qualité, accès à la formation... La CPOF avance ses propositions pour la présidentielle 2027",
@@ -189,6 +210,13 @@
    "source": "l'Opinion",
    "ts": 1794927569,
    "theme": "alt"
+  },
+  {
+   "title": "Kérosène cher, fiscalité alourdie : le transport aérien en France déprime",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUFEWG9RMU9sZF9hRm5McEpSdDhQTTV6bnFaeFdLVUd5cnN4bnhBZ0hDcDBQYV9tc21OYXBpdDk3eXZ5X3RBYmZ4c1RNNmdEd3FxUzd1NkZJYVhaTjMtRE13anRRcU9GbUdUek1wTnNVcjg1bTQ2VzRoeTFadTAxNWVoajJXUXlPR0lFbTZmcnR0aUFyU3VXZUV5MklWRnNHcEZvS0pvUndhOXpMY1cxMWZkZUxiNF9OYzVNRWU5YnRzY0dUcDUyeA?oc=5",
+   "source": "Sud Ouest",
+   "ts": 1794926313,
+   "theme": "fisc"
   },
   {
    "title": "Présidentielle 2027. Marine Le Pen dévoile son programme sur les retraites : les cinq principales mesures",
@@ -335,7 +363,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJFSWtkNGxGZGdiYkphUHJZMlhnS3d1MFAtdTBWYWhQLTItX3A0SGsyaWhKVHg3VG1BYWFETzdfT0h0cGZwdTRPSWxOcXVLcW44OTFBQzN1ZkM2MjZ6MlNjVUw5NVduSzhZemNxZDAxTlhzNDRNZnhDaFE5VDlOcmJGQUlSNlpMR2dBMzZfMTNXM1pOakhEaTJyM0NUV0FGNU00V2hNblA0OVZxQXRCemRXb0drRy0wdk5wbFZCU3VCb2NCaWNOUUZzM3lSdWpN?oc=5",
    "source": "Economie News",
    "ts": 1794902375,
-   "theme": "compta"
+   "theme": "alt"
   },
   {
    "title": "OPINION. « Impôt sur les sociétés : remettre l'impôt à l'endroit »",
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOGhZZTR3M2oxclJsRDE0QkdvOGlfYjZyTWhzNkFNa28xNGppUDlEbG4tRm5tVTJlVzdSV3pkb2g1ZFBlN0JlcXdBdmJXb2FhY3lNSmMyd21WVml5UGJoVTR0aF8wMHljczZ4WjR0ODYzQ0UtWnJCSlB1WThsYzBrVUFxQXoxRUVVd3h4YkVzSGZScWM4SWRpQVBXTkp0RzliLTJUWjRJLS1pUV9sdjRzODFDYnZOU3JlM2pZOWZiWXNoYUdONjJ1SGx4Y1hpRkM3OGgyaENGbjJOR2Z2bUpV?oc=5",
    "source": "JDN",
    "ts": 1794494309,
-   "theme": "fisc"
-  },
-  {
-   "title": "Il alourdit le déficit de 900 millions d'euros: contre l'avis du gouvernement, le Sénat reporte de trois mois une hausse des charges patronales",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTkpSdkVfZWI0b3VTbUk3aEN2cjQtS3VFbkxacXJMcEgzbUM4T3NiWWVKcmk2N3NCSF9GTy1LNWtVNGpZUnlwcnRIR0tJRXVPVTZVeE52N0pFTnM3NUNLcU10Z250TlN4Qm5rRFZYeXhhVF9EWkFCdkx4MlQ3OVFKNGZzdkx1cTN0aW95MTlHSmw0YTZhYzNDSU1ORC1BOGI1ZEVjTi11eXlnYVZ6WEdMd3hXNXZidjQ3U1BsRzAzVEJBci15Xy15U3E3VlYxeTRVcm5HT3gzSEpYbnp0N1R3T0J2TWszNmF0Sk5PcGtUVlFNeDF0SGVlWTFmV21DUy1RTy0zWlVsME9jMjczMEF5eWZkaWVsa1Q2UlAxak5BaWJiWWMzSVA3clZPNmhHUQ?oc=5",
-   "source": "BFM",
-   "ts": 1794493691,
-   "theme": "fisc"
-  },
-  {
-   "title": "L'attribution gratuite d'un bien ou d'un service aux salariés à l'épreuve de l'acte anormal de gestion",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenhhc0ZNeDBQSGpHVi1yNE8yUFJRUG5sU0FrazNYalhXU1dfMVJSVU5qN3FOWC1YLXQ0ZE90RXY3S1VobURmeldpVXQ5bkxlNHJlcmFOVFAtSFdyVXZ2WGN6MXhlbEdmVXdNVTNvemVvQTRYTjVab21xTjY4aFF6MmlxalZnc2xYbG5fdzFzVThxSGtCWkx5czg0emxaU0hn?oc=5",
-   "source": "Fiscalonline",
-   "ts": 1794492000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Transmission de cabinet : les nouvelles règles du marché",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYl9jZUdsNGtHU0pBRVpyWEV4UU1iWmZlbzBkYW0wdHlHSzBSN1lLWlR4UnUxZUV5bTZfdGN4Nm5reHRBbkwzM2ZwMG1VOGtQSDRtQnNjYVlLVUNOaW9QSlRxcWZUZTNYWGJsQ2lkX0YzSDg5bi1uYlJLMTNsTnpOelgwWjNsY1E?oc=5",
-   "source": "Compta Online",
-   "ts": 1794491682,
-   "theme": "compta"
-  },
-  {
-   "title": "Budget Italie 2027 : mesures clés, échéance 31 décembre",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTMyd0k3UW4wSENaWEdmVWVGRVdJSjZzdi1EVGFJbGM5c1J5cHhydGFiUjNheUhoUVdzb2xMbXNJeEJ2WUNjSzhZMzFzRVRFMGc1MUFUeExEenN4ZzB2NGRLVnM3Vk5lTUY1d1E5dzV6emowbFVBUTBZamk5QzFKUEJ2SnZNVzFRX0ZtdnU1R1EtY1dZQVhibnFCeTNzdw?oc=5",
-   "source": "Admirals",
-   "ts": 1794491455,
    "theme": "fisc"
   }
  ]
