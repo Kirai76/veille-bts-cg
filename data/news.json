@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T16:12:53+00:00",
- "last_success": "2026-11-18T16:12:53+00:00",
+ "updated": "2026-11-18T17:18:15+00:00",
+ "last_success": "2026-11-18T17:18:15+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 65
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "2,6 milliards de réduction d’impôt: l’UEL conteste le calcul de la CSL",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOck1vYW1EU2JTOVcwNUdabzB3Wjg5UmtHSFF1NFd5YUprOElQaFlibXJTdnNCQzJzaDNmMHJER0RpMU5lemhQWWNIS2pKOHVYTVV4amVxYndseS01M3NLWnh4ZDQyd254X1Q4THMzUFN1Mk40dkpMUjdOU1ZoREg5MFlMeW5JZGRGbFVCc01iRmJhaXZGQmY1dmp0TQ?oc=5",
+   "source": "Paperjam News",
+   "ts": 1795020075,
+   "theme": "fisc"
+  },
   {
    "title": "Le gouvernement portugais prévoit une nouvelle phase de baisse de l’impôt sur les sociétés",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYWFHOXBXa0t2VlplV0RTVDB3WVhGWENzcERjVFoyZ1NmT0U4MjBfTUt3eXB4by1NNHVWQjJWMWZmSU1vRmc5VDRIS1IyNjJvcDdYdUpIZjNJc1BaaFlaOGR4dUVLTnhTeERqaU1nODBKX01sX0RMZVl6dEdqLWZOal80b05JTks4VE5aMHc1aHd3MHB6bmNsX1NBSFFZTXE5Z1p6dDZJWGVOV29jYkVydUNGWlFYcFFSTTRRcFEtRy1lSXdPbEZibWR1ZkZubXlGMDN5WERHQ3F0N1JCRFdmQjNMcmNkQQ?oc=5",
@@ -457,6 +464,13 @@
    "theme": "alt"
   },
   {
+   "title": "Congo : l'État veut diviser par dix le coût de création des entreprises agricoles",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWI1OG5zREVPcGhmQi1vWUcxSFhKSnFHcnczenR4cEctOC1mVVBZR0dqcTZCZDB6VS1FUWpOYU83SmFHbGEycmFqWVQ4TUtVTWV6R3BVbk1FMHBRTkU0V1RuallZSmRtLVBRSk5OWDVUTjFxSV9pUkVPNEROTGNDLXA3Z01nTFBnazNabDBSZnlRTHdudUk2X2ZMVnVUdFdq?oc=5",
+   "source": "EcoMatin",
+   "ts": 1794901556,
+   "theme": "fisc"
+  },
+  {
    "title": "OPINION. « Impôt sur les sociétés : remettre l'impôt à l'endroit »",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjNEdlpUU0lPTFM1V2JlcEh4dlltb2VPMHZ2aEs4MElENjBZNV8wQWdwU3N3SF95QmRGcmgtM2VpckJmTFJwa3N0OG12Tkd5N0l6elJ3UjR1bzkzUkJUMWYzXzNNcWdjM3NqNWlfODJRcFRwd3lYZGpueGJkTlZiZ2xhTE5qb18zd0czSmZzUmxaYllBRjBQN3pvVGZycUNZUTlBVkpTenkxSWs3akVjZQ?oc=5",
    "source": "La Tribune",
@@ -482,13 +496,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0ZYczJ4ZHAzNl9SQzJmdWRzdGRQcktqLTkwWmtFUXhFOTNiOUtQUF9WQW15dEZnYjllRUNGWGxwYjdpVGdSa3l4blRVTU85dl9ORFhDTnpFTXVrcENWR20zRXV0WmNGWkRNbTB1cjVxN3lKc2l3V0h5REgxcDFlTk5FTDBqX000cjdRdUFHM1YtTDVodUh6UW9va216QQ?oc=5",
    "source": "LégiFiscal",
    "ts": 1794881861,
-   "theme": "fisc"
-  },
-  {
-   "title": "Congo : l'État veut diviser par dix le coût de création des entreprises agricoles",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWI1OG5zREVPcGhmQi1vWUcxSFhKSnFHcnczenR4cEctOC1mVVBZR0dqcTZCZDB6VS1FUWpOYU83SmFHbGEycmFqWVQ4TUtVTWV6R3BVbk1FMHBRTkU0V1RuallZSmRtLVBRSk5OWDVUTjFxSV9pUkVPNEROTGNDLXA3Z01nTFBnazNabDBSZnlRTHdudUk2X2ZMVnVUdFdq?oc=5",
-   "source": "EcoMatin",
-   "ts": 1794869156,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Mes Allocs",
    "ts": 1794556800,
    "theme": "alt"
-  },
-  {
-   "title": "Vinci Autoroutes, la fin programmée d’une machine à profits",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzE3VmwwRUlhaUNXYk4zRnR2N2dBZmNDdEFaRlZsVUFkcFVFMlZOU0JhOXhMOHhoOTdvN2xkTEE0Smc3SzkxeUQtX2ZpeHNJbFJvd1d3WnVIYU41anJMSDNvUE12SWw3Vk1ndk9CTGxsaTV2U3E3aWc3Uks5MkViZjE3bDFCa2VqSkFqSlhGMWphUE5vNUE?oc=5",
-   "source": "L'Essentiel de l'Éco",
-   "ts": 1794553560,
-   "theme": "fisc"
   }
  ]
 }
