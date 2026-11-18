@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T03:00:32+00:00",
- "last_success": "2026-11-18T03:00:32+00:00",
+ "updated": "2026-11-18T04:06:20+00:00",
+ "last_success": "2026-11-18T04:06:20+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 62
+   "count": 63
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -60,13 +60,20 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 31
   }
  ],
  "items": [
   {
-   "title": "En direct - Grèves successives, élection présidentielle, réforme des retraites... Ce qu'il faut retenir de l'interview de Jordan Bardella",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZjdKbDFTSmIxQWRvWmFrQk1lRUZDLVZwUTJac1JmN1dBQ1p2ajYwMlRJeEIwdks2bHhKQlJfSGpUelVXVjNBcXdhcnhJVlFOLVdleUs1Y3ZKdHRUSW13amZmdmk3ZWZNSy1aQ1Rpc1pCanBSN2xlQS1CRmtlNDE3N0x2TXdlWW5Bck1ZUkF0Q2pLR3dydWhUQi1oVER2cWNnN2dZODhHZjRDSzYyMzJGMGU0WGgwMmViWEdpTFNfbjdjbVJ5cnQwX1o5MXNEc2t2UDFORTFyRkhhV2M5TmNGazUtb19XdDJuTUNLWWxpWjcwNDAxZm9EMEQ3c29HUdIBgwJBVV95cUxQRU4tbmpsS2txZkRUSGJzaHVJRXJ6N3BKY28teGdCc2hYcnVEa0ZWekZ6R3AwR0lTMkxSaWgycEN2dmJpZnBINVhCUlc5bWluNFd0MmQyNHU2YS1tRFNHQkhXVkF0RWdySUNBTUVoWFV3bllkanR0eENZbzQ2dHczbkNhdDBoZlpOZ2sxUnZDWmV5THRzN3V6clJyRFFWYk8xVGJxdDN6c2lCMHB1SmdXOW9SNWdieVBNX256c0s2aWVtYWtiV2ZCUGk2Vmh5QUFWbzdqSjJmRUViaUpoeFozYWJCQjU0eEU5aEZKbGxSdzVvTTc3SnpIcUtFbkphRWdzblE4?oc=5",
+   "title": "Facturation électronique 2026 : ce que les indépendants geeks doivent vraiment savoir",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnh3aXNqczN6bU54aVhOZkVITm90VVhvZUpqRTZTcE1DSEtBOVpPRFhGc3d0R1FpeThVeklXdzVlVkNPSTdsaS1sY0ZMVGxlX01QSVpnbXJjb2VWLXN3X1RRVXplQWpkVVhlUDB1Y3pZWFpsc0Z3VXY0NV9PVEhGTXNqVzVCUnl1MzhFc01WYkJNSFF6ZUNBZUVqNGNBR0dwcGliUUVfLVZaeEtDWjRB?oc=5",
+   "source": "Le Cri du Troll",
+   "ts": 1794972600,
+   "theme": "fact"
+  },
+  {
+   "title": "En direct Grèves successives, élection présidentielle, réforme des retraites... Ce qu'il faut retenir de l'interview de Jordan Bardella",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZjdKbDFTSmIxQWRvWmFrQk1lRUZDLVZwUTJac1JmN1dBQ1p2ajYwMlRJeEIwdks2bHhKQlJfSGpUelVXVjNBcXdhcnhJVlFOLVdleUs1Y3ZKdHRUSW13amZmdmk3ZWZNSy1aQ1Rpc1pCanBSN2xlQS1CRmtlNDE3N0x2TXdlWW5Bck1ZUkF0Q2pLR3dydWhUQi1oVER2cWNnN2dZODhHZjRDSzYyMzJGMGU0WGgwMmViWEdpTFNfbjdjbVJ5cnQwX1o5MXNEc2t2UDFORTFyRkhhV2M5TmNGazUtb19XdDJuTUNLWWxpWjcwNDAxZm9EMEQ3c29HUQ?oc=5",
    "source": "Europe 1",
    "ts": 1794943800,
    "theme": "alt"
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVBsWVkwaGNsZktwcWJNV0lmMzVjb3BlT2pZcUhYbHdkVWVrd0d2ZV9Na3BXMmpUOVI1WDBZZW40Zm5kbHM1LXFYMTNlQzJaTTBjalpzYnZHb1RrdHFzY3pESzU0M1ZIcjJOd2F5WjI0TjczYnltMXJaek9NWkRzZGY1LTVTczZxWnZjLVpZdE9uZjlhcWVRVi1UWQ?oc=5",
    "source": "El Watan",
    "ts": 1794474098,
-   "theme": "compta"
-  },
-  {
-   "title": "Journée internationale de la comptabilité : Faire de la profession comptable un acteur incontournable du développement économique du Niger",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR1N4czNWclA3TWlwVEdobHVLaUo1dk14SEVKY1JKUWlfSzdUM1VJdWFOMnhFZXBXbG5EenFadFRDd2Nra2VldHRfcDl2eHBBVUk5TlRqQWNmTkdjVDFRTDBEbW40cjBwdzgzOFpuYVZkU2pjS29GMWxFaWRZQVRxVmlxVU02ZGhtSjJJOVp2LWxqQTh0NUR6VFNfUGNGTXBFZENzT0I2MUFhUzk3NGRXR0NjYnFpUmJHN1pRSVRnNXQtQ2hVVktKSFlJM3p3c0FRRGhxVHcyYVdGTm13eDRFTHNsbGZwN1RteGZab05lWHZIMGs?oc=5",
-   "source": "Le Sahel.org",
-   "ts": 1794471624,
    "theme": "compta"
   }
  ]
