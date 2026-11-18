@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-18T20:09:12+00:00",
- "last_success": "2026-11-18T20:09:12+00:00",
+ "updated": "2026-11-18T21:03:59+00:00",
+ "last_success": "2026-11-18T21:03:59+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 66
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -110,7 +110,7 @@
    "title": "2,6 milliards de réduction d’impôt: l’UEL conteste le calcul de la CSL",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOck1vYW1EU2JTOVcwNUdabzB3Wjg5UmtHSFF1NFd5YUprOElQaFlibXJTdnNCQzJzaDNmMHJER0RpMU5lemhQWWNIS2pKOHVYTVV4amVxYndseS01M3NLWnh4ZDQyd254X1Q4THMzUFN1Mk40dkpMUjdOU1ZoREg5MFlMeW5JZGRGbFVCc01iRmJhaXZGQmY1dmp0TQ?oc=5",
    "source": "Paperjam News",
-   "ts": 1795020075,
+   "ts": 1795020103,
    "theme": "fisc"
   },
   {
@@ -266,6 +266,13 @@
    "source": "Le Monde.fr",
    "ts": 1794976907,
    "theme": "alt"
+  },
+  {
+   "title": "Programmes 29N : la réforme fiscale du Frente Amplio, dans le détail",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVJ1ZmRkejlDOEExcG5UOXZaWEF6NmtreVJwUFo2b0dHTTY5QUZRLURBZmNWQ25TM0pHeXZzTTBqaGE0eHc2RGE1bUg4aFFyZ0lTUjZNUEFfTnkyWFRWamh6Z3lIV0xsWkE3RWYwdGpSN1VEMm92aUNkWll4Q2k0ZlFpOHRveUJ1RzBmSjY0cXFERlJlRWJzSkt6MXl3YmZzZ2d2ZGxwcjdzNmdIWVdtcUUzWmpPUHE2Vk50anI3YTIteWfSAcgBQVVfeXFMTktLZVZIYUthNGlSMXJvUFZFSHJhNV96Y3BGSE5MMlc0OV9BNTZNUDhXOG1HTVpsVXdhQm50T3RIUndmWjItR20zVXZjZDJOQ0xTVUd1Y2hIZWhPejN0SGVQcV9oMzlwdWQ5SzM2dzBSbWtiVTVBTm9NZ1BXSjV4NHFacC1OQjhhaTZqaXZ3MDM1WWVBdm9wbDdGRU9QMXd2RTZVeXRELWtncGFaeHlmZE5DblVnOVhBU0tLTGVFeFZ2TFhDbE5RWEE?oc=5",
+   "source": "Demócrata",
+   "ts": 1794974400,
+   "theme": "fisc"
   },
   {
    "title": "Facturation électronique 2026 : ce que les indépendants geeks doivent vraiment savoir",
@@ -1007,7 +1014,7 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
    "source": "DECIDEURS MAGAZINE",
    "ts": 1794578726,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réfor...",
@@ -1106,13 +1113,6 @@
    "source": "Mezha.net",
    "ts": 1794567812,
    "theme": "fisc"
-  },
-  {
-   "title": "« Qui mieux qu’un expert-comptable pour analyser un pacte d’associés ? » : la Cour internationale d’arbitrage Méditerranée veut attirer les professionnels du chiffre",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYkVBOFdrVUE3amgzZllSUmktZk5EVEJWMjJCZkNucjhVS0FPUWxYS2EtRjBEMXpITk0zUmVUMDJOdnQtUmUwamJINDJIQ2pKdVlQeTM4Z2R4anBkZ0lucWFCYWYxRWpudTRraWxZM1Q0OG9mZWMtbEtaanhUXzFqWW82VkR0cFdXV1lRRmRnUklIUjdRR0NlNnQ4ZFdMYVhWU1hJVXlBczNza3VpVlJsUnlnN0h4b3hDS1hnaC1CNC11OGh4YlNydDJqMF9FTUw2TzZlbVBHTWtnNXpuOS1xQXh5RTV5RzBpWEN2ZXVwMmZ2ZlRTM3doMWYyYVlEUHZybEZUMHducGY2SlNkRDgzRmlRWjh6MDVWUGxDZmEtTFktZTEtZ040RA?oc=5",
-   "source": "Nice-Matin",
-   "ts": 1794565538,
-   "theme": "compta"
   }
  ]
 }
