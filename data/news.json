@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T13:26:31+00:00",
- "last_success": "2026-11-18T13:26:31+00:00",
+ "updated": "2026-11-18T15:08:43+00:00",
+ "last_success": "2026-11-18T15:08:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 33
   }
  ],
  "items": [
@@ -119,6 +119,13 @@
    "source": "Le Courrier des Stratèges",
    "ts": 1795003624,
    "theme": "alt"
+  },
+  {
+   "title": "Budget 2027 : 7 005,6 milliards de FCFA de dépenses, bourses familiales quadruplées et 480 milliards pour les entreprises",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ0R4czQzVkJpVjFLTzc4NmJQdVJZY2dzejRXZUlpTTNmWHpESW5JWmtmNWNOVzRDMEN6cVBwejV2QlBmck53cGxzZWdrbU9LM2hKcUlWam1JWG14YTdtYlJLRnczaUxCRmxKQ3N6TmhuMjRIdFNGLVpudEdMMnNjNXVsU0RRVFAzVGVrTG1QaE4yalFadTBJZUw1eXRiRXoyYmw1OW1oMGNkTWNIaE91TGpBWTQ5WFVCWFFwRFJGX2w4R1d1aVU3Mlh4Y18xelYxM2RfbUl4ZktqeTFKNzBRSDFUSmRsdDF6Y0JFRXFiZFRpc2ZMdTkyc0xMeWpmemJBMnBJM3F3?oc=5",
+   "source": "Seneweb",
+   "ts": 1795001688,
+   "theme": "fisc"
   },
   {
    "title": "La souveraineté stratégique de la France \"commence en mer\" : les armateurs alertent les candidats à la présidentielle",
@@ -1106,13 +1113,6 @@
    "source": "Burkina24.com",
    "ts": 1794507784,
    "theme": "fact"
-  },
-  {
-   "title": "Fin de l’abattement pour les retraités, non-remplacement d’un fonctionnaire sur deux : le Sénat veut renforcer l’effort budgétaire « de l’ordre de 6 milliards d’euros »",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNmphcDBtWWtTOUVsTm9MOG9tanN3TFB3cHBuSXFXTjFkUWJ6SEwydmNQQjdSQkN6N1VrUUtmUnVkUlFGeG5zNFF3QXpQV1l1Ym5WY3F0M0p0MjV1cVd6dVBpR2hQUlpvVWdvSkROdDBiTm9nbThMMGtreFNhcUlJejViT0VIcDZaZXlzaTdJc05NQ1VoN1NEOWRkX3pDWmR5NWVPQzJTMy0tTUdWVDFLaHk0SGctT1F6ZUMtaGMteFdkYlkwcktwSDVMMHBfNjIyZUE3OUwxWkYyVGZoMlp1YklHMGsyZ3JmVUY5WkN4dlBnLTRUMmRMaHF3V3JhRWFVWnJoNDlSd2NEeTVJMlp5RkFENzlDZlhfczZV?oc=5",
-   "source": "Public Sénat",
-   "ts": 1794507713,
-   "theme": "fisc"
   }
  ]
 }
