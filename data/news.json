@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T11:18:34+00:00",
- "last_success": "2026-11-18T11:18:34+00:00",
+ "updated": "2026-11-18T13:26:31+00:00",
+ "last_success": "2026-11-18T13:26:31+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,62 @@
   }
  ],
  "items": [
+  {
+   "title": "Patrick Martin (Medef) : « Au vu de l’effort demandé aux entreprises dans le PLF 2027, celui des collectivités locales paraît nécessaire »",
+   "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOQ29uVDl5VUVVX29ueWlwZjNXeWZ2dkh1dmZWc3hyYldKbWZNcnVGQnlrVDZ2NFh3RmJYRWYxNHV6aUo1N0VLZkJkM3lhQUt6UTlJSGJxYUw4THhZQm91dWFMbFJJUkhhTTdZVmFUWWZKVnVUZUVteXlMMkJvVml5X1JZVUE3TDNfaFdxNm5vUGFhTURla1ZDRktBVFNzR1R2MVY4YzU2dDV4Nm9PM3k2eV8yU2Raa2s2Vk82YU1LbWdVRklSOFltQ25nUnJ3WjY2ZXFWdi1jTHBMV0p1SlVvZWR0TUpXWEtjWU44YkYtbExEZmRYb0I1UDFQcENtODVrY2pObUxadkRVcEszOEVqUFZ1VlZhOEQzczFTTG0ta2ZxbVRsNGtIX2xIbmlBWFVSVnVRakZhME9DOFhqRkcyM3p6TEpVNUk3V1VGVF9PVzlROFhaalcybXJaTjlpekxRMHYtaTdB?oc=5",
+   "source": "La Gazette des Communes",
+   "ts": 1795007448,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facture électronique et affacturage : la réforme peine à tenir ses promesses",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWt5TUZYQ1dGQkZ6TV9KaU1KQ2RKeExJWU9LeDZtd0xxOFplSXA3b3MxMWhvcWxNRG1SU0ZRWXFzYXZhTDQ1Z2ppTDVEQ3BaMUtaVjN0REJwU0dOVUo3bXVWQmtlRVJHR2VCekdhTVphZl9hbkdHZkRSbFhUMTdQMWFZdVpFUmRkX0Q4VVd4VE9hdnRhZERCQlNOZkNRTXhHT1cyamkxcjZmUkQ3Tloyd09IQ2FaTW94cGI2d0Q3ejJaUENvQlVaY1NLVHF1ZkFRMHUtQ1o3VTJaUW8?oc=5",
+   "source": "Les Echos",
+   "ts": 1795006858,
+   "theme": "fact"
+  },
+  {
+   "title": "Impôt sur les sociétés progressif, « pack natalité », ISF climatique… la recette des sénateurs écologistes pour le budget 2027",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZFZac3kxekU5RGRSYlJTWm1JVW1ScEctSk43MVNGcWoxOGkxQjA2UVZkbWRYVko4MEI1VXZHLWRidnk4X0ZveXk2b2ZJZFJJTDQ1Q3V0M0RwNndyeFJUYjZrMU0tY0M5T3g0NVVVUTZhUlV2dndUa1R2QkE1UTBZUkFVQ3BaS3huU1RzdUQ4d0lpZmdaTmk3Y3VzOTJNNDBybEJ4azY0cEJCWEJZeFZoWEtoWUNxT3JwendoOWN6ZGtPV0tKMmw3YUx6SUVwSFdZSkdmQ1kyZF9nUTN0dWFSZW9aQnE3WnA0WE0zeUFzdU1neElYc0hibTk2WVlEblEzWTJxa1RtUQ?oc=5",
+   "source": "La Tribune",
+   "ts": 1795006804,
+   "theme": "fisc"
+  },
+  {
+   "title": "Rydge Conseil : la stratégie d'acquisitions de son président",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YVFZdXFFczBuc1Baak5mMUhSUzJqZk83WG5kdXlIUDUycEl5cHFYeEFZd01wcWo1X1BwNm10LW5OOGZ2V0FOVWxHOFJaQmFlazJWb2xiOVVNQkx3cTJv?oc=5",
+   "source": "Compta Online",
+   "ts": 1795005088,
+   "theme": "compta"
+  },
+  {
+   "title": "DÉCRYPTAGE. Présidentielle 2027 : la \"contre-réforme\" des retraites de Marine Le Pen vous pose question ? Âge de départ, décote... 6 réponses simples pour comprendre le projet de la candidate RN",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSWowZ29kQkNLS0J6dnpZaXA4bmd3dU5nT2dSRWF4T204S2xTbGFnZjl5UUw5ZEszYjdCMWZIaXZrWDRvaG90ZXp0VjNOcW1aRUcxN0JJQ3JCR3BfNnhhbFZYbS1raTFYRzluS0ZLR1ZaMHlIZ1BRdmxpb1BuSy1GYzRqZWVyN0dLcFhPUUl3Y1JtZGdXYU5icTNtVDJlZUNzVWk2UGk2MzJaT00tYjk0MmwtR0p3ek5FbEZ2ODZDNGVYTFV5OERRU3BqdHQ4WXc2LVZqT0MyZVFhTEpwMnJzZF93Mkx2UkxINjdWeXo0U2RLcjZpRnFJWWtkUndhbXhMdHJZZ0Y4cFZVeU5UZEhmcjV0SGZJamN3a1ZDdQ?oc=5",
+   "source": "ladepeche.fr",
+   "ts": 1795004760,
+   "theme": "alt"
+  },
+  {
+   "title": "Projet de Loi de Finances 2027 : l'État dans la ligne de mire des niches à fort potentiel fiscal",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONG5fWkdCYktVeENmd2p0d21rak5QRHl0NDh2aHQtSVhOc0FkbGVJTkJ6UzlTWDJYZFYtMFctUXdJWFZld2ZQeFlLWUJjV2J3RkcxaDNXQUhCS296cmliV0JuYndFMTRjS21EVm1LQzhRV01SdHZITXoxekItdnp5Z2drdUJsUEZHLVduZmY1QnJ2bFNFUG5IYi1OeGt5V3YxR1RtUkNPTVJKSktVS2NZZk5GMno4emZFd05TcnBjWndnVU9IdjZMdUQxdUtnM3h5RzdIWEF1QVdrOTdXSzdjZ1ZMOHZkODhUWHdJMDlYTE1EZ0hVeHJVa0F6NlFVS19ZUVYxWQ?oc=5",
+   "source": "lopinion.ma",
+   "ts": 1795004421,
+   "theme": "fisc"
+  },
+  {
+   "title": "Budget 2027 : 150 millions de dinars de recettes en jeu… l’article 24 rejeté",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzk4RlhNdjlKNEVRMmZma0szYk9RZmMyX3NJOTdCYlpOZVpPOEx6ampzemRDVmt5R3MyREkyLXV5WEtVakZSWXJJV0QzRzk1Q0h6bEJaZ1hRNXhualZhTlpLei0yMlNhOS0xTnJ3ajFERnNHX1cxdlIzejI1LXo4VkNOWHRpMHBMVnI5NWhfdUFuc2w4NEt3Q0E1QjB0dnozYjVSb0MtalIwQQ?oc=5",
+   "source": "Tunisie Numerique",
+   "ts": 1795004100,
+   "theme": "fisc"
+  },
+  {
+   "title": "Réforme des retraites sous le RN : qui seront les gagnants ? Les perdants ?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFRHUVprWkVyOTNjOFltOEhqYldwNkFySE1SeWxmSlYzNDNGa1NnNWxQQzl6OGs1M0FyV2JtSTgtUzhONnY2N1kzQ3BES1ZFSldvcXZuWE1mVUNxMTFSSFVWMDVkWXY4bDZNS0hCb3ZfYU1hQXZqdXhKYldNMkFieV9hMVdBMm1YeVMyOHdpZXcwQVhyQlRIblZxcnpxMmRBeHBLMlp4Zlp6M2tH?oc=5",
+   "source": "Le Courrier des Stratèges",
+   "ts": 1795003624,
+   "theme": "alt"
+  },
   {
    "title": "La souveraineté stratégique de la France \"commence en mer\" : les armateurs alertent les candidats à la présidentielle",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU3JSMlhPbC1Tc3VOWXJ0RUlOTWVNMFJ3eDNialF2Q0FObjNLYTBVMzRZajNUQmQzeWFYVmFFNUdySElFeERnUFpqZUdzeXk0ZmRxcUlGZUpsYWQ1SzM5MmlvZ3k4LU5OZHlJbnlITDRXQThJS0JoUG1ndkFocXNWbktJWnZNWkF0TU0zR3hrdDNGb1ladmpxWHJNbEdSVGRORFhoTjZ0R0lqeDU4N0dMYkpSYjR6OV81ZmwzeWk5M3BnZWI2WGhzanhYQXY1T3M2dDVFdDlhR3JmRU42TnhiNnpmeGlLUFBkSGNfdUF5WEtGQnFlNDZaNlNxVkx6dw?oc=5",
@@ -111,6 +167,13 @@
    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbU1iN1ZMa2dRNlNVajh4WktSUU0yQ2JCc05HSHNyQnRJYk4wVTNnd1c0Qk1tRHI5aWpISUJldGN4ODQ3dVFxcmFVQVpsUllHMHUybElPWU41N1JQQUFOWUJSNG40bVhwUmRyU2dDMTJLRW5jWUR1bWl4N2djUlBMZjFmWlpuRnZGZGJXeE5sbFRfdWE0aGJhblM2WGdHU3VsX05LaDdQLTJScmpBSFZfZHIxUmk2NlhjSUdoUS03UFEyMXlnX3ZtQXZUS2NIcDZfWm82blpRTDRwMmJDdTBpYkNNQWhtVGtGc3FrbDA1S2I4NnBjeDRnQ2xrdkJ5NGktVG1oUWlUUFZpUTdFbzFRT3JmUTFRX0FwUklyaw?oc=5",
    "source": "Nice-Matin",
    "ts": 1794979808,
+   "theme": "alt"
+  },
+  {
+   "title": "Présidentielle 2027 : le RN propose une réforme des retraites en trompe-l’œil qui sacrifie les précaires et la politique du logement pour la financer",
+   "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOeF9kUHc0engxa1pLSm9lZktKajU4ekJhUVJ5THZjV0lEb0JQbXlVQTJuQ2hTbThWWDBLajZEUVNab2NuaUtYMDRRLWhkV25nTS1yVzJsV1g4czZJRDlVek1ibkh4RGdyZlRzLUV5M1Rnb3F5ZjdybjNLMk04cy10SFlwbDh6TkFWMndIQkF0bFp4VkFnX3dBNzBqd0NnUUFIbnd5ZjFBTHpyOWFQdll1ZThSVkc3eWg3OWUzTjdycTk0N1o0S2ZzT3M0eW9lbmRLa0FISGpYbkZOTDZIdW14UFdLTkkzZlB3LTkyeW4zd2pfc2VlbHpGTWl3bHdJTS02dUZuZWJVU3FZb1o0c0hpSk9jUlZ1U3Q1b0ZJYjdQQ0lEYXNWbi0tOXFFT3hrNWphRE54dzBsTFJ0MTMwejZubw?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1794976907,
    "theme": "alt"
   },
   {
@@ -298,7 +361,7 @@
   {
    "title": "SEEPH2026 : 30 ans de mobilisation en faveur de l’emploi des personnes en situation de handicap",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzBxTjJmUTltOWg2bG13ZHU1VmFXTkQ1ZGFxQmZjc2ZSNU9UMW1UckdrTnRLMXhrLTUxMkVlSzJXaUJ3SXA5eFNET3JYV3U5eDAycEtQcjRWcnppTjN5bDVXVGtldVAyWnJ3Y2M4M3MySjcxbUdZRFZneWRqWWY1eGQxWFo0eDBRVGtlQTlSaUY?oc=5",
-   "source": "Handicap.gouv",
+   "source": "Handicap Gouv",
    "ts": 1794916800,
    "theme": "alt"
   },
@@ -1049,69 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNmphcDBtWWtTOUVsTm9MOG9tanN3TFB3cHBuSXFXTjFkUWJ6SEwydmNQQjdSQkN6N1VrUUtmUnVkUlFGeG5zNFF3QXpQV1l1Ym5WY3F0M0p0MjV1cVd6dVBpR2hQUlpvVWdvSkROdDBiTm9nbThMMGtreFNhcUlJejViT0VIcDZaZXlzaTdJc05NQ1VoN1NEOWRkX3pDWmR5NWVPQzJTMy0tTUdWVDFLaHk0SGctT1F6ZUMtaGMteFdkYlkwcktwSDVMMHBfNjIyZUE3OUwxWkYyVGZoMlp1YklHMGsyZ3JmVUY5WkN4dlBnLTRUMmRMaHF3V3JhRWFVWnJoNDlSd2NEeTVJMlp5RkFENzlDZlhfczZV?oc=5",
    "source": "Public Sénat",
    "ts": 1794507713,
-   "theme": "fisc"
-  },
-  {
-   "title": "La Cour des comptes cible l'apprentissage dans le supérieur, le CPF et l'Afpa pour réduire les dépenses",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0NwcHZBQ2pYZU55Q0UzN241MjFlLU50eFQ1SlhkNVB2ZVh5TEZOUi1kNGdramg0aWNYQUpiemdJWVlBUFBMcjBIVE44eEwwbHdkcnBhcVY4M2VRUjlyaEdJWkwyaDVzUnlERG5wYmtKSy1qLWJ6enU0ZzUtbFRnUmtwd1FLZmpSc290QlI4QmZSY0xCX0k3VmZ5Tm1PeWJrTzc5Ymd3c1hLUGc5dnRJakRXR2JPUXVyc0J2MDBtVU1NbVZ3MDROcXRRRm5WRFJYazMwcw?oc=5",
-   "source": "AEF info",
-   "ts": 1794507404,
-   "theme": "alt"
-  },
-  {
-   "title": "Concours de prof à bac+3 : « bradé » ? Le patron des INSPÉ répond",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmEycThCRUZkOGhISWo4WkVRR2NCRXhlMDdRUVFMYi1xUmQ5Tkh2SnAtRHd6bmhjMGV6VHBpWTFVdHY4TlFuOC1DS2dBTG14cUdkT0hOQWJtTVhxNWFhbmRWd3ZUWUNYSXdyZ2tZbUJ1ODhEck9HUFpUeTF4dmUwTnFLaGlkT1V4bjU0cEVCSDhoNmlNTkxpVGV6WUM0VmxReUdtUXZxUHR4WFA1YjBHeV83Qmt6aHpWbm0zS2NQQldEbllmZElxMw?oc=5",
-   "source": "Studyrama.com",
-   "ts": 1794502422,
-   "theme": "alt"
-  },
-  {
-   "title": "A peine candidat, Teddy Riner face à des affaires fiscales",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHBHOEFIWGpHaDhvQ1JDUm13YzFOcVVwMDNzV1NRcmM4dlhNU3FyZENSWEhXaEVEU1oxY3hrMTVBSkF0LTBoVjR5aktxdVRBS2ZacEVBTzJIUVlTSjRYRHc5NDZxLUpaS3B5QV9rTDNaYUtWc2xqc2FXbldIN3RuTTBoeVFsa2pXNjBwSDQxSHlQUmlvSVMwQW1ic0ZvNnNNVEVqYlgyaXh0QzQ?oc=5",
-   "source": "Capital.fr",
-   "ts": 1794501222,
-   "theme": "fisc"
-  },
-  {
-   "title": "Avec l’intégration d’Inea expertise, le groupe nantais d’expertise-comptable Amarris renforce son ancrage à Rennes",
-   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQY0hOTWZMVnJ5ZWFTemx0ckFJYlUtVWlRTTdaTXhvSVVyLUtHQmF6MEhWNXpMNVFkWmhOelh0M1hWZ0tSSGw1eEhyRV9NRlR3ZzFBQWVqeFc1N1JnNUlhMVBoUmNPcVZUZFRnUFdzY1lnZmNWNEw2aXJOQmJWU1pKcHA2bDBLblRkdC1UdEtVVVdIZzRERGNWaE9QZ2o4N1loN2prYmk4dFh0dGZ4NDVNSk5QZWFoaUFoZjAwMjItUS1pY29VWE5DR2QwUzBtLXBWektVeTBCTXFpTzAzV3o3UXM3RGVCeEN0dk5IQ0tpLVVhSzlIQ2t3MzFMTHpQcF9HblR4cU1TV3BWTkY4OTl0THRTcWdqSFFic2RRRXFMN0p2bFR6WFJ1MGNIcHhFR2tBTThONlFPQnZITFg2cXhtWUpB?oc=5",
-   "source": "Ouest-France",
-   "ts": 1794500823,
-   "theme": "compta"
-  },
-  {
-   "title": "Banques pro proposant la facturation intégrée aux freelances : 4 offres comparées sur la facture électronique",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOejBTcmlZQVBqeWRzMzB3Ql8ySUhWLXNpa3NJNV9JRVg3MnUzWm1TSW9TMGIzMVF6aW5rY0dwVG5WQkxmUldBSlFDOHBNZ05McWlPVGNScUlkYUJUcVhib1RkTURGRXI4NlNBNFZlUUUtQ1ZLNWwzT2t0T3hTdzNMQ25Eem8?oc=5",
-   "source": "lebigdata.fr",
-   "ts": 1794496800,
-   "theme": "fact"
-  },
-  {
-   "title": "\"Il a tout pour être un bon politique, il commence déjà avec des casseroles\": candidat à la présidentielle, Teddy Riner voit ressurgir des démêlés avec le fisc",
-   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNODBLMzVRQ1FkckI3WEdrNHhTblVwQ1pRS0J3VjExTXhpalpVRjRjWkk3N01QbldxRjhweENSMTU1UmJ0WmpnZE1OX2c3X3VKX0d5QTNIQ095RjRYMGxkbDk5eTZBaHJXMXRidEYzRmMxTkNRaFpQczgzeml0OXRDQ0h1RnZiU2xibWMxMGtNVE91OS1seHpVR0ZTam40OUtnVW1XVHAwbUFYbm16ZWpMMVZlLWVBYXVnSGlhbkxlTzZYajBILW1DbUlEU2paTlVvV3E0RWJjSWpDNGpEXzE0c3g3b04tTjc1cUt5Nk5xeGlsd2tGRmJlelVFMHNNUjNHSEtXVVpLcld2UGdSM0wxQ25pOXZaaTZockY1VDlCYU1uRUFxVk84bDRJc3A4emU2dTZkMnl3UzU4dHRaZmdJ?oc=5",
-   "source": "RMC",
-   "ts": 1794495651,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique : la réforme ne fera pas payer vos clients plus vite",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzEtejd1cVdQakVPd29VZHRjTUcxbHZrbGxnOE43RlpreXJHYmJUWjJJeDY2bFNsU0I5TmxFNUtFUnloVHFfdVAwanI5UGtKSXp4MlhENFh4OER4TklwRFZZOW42d24yMzdxMmtCUTFtUnRaUDNRX1N2QTQ5YzlhWjFnYTI5NURfY0FtLWdjYUExM0hzUk10MDFJVS12OUwzNzNZNnZQel9IVmRCUlRCVDZvZ08zcUVf?oc=5",
-   "source": "JDN",
-   "ts": 1794494490,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027: les cimentiers et les opérateurs télécoms échappent finalement à l’IS de 40%",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMldsMnVhb0ozMk41dVZLUUwyZlBpQ1JUVlpPUVFjb3Q2VG8xeVlXN1FZRWUyN3NGSjh3R0Y1NWI3ZnVsd2w4ZlFCTVg3amY0d1hMWGkwaTYwMzFtVFVQM0hXUWh5b25lV0dIM0RIUm5jMEZBWTRVdkN3M3c2bm1wWU41VjkyTXJ5cEZ0QTZPTmVPbzVoQWFIX3BySUJVeGlZYnZOblh0cVNwX29vVVFNbWlTR0c5NkVacElZTHBFV05uOUpKdnJMYW15N3ZoRzBUUjhsZ04yOA?oc=5",
-   "source": "Le360 - Le média des actualités du Maroc",
-   "ts": 1794494471,
-   "theme": "fisc"
-  },
-  {
-   "title": "Du formulaire à la donnée : la facturation électronique est aussi une opportunité pour les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOGhZZTR3M2oxclJsRDE0QkdvOGlfYjZyTWhzNkFNa28xNGppUDlEbG4tRm5tVTJlVzdSV3pkb2g1ZFBlN0JlcXdBdmJXb2FhY3lNSmMyd21WVml5UGJoVTR0aF8wMHljczZ4WjR0ODYzQ0UtWnJCSlB1WThsYzBrVUFxQXoxRUVVd3h4YkVzSGZScWM4SWRpQVBXTkp0RzliLTJUWjRJLS1pUV9sdjRzODFDYnZOU3JlM2pZOWZiWXNoYUdONjJ1SGx4Y1hpRkM3OGgyaENGbjJOR2Z2bUpV?oc=5",
-   "source": "JDN",
-   "ts": 1794494309,
    "theme": "fisc"
   }
  ]
