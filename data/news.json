@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T15:08:43+00:00",
- "last_success": "2026-11-18T15:08:43+00:00",
+ "updated": "2026-11-18T16:12:53+00:00",
+ "last_success": "2026-11-18T16:12:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,12 +10,12 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -55,15 +55,43 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 32
   }
  ],
  "items": [
+  {
+   "title": "Le gouvernement portugais prévoit une nouvelle phase de baisse de l’impôt sur les sociétés",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYWFHOXBXa0t2VlplV0RTVDB3WVhGWENzcERjVFoyZ1NmT0U4MjBfTUt3eXB4by1NNHVWQjJWMWZmSU1vRmc5VDRIS1IyNjJvcDdYdUpIZjNJc1BaaFlaOGR4dUVLTnhTeERqaU1nODBKX01sX0RMZVl6dEdqLWZOal80b05JTks4VE5aMHc1aHd3MHB6bmNsX1NBSFFZTXE5Z1p6dDZJWGVOV29jYkVydUNGWlFYcFFSTTRRcFEtRy1lSXdPbEZibWR1ZkZubXlGMDN5WERHQ3F0N1JCRFdmQjNMcmNkQQ?oc=5",
+   "source": "Zonebourse Suisse",
+   "ts": 1795017202,
+   "theme": "fisc"
+  },
+  {
+   "title": "Le RN veut réaffecter la moitié des contributions Formation au financement de sa réforme des retraites",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUZvRDBHRnNKRlY1cEZCOG9YTkFySHI1NWp6ZnE4dlNOSFRha1c2MVF0WlVwUDRxSmZ0ZTRaTlE1aHhHSlc1X1c1bUN4UjZVMmhpdTlvdjc5QUdxcnh5a21Pbks5MW5FTTJNSURLd1B3VDJTZ0hraTNFRDhpNHJyYk5vOWNzWU5JRURvMjV3aDE5MndESlNtVVIxRnMxczZSU3lTc0pIVFFNdjRzaUIwZDBsTHV5dXV1MG9DalpMc3FmanN2ckNVN1ZjbzhCbmUwODE3ajkwSQ?oc=5",
+   "source": "AEF info",
+   "ts": 1795014780,
+   "theme": "alt"
+  },
+  {
+   "title": "Retraite à 60 ans : voici qui pourrait en bénéficier avec le projet de Marine Le Pen",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTZYTGJUUnBoMC0weGcxLTlOWHFGTVdfM2ZLcEZ3aEg3a2J4YnZ1MUZ0NDNoZTdtN0l1eTRST3huTU52N3hSWkpTUTlPeXdhNmxvcXNsWWdsV1NBaS1ydkxFVmZ2amNXRGNRdklhZEtyVmFpUjNsWThVaWlPaG5ldkI0czlkSjJNTHd5M0VGVkVVN0gySExlMFFKYUpmZ2NPQUdLbTNGV1lMUQ?oc=5",
+   "source": "Var Actu",
+   "ts": 1795014480,
+   "theme": "alt"
+  },
+  {
+   "title": "Budget 2027 : 7 005,6 milliards de FCFA de dépenses, bourses familiales quadruplées et 480 milliards pour les entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMV9BQjBlWnF1QVV2WUdZYmtUMGdaNG1VaVR2cnc3T0JLS2d3ZHNTREw4WGt6LTVKTVlJdjlhS3dSQmZTdTJpSXAyejR6bTJGNGpPbDZ6cl9hd1VHRUtDQUZFbk01UTRNREZjQWtaUmhjY0lsbmdfVml5YjNVSGhVLTRRV0pZTGptblVBQUJLejBsei1nU2pyOGVSUFI3bm9JN3R0eElfUm1PZ1VFWTRvZFRRYjhMb0JkeDhYQWUxZDk5U1Ezdk9QSk0tVzlkLVRGQUpINjF6cE51bmM?oc=5",
+   "source": "SANSLIMITESN.COM",
+   "ts": 1795008982,
+   "theme": "fisc"
+  },
   {
    "title": "Patrick Martin (Medef) : « Au vu de l’effort demandé aux entreprises dans le PLF 2027, celui des collectivités locales paraît nécessaire »",
    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOQ29uVDl5VUVVX29ueWlwZjNXeWZ2dkh1dmZWc3hyYldKbWZNcnVGQnlrVDZ2NFh3RmJYRWYxNHV6aUo1N0VLZkJkM3lhQUt6UTlJSGJxYUw4THhZQm91dWFMbFJJUkhhTTdZVmFUWWZKVnVUZUVteXlMMkJvVml5X1JZVUE3TDNfaFdxNm5vUGFhTURla1ZDRktBVFNzR1R2MVY4YzU2dDV4Nm9PM3k2eV8yU2Raa2s2Vk82YU1LbWdVRklSOFltQ25nUnJ3WjY2ZXFWdi1jTHBMV0p1SlVvZWR0TUpXWEtjWU44YkYtbExEZmRYb0I1UDFQcENtODVrY2pObUxadkRVcEszOEVqUFZ1VlZhOEQzczFTTG0ta2ZxbVRsNGtIX2xIbmlBWFVSVnVRakZhME9DOFhqRkcyM3p6TEpVNUk3V1VGVF9PVzlROFhaalcybXJaTjlpekxRMHYtaTdB?oc=5",
@@ -119,13 +147,6 @@
    "source": "Le Courrier des Stratèges",
    "ts": 1795003624,
    "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : 7 005,6 milliards de FCFA de dépenses, bourses familiales quadruplées et 480 milliards pour les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZ0R4czQzVkJpVjFLTzc4NmJQdVJZY2dzejRXZUlpTTNmWHpESW5JWmtmNWNOVzRDMEN6cVBwejV2QlBmck53cGxzZWdrbU9LM2hKcUlWam1JWG14YTdtYlJLRnczaUxCRmxKQ3N6TmhuMjRIdFNGLVpudEdMMnNjNXVsU0RRVFAzVGVrTG1QaE4yalFadTBJZUw1eXRiRXoyYmw1OW1oMGNkTWNIaE91TGpBWTQ5WFVCWFFwRFJGX2w4R1d1aVU3Mlh4Y18xelYxM2RfbUl4ZktqeTFKNzBRSDFUSmRsdDF6Y0JFRXFiZFRpc2ZMdTkyc0xMeWpmemJBMnBJM3F3?oc=5",
-   "source": "Seneweb",
-   "ts": 1795001688,
-   "theme": "fisc"
   },
   {
    "title": "La souveraineté stratégique de la France \"commence en mer\" : les armateurs alertent les candidats à la présidentielle",
@@ -1066,8 +1087,22 @@
    "theme": "fisc"
   },
   {
+   "title": "Logiciel RH Paie : 11 Meilleurs outils RH de Paie en 2026",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4dEVjSFRxN3h3Vk5DQk94MW8wTy0xVTlra3VuZG1YWmMwNDhrXzJnRHVjR09oWlpvZmE3aVctTXlGT0dReUtOX3JkV0JKZHNLNFJRSVVDdkxQN3V1T0hhal9R?oc=5",
+   "source": "Culture RH",
+   "ts": 1794556800,
+   "theme": "soc"
+  },
+  {
    "title": "Prime de Noël apprenti : est-ce possible pendant une alternance ?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU5MUUJXOTZoZnRKNjM4S3o5c1ltWWJFYl94OW9zU2VUQ05vS1JoaXBVWHZzOUNlRlVyR0hHczlscktyN1BWMEQ0MlNZX1Z4dHBmVDQ1Z1d2Q1FoYjkxLWtjYnZNQ2psZjdnVkF6SG1kbXVvVGxHZGg1b3hIRzF4a0NsOEdNV09xZ0V4ZXJmY21TWnI4V3JZUnRqQV_SAZwBQVVfeXFMTm1OTFFCVzk2aGZ0SjYzOEt6OXNZbVliRWJfeDlvc1NlVENOb0tSaGlwVVh2czlDZUZVckdIR3M5bHJLcjdQVjBENDJTWV9WeHRwZlQ0NWdXdkNRaGI5MS1rY2J2TUNqbGY3Z1ZBekhtZG11b1RsR2RoNW94SEcxeGtDbDhHTVdPcWdFeGVyZmNtU1pyOFdyWVJ0akFf?oc=5",
+   "source": "Mes Allocs",
+   "ts": 1794556800,
+   "theme": "alt"
+  },
+  {
+   "title": "Les étudiants ont-ils droit à la prime de Noël ?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcm5Pd3A3cW13LU45X181RzhqaXJRcXNfMVlnbC1LLTdDV2pUOXNwbE04UGVoRWFqbkNEZnhfMElLZVRQZ1h2YU1CNUhNUFBxMk1KbTR6VzdPbVVGSjFvb2Z4YnQydUJIMGVLWnBnbkZzV1Q5T2ljRE9RUjN6NXRPQ2JVcVpyWFBSV0hjVm1vNGFmRVR6UWxDSGgxQdIBmwFBVV95cUxNcm5Pd3A3cW13LU45X181RzhqaXJRcXNfMVlnbC1LLTdDV2pUOXNwbE04UGVoRWFqbkNEZnhfMElLZVRQZ1h2YU1CNUhNUFBxMk1KbTR6VzdPbVVGSjFvb2Z4YnQydUJIMGVLWnBnbkZzV1Q5T2ljRE9RUjN6NXRPQ2JVcVpyWFBSV0hjVm1vNGFmRVR6UWxDSGgxQQ?oc=5",
    "source": "Mes Allocs",
    "ts": 1794556800,
    "theme": "alt"
@@ -1078,41 +1113,6 @@
    "source": "L'Essentiel de l'Éco",
    "ts": 1794553560,
    "theme": "fisc"
-  },
-  {
-   "title": "Que pèse la France pour le CAC 40 ?",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VGE4dEp5LUxaX2RabjhVREc3andNV0ZZdkJibnpxRFJYaFNGLWZJeTNqb0h2ajhZbXV5S2duNlpXbGJSLUdaWWtUZ1NaOU9Vc2hab3E5T092Y2FIX00yR3lIWVhIT0NEU3NxdzNxYUs2Q2VYRGc?oc=5",
-   "source": "L'Essentiel de l'Éco",
-   "ts": 1794550500,
-   "theme": "fisc"
-  },
-  {
-   "title": "Réunion à Lamotte-Beuvron sur la réforme de la facturation électronique pour entreprises et commerçants",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX2JGNG5SVjNBVDZDRG1MRGpuM0hPNHFfQ1RnYmpYSjFvTi1Zb0I4ZThlUDhBdWRzbmZEb2tXbXhhaEZqR1ZuczZ5SWUtVVNVUVJXbzZLQVEyeW9UdGhYLU5HQUIydENEeHNYNG9kQlhzSFYxWHkzVER5OHd0aTFVc1BZczBkSkktcVhGVGdTUW9CWnRkelRrc2h0ejhmNk5rODdQY3pvX1pqRXBxSWZhMlNHUzhPNmtwODJCeGhnNnV3a2RXaEZWNlowNDQzcnBUeTFWVmNHQ3JKOEFKUy1XbHowUzJVbmVHZ2RLY0wtTWg1dVF1M2Jj?oc=5",
-   "source": "La République du Centre",
-   "ts": 1794545460,
-   "theme": "fact"
-  },
-  {
-   "title": "Actualités économiques et sectorielles d'Asie du Sud - semaine du 9 novembre",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclpYb1JzT1cxb1JpUk1HMHJwbEFwQXdhX3NfSDgzNU5ZcThqcXFWb25TVkJqeWhHUjVRMFFIWmk0ZDFRM1NQclJPUUhrMW92NlVhWGxZNVAtb2I4ZnJFaUtxUkp3dkZUV0tWZ21LVVdyM1VwbFgyVk92RzE4LVFvcllrU1dwQjB0OFRSREpOR05iZG9za0c2Wk5MYlNkTmdXVVJ4NzI0MDduVmo3d1RMSzZNNnUxb25BbjZiTUlMb2QxLVJES3pJSVVR?oc=5",
-   "source": "economie.gouv.fr",
-   "ts": 1794524400,
-   "theme": "fisc"
-  },
-  {
-   "title": "La liste des métiers en tension en 2026",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TM3ktYlFqZXBwc2ZMYzdwRTRUbDgtMFhLRkZHYTVoU1V2d1MyRHJicGc0Vy1pSHhPWXg0X243WUszUS1MNmlfUGpaOTlTV0U5VXpFTk80ZFl0RVNWeWt6SUkzUVM?oc=5",
-   "source": "Nouvelle Vie Professionnelle",
-   "ts": 1794517872,
-   "theme": "alt"
-  },
-  {
-   "title": "Bobo-Dioulasso : La facture électronique certifiée au cœur de la deuxième session 2026 de la CNLF",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTWpXSjk4cmNjdHg5bVlpeUdFSEJWSzVmNkg2UFU2b2p2cVNiRHhhMmdXNHVTZEhnWnZMYzlJRlRUNUF2ZDBzNndYYklMNFlSTm5kYlJnMFBIVUI1NGIzOUdGMEdBUkVTdFhyeFBnSVZaazRsbFk3R1lkZDZXQ3BvWVVuVU10VDZFN19aYlltWDhfVi1sQ0lmTzlPZnlQbUdvYnI4cG5rNDVpSUYybERyY001UUdlMkt1UEd1QjB6dEU1VTFLVDNkYVln?oc=5",
-   "source": "Burkina24.com",
-   "ts": 1794507784,
-   "theme": "fact"
   }
  ]
 }
