@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-18T06:18:53+00:00",
- "last_success": "2026-11-18T06:18:53+00:00",
+ "updated": "2026-11-18T08:26:25+00:00",
+ "last_success": "2026-11-18T08:26:25+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 62
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "query": "plan comptable général ANC",
@@ -45,22 +45,22 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 31
+   "count": 32
   }
  ],
  "items": [
@@ -68,7 +68,28 @@
    "title": "Présidentielle 2027 : le RN propose une avantageuse réforme des retraites mais sacrifie les précaires et la politique du logement pour la financer",
    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOeF9kUHc0engxa1pLSm9lZktKajU4ekJhUVJ5THZjV0lEb0JQbXlVQTJuQ2hTbThWWDBLajZEUVNab2NuaUtYMDRRLWhkV25nTS1yVzJsV1g4czZJRDlVek1ibkh4RGdyZlRzLUV5M1Rnb3F5ZjdybjNLMk04cy10SFlwbDh6TkFWMndIQkF0bFp4VkFnX3dBNzBqd0NnUUFIbnd5ZjFBTHpyOWFQdll1ZThSVkc3eWg3OWUzTjdycTk0N1o0S2ZzT3M0eW9lbmRLa0FISGpYbkZOTDZIdW14UFdLTkkzZlB3LTkyeW4zd2pfc2VlbHpGTWl3bHdJTS02dUZuZWJVU3FZb1o0c0hpSk9jUlZ1U3Q1b0ZJYjdQQ0lEYXNWbi0tOXFFT3hrNWphRE54dzBsTFJ0MTMwejZubw?oc=5",
    "source": "Le Monde.fr",
-   "ts": 1794981981,
+   "ts": 1794988106,
+   "theme": "alt"
+  },
+  {
+   "title": "Facturation électronique : Pierre-Emeric Chabanne conseille les PME",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWS1KUkZlZWtLa0ZKdDYxUHNOb2xiRGN6bHhJOW9mUm1fZkxzT2Q4WVhJaV9vQkYxM20yWWVIaExweHI1WWYwR2I1bTJ1Wmt4MmIzQ19ST1RjR3QwbGFMXzFFbGZiV3l0VUxwMUxrRUFVc21DS0FVQUFnYjI3Z2t5b2ZzcU42Ui00bTdrRVJaRWdQd1YyQXNuR0FvTExRbmo2aGN2dHN2aXZ6MVRaZ3lTaHc3dzNKd3I1Zi1YaUFvbk9INTcy?oc=5",
+   "source": "Presse Agence",
+   "ts": 1794985200,
+   "theme": "fact"
+  },
+  {
+   "title": "« Management package » : cette nouvelle bataille fiscale qui se joue en coulisse",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTBWSnVSNnFoRExCY0Y0UXg5TVpLV2FoYm42eWdaN1QxbERGWUVTQzVoVjQwV0RHTlZYM3o4R0VQTjFxNENTVWliN1UwTmU3RFk3ckdYcmRMc3hzWFlBQWlwVE1kYzJqMk02TnBtYmJVdHFJTGR6a25DM296SWxhVV9mQ3BFWmUwU1NsVi1rbzF6cWRkQ3M0QmZUY3ZsQUFMRFRCdDltdEpjb0N0TmN4aF9MQ2otTXE4NUNSWDc3Wk9ETmc?oc=5",
+   "source": "Les Echos",
+   "ts": 1794983408,
+   "theme": "fisc"
+  },
+  {
+   "title": "Insécurité, erreurs de médicaments : les inventions bluffantes, du bijou qui sauve la vie au pilulier intelligent, mises au point par ces étudiants varois",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbU1iN1ZMa2dRNlNVajh4WktSUU0yQ2JCc05HSHNyQnRJYk4wVTNnd1c0Qk1tRHI5aWpISUJldGN4ODQ3dVFxcmFVQVpsUllHMHUybElPWU41N1JQQUFOWUJSNG40bVhwUmRyU2dDMTJLRW5jWUR1bWl4N2djUlBMZjFmWlpuRnZGZGJXeE5sbFRfdWE0aGJhblM2WGdHU3VsX05LaDdQLTJScmpBSFZfZHIxUmk2NlhjSUdoUS03UFEyMXlnX3ZtQXZUS2NIcDZfWm82blpRTDRwMmJDdTBpYkNNQWhtVGtGc3FrbDA1S2I4NnBjeDRnQ2xrdkJ5NGktVG1oUWlUUFZpUTdFbzFRT3JmUTFRX0FwUklyaw?oc=5",
+   "source": "Nice-Matin",
+   "ts": 1794979808,
    "theme": "alt"
   },
   {
@@ -289,6 +310,13 @@
    "theme": "compta"
   },
   {
+   "title": "Captives de réassurance : l’atout stratégique qui séduit les entreprises françaises",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1BaTlNsYThjZXhzUVpwN0xFVWUwR3ZOTmpCVTNudU5uSlJXTXhHMGxsRTJkNXJkZ191U2F2ZjFMc3liSFBLRUFYSHZtQjZYWFRxY2xZbEJReXVvOHBhVzI3NDRTUlIzdmgxRlJZaG9fRy1vTGJwczVSVWVEOEI1bGljYTdiY3cySUFBRzNUbnhla0pnM2F0MUNlYmFkcVhKY1dELXZGSnQ4RThib0RzbFBaQQ?oc=5",
+   "source": "l'Opinion",
+   "ts": 1794907800,
+   "theme": "fisc"
+  },
+  {
    "title": "Réforme de la formation des infirmiers : quels leviers pour la mettre en oeuvre ? (Patricia Amé, université de Rennes)",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jSlVzWVJDdUNVNXVOZzl6MERfT3dOQUhBRXpkZVhwVncwbmNYajhuM0pzT2FYS3BfdFZfRVJBV3ljb2J2NHdBRUsxdHZFZw?oc=5",
    "source": "AEF info",
@@ -482,6 +510,13 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2w0d3JjWUVvWUNXQ1VuNS1qNVRSVV90WjQzVFQ3d1c1dF9wUUJVek1YQk9lazNwVDk0Mi1RQ2xQSGNNY01Ka3pJVzh0bWFGbXFnU2p2akFMWm54a2FtQi1tMnFsQ3lzVDExSmJWeTZuenc3YktfeHVrMWEyV0FmMEkyQmhPM2M5MlVFWFFHcGhadVdHcXF0aE95TmFoNzBldkJ2RjZMSQ?oc=5",
    "source": "Industrie du Maroc",
    "ts": 1794824134,
+   "theme": "fisc"
+  },
+  {
+   "title": "« Il faut s'attendre à une hausse de la CSG et de la TVA, qui touchera tout le monde » : l'analyse de Philippe Bruneau, président du Cercle des fiscalistes",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPV1JuVmY3aUtmRDNNMGltN3JMQkhLWEpoc2pzSEJvV3hXMWc0VXBqLUg4Z190Nkl1d04tbERJNzdPWnF2dUQ4RjBjaGhEY21RUzRLRjEzS1lVbmVuS2U5V3ZZMTBIdEhfSnpPT3EyVW5BSUk5dG9ZaVVIZDQwdWVJSWI1NklHVUNwR3dsMWlWamdjaVVycnFyclBZc2VleHZvUHI0VFpJZzF5U2tCeHhweFdxUEZ0bjcyb0o2VGE1bUpIQWs5TFV2VTZ3dEhRbmUwSEZXcU1yU205VUFRaVhJSUlXUlZ0Wk14OHBCc2lrZGhHUU9uMklSaDRSYXVxZ2RGb0ZXVFJfRkJCdkdsdWdfRkhmZnNhdUQyQ2I4cnk0RHBna0ZsRThr?oc=5",
+   "source": "Investir Les Echos",
+   "ts": 1794824107,
    "theme": "fisc"
   },
   {
@@ -1077,41 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDExOFJVYTdsemtxMTRncG5yMDNhdDZWRllqbk9lRWlRb1EwN25SbE5BMjktZHlCLUl5dnBDdlJELTlBT0gtUDZjYUlINVB2czdReG1RS3FVMGtkQjdOWkpGdUtyU0x3QXFPRUx4QzBGYUcxOFROZ3NFSEZGVmhaLXFVc090SjhHZzNVUUVtWGJydlVIZk9lNA?oc=5",
    "source": "Admirals",
    "ts": 1794487002,
-   "theme": "fisc"
-  },
-  {
-   "title": "Esker reconnue Leader dans quatre évaluations IDC MarketScape couvrant la comptabilité fournisseurs, le poste clients et la facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPV3pSOE4wVkFfR2Y5ZVNFNjN0ajhBeGZVTkhMMHBvZG9fS2JNZmtRNURRUDREaWpmb0dsTjZVenVfSkJDRzJ4VjBMeTg1V1pja3haRlZwczlqb0dlcFV2THFhcG5CNC11NkRmTDc0ZjFUSDhlZE1uMUVTeGttaDRYaW4xWmdyQmR2TEFhRmM1anU0VjF2RVpnTDlWYmJGQk8xZHhwWEpDNVhuY2NUUWE4Zmtna3I3em1nNjR0QjJ5RXhwempiLVh1SlZEUWtWd01CSzJUZTUza0g0VWlrNEVSU0dTQ3RnWkRqXzlqWFAwNUNhSGI1QnpiYnFGd28tX240TERBTVNTNjRmTDhSRE9aTHlNdWd6cEM4Z3o2UW10TENYWkQwTWthdlJnUmJBWTUwNkVhLWwzbjdTZEZOSjdtWm1fSk10aDZLeEFpQ3NTVFBZTW8?oc=5",
-   "source": "Le Soleil",
-   "ts": 1794483913,
-   "theme": "fact"
-  },
-  {
-   "title": "Les contrats d'apprentissage visant une certification privée connaissent \"une croissance extrêmement dynamique\" (Dares)",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16bTFNS2g3UzU1TWJpVHUzTnN5YlNLWUpSWnJvOXZnNGNydTBzcjgwdzBYRGdoNGRaZnF2ZzlyMDFhem9QNnBIZmFpT04tZw?oc=5",
-   "source": "AEF info",
-   "ts": 1794481280,
-   "theme": "alt"
-  },
-  {
-   "title": "Projet de Loi de Finances 2027. « L'absence totale de visibilité » inquiète les entreprises et les élus",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZlppNktIZlBkNGFEY3A1WTVYTmJvQ3NuYkQ0ZlBzdGI0dkRWelBZRFFPYTIzYXVVVFJvUDRjOHZFUHFTYVZrYk5QQlV6OFR0aVpyVmZ3Z1RoSFpQZlNzcWpiYVAzY1I2REg3UzgzWXU5YVIzSmhBNkt0ejY1NndBTmc3em1vYk1XNVJrU1BadXRPVENTNktlZjZwM3Rhd1NndVZjcFprdzRsQWxGSnRNSXZqSnp4V29ZZkdXdXdCUjQ4SjAxWVluMHMxZW9DNXV1S25WLTNmRWxhYmd1VXVr?oc=5",
-   "source": "lalozerenouvelle.com",
-   "ts": 1794481200,
-   "theme": "fisc"
-  },
-  {
-   "title": "Présidentielle 2027. Candidat déclaré, Teddy Riner voit ressurgir des démêlés avec le fisc",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTWhtUWhnNDhieng0Zml5d25KMFFMcXJVcktJVlhOcGw0d1J5ai1nWVI3RVVPSDR0b1dtQnQyb0VXbTAxRE1PbGc0WHR6Xzl3bE5kWWhGZW81RktDck43SF95bGhqQm5RaUhHSmhIbkJSZ2JQYi14NjlZN0FHbmhVZUZPM1lGUWM4UkdlRWhMTmhmSkZRb2VocHFKMWdZZm14eFZCZXY5eXRISkJ1czg0dDZibUVpRXNoUXlPWGxFem5WcDlkU2JObThfdVJvWU9fUzVxU2tCVEg4MnAxWGZKczAwUEJzOFhFRXdpQ3NyQnhOWTVTUS1RV2FWTVBNaDBCaFBmU0RSdThGUQ?oc=5",
-   "source": "Ouest-France",
-   "ts": 1794479388,
-   "theme": "fisc"
-  },
-  {
-   "title": "Politique de réduction d'impôt de 30 % : stimuler le développement du secteur privé",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGIxZ1pLUDY3RHRiYmo5TXZFRlNDRHkycjUwcUFTTXFKaXRrNjdmVFJlRmhoRlJWZmZGZGdXNkdwb28xSmpHaXk4OWZwZlN1RzRvNmNqeFFsNlZORGxacDBPT0JrSW4xUE55ZTd6WTV3TnRZci1ib1NlOEtEZFlvWDFZVDIxYng4N1F0SFJWRlBwZw?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1794475465,
    "theme": "fisc"
   }
  ]
