@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T23:01:41+00:00",
- "last_success": "2026-11-18T23:01:41+00:00",
+ "updated": "2026-11-18T23:58:45+00:00",
+ "last_success": "2026-11-18T23:58:45+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 65
+   "count": 0
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -131,7 +131,7 @@
    "title": "Le RN veut réaffecter la moitié des contributions Formation au financement de sa réforme des retraites",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUZvRDBHRnNKRlY1cEZCOG9YTkFySHI1NWp6ZnE4dlNOSFRha1c2MVF0WlVwUDRxSmZ0ZTRaTlE1aHhHSlc1X1c1bUN4UjZVMmhpdTlvdjc5QUdxcnh5a21Pbks5MW5FTTJNSURLd1B3VDJTZ0hraTNFRDhpNHJyYk5vOWNzWU5JRURvMjV3aDE5MndESlNtVVIxRnMxczZSU3lTc0pIVFFNdjRzaUIwZDBsTHV5dXV1MG9DalpMc3FmanN2ckNVN1ZjbzhCbmUwODE3ajkwSQ?oc=5",
    "source": "AEF info",
-   "ts": 1795014780,
+   "ts": 1795014844,
    "theme": "alt"
   },
   {
@@ -489,7 +489,7 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem9WOVZDWk16dlEtLU1EM2JoemgtUWlSUFFTWlo5UGQ5SnRoaVNxTEszSzJORmtoZkFpbzF0RmFtWjA5ZTBvWnpFUnNEbVpzUUJPYmhoQzBQRkY4MDFwbFpSMUlYczgyQllxRnZVWUVEVjdMdTlfSXNwNW0xUGFsOW5hVmU0Ylp6V0ZKWTlDY3dFcnBVajBQWVNnWjRySms3dWpvRy1RQjJ5WGhhNWlaYzNn?oc=5",
    "source": "Journal de la Corse",
    "ts": 1794912997,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : IR, hydrocarbures, tabac… les mesures adoptées",
@@ -874,7 +874,7 @@
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPREdZTElzR1hETWR3VXVTSGhPOFZQLWdBVUFLVklFSE1UZU9lRVp2bHhqYy1WZ19PXzBnazRDRVFoTFJtY1ZILW52UFZzcEZsM1AxYWlXYU9DV2dZSlRTc0lXOURMc1lPYWdFMmpkRDFCeThvQ0thall0S3h4bFpWMWE2TXBsT2tCTVBWMHZSLUpoZXhTYUZneXlCOS1VanNvM3ppOTlGSi1RN1pWTGdyV3k3Rkd5U0FYUEVRUXJCYlMtbTctS0RHMDI2SjhPZEN4X0NCYm5KWTNuMlBLdVh1MDZlX3hoMU9ocWpSc0tlU3BBWUk1MjRKNFgyQk9rTVBnbEM0aGZsZTN3WDdVbXBxUDFTeWlJWFhiYVROUFBkb09uTkE?oc=5",
    "source": "Le Parisien",
    "ts": 1794748200,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "De nouvelles mesures pour soutenir l’investissement et diversifier l’économie",
