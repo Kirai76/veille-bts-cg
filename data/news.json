@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T13:29:56+00:00",
- "last_success": "2026-11-19T13:29:56+00:00",
+ "updated": "2026-11-19T15:08:53+00:00",
+ "last_success": "2026-11-19T15:08:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -65,6 +65,13 @@
  ],
  "items": [
   {
+   "title": "Facturation electronique obligatoire : ce que change une GED bien pensée",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2ZRb1Zxd0JtWndTMWNMWjVMNF96TXcyUGI5bXJoZGZsWXhEM0FoZm9hM1NiZkZIeEN6OFJyZURVMkM2WllldFlyMHNsVmlPaFl5RlUzUXo1b1RVTkRiQkpETi1mcVlfaXZYVU5yaEV1OXNETmxSSjJXbTBIUDBCWndPLTIwUHplbjNZT3lwQ0pyeFVZUDFyY2pvMEVxcmM3aW1YYi1UYWhJTHo5cWtFdENaRmpEMzd3dUNoaVhNQ2xKbXc?oc=5",
+   "source": "L'Est éclair",
+   "ts": 1795096903,
+   "theme": "fact"
+  },
+  {
    "title": "Vivid intègre la facturation électronique à son compte professionnel sans frais supplémentaires",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHlfd2JrQlY0ZDc4OWRwMFpyNU1VZmNualpoR2s4RS1fU1hIZE94VFJzeG9XQTk3Ny1tV3JtbjFSVDZpQ2d3NWdSRVcyQkxscF9YalRvdWFwQU91LU9zOUxrNGlsQU9WQ21veFhnWVNEdlVJTEgxZ2ltSy02X09FUmMzVEp2WE5Nd0s0NHRxeTdjWU50cllCQVRJajQtdlZOVFhfT2VWMUE4Z2h2aWotVFlNZG9fZ0U?oc=5",
    "source": "Finyear",
@@ -77,6 +84,13 @@
    "source": "mesinfos",
    "ts": 1795093620,
    "theme": "compta"
+  },
+  {
+   "title": "Tout n'est pas qu'une question d'impôt !",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEtRZkxMV3RfUHlVeEFpZkdGSFdqUzJSN0pJbDV3aWJfcDVDd1J1QmdBejBYWUJES3VBeVg2UDA3T3VnWm5nVXpnSklIMHRLWlQ4VEU4cUJfUFJJZTBfa2ZmRnZRSVB6YlZVcG5TT1Zzbk14V1lhRk9jb1Y5OWtqaWs5aG91MGRuQ2V0NnJiel9iNUtnNWIxa2dILXNfQ3NCSGFiWlZDLXAyWm9NV3NPbWJYZw?oc=5",
+   "source": "La Libre.be",
+   "ts": 1795090080,
+   "theme": "fisc"
   },
   {
    "title": "Calendrier fiscal de décembre 2026 : quels impôts arrivent à échéance avant la fin de l’année",
@@ -154,6 +168,13 @@
    "source": "Presse Agence",
    "ts": 1795057200,
    "theme": "alt"
+  },
+  {
+   "title": "Budget de 2026 : transferts de pertes entre sociétés, assouplissement des exigences pour certains choix fiscaux des sociétés et exceptions aux règles de RDEIF",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPV2M3R2VrS0FBZk5NcWNETUVhQ29zOXpQakFiZ2RKMUVfcExKWkhIaWhCUjlIZ1ZHRFFDaGxIMkE3WHhaVXk2aGtPQXAwTEpDaWhOZGxZdFRLX050NXptQTM3RV8td2xGblhsd21zWlRBUVJPMFFCTDR6VGdzUkVPODFkV3NRdG16TXFiVHZDcHVNWlZDRmxENGlXOG5vbC1iUVdRYk4zRDBJcXk4TVl0OVl3QzI0b2p5NVZHakxUTDhpU2NOa1A2Y0tHQ3FFMVIzcjBaakh6THZDcG1MLURWXzN2b09CLUMyZFJyWG50TjV6TE1Bc1RwV0R5UE9lSVA3amotZ0NYTk5Yek92WlNfRm9pX3FyNXdnR295andTNExqYWNINWRrR2tnT1NrZw?oc=5",
+   "source": "McMillan LLP",
+   "ts": 1795046953,
+   "theme": "fisc"
   },
   {
    "title": "LMNP budget 2027 : plafonnement de l'amortissement, seuil de passage en LMP et facturation électronique",
@@ -1092,27 +1113,6 @@
    "source": "Le Parisien",
    "ts": 1794607800,
    "theme": "fact"
-  },
-  {
-   "title": "\"Carnets d'alerte\" a besoin de vous !",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXI4dXA2aDlIaWZtZE50SzUyRVFmZVItd0RhRXVOUmdsaDgxY012QVN0UjVDb2JZSHd4Yi1uLVdzUzBkODZiNktnMTUyeXJhN29FR3Y1RzJ4Yl9zQWNydEZGb2Q0YlNtRGx5SmJqTTZGVmhDQjJZalEwbWszWTl1Qmo3QVNjWFo1bHYwblNoaGM4aWhMUTU2dmN6UFM3UGh6QjdoMGlB?oc=5",
-   "source": "HelloAsso",
-   "ts": 1794606716,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 des Finances : les députés réclament une évaluation de la loi sur les chèques",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1RmVWw1WXo1R2VkNnhWS293Mkp4WXVWS0VmQjNfNXhkdjdFOFdmdktxV2dsSU1oZGdpWGxhVk1tNHRKeGJQclk0N3FkYVVJWDAtZmhQTTBvQ2R3Mm9DVnFiNDBVbWhOQk9fSEVjZ1JKZ1ZraDZvRFByVjYtdV8tVGxRZExMbGx6UEJkbWgzQnVHak9ZZjBZSXRlRFJQdW9VUGN5VzN2U1JfU3NmVUZKcWlLYXRnakxWdVptc3FQV1lSdFdxdF9JT3pweGhoTmZLbmc?oc=5",
-   "source": "Leconomiste Maghrebin",
-   "ts": 1794591750,
-   "theme": "fisc"
-  },
-  {
-   "title": "Maroc-BAD: un accord de financement de 434 M€ pour renforcer la gouvernance et la résilience au changement climatique",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDZqUzB6TDFBWFRSVEtaVGJfcmFta2pqem1EdXJzMWxGSGhqak9KdWNGS0dtQ2xXSkVSa3RhWldGRWVOekxSN3NCczdoRTV1bGo3ZU9LaFFTbVhCMWhrc2RsdW91cGkxTjVWbTdHYmlxclU0WnJXUG03VUhidE11QmU0V1ZMNnhkc3JiZDJLaXJIZ2ZtV1hvQ0xaMXZQVUZ1NXExVzcxMU9rb2YwcVlYbldRRlJ0aGlQTXZUamR5WFlHNUxFOGRpSjlwZ0JNQQ?oc=5",
-   "source": "libération",
-   "ts": 1794591720,
-   "theme": "alt"
   }
  ]
 }
