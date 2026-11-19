@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:08:53+00:00",
- "last_success": "2026-11-19T15:08:53+00:00",
+ "updated": "2026-11-19T16:13:31+00:00",
+ "last_success": "2026-11-19T16:13:31+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,12 +10,12 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -64,6 +64,48 @@
   }
  ],
  "items": [
+  {
+   "title": "Alternance : Dyna a osé partir deux mois au Danemark, elle raconte son expérience",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXZTNDNOUmYydVI5MHRycWZQV0JJU05oVGstWlBpZnlPUXZXYkdyZnpjZTFWd1owS2pQS016TnhlLTh2WFViV055RjVnSkdpYTJGX1AtMHFpd3h6R3JfMjB1RzRVMEp1Zm5xT1hMMGgtbVVIcEk0LWtSdG9rOHJ4alZJZ29wYWZHbVN5VWVSZTB2YlNuWkMtYkNnQ0xXXzdpQ1dqdXVWMWEtQTNvTU1ueEpQN3NfdTM5ME96bnpMMm9iWVp3UW96dkgySk1fbzg?oc=5",
+   "source": "L'Etudiant",
+   "ts": 1795104000,
+   "theme": "alt"
+  },
+  {
+   "title": "Emploi des jeunes : le gouvernement mise sur l'apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2kwQmhGczhJU1lqQmtvblFYNjl5enp0c0J5RnNIdXJUcEZKNkxoZWlmN3dfRHhrMHJyWXJrSUNYRHc5VTJrejJ5VzkyVkdKeWFOcmpwNHAzVzl6REpIR2lXV1JVVWJDTFNTQVJXVGdsMDRnTEJhV3BycUxUckQ4Q2huM0Z4SlJoVUVxNkt6ZWV3amoxWUpMWnpzZEdvSTVydXZLdEQ4Ql9FYncyRExWbGVhY0lGNWFuSDFRRlVNYU9UVXJBclE?oc=5",
+   "source": "Presse Agence",
+   "ts": 1795101775,
+   "theme": "alt"
+  },
+  {
+   "title": "Facturation électronique : Pierre-Emeric Chabanne conseille les PME",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWS1KUkZlZWtLa0ZKdDYxUHNOb2xiRGN6bHhJOW9mUm1fZkxzT2Q4WVhJaV9vQkYxM20yWWVIaExweHI1WWYwR2I1bTJ1Wmt4MmIzQ19ST1RjR3QwbGFMXzFFbGZiV3l0VUxwMUxrRUFVc21DS0FVQUFnYjI3Z2t5b2ZzcU42Ui00bTdrRVJaRWdQd1YyQXNuR0FvTExRbmo2aGN2dHN2aXZ6MVRaZ3lTaHc3dzNKd3I1Zi1YaUFvbk9INTcy?oc=5",
+   "source": "Presse Agence",
+   "ts": 1795100400,
+   "theme": "fact"
+  },
+  {
+   "title": "Budget 2027 : « La droite veut amplifier les injustices fiscales et sociales », accusent les sénateurs communistes",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaUNIUENZaHdIUXVyNEVUa091OEZkR3dmTDBzQ3lNcUNIRExMT3Bra1VwN3F1clJWamtGTmJGWDBmTWY0QXI2R1hhdWNoYlFwY19MTXRmWE9fRnBhbll1bkpObmRmMXdiSDVUZlk0Zi0xSmtQNVM1VnRfQ2x0aW5ITmplTXNOY3VralRScmJIWjVxdlNGRGt3RTQ2MVdXaldncmVXRGNjVk5DR3lUdkhPN1FvQ3dXTTVkUU9iWVdCYkNHcjhlbG0xOUJJWHJnSnRBOVNRYTZXNm03N2cwNUV5Mi0yUHlZblJFUjZF?oc=5",
+   "source": "Public Sénat",
+   "ts": 1795099540,
+   "theme": "fisc"
+  },
+  {
+   "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSkZab1VGcTJ0NG5TWTFlSnlibXk5SFBmRlZhMlRjZTNndXA3akJIN3BFY0xjakVHbHlTTVJhTVpHY2NxcnpPUFd3NkwxUDJpQkRIVFdXeUs2azBrRF95V2RPR1JGRU80aFVGWmRVQ0Y4OEZ2T1lhWHo5YkZrQmtVT1lsbW5UWGxCZ1JQZHVIY09OZG11cTQ0QXlEZThQMnJ0ZW05TWtvNU9zQXRRcktla3ZFZ0RFVVJLN1YzX28tMUVuVnpKSXByY3NDRGlBY0xzcVl0aUM2UdIB3AFBVV95cUxQUWEwZndIMEs0VVR6V1NTbFBSZHJFMUsxQlJKQTFkQ2F4cWhsZXlYOVlaQllydG5KUGhIY2h5T0dTZW1Ub01KbEFwMXU1T2Z2RE00UnNlRlpxM21vXzdUYUVwSDR0ZXVxVGtTUkUxbklER2FCdnJtakZRQmZsZ280UlBuX3ZaLTZCTkM1Q3VHMkxwdEg0Y2lEb2h6UUJkeHlKdFNfMlNyeU1fRVlzaGdFbmV0UnpIeGw3WXE4YnNzNWN1MHpiWjhwTFBrUUtaQnFFRWxzekYyMmVXVE92?oc=5",
+   "source": "Fortuneo",
+   "ts": 1795097280,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027 : D’éparses exonérations fiscales !",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oVHhCbHlhMkVfVXkxYmx4OVJBLXJtTjVxWlJtZU1FNEljemFMSW1jM3piS01mcXVGdlNyZk1mWlRSNFN3NHBpWDdZLU9feG12c0VvVGpoU0lDakNhcE1uNVBNMHV0YnVPaUo4Umw2emhsTzQwc0E?oc=5",
+   "source": "African Manager",
+   "ts": 1795097040,
+   "theme": "fisc"
+  },
   {
    "title": "Facturation electronique obligatoire : ce que change une GED bien pensée",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2ZRb1Zxd0JtWndTMWNMWjVMNF96TXcyUGI5bXJoZGZsWXhEM0FoZm9hM1NiZkZIeEN6OFJyZURVMkM2WllldFlyMHNsVmlPaFl5RlUzUXo1b1RVTkRiQkpETi1mcVlfaXZYVU5yaEV1OXNETmxSSjJXbTBIUDBCWndPLTIwUHplbjNZT3lwQ0pyeFVZUDFyY2pvMEVxcmM3aW1YYi1UYWhJTHo5cWtFdENaRmpEMzd3dUNoaVhNQ2xKbXc?oc=5",
@@ -385,13 +427,6 @@
    "source": "https://horticulture-abadie-pyrenees.com/",
    "ts": 1794986748,
    "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : Pierre-Emeric Chabanne conseille les PME",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWS1KUkZlZWtLa0ZKdDYxUHNOb2xiRGN6bHhJOW9mUm1fZkxzT2Q4WVhJaV9vQkYxM20yWWVIaExweHI1WWYwR2I1bTJ1Wmt4MmIzQ19ST1RjR3QwbGFMXzFFbGZiV3l0VUxwMUxrRUFVc21DS0FVQUFnYjI3Z2t5b2ZzcU42Ui00bTdrRVJaRWdQd1YyQXNuR0FvTExRbmo2aGN2dHN2aXZ6MVRaZ3lTaHc3dzNKd3I1Zi1YaUFvbk9INTcy?oc=5",
-   "source": "Presse Agence",
-   "ts": 1794985200,
-   "theme": "fact"
   },
   {
    "title": "« Management package » : cette nouvelle bataille fiscale qui se joue en coulisse",
@@ -1078,41 +1113,6 @@
    "source": "2M",
    "ts": 1794652380,
    "theme": "fisc"
-  },
-  {
-   "title": "Expertise comptable : les petits cabinets peuvent-ils encore rester indépendants ?",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHpLNVdaQWFkRndLRHVvZFVaTVJvLUotZDY4bm1CYkZlOVFPNDAyelNfNFZlSXJtSEpGSk5LZ3ppa3AzSnVoQzUtcnRuM3dnaXVTVlZJbFkycDY3eUZsZzBNLWNaNmdSQXYzMDBxWF9TZnpFZ2RTeloxZzlyYnBzNVkteEtQbFFWY3lubGxlQ1RwUTVLdmx4ZEIwOThmb0xGZUVmZnJLZDlfT0dseVNpT0pBMmRQNnFndlFkT1VaR0o4TjVvS0d1YU9wME0?oc=5",
-   "source": "Echo des Tribunes",
-   "ts": 1794643260,
-   "theme": "compta"
-  },
-  {
-   "title": "Budget 2027 : la restructuration de trois entreprises publiques en cours",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdldNY0NVbThTVE9MMEN2LUlveTY3NzlHUTZnZEo5akpIUHNILU1uU25KVzRYYWdES3dXWEtKWWVkVkEwN0NEOWlsZEJBZXh5X0tDZzV5bTZKbm54NHhpR3g4SV9va1RreXhHZWZWN1VTbVZYNGd2Q2YwODJRU1U3RlEwckRIb2tRTDFPR0x0R2U5WExUc2hOQ1JGdmx0N1BnbGlEQ3Fn0gGrAUFVX3lxTFBJZUxpbVlGZnNjVUlSb2haM3ZXdnVpUURWRGJCSXVtTVk2QWZwa3FhamFRY1ZQNHhCWXVjcV9jMUJlbDNOSFdxTmh5UnE1RldEVUxoaDhScWRlWTR4bDd1cmx1NXU2VGI4YmhQcFZYSUtJTEdEVWlzcGs1ZEFJZ2lxM0tfZUZqTW9qaVpzNVcxQTMtbGVZSUQ3VUo3clVNVlQ5V3JqVWJURlRMNA?oc=5",
-   "source": "Le Temps News",
-   "ts": 1794642274,
-   "theme": "fisc"
-  },
-  {
-   "title": "Mettre en œuvre une réduction de 30 % de l’impôt sur le revenu des particuliers et des petites entreprises au cours de la période 2026-2027.",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGhhMlBoemk4d2drbFltalJQdkE0WmdlU2VXM2NsLWNhcy1iZW1jYm0xSlhPbmU2c3JZbi1XdE9rUWc2Um1CdHNuTkduTWRTY0lzaXFkYkQwRmo3eGxuV0dIR2ZFUzR3X3l6ZnBHTC0zcEUwdURXWElUSFY0NVFjZ2pIUXNGYVRHdTI5OHROMmJveXVxNjJDUy1GRDFheE5HV3dtQ1JfUTFxdXQ3LWQ2Z3N3dw?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1794639710,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les entreprises privilégient les logiciels",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWThyZkx5cXhHZWlWaTRfakdjbHVxXzUxNVVsdVB0QUpPRWFxQWc5ekNJUEZVZ2tnRzhwT3dGS0hvS1JhYkhDUGdmSVFvazNyUko2ZFFCSkVNSFo3eWNVa0ZHLUV5TGdLRHJ6Ry11LWxuYmJOaEJUUzM2aG50YjVrQzhhRURaeWFndTVvbjE1SjNCVlpoM0lfV3RYMHB2MjhMb1BkSVE5MU83eGIzbTVOaW43MUJUdw?oc=5",
-   "source": "Presse Agence",
-   "ts": 1794610800,
-   "theme": "fact"
-  },
-  {
-   "title": "Logiciel de facturation auto-entrepreneur : les meilleurs outils compatibles facture électronique",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPbF8yOGxmVmw4VE8tZmVtTkhnLVNKV0FSTW9zRDJPRTRWa2VXRVdvQTJKeENYSUEzWHJwLWZPZ3BaTkxoZVV2c1JPQXZzVERMMjRKcHg0OXdQVk5NUy0wWDJDajZKMmZVQ2xxWkF0RHBHSDQyeXlPVUQybnRFeWd1TDJBSGJ3ZlBNRjU2MTNrcE9DMmZkd0ZlVVdLQzFIUUpNdTFXZy1IQVdwd2RaVmpYcHA4LUJFb2RZNjItcnVCRnhlNHB2S0IzMmpweUpBX21SLXpFUEFGQ0psbUNtc2RXT09HTTFoZzFReHVISkpfY3NnRzFUX3VZSFVuQzdsaXNuelBkX0R3Y3BjdW9ZU3BkeDFIYlRPemRjV3BBLV92eW1HZFQ3SGZsbWlqWEFVQ3Y5?oc=5",
-   "source": "Le Parisien",
-   "ts": 1794607800,
-   "theme": "fact"
   }
  ]
 }
