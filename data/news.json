@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:10:41+00:00",
- "last_success": "2026-11-19T11:10:41+00:00",
+ "updated": "2026-11-19T12:09:14+00:00",
+ "last_success": "2026-11-19T12:09:14+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Calendrier fiscal de décembre 2026 : quels impôts arrivent à échéance avant la fin de l’année",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3Y3ZGxPZGwtUzJDSVJ4WTllNnN4Rjd1V08wTjVVZ09wZ1BhWEIxeS0taFYycFVIODVtbGhWNDg3ODZSS1FuS2FaQXNLNkxpaTNXQkg1UFVaSFE2ZWVVNzhhSWRKMDF2ZHBLcmFPdW9TenN1N0FZcHV0eTYwNG9lRGFVOV9QX3QwcGx4bmhsa23SAZYBQVVfeXFMUGZUaFBHM0RYOVlHUXNVQ2p5N3BoMXBhZTNhbE1DY1UzblJkR0l4dVluNkpZQWNVdDJrSnEwU19wMnVOZHAwQU5PcEtPRlVXWC1POUJ4TkFTN1JGS3lad1VwZWtLWUwwR3ZsTDVXNDRhZjVjMkdvRk01VDU4Q3FIUHVHNDRyVHNzNkZtaC1Ga2JSYUZsNVRn?oc=5",
+   "source": "Demócrata",
+   "ts": 1795088927,
+   "theme": "fisc"
+  },
   {
    "title": "Facture électronique : que faire du temps gagné en cabinet ?",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBweDVZd1AyVEVCcWlsUkhSd3dodS1JSEhkeUpMdmR6dGRpN1F1Zlk3R3U2M0pla2RMMG9xZjZDelJCYVdWX0ZWbWhNSUdPbkhVM3hIN2N4cHJnNTBvb0JnRTlPdC1rVmxa?oc=5",
@@ -130,7 +137,7 @@
   {
    "title": "LMNP budget 2027 : plafonnement de l'amortissement, seuil de passage en LMP et facturation électronique",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2pjbkVzVldUaEY3OEgxTnVta2tZR3ZzTk9BVHhyMVF1MkJXT2RKOWJBQ2ttTmpiTmh0ZXJkNktOUDJsTTRqaWxlMkxsMTl6UFFJYWF5Mk5KZnA2ZzB5TlZ0Nlp1dWNpNnVJelJuMy1UdkgxbjFzdHJQSW8xNVlUaXFSbDk2LWdfLVFyYkJKd3NQRGlvcXFKTk4zNWVUc2dkLTh5UDk5eFp5UjNmYW1tdWgzVWg?oc=5",
-   "source": "Maître Reda KOHEN",
+   "source": "Reda KOHEN",
    "ts": 1795044420,
    "theme": "fact"
   },
@@ -1106,13 +1113,6 @@
    "source": "DECIDEURS MAGAZINE",
    "ts": 1794578726,
    "theme": "fisc"
-  },
-  {
-   "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réfor...",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
-   "source": "DECIDEURS MAGAZINE",
-   "ts": 1794578726,
-   "theme": "fact"
   }
  ]
 }
