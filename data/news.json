@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T07:30:00+00:00",
- "last_success": "2026-11-19T07:30:00+00:00",
+ "updated": "2026-11-19T09:18:19+00:00",
+ "last_success": "2026-11-19T09:18:19+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,34 @@
   }
  ],
  "items": [
+  {
+   "title": "La facturation électronique sera appliquée aux entreprises à domicile à compter du 1er juillet 2026, en définissant clairement les cas obligatoires et les cas exemptés.",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUhkZGlaZ01iek1UWXhyaUJBVWYzSmh4Mko2dTNscVpjTUROQU12UzFNazJWN3haWl82bjFUWkxCOWlDU1Z0R2JmZUVOczdVVGtsZGZtdlFWenh3d056bFVRd2ItcWkxazZYZW9UWlhUOGkzaWFoOHZaekZkRmxhVHAwUVBjTnFfZEcxTDEyTFBacjc5RlQ4SFEwZzZiVWlxdWwyVXN5SzZVMzZlVVlRQXFIWkREby00bzFucnhNN0sxYnVoUEJjeA?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795079212,
+   "theme": "fact"
+  },
+  {
+   "title": "Le cabinet de conseil et d’expertise-comptable Fidsud élargit son offre",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0ZVNExZTkJLNzdybkdzX2NiOVc4eXVDMXZmbURFZThvRC1YZWg0c2lrRURpT0Vxd2M3YzRMeVI0UU1nZ2hvNTBGUV9BMk9sRksxbXRQV2t0QXgtYkNlVzlMN2M4X0dhYkVOWDBneUNBaXh6dnk3VHg4ZTVSU2xrYThMYW5jQnR2QjIxMlc3V0dOMTl0Zk5mVVhIZ1BLdkh3dVlBZHFCWHNqbVIwdUdDSC1qQQ?oc=5",
+   "source": "La Vie Economique",
+   "ts": 1795074120,
+   "theme": "compta"
+  },
+  {
+   "title": "Villa avec piscine, Porsche à 206.000 euros: comment des managers, médecins et consultants éludent des milliers d’euros d’impôts",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDNfQVI2LXN4SGZTTGNaemdYUUpUZUtsMzJ0NXZoaVludUY1cmhrdFZNSWJUY3JpbTU0Wm9qMkJ6YUk2Ung1SU5tNVVmQjhWNDNuTHFjbFM2VWVJSk1mQ1VhMEVsZTAtaXpONm5ZdUx2dHdqZkVNM1VtY3NxZDRxRHI3N09VZWxHU3kyendxLXhMVlRVQlF0RWNFQmgzZ1hoSGtubjJxanZZWklJU2piRGt1dGZSbmNJdWZQOHhURGQ3VFNHSldhSmhhb28yRkppZ0t2X3FBdVhmTTRkRjBnb3F0bFlXS2ZKaDlHUHFZaTBQMWgwNHc?oc=5",
+   "source": "7sur7.be",
+   "ts": 1795069860,
+   "theme": "fisc"
+  },
+  {
+   "title": "CIR : les frais de trajet domicile-travail des chercheurs entrent dans l'assiette",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnpiSXlISnQycnRRY25FbV9mNUJYempYWDRhSFAzVlVqeXRSREZGQ0x6YkVWRTE4WUhhTjN0WnI0MTRHaWVTWk4wZVZvck52WHRPWHFhenlQbHkyanFhR0lrdUlYYUNNYW45Nk4ySkFxRU9yX0xkbGtZTi1PTTZONGg1V21SZ2R3U0U3SEt2dF8tVzl2TFhGc3ZFRGtnTlVtdWtvQ0tab3lwcDNCZFNOWTBkc2I4ZWNS?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1795058896,
+   "theme": "fisc"
+  },
   {
    "title": "Emploi des jeunes : appel à la mobilisation des entreprises à Paris",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0xDYTI5OGRtUHF3LTVYcVpqY0Vrd1NoS18wTE9KenpiWDRVZ3NKam5TSlVveGl4ejVvczM3Vmtpa1ZBSno1YVN5dXc4aWZSdGU1S1R2bmxaak5mdnlTOHV3NDl3WlZ4MUZYeVNjOXJGZmhuQnNZcUZHenl5R1VMdlNnM1hQWXAtUU5ZTmFCYlpvanJzYmNZY0pzZWhZczdTQlB3VExlSTFDS0E?oc=5",
@@ -125,6 +153,13 @@
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRE1rR3VELWJYM0N2Mzg3eS15eExYMjd6LXpvWElNUkxLa2dIV0dIZHBWVl9lUml4Wjc0RmFBeWxRLXc3N29DMU5VRFVabFFvTHkzd2ZqWlJfdHM2LWYwaEZIU2RCU1VZSURhX0hJTkEtMmVlNUVOTUs4Q1g0eWMxbWZPTk15T28yR3Y4RS1GaVktaUFNM1RVOGJ4WFNsODZ4Zk9KTHQ5bk5pNTRJb3BkOWJFd3lMbjNXUi1TWXl1dGFyMnJSVkxxLTA5YllPTWxKVXIya2U3QXhzcUFnUEgzejlQRzA1YmJo?oc=5",
    "source": "Public Sénat",
    "ts": 1795022686,
+   "theme": "fisc"
+  },
+  {
+   "title": "Le Sénat adopte le projet de budget de la Sécurité sociale pour 2027",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUR6STdNd0ZWODU5MXJPN2JJaE50djRiZU9rMERjRUptX1pDM3NLdVNzUTlJX3lycFdqckVlMlZSZldKM3A0NVpyMFhQUnEzeHZ2VWFfZnE3TDBrM2ZNWGRVZmt4TWZFYzBITFdRSHczcW5iX3llelRCM2tJemNjenlfbkwxTjBEbHZjSjgxOHViNU5RLV93Q0Z4b19FcjFSYkZXV2l2NXhIOVZJ?oc=5",
+   "source": "Le Figaro",
+   "ts": 1795021837,
    "theme": "fisc"
   },
   {
@@ -786,6 +821,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Grille de salaires 2027 dans la branche hôtels, cafés, restaurants (HCR)",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmY5VXNIeXo5c2tsRDBWTWE4aXEwSzBHeFlfMUhUU21ha3d2cDhPdFpDbFB0WUZoLUJGU2F1VHlwNDhCQnVPUmZvU0NackJicXJQWkRPZ181Q0R0MWhiRHhUbHZpSC1DNUlVd1VLMGtkTTJPaW53NVRidmdLZERqbmM1NERCWEdpN2ZhMUF2UFotOTBhajM0bTRyR0JQWE1OdGZkb0VnbDJOTWdsaTlXNm9B?oc=5",
+   "source": "Juritravail",
+   "ts": 1794816000,
+   "theme": "alt"
+  },
+  {
    "title": "Facturation électronique : Quadient franchit 1,05 million d'entités inscrites",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjVrMC1HcFhSSXhLLUpvQ2ZQU2xFQWpHMXdKdWlISU5oMnNLeEhtODRDSW5vTlRvNWtIOXA1VFdZeER1aWNtY3ZSM3dtUXZ4V1hvYXVPN3FxM29od0JoM1JyNnRUSjA3NUZPTk1qWFlOOVlOeEVCazZjcGFNNUFVVzFJeF85SWc5NWstVHhKaTZQeTZRU3I5N21XeGpVSGVwNWg0NEVldmluM3YyYTdxUVR6RHhIckRYcVNIQlI0a0g3SEZiTm53?oc=5",
    "source": "Idéal Investisseur",
@@ -1035,7 +1077,7 @@
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
    "source": "DECIDEURS MAGAZINE",
    "ts": 1794578726,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réfor...",
@@ -1071,48 +1113,6 @@
    "source": "Challenges",
    "ts": 1794576900,
    "theme": "fisc"
-  },
-  {
-   "title": "À la découverte de la prospérité : la grande histoire des mines de diamants du Canada",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQmlNZE5NTFgzZjFXR09LTEd1NjktOW9Ra3NMV2J3OWUxLTBTUXBVMHU3LXhGTHNISzd4ZXFKbUd5cDdvUU1oMnVBeTN5OWJ3TDNRUmZucnZRc2RuRHAwZlRuY3R3UWIyQ3p5ejN2WERZdWw3UXdRN0ExYkhRZjFzazZ2dDlPY0hfbHRxMHJJWS1xdFROanJCTkZZQjlCYjBMS2JwNWVKQ2VUSDZoOFlGWVRUbE54dDRlS1NnWEJwUmtMUzlhakJRb3JnX3pmS1ZYSEE?oc=5",
-   "source": "Natural Diamond Council",
-   "ts": 1794575931,
-   "theme": "fisc"
-  },
-  {
-   "title": "Entreprises publiques, eau, électricité : la BAD appuie les réformes marocaines à hauteur de 4,74 milliards de DH",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN1h3eHNfNWF1bVRsRi1Gb0xOdGVYWEFlNm1zUDU3RDNKNllXcmZKQXMyTDRrZVFDTnhITnY4d1ZvWUNEeDJEdkstcDV3eDRidE05SW1RcVhLZm03N3B2NVJJcXZ2UldwWjZMLWZrVk1TaHREV0pMZWZFVkRNU2dOeVZFMnFlRjdxZzVnd2YtR0tVbXdIV0dxNF9fYlJtNnFJUkhKbnFvcUlMM0RRSV8tVGJmUGY4RktsaHhiR1dtc0RtNGp6UlFIVG9GMnREbjBnTmw3VVNubFN6cXE3UmtvTWZTWklmZ25iZExGQWFn?oc=5",
-   "source": "Telquel.ma",
-   "ts": 1794574575,
-   "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : comment le Sénat a réécrit la réforme de l'apport-cession",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDM3WjJoYnRZRkd0QlZrWXZLbW9KZzY1RThRelhqMVIzNWpQVEZJd1FEcDhFSktlUWVab1NYdkNwSXhpQ3dnb2VncXozaEhwdzY5RVpXNjNJNGxNUndQV2JNMHd4TmlmbEJ0YWZqNHR6OGQ1SmhYZUlvdjJna3NuRDBhVmtBR3RrOVZKRjV2dVRMcXJwcUZLbkp1cG1ZdWVadzVUZTlWQ3FwVFFrX2RveU81S1NCempNOWc?oc=5",
-   "source": "Les Echos",
-   "ts": 1794571794,
-   "theme": "fisc"
-  },
-  {
-   "title": "Le propriétaire de Tinder, Match Group, condamné à une amende de €11 millions en Irlande",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFNxaFFDVVl0ejlOWEdUbGJJLVBoeGFpbUxDYWVsaDg5QlpkMjd6VGhzUl9DbXFPY0o1V1dHQTJaYmdMU251a01OS1JZTDVNbEkyby1LUGNZdHNPU1Y0bHdtdzVnX3dyc3N6TDFMVFZwbjVWdC1acnhYR3hTN1ZwMmx0RE4xaExhcF9XN3p0NXlJOEx2YWY5NGplMA?oc=5",
-   "source": "Mezha.net",
-   "ts": 1794571620,
-   "theme": "fisc"
-  },
-  {
-   "title": "Ordre des experts-comptables d'Occitanie : Facture électronique, crise économique... Entretien croisé avec Éric Gillis et Marc Siré",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSWktVFA2MXU5MTRCN1dKV08tMkZfNE9sZlhqaXJJWlBNd2ZXWFU4TDRxN3VVYTZBTHVfRm1pcUhxWTAxdDQ5aWZzOUE2alZhYlNxSGo1d3BUWjJZZGxiTjFldTR0TmxwNG93V1FZM1FTQUJOYnRoNnY3bnREWmJmYm50UzFiZFdYS29ZWUlqbHlXdTAtRDJQRlVJZEdVZmpTOTR3Q2hFQlpMT0hOTW1IQ0JST0dHWktMZkgtZ0hGbFFKelEzdzUwczQ5ZVlDdk91MGFENzZGRE1qcGZ1VXVsdkN0UGJMRmZFSHJhLTVGOGlNdkl4TXN5SHdremphMHY2LTUzdU1HeGZDUQ?oc=5",
-   "source": "Echo des Tribunes",
-   "ts": 1794571380,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique 2026 : ce que la réforme change pour les directions financières",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQkVRQjZOcmJFT21hbVFodXk1ejg1QzhrdDdlVlhwSk1kVndvU2FoNDZGRC1Jb0Zwci1PdnQyRlJDZnMzRnR6c3JyTks0LWN1TmlvU3Z6MEI0WVEzaXRxeEpiNDBvcTgwc0JPcDZNVmt2LXoxLXJiM0pySDcyQQ?oc=5",
-   "source": "Economie Matin",
-   "ts": 1794570856,
-   "theme": "fact"
   }
  ]
 }
