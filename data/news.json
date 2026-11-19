@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-19T12:09:14+00:00",
- "last_success": "2026-11-19T12:09:14+00:00",
+ "updated": "2026-11-19T13:29:56+00:00",
+ "last_success": "2026-11-19T13:29:56+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 66
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 38
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Vivid intègre la facturation électronique à son compte professionnel sans frais supplémentaires",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHlfd2JrQlY0ZDc4OWRwMFpyNU1VZmNualpoR2s4RS1fU1hIZE94VFJzeG9XQTk3Ny1tV3JtbjFSVDZpQ2d3NWdSRVcyQkxscF9YalRvdWFwQU91LU9zOUxrNGlsQU9WQ21veFhnWVNEdlVJTEgxZ2ltSy02X09FUmMzVEp2WE5Nd0s0NHRxeTdjWU50cllCQVRJajQtdlZOVFhfT2VWMUE4Z2h2aWotVFlNZG9fZ0U?oc=5",
+   "source": "Finyear",
+   "ts": 1795094354,
+   "theme": "fact"
+  },
+  {
+   "title": "Expertise comptable : le cabinet parisien Extentis rejoint implid",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1Nra2xrUlBCQjlndUgtX2Ixdmp4ZUVaV2hpTUh5ZWZQUmwxOTBSNVY4OUU4NHhkdGhMdnhnTm41Y1lqZmhEODl5STBmb1dObElUeVJsNG1TbkpVcWxQcVItNkYxWVVMTC1CRlVsRnNPTUNyN0dKak5jRTktbmZ3LTVtUm0zS3JIREI1RV9EanRpUmxsczhWRzI1dE1RYkNXTmtDTDJqUTl3Z2c?oc=5",
+   "source": "mesinfos",
+   "ts": 1795093620,
+   "theme": "compta"
+  },
   {
    "title": "Calendrier fiscal de décembre 2026 : quels impôts arrivent à échéance avant la fin de l’année",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3Y3ZGxPZGwtUzJDSVJ4WTllNnN4Rjd1V08wTjVVZ09wZ1BhWEIxeS0taFYycFVIODVtbGhWNDg3ODZSS1FuS2FaQXNLNkxpaTNXQkg1UFVaSFE2ZWVVNzhhSWRKMDF2ZHBLcmFPdW9TenN1N0FZcHV0eTYwNG9lRGFVOV9QX3QwcGx4bmhsa23SAZYBQVVfeXFMUGZUaFBHM0RYOVlHUXNVQ2p5N3BoMXBhZTNhbE1DY1UzblJkR0l4dVluNkpZQWNVdDJrSnEwU19wMnVOZHAwQU5PcEtPRlVXWC1POUJ4TkFTN1JGS3lad1VwZWtLWUwwR3ZsTDVXNDRhZjVjMkdvRk01VDU4Q3FIUHVHNDRyVHNzNkZtaC1Ga2JSYUZsNVRn?oc=5",
@@ -105,6 +119,13 @@
    "source": "La Vie Economique",
    "ts": 1795074120,
    "theme": "compta"
+  },
+  {
+   "title": "Réforme de la facturation électronique 2026 : de la contrainte réglementaire à un véritable enjeu différenciant",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMU1jc1JPTklzTlpWVWRMRGJRSDkzLVRzVnBjSDhrQzVQRF9zX18zR0E2dXoycmg5QUpwY09pOEQwQ0ZGMkhkMjRNTE8zUTBnY0pfTFFGYWJBMVBLVUgxdkdoSkxGZVF3NlA4LTQ5WjRWTWg0WFE?oc=5",
+   "source": "RiskAssur",
+   "ts": 1795070492,
+   "theme": "fact"
   },
   {
    "title": "Villa avec piscine, Porsche à 206.000 euros: comment des managers, médecins et consultants éludent des milliers d’euros d’impôts",
@@ -329,6 +350,13 @@
    "source": "Webmanagercenter",
    "ts": 1794990620,
    "theme": "fisc"
+  },
+  {
+   "title": "Séverine Cartot nommée secrétaire générale de la CRCC de Versailles et du Centre",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzhDVTVtRF9sVTJjRjlrZjY3bzFtd2VLUENOcXF3S2RBcHNOUkw2d21kb3BDUi1sXzcwOG5paHpiaDR2bE9JbGdsWEoxbHVtRE9NSG9LY3VPTkM0SmtoNnlfRlA0Mm1RU09rY0hmazJxcEdXUUFyMVhBUl8wVjhFa09jZUNCNUpsUloybw?oc=5",
+   "source": "Compta Online",
+   "ts": 1794988800,
+   "theme": "compta"
   },
   {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
@@ -1085,34 +1113,6 @@
    "source": "libération",
    "ts": 1794591720,
    "theme": "alt"
-  },
-  {
-   "title": "Apprentissage en petite enfance : des candidats, mais des crèches qui renoncent",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2xpVEp3SjVTZTc3bTByM1VrOExFQ1VFelRGcjVLLWwzeGJyR19jdEkzOUNqYzV1ODNXazhpanN4X3lhTkg0d1dhanZ1cmUwcE1LVW5KbUpDdm1LWWFic3pRVjBRU25HVUxaQjRZV2k0c05QaDE3XzlvRDB0N08zUnhUQXZoQXM3Tk1KWGdYYlBHa1BvR1Z6RjZwT3RjN09lZzZyQm5GSk1SME96T1pzekVDOUJ3WUwweVlaRHV5RGhDRFZtRWhn?oc=5",
-   "source": "Les pros de la petite enfance",
-   "ts": 1794591556,
-   "theme": "alt"
-  },
-  {
-   "title": "Impôt sur la fortune tunisien : les TRE taxés au-delà de 3 M DT nets",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnlIMTIxSXl6b0x3Rk5aUUtLNlZaaDV4YjhRTjBJbEtCZl92ZXdGVUxvb3dxWnpPUV8yVndvWG5kRTR3eXREQVFpaUNjWUNETzZ3UWE1OHNnNFJNczRaa1pPVVdDcUd0OEVFelF4cTB2MWRuWTBBWGJPbVdCLUxtQXZ3d2xUTDcwSGl2emNWbFh5TEI2aV9CVWVvTW9vbE5FV1FISDFab1o4S1BsS1E?oc=5",
-   "source": "Mediaterranee.com",
-   "ts": 1794585977,
-   "theme": "fisc"
-  },
-  {
-   "title": "Tunisie : chèques, article 66 et financement des jeunes… des députés réclament des ajustements au PLF 2027",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0l4N2ZURDZlM1pFSGppOW92a09NZXAtamFHeEZVQnJGbkpOaWQ5aVJwRHlfajhUNzBXY05FcktZa2dOMklLWkJyZ3BJOHlFVGo4ZDJCeHNkZE10TWhJU0dsaFVaRWtPdDdBZmp5cW1TbmtybkRUS2xUQTNKc2ZPcjNBemQySUdFdHpQZDRVRDhwOUV0T0k0Rk80YkVlbjJpbHNtUjA2S0xXMWhqdzV6RTBBUWotSU16OFQxbGczb0lOR3ZFNzVUaE1xLWNEbXJGRGc?oc=5",
-   "source": "Tunisie Numerique",
-   "ts": 1794579300,
-   "theme": "fisc"
-  },
-  {
-   "title": "Maxime Digue (Tiime) : Facturation électronique : suspendre la réforme après son entrée en vigueur serait une erreur",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHNPNl9HOWZkNV9pcVBGWlZNZTJPRTA2Q0NMUnh3NjZLSU82Q2dWWlRMM25hMng4M3JOYjNKNTNaNUpubGlaaHZXbERsYTJ3ZHFMWWNGcHhnVmx4S0lHazJxS05JeWtOeWNuemRVMWk3OWNYc2pUTzdsNFpfaHF6RkVhZlRZak9FZG9jaHFsS09QYWNXSGVjLUxhY1dwMHdteWt1LWtfSVJTaFNidDc5ZlJMYVYtS19XSE1jODhtcEF3OFl5VUVmd3pKSkZ0UDlSVFFxcWxwRzA3TEFEVnU5VUFsbGsyQXJ2Mm9BSm1Yb3gyUmg3c1c0?oc=5",
-   "source": "DECIDEURS MAGAZINE",
-   "ts": 1794578726,
-   "theme": "fisc"
   }
  ]
 }
