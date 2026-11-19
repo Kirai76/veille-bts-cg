@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:58:18+00:00",
- "last_success": "2026-11-19T22:58:18+00:00",
+ "updated": "2026-11-19T23:54:29+00:00",
+ "last_success": "2026-11-19T23:54:29+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 39
+   "count": 33
   }
  ],
  "items": [
@@ -91,6 +91,13 @@
    "source": "Reda KOHEN",
    "ts": 1795112340,
    "theme": "fisc"
+  },
+  {
+   "title": "La France insoumise propose une Sécurité sociale professionnelle et un encadrement public de la création des CFA",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV0xLMkxNVHBUcmVjcnFOd3FQVUZMUExMMm9fMVhPVWZGRVhDVEhFck1jX3ROcEN6UHp6TU9PQ0FKR0lLbXpISkJOcm1DNnptLXVmNFMxdHBVTlJaMXlkR05MZ2dwcFNlREJ5Wm5KMVJqM0pfZHNOTE9QV2lBRmFQRjg3ZmV5TmNhQWhjeW1hblhiRjhaME9hRUtJRFlYVkd0VmFrWXMxNG1TX19uMEttRXJMU21TQjVQOHpxbzRYNXZEX25jVEhjSTdsOFUwcHliZFZJWmZ3c2t6Y2ZhSFpORU9lQk0?oc=5",
+   "source": "AEF info",
+   "ts": 1795112300,
+   "theme": "alt"
   },
   {
    "title": "TVA véhicule de fonction : ce que change le PLF 2027",
@@ -1106,13 +1113,6 @@
    "source": "Le Matin.ma",
    "ts": 1794755700,
    "theme": "fisc"
-  },
-  {
-   "title": "Miss France 2027 : Naïla Parotte prête à faire rayonner nos îles",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVRVVUJmcGlvUXo1Z3Z1dWl3Q0NrWHhpNGZTeS15dVQ1VVhlOTRwMm8tSEFDZkg2VXBJXy1wUC1VNHJPVG5BQ09UcGY3eTI5cVdqdkNNN2FEQnV5NG5QU2FaU1UwSnZyLXJkQ24wRnIxY08talRFNDN3ejdrNTIwekJGMm5JWEJmc2twVDh5SkpaZjRwcWstTWY2Qm9RdE9uSF9Cd2dsTW5ncjctNjBlZEtkaGNNU0pZeGd1U3E1cjJzdXB0YjJiZVhxS2pCZjl0WTZoZXdQUEJWWFI3YUxF?oc=5",
-   "source": "Le Journal de Saint-Barth",
-   "ts": 1794751452,
-   "theme": "alt"
   }
  ]
 }
