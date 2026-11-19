@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-19T09:18:19+00:00",
- "last_success": "2026-11-19T09:18:19+00:00",
+ "updated": "2026-11-19T11:10:41+00:00",
+ "last_success": "2026-11-19T11:10:41+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 66
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "query": "aide embauche apprenti",
@@ -65,11 +65,32 @@
  ],
  "items": [
   {
+   "title": "Facture électronique : que faire du temps gagné en cabinet ?",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBweDVZd1AyVEVCcWlsUkhSd3dodS1JSEhkeUpMdmR6dGRpN1F1Zlk3R3U2M0pla2RMMG9xZjZDelJCYVdWX0ZWbWhNSUdPbkhVM3hIN2N4cHJnNTBvb0JnRTlPdC1rVmxa?oc=5",
+   "source": "Compta Online",
+   "ts": 1795083305,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : ne détricotons pas une réforme qui fonctionne",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemp0dmlVd3NSVE1rajZfWTNDNVVNSFMwWmhXZ1lfUGNsSUVXckszMkJnbXRZS1VmaEtrenNncFEtSlRfb2N6TDZzR1FFTXpESFh3YVBUdHJtNFg0LVRfX1ZNREJsM3ZMWDQzblJOclVPbE80Wk9SdjdxcWd3VWZfTzdFUXR6TE02WGxaYWV3a1hrUVdVOUVncnBTUGxiYnkwVUY4SWRLV1ZvSUFkTEYtSHFxZF8zR2dHU1RKQ2pnMlRYWE1IX2Q4?oc=5",
+   "source": "Cadre & Dirigeant",
+   "ts": 1795080159,
+   "theme": "fact"
+  },
+  {
    "title": "La facturation électronique sera appliquée aux entreprises à domicile à compter du 1er juillet 2026, en définissant clairement les cas obligatoires et les cas exemptés.",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUhkZGlaZ01iek1UWXhyaUJBVWYzSmh4Mko2dTNscVpjTUROQU12UzFNazJWN3haWl82bjFUWkxCOWlDU1Z0R2JmZUVOczdVVGtsZGZtdlFWenh3d056bFVRd2ItcWkxazZYZW9UWlhUOGkzaWFoOHZaekZkRmxhVHAwUVBjTnFfZEcxTDEyTFBacjc5RlQ4SFEwZzZiVWlxdWwyVXN5SzZVMzZlVVlRQXFIWkREby00bzFucnhNN0sxYnVoUEJjeA?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795079212,
    "theme": "fact"
+  },
+  {
+   "title": "Établissement stable et TVA : l'autoliquidation par les clients ne libère pas le prestataire étranger",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3NNMnBMRkYtSEdVdlVkcW8yNDNBTUdJUWlJM0wteVUyMFJVR3RwekJzTFlQUXZxY0JCdThVbnA3WEpiRDdLUV9ka0dVN3hlb2FubTVLdHlqUFRBblh5bHVwVVVMMWVsMXpmMW80d3pZS1puTi0xVXp3N2Zmb08zMEVtdWVKX0FmWUJvd3M0YU5BalE4QlRlWW0wYlpoZHRQcERVUnJMTm1wcUcyZ3RSdnhOSWJibnNXNjJsRHFWTFFkU0lSelRzZG9FM2xJV205QUlHYnlzRTFIamM3Y3c?oc=5",
+   "source": "Lefebvre Dalloz Compétences",
+   "ts": 1795077304,
+   "theme": "fisc"
   },
   {
    "title": "Le cabinet de conseil et d’expertise-comptable Fidsud élargit son offre",
@@ -84,6 +105,13 @@
    "source": "7sur7.be",
    "ts": 1795069860,
    "theme": "fisc"
+  },
+  {
+   "title": "Solution de facturation électronique intégrée au compte pro : la checklist freelances et TPE avant 2027",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanZHS2lWNjM1R2gtNXN0NFMxeldUVEZqNGlid2pRU2Eydk5WSW9zRlFHVzJMVmRTbGsyVFl3Mml6XzVoMHZOQjhFZmtxSUxjbjZSYUZXcl94MTVnNUJuSTQtaEhNOHo3QXN3LW1OcFVXRVFzWGNld0VRaWF3X0V0ampPMEFOeWFPYzkwaTBiOVBTZ0FLbkpGUjlfb2hlZmhDU0F4N2tqaFh2TEJ1d19DRGkwM2czUkxQUlpiYkNCTTNpbDZxdEwwV1JnNGVaNHVzSnkyMzFYMzZMV3ZsS2tV?oc=5",
+   "source": "Leptidigital",
+   "ts": 1795066200,
+   "theme": "fact"
   },
   {
    "title": "CIR : les frais de trajet domicile-travail des chercheurs entrent dans l'assiette",
@@ -1085,34 +1113,6 @@
    "source": "DECIDEURS MAGAZINE",
    "ts": 1794578726,
    "theme": "fact"
-  },
-  {
-   "title": "Députés réclament évaluation de la loi sur les chèques",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdV95Y1RoenMtN1VMd2FkN1dvOENpZ3lMQUoxZTNwVEdqNUItM052eTJ3RWFCUzc1Q3YwVzJUczYzcmdLZFZnVDNlUlFIcmVNZWZEcm44eUVwN2VPT1pLN1lscERJRDZTYWZVdnRwN2oxZEdQcXpWQ3FleG1HUXBpaGFxMWlncDJWUUlTT2k1SFF2aWFwM2VrbG9fS0R3VXdaVkVRQXZMSklNbXJTc2N3N0d1ZlBfVG1pbjZjTWM1TUF4N1Z4bEZWWktyeF9iMzhOLTJ4ekctWEVmQ3EzMXNB?oc=5",
-   "source": "African Manager",
-   "ts": 1794578425,
-   "theme": "fisc"
-  },
-  {
-   "title": "Impôt sur les sociétés: le ciblage du secteur des hydrocarbures ravive le débat sur la justice fiscale",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3pBQjVKWGY1dm82OVBoR2FDdVVzRllLNVhHTDRLSmhtRFBld1c5ZU1Ldjc5Vmh1VmNUSDloTkNzeFJDb1AyaGprWC1Ud3d2SUhVOXNYakRneVNKZzZ4Yzl5eDh1VGpHcXB3emNzdmtCcVh0bHFPNm1UT3cwelk2R2xTSlJxUEdfZzZnanRLLUFFazhDQWN1dUt5Y0tHcjRDcWxLNVJ1X3dVN2E1V2Z5MWphNGNVR0RhSDZpR2VKMlkxY3pqYUNUUU1uWXNMQ2VLUzBCb0k0Qk1DREwwTzRaSHBRYmhSUQ?oc=5",
-   "source": "Le360",
-   "ts": 1794577140,
-   "theme": "fisc"
-  },
-  {
-   "title": "« Plus on augmente les impôts, moins les riches payent d’impôts… et c’est logique ! » L’édito de Charles SANNAT",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUJNSWdpa3JENGNKdXRrbWdDQnBkRC15VVZub0FSU2V5Y0RHVUo4NUloWjJhc0doZ0NuN2U3Q25oX0xTWXhfbXctTGVoaGRCYy1yeVpHM3M5VUdzVnEtQXV2X0x2RFNUZ2Y0dTYteVUtWUlpc0xDT0FQdWN1cDBYSW8tWWdRVU1FTndubVRWX1N3TEJSSUZnZzdSZWFweDNKWGpEMnpUQm00VmdGTWphTWtYRlYzajJNUEF4bnNocXlCcXB5YkRmNQ?oc=5",
-   "source": "Le Grenier de l'éco",
-   "ts": 1794577138,
-   "theme": "fisc"
-  },
-  {
-   "title": "Gérald Darmanin proche de la sortie, le « nouvel impôt de production » de Marine Le Pen... les indiscrétions politiques de Challenges",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOekhmWHVFYy1BYVNDeE8tbm5vNEdBNk9tVkJob1hZRnkzTmJKaWVnNkF2bG5CSmF2NEtZUWVKcTdHbDNsd252bHFIRlhuZGRMWW14M3lmMEh6bVh4ZlFEVkExNzNlcFlIaGgzYV9jUlBfZW5PYW1lSXB2Nm5vc0c3N0FjdXY4aFdXNFZHX2xHLVpZWURjT21PeHY2QUNTZVJ0Z3E4NlRzdmFfcXdLNUh6YnNYV0tncVRyUHl3ZnFFYkxvX1otOGF0bHI5VWpITWJCeVBNRTFCaXYyWnpSVnZzeHVaMGIxelBMRTFCNGxnOUdMS3VsZmdtWjlLeGk?oc=5",
-   "source": "Challenges",
-   "ts": 1794576900,
-   "theme": "fisc"
   }
  ]
 }
