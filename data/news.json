@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T16:13:31+00:00",
- "last_success": "2026-11-19T16:13:31+00:00",
+ "updated": "2026-11-19T17:17:46+00:00",
+ "last_success": "2026-11-19T17:17:46+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "TVA véhicule de fonction : ce que change le PLF 2027",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00bzVlMGRtRlhYQm94Ml94UXFWd0otcFgtaWhkUDhxaElhZkJ2VFZIZVF1R2VCQnZ0WDZVSmw0b2VLcFFhb21FNWlSMjNDTENNam5GUWlMazhNNU5YQ3FSUm5Tb2ZPczNVVjBFV1VIRVZmYUZWZDJUckRxSQ?oc=5",
+   "source": "Leyton",
+   "ts": 1795107737,
+   "theme": "fisc"
+  },
   {
    "title": "Alternance : Dyna a osé partir deux mois au Danemark, elle raconte son expérience",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXZTNDNOUmYydVI5MHRycWZQV0JJU05oVGstWlBpZnlPUXZXYkdyZnpjZTFWd1owS2pQS016TnhlLTh2WFViV055RjVnSkdpYTJGX1AtMHFpd3h6R3JfMjB1RzRVMEp1Zm5xT1hMMGgtbVVIcEk0LWtSdG9rOHJ4alZJZ29wYWZHbVN5VWVSZTB2YlNuWkMtYkNnQ0xXXzdpQ1dqdXVWMWEtQTNvTU1ueEpQN3NfdTM5ME96bnpMMm9iWVp3UW96dkgySk1fbzg?oc=5",
@@ -140,6 +147,13 @@
    "source": "Demócrata",
    "ts": 1795088927,
    "theme": "fisc"
+  },
+  {
+   "title": "Facture électronique : cabinets et clients, que faire du temps gagné sur l'administratif ?",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBweDVZd1AyVEVCcWlsUkhSd3dodS1JSEhkeUpMdmR6dGRpN1F1Zlk3R3U2M0pla2RMMG9xZjZDelJCYVdWX0ZWbWhNSUdPbkhVM3hIN2N4cHJnNTBvb0JnRTlPdC1rVmxa?oc=5",
+   "source": "Compta Online",
+   "ts": 1795083305,
+   "theme": "fact"
   },
   {
    "title": "Facture électronique : que faire du temps gagné en cabinet ?",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzVFY1BWaElnQXhpTjlOYVB0UXRVeFN3UURkUlgzLUZhQ2QtOGVuNVFQWXprM190V2RucXFpXy1uWnAzNExLajlodjFrSUxIRzl5RHc0T3NKMjlsS1hDMTRJZl9ieGlYbm80ajk5VnZQV19xYVdEdEJBNkdjSVJ2SzhLZjRveVhBTzlVOVFsSEI3ZnJoR1I1UGZzN2c1eUFDd2FEeVNzRnR3c21h?oc=5",
    "source": "Vietnam.vn",
    "ts": 1794668566,
-   "theme": "fisc"
-  },
-  {
-   "title": "Carburants: Fouzi Lekjaa justifie la surtaxe des pétroliers et laisse ouverte la piste d’un plafonnement des marges",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVG15NC1qZGJfNmdxejlMTkw4VjRkdkROM2U0MEFMRE8tTmpCeE9wVFRoZFlYeGFKVTRkZzVRZ083WlhKQ0E3WkVnVUhWc2stS2FsTTdxOXg1ekwyWUkyQlhUVXRHMnVqYi1nY2s1QnhWLUVRTUMyZ1dVV3JuSVBHWVpkdE9ZeEZUVWxlc0h4REJURUw0dUE1Rk9CQWxaZ1NQN3Fyb1A4c0NGMkVhdmxtQ1RlUVdILWhRWTNlSmwxSDQzTUplVUhacUFaYnM5WmxMd2Z5VW40bUpaeEIwdHc4?oc=5",
-   "source": "Le360",
-   "ts": 1794661260,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : le groupe constitutionnel démocratique et social plaide pour une croissance aux retombées sociales tangibles",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXliMXA0ZFNFYm9ZUERRM3pteUtjbktwMzV3TXhoSF9BM2RLOHhnSTRxcUt5ZWRhY05aeUtHMXN5VGF5Yk1ZMEkxamhVME9UdWd5MHVkeEdaQU8zSWRyMDhQY0piS1UxcWpFZVdpSmNNN2VMRERzUHQtV2ZGUXVBTUZBTjIxQVlJVGdKQ21QemczTW8wdElaLV9kSnBqZXdWanc?oc=5",
-   "source": "2M",
-   "ts": 1794652380,
    "theme": "fisc"
   }
  ]
