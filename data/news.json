@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T23:58:45+00:00",
- "last_success": "2026-11-18T23:58:45+00:00",
+ "updated": "2026-11-19T01:26:02+00:00",
+ "last_success": "2026-11-19T01:26:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 0
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "LMNP budget 2027 : plafonnement de l'amortissement, seuil de passage en LMP et facturation électronique",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2pjbkVzVldUaEY3OEgxTnVta2tZR3ZzTk9BVHhyMVF1MkJXT2RKOWJBQ2ttTmpiTmh0ZXJkNktOUDJsTTRqaWxlMkxsMTl6UFFJYWF5Mk5KZnA2ZzB5TlZ0Nlp1dWNpNnVJelJuMy1UdkgxbjFzdHJQSW8xNVlUaXFSbDk2LWdfLVFyYkJKd3NQRGlvcXFKTk4zNWVUc2dkLTh5UDk5eFp5UjNmYW1tdWgzVWg?oc=5",
+   "source": "Maître Reda KOHEN",
+   "ts": 1795044420,
+   "theme": "fact"
+  },
   {
    "title": "CIR : les remboursements de frais de trajet domicile-travail des chercheurs entrent dans les dépenses de personnel",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0drQnhUdTdmSXV0REVFY3c0SjFOLTVGQVluOTU1cFNrSnE5cEc4c1h2R1NNV1V2eS1JQzJHQk9DblU4ZUQ4NTZDNTN6ZE5zM0xXaVJMcmpabUpzbkVERHZtTi1DLUFTRjQ2Mnp0T3V5RmloSFVkaDhEbVpyRE9Ib1lWRUxuVTViUkFReWp4Z0J4ckt6anVXUC0wUFBOZlQ0UVJtQkxn?oc=5",
@@ -489,7 +496,7 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem9WOVZDWk16dlEtLU1EM2JoemgtUWlSUFFTWlo5UGQ5SnRoaVNxTEszSzJORmtoZkFpbzF0RmFtWjA5ZTBvWnpFUnNEbVpzUUJPYmhoQzBQRkY4MDFwbFpSMUlYczgyQllxRnZVWUVEVjdMdTlfSXNwNW0xUGFsOW5hVmU0Ylp6V0ZKWTlDY3dFcnBVajBQWVNnWjRySms3dWpvRy1RQjJ5WGhhNWlaYzNn?oc=5",
    "source": "Journal de la Corse",
    "ts": 1794912997,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : IR, hydrocarbures, tabac… les mesures adoptées",
@@ -874,7 +881,7 @@
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPREdZTElzR1hETWR3VXVTSGhPOFZQLWdBVUFLVklFSE1UZU9lRVp2bHhqYy1WZ19PXzBnazRDRVFoTFJtY1ZILW52UFZzcEZsM1AxYWlXYU9DV2dZSlRTc0lXOURMc1lPYWdFMmpkRDFCeThvQ0thall0S3h4bFpWMWE2TXBsT2tCTVBWMHZSLUpoZXhTYUZneXlCOS1VanNvM3ppOTlGSi1RN1pWTGdyV3k3Rkd5U0FYUEVRUXJCYlMtbTctS0RHMDI2SjhPZEN4X0NCYm5KWTNuMlBLdVh1MDZlX3hoMU9ocWpSc0tlU3BBWUk1MjRKNFgyQk9rTVBnbEM0aGZsZTN3WDdVbXBxUDFTeWlJWFhiYVROUFBkb09uTkE?oc=5",
    "source": "Le Parisien",
    "ts": 1794748200,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "De nouvelles mesures pour soutenir l’investissement et diversifier l’économie",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHFXbVREazZtb0tGWldLM3ZLQ1d3MkR3WkV0WlpiSlY2X2xLb3ljU01NNVhiVDVZb1diWEk4VnBvMEZEMjh1Mzk1LVNmbjQ2ZlBKVmJza28wbU9CSXY1REV2TzJ1UHRDeG44dWhHeXBheFhSOFJEdHMwR2t5V0tkc3hXNFF3ZGYzakFPRHloSnVqSEQ5WnpreXlRLWQ1U0lUUGZZ?oc=5",
    "source": "FFHG • Site fédéral",
    "ts": 1794570300,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les enquêteurs de Boulder réexaminent des preuves dans l’affaire du meurtre de JonBenet Ramsey",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa0dPb3VfUWh1YjNpZFBiY1NZX0hMQlZHM1FEWVNlUWF6a3FEUmFwdXcxNmZXRUItdGhSN0xSaGlwRGhkb1o5dTVRbUFxY21ScWpLVDBfak9QSGtTal96dy1GdEU5Vkk3bjhoZ3JZXzBVZGM3OVNOMWQ1VkV0d2UwRHlXdldIcThZN1RsSnZwUTBrLXgxb2JlQkV3ZDRmb2JD?oc=5",
-   "source": "Mezha.net",
-   "ts": 1794568665,
    "theme": "fisc"
   }
  ]
