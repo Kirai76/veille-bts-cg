@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:14:54+00:00",
- "last_success": "2026-11-19T20:14:54+00:00",
+ "updated": "2026-11-19T21:05:43+00:00",
+ "last_success": "2026-11-19T21:05:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 33
   }
  ],
  "items": [
@@ -167,6 +167,13 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWNnWUJLV0N6bGdmZGc1N3pYeUtCUTR3bHEzelVnWmFaa3ZSaXZsN01TM1BvakQ1TTZLY1QzR2s3cnlpMEdTdFpEcGxQMnFxcldfNzlNcl9GZnQ3VnNDMWZQX2U2VmhWUnRZR1p6RHFYY1lIRTRuMTJ4ajcxbWRTeFEtQUh5RWE0VXFzYzJZY2hKSEdlRG9jSlB6cjg3ZEhUbVB0Y3o1eW1faDdmRU1FUll4WQ?oc=5",
    "source": "Les Affiches de Grenoble et du Dauphiné",
    "ts": 1795093521,
+   "theme": "fisc"
+  },
+  {
+   "title": "Impôt sur les sociétés: des entreprises accusées de détourner les chèques-cadeaux à des fins fiscales",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNGQ5alNHT21fanFKNVpsWV9jUFBXV25TRndjZGZpSTU4eXgtVFdZd3ljOHJHZDQ1UkV1V09rcVdINXVRR3hhTVozalU0bXlkUDF3NjFzUllkeW5FZ21aNy1CN2NuRFhHM242eDU5dEkzU1lsb2N3Mm0zc2ZEQXZUOWlPM1hIZExPQkpURGtQTlZ0ZzJSU0xXcUVjMVQwdmNvM1hZT2M2empORXVqWGgzbi15RFg2UlV4RlJPVWFWbUgxWm1GSkhWOE05VllqVklNMkg5bEcwMmJON3B1ZVN1RXQzeDRmWmZVSm1QWjVQZw?oc=5",
+   "source": "Le360 - Le média des actualités du Maroc",
+   "ts": 1795092900,
    "theme": "fisc"
   },
   {
@@ -1106,13 +1113,6 @@
    "source": "Le Parisien",
    "ts": 1794748200,
    "theme": "fact"
-  },
-  {
-   "title": "De nouvelles mesures pour soutenir l’investissement et diversifier l’économie",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRjU5S0xIb0NudlNOQ0RBdkx0cTNXU1JTclJjLWdjdTJEcVpjbXUtSHc2cHpHRnBZUEFQOFNoVDl0UGpNR1VNb3paSXRpLVFfeEVJR0IzZFlWX0JFc1J5cXIwMDZ4T3Noc1BkdWdPYVlHaWNzdmZOSTM3YXIybWNFRzZuczlJdnBadHZXMnZDTDRnSHBRYjlWYjhmZTJuVW9pdGNMQ0JXUTNzM0x0YVdGa1ljQWdwbFdreDZ6YnN1d1N1RHNNUEhHOVRHbEZDVU9tZFE?oc=5",
-   "source": "وكالة الأنباء الجزائرية",
-   "ts": 1794747420,
-   "theme": "fisc"
   }
  ]
 }
