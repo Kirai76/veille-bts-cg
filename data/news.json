@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-19T23:54:29+00:00",
- "last_success": "2026-11-19T23:54:29+00:00",
+ "updated": "2026-11-20T01:20:05+00:00",
+ "last_success": "2026-11-20T01:20:05+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 70
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -271,7 +271,7 @@
    "title": "Villa avec piscine, Porsche à 206.000 euros: comment des managers, médecins et consultants éludent des milliers d’euros d’impôts",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDNfQVI2LXN4SGZTTGNaemdYUUpUZUtsMzJ0NXZoaVludUY1cmhrdFZNSWJUY3JpbTU0Wm9qMkJ6YUk2Ung1SU5tNVVmQjhWNDNuTHFjbFM2VWVJSk1mQ1VhMEVsZTAtaXpONm5ZdUx2dHdqZkVNM1VtY3NxZDRxRHI3N09VZWxHU3kyendxLXhMVlRVQlF0RWNFQmgzZ1hoSGtubjJxanZZWklJU2piRGt1dGZSbmNJdWZQOHhURGQ3VFNHSldhSmhhb28yRkppZ0t2X3FBdVhmTTRkRjBnb3F0bFlXS2ZKaDlHUHFZaTBQMWgwNHc?oc=5",
    "source": "7sur7.be",
-   "ts": 1795069860,
+   "ts": 1795070139,
    "theme": "fisc"
   },
   {
@@ -364,6 +364,13 @@
    "source": "Le Figaro",
    "ts": 1795021837,
    "theme": "fisc"
+  },
+  {
+   "title": "Normandie : les entreprises rouennaises accélèrent leur transformation numérique",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIbjU1X0pZM3VQYUhKNGpMS0NyUW0wbUVNVDJSX2l2VmVjYW10SVVPRTdrME1NdHAyY0ZDR08xS1k4YU1hc0lNU3c2NERBcEFPbE92VUZJTHZZVEpFU190enB6ZWpmZUIwcm9N?oc=5",
+   "source": "Normandie actualités",
+   "ts": 1795021522,
+   "theme": "fact"
   },
   {
    "title": "2,6 milliards de réduction d’impôt: l’UEL conteste le calcul de la CSL",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzVkR2RBUTRvdnZBVExRSXdrbklUcG91TDc5VmZNOEs0YVdkcVNNeVM5ODFkQ1BubE5UZm1OLVhDNTdIRGQ5eDZDRzh6UUc0R2FjZnlGOGtRTURHOGJvTEM3bzRzUHZrbnVWZzFobTlxeDY5RkY4dEx5a1pLTE1MTHB3anE3bGdEaExLR1NULUdlem9ISHdubXFDNVVwWXZTYWEzUVZmaW5wZ3BIajhlUDltaVlrMjBQOF9WRw?oc=5",
    "source": "Facebook",
    "ts": 1794760220,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : l’investissement public peut-il encore créer davantage de richesse ?",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVE1Y2FoempBOFV2Uy1RMzIzdEhXbkdPZHJrSk42WnBwLVY4ZGFVNHhiNmhMS0FDTnk3NGY1VWl4OFVKVnNlZlBfRlJSRnAyeDJZLUE0bEdhbXJPMzNnOXpKdEI5X3RBS1RXRVlTbmIzQ3hGQWpENVRjTnVEUGlIYWxHSDVENUV2TVdSdWFDRXM5SzlNVUM1WFpMUHN5T0J1Sk8xU9IBqgFBVV95cUxQOGFKZ1RGWFc0T3kxQ2tJZVBzakxGTTBZLUhTWkpnYkNTTk9PRDgxT284a3hzSnhjSFFULTd5R3Z0UWI1S1Z1MnNDaUlxTW1QRGZiSFVrNHQxX3pwc2RxSkVRZHJCekt3MEg5Q3BwQ1J3OC1iX3RQcFczYlRyWHlxNW9mY0ZNZ3BsRFFNSkxIU1lpVWFjMVlIRWpwdi10Rk5lTjVaNzNvWHFzQQ?oc=5",
-   "source": "Le Matin.ma",
-   "ts": 1794755700,
    "theme": "fisc"
   }
  ]
