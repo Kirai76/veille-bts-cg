@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T06:18:36+00:00",
- "last_success": "2026-11-20T06:18:36+00:00",
+ "updated": "2026-11-20T08:26:24+00:00",
+ "last_success": "2026-11-20T08:26:24+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 73
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -40,7 +40,7 @@
   {
    "query": "plan comptable général ANC",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "query": "expert-comptable profession comptable",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -65,10 +65,31 @@
  ],
  "items": [
   {
+   "title": "Les incitations fiscales – une source de « capital d’amorçage » pour la Fintech et l’innovation.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzdKVE5RVmRBeWFHX2pVVVU5RF9KY3ZmX0ExdXVtUW5UcjJJR0xzeF9JUTlNSEgzZEpNRjNhcEd6T2FtMGRmTTF3cWpxQUpjNVhrOG9tOF85RC1hMWp2Y1dXTFZzLUdKeERrTE56M2haN0FhOW1CZUhvTE4xeFZGVWkyUkFHMjJ1Wk9j?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795158580,
+   "theme": "fisc"
+  },
+  {
+   "title": "Prime d’activité 2027, ce que le budget pourrait changer vraiment",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOU04aHhZWEhGNWtYWTltdDRyUUdXaEVaREN0NFloeHh5TTQzbjFGbGhEczF4NGYzWEN6TlEwZ3FRYlRFa1FvVUZYc2pRLTB3b0tPcS0tYlV2N0sxV3J5azhZUzN6VDl6M2JmLXB1Q09iOXlWUllXYmtjc2FjYVJWMFd1MVZPNmVyQTh0NVk4Yi1IbEVmMmdLWFpPMA?oc=5",
+   "source": "24matins",
+   "ts": 1795158013,
+   "theme": "fisc"
+  },
+  {
    "title": "Des directives prévoient une réduction de 30 % de l’impôt sur les sociétés pour la période 2026-2027, et des conditions plus strictes s’appliquent aux scissions d’entreprises.",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk5DQ2FYVzY2dldiWTlkNWdCRFgxNGNEc2xJT2gzUHZHSzBrUzRlZXVvQ0V6RS1hUHJPYzE1WkdYZFg4VGlRdm9sM1ZJcHBPemNaSVdFeHU3cC05Mkd3WTdtSjdCeHpwRVVuMzZfVmlVR1F6TkJhaGhTT2pKYzZkUWlzeVQtd0s3SjBRNEdPTTJPcEdjY2Nub3Jxb3hJa1cyYkp1R3NMX0NJU2lMRXBKTmF5UmcxU3NpV0VKTWhNY3RNdWRmYUNyREk4UQ?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795153142,
+   "theme": "fisc"
+  },
+  {
+   "title": "Surtaxe sur les bénéfices, retraites, prime d'activité… les grands enjeux du débat sur le budget au Sénat",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTUc4M0x2ZWc4dzEtZEI5X3N6amY3bkcwQ2JMNFJrX2JTa01aUDd1eVRVeGdWdWQ5ZWRfZ1BCMktuZktIWmtPa3dlRmpNR1ZDdUtXelJJQi1wdUVfeUliVUJqTkhfTHIxZC1ydFlRU2czaTl4NkF3cy1ScGg5ZEJkSXhiV28tSjE5ZXpPVVNsNHVtZGVReUF4WmVkeVpqQ09DUm4xdDZEeHNhdzdCZlpMTHZRRk9WcUxGZFpjQTdVU3BwbGU1WmYwN2stUXpMOU5YZzBnNWY2b3E0Ti05dndfTV9EekhCWlp3NTI0STZKd25sc1BwRS1ZNVlB?oc=5",
+   "source": "Les Echos",
+   "ts": 1795151708,
    "theme": "fisc"
   },
   {
@@ -149,6 +170,13 @@
    "theme": "fisc"
   },
   {
+   "title": "« Encore un budget sauce LR ! » : les sénateurs écologistes vent debout contre le budget 2027 qui arrive en débat",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpZSzVYMjJzanhkUlBFcWlBUnE5WVF2Uno5Q0E5bHE1Zjh6czI0UFdpZ2FNT0k1ZTlGR0IwOE0yN3FURU5SZGd4SXNLd0JucmRTdHdOYnpLQ09nVm9LRzI4aUhPVDBuTEhTMV9TNVo2Q3I0YmcxQ3Frb1JQUDgtS0xlMFVYV2pNbVpwamlhb3N1dmlqYWVRQzZOcFlFQmNsYlZ4T0dkcG94c1B0eWtfNGRkdDloSVl1aWxVeE1oSUlDMmFNemVDdkxoVGRwTVZtN0pLXzY2UXlWWUF5NE90eGZTOXZZcGNxZkhGcHVB?oc=5",
+   "source": "Public Sénat",
+   "ts": 1795098934,
+   "theme": "fisc"
+  },
+  {
    "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSkZab1VGcTJ0NG5TWTFlSnlibXk5SFBmRlZhMlRjZTNndXA3akJIN3BFY0xjakVHbHlTTVJhTVpHY2NxcnpPUFd3NkwxUDJpQkRIVFdXeUs2azBrRF95V2RPR1JGRU80aFVGWmRVQ0Y4OEZ2T1lhWHo5YkZrQmtVT1lsbW5UWGxCZ1JQZHVIY09OZG11cTQ0QXlEZThQMnJ0ZW05TWtvNU9zQXRRcktla3ZFZ0RFVVJLN1YzX28tMUVuVnpKSXByY3NDRGlBY0xzcVl0aUM2UdIB3AFBVV95cUxQUWEwZndIMEs0VVR6V1NTbFBSZHJFMUsxQlJKQTFkQ2F4cWhsZXlYOVlaQllydG5KUGhIY2h5T0dTZW1Ub01KbEFwMXU1T2Z2RE00UnNlRlpxM21vXzdUYUVwSDR0ZXVxVGtTUkUxbklER2FCdnJtakZRQmZsZ280UlBuX3ZaLTZCTkM1Q3VHMkxwdEg0Y2lEb2h6UUJkeHlKdFNfMlNyeU1fRVlzaGdFbmV0UnpIeGw3WXE4YnNzNWN1MHpiWjhwTFBrUUtaQnFFRWxzekYyMmVXVE92?oc=5",
    "source": "Fortuneo",
@@ -167,6 +195,13 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2ZRb1Zxd0JtWndTMWNMWjVMNF96TXcyUGI5bXJoZGZsWXhEM0FoZm9hM1NiZkZIeEN6OFJyZURVMkM2WllldFlyMHNsVmlPaFl5RlUzUXo1b1RVTkRiQkpETi1mcVlfaXZYVU5yaEV1OXNETmxSSjJXbTBIUDBCWndPLTIwUHplbjNZT3lwQ0pyeFVZUDFyY2pvMEVxcmM3aW1YYi1UYWhJTHo5cWtFdENaRmpEMzd3dUNoaVhNQ2xKbXc?oc=5",
    "source": "L'Est éclair",
    "ts": 1795096903,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : les entreprises prêtes dès maintenant évitent la course de 2027",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYzZQbktVSGw2WHVRUVpzazhpbVphUFNxZ0hlam9rb1JGQzd1NWpaSlpLZGg2bmpST1E0SzFpNktXajVtTDBhY2xoMnllaGJKb2d2elpPX0hrX2FBR0hhbXJ5TDdoNnFXUlNZSW5ZcE90OFhwY1BFcnRhcWo4VkFSLV91VGlIdEZ0WXFMdXl1S2NfRjZNYURHYzBDQTlPQ3RtUVEzX0Nmb0llTFE5eHBmTVpUaEk2X3dhRC1qYzk2M2JwelpLVFplWWFXbkViZm0zNjdKX0xqWGRuUXVEeUlybHBjWQ?oc=5",
+   "source": "Paris Normandie",
+   "ts": 1795096341,
    "theme": "fact"
   },
   {
@@ -674,6 +709,13 @@
    "theme": "alt"
   },
   {
+   "title": "Fiscalité : les riches paient-ils leur juste part d’impôts ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUNCQlgxWlpTU2FmWnRRU3RnUzg5YlJ5R1NSa2JhbFFMZjVSazBLcEdIa1ZOZ21OTmktclN6aGpmeW1GZ01Ma3ZsOXJ4b1EtSDRBY2tQWVMxWWZRcnhXc3R0NVdlZWhkZGdnZUdYTHE0a3ljREdJOHNaVWFwMkNYTWtTb0ZTcHFT?oc=5",
+   "source": "Les Surligneurs",
+   "ts": 1794925974,
+   "theme": "fisc"
+  },
+  {
    "title": "Fiscalité : les riches paient-ils leur juste part d’impôt ?",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUNCQlgxWlpTU2FmWnRRU3RnUzg5YlJ5R1NSa2JhbFFMZjVSazBLcEdIa1ZOZ21OTmktclN6aGpmeW1GZ01Ma3ZsOXJ4b1EtSDRBY2tQWVMxWWZRcnhXc3R0NVdlZWhkZGdnZUdYTHE0a3ljREdJOHNaVWFwMkNYTWtTb0ZTcHFT?oc=5",
    "source": "Les Surligneurs",
@@ -819,6 +861,13 @@
    "source": "Economie News",
    "ts": 1794902375,
    "theme": "alt"
+  },
+  {
+   "title": "En Guyane, Naïké Bouchaut achève sa présidence de l'Ordre des experts-comptables sur un bilan tourné vers le développement économique du territoire",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWFg5SndnWkFDY0ZuU3Z5cEtZcG9LekpFWmhnYldBRHlxVUJTUDBZSzF6RE9odVI5ZHphelJzZVNkaGxvR24waTJNV2UybjMzeFFIcGUxMmlBUFh6Q0lJb3lTeXFTMFlmdGNuSWp4QjBTNEU1TzJuWndmazNXdjNlc2JLNmVQQm1UUXZvSTRwZVBuaXhPNGxxNFg4YXNVUG9HSnpTOGROanBMemlMWTFGX2JJd21Id2lZa1JGTkRCQk1ENDI4UldYMW9yTDVtMlFvdDlZcndXT1hCMTctamlTcVhpcFhYME42UWZHZmloTUYybjJrT1kxMndmSUg4WlV4VDdBZGwwTWlHWks3WDdNYWpxV2R6RDRLbm5iS2h3Zw?oc=5",
+   "source": "Outremers360",
+   "ts": 1794902274,
+   "theme": "compta"
   },
   {
    "title": "Congo : l'État veut diviser par dix le coût de création des entreprises agricoles",
@@ -1064,55 +1113,6 @@
    "source": "Idéal Investisseur",
    "ts": 1794815160,
    "theme": "fact"
-  },
-  {
-   "title": "Quadient profite de l'essor de la facturation électronique en France",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUpBQW56eTBXakhGbTVTRW1jUjhqR3AxbzFWTFRldWVKZnJ1MEhNTXhEYUNiZFlKM3l1SFZsRDhyRUxhZkh2WV9LRDc3MGFaTDM3cHJLdnpNeVo2a0xoSDlZNVN3WG5zaTZtTFc4YTZfY2tKV1paSFhld0pSWnpKbkdhN2xpNzlJT2tlTms4Y3o1REFsZnFZaFk4LTBsVng3LUJyZGRsY2VyTEpUZi1ySk9vZzdzczBzai1pdlpPNkRVOVNRaTNZ?oc=5",
-   "source": "Zonebourse Suisse",
-   "ts": 1794815135,
-   "theme": "fact"
-  },
-  {
-   "title": "Quadient dépasse 4,5 millions de factures électroniques traitées via Serensia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVZnY0JOcnNBUDNHMDBucnAxMndIWGVhOGhuZkp2MWlNMEh1VWhrUVpZNjNHb19BLUYwNEcwclk3VDNHLXIxclBfMUJBVS1LT2NjZnZGUWx3c1pWQlpVN3RnTXJqXzFFWDlvcFNLT0JKN1MtdzV2SHUtUkEyQ2xMMVBXTW5KTnhIdHNueHE2LWhDa0k2UGMzZlcxWGpaNkxPQ2gxY2VkSUpBbTdfYkF4d2E5X29aZG5mVHc?oc=5",
-   "source": "ABC Bourse",
-   "ts": 1794814804,
-   "theme": "fact"
-  },
-  {
-   "title": "Quadient enregistre une forte dynamique deux mois après le lancement de la réforme française de la facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPR2tRTVAzMEI0ZkQ5cEFuYklzY1F5X3ViblpwMklpMTAxT3NJbThlUV9KQzdoMjlUcEtJQnd5VE5ncDFnSmJSa3NjeHdNd1A4VnptTU9QclpLX0NYM0xqV1dmeWdMZkJncXkxNjNIeXVVTGpSemZzZE56amNpQ0ZWV1dMQTM4eHRrY2tFVk5aaHU1b1hCSjk3UjVXNkVnZWtreVdKLUNZRXItdzUzUi1TSkcyTVFLbDVEY1ZWb3FtNV8yM3JKV1ZQbVBLUFM2cUV2NWlNQzdIaF95elEtYkZwNE1ZVkZTSzFaRUVIUVhuMkpvNTJ2c2xReEJMek9jdDlHZ0xDNWNTR2ZaejJtMXFRY2RubFkxQnhLQkpzamc2Y3Q0dmZCLUVVSWticHNjbUlkWnV3?oc=5",
-   "source": "Le Soleil",
-   "ts": 1794814213,
-   "theme": "fact"
-  },
-  {
-   "title": "Kerogo Finance : transformer l’expertise comptable pour mieux accompagner les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVl9PdE03cVlwc2cxSFN3TVNacVp5Q3VweUVWdUFJc205RzYtVnJ4Qm11b3FDZmtqaHJ2Zm1vNkFiWE5LalNBaHJzUjlnWDF5bTM5MEFhbHktUk1oTjlscE9KRG5Oem83R05qZzhSc0lLMWNxaHZIVjhTM05GYi1aN3hIQktuLUc5UEdDaHQ1czFHNy1RdWRub3NNSElHdmVCeFlhUmlaaWktMGFSM19HWmdkWnQzUVBjV2ZwaUhaRzRFYXpHa1RCNw?oc=5",
-   "source": "Le Figaro",
-   "ts": 1794812410,
-   "theme": "compta"
-  },
-  {
-   "title": "La machine réglementaire de l’UE continue tout simplement d’avancer à toute vapeur",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDQ2UGUzQmhMQVhIWDhNb1dnbXVNaG1wZWtoQlNURFBWd2xYNFBJbHQ2Y0tELU16QzczNm05aE9YZ2hGNEhwLXdrR1FuUnVrNUtIMHQwN0kyb1dkejd6X2RVc3gybVFyWFlrS2VOdy1SMXA5S3luVXQxa2RWVWN0S3IwYjFGLWRVV09Zb29naVl0QTNmUFE?oc=5",
-   "source": "Economie Matin",
-   "ts": 1794806283,
-   "theme": "fisc"
-  },
-  {
-   "title": "SCI et location meublée, 4 semaines de location saisonnière suffisent pour être à l'IS",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmV2eEtSRGdpQVhUbG9DZ25WelNNbk5rWEYzMzB6XzgwcHRQYktOZnllRjdwWXlNcFBVNTVsMHZyMTAwSDFyN2Y1bEdrQ2JSUlZPY3JUdTRGR2xlRkdTekFYbVR2WVZlSmFNUnMxQ1NjNFdiY1RDWjR1bzQ5SXJoQk9GN0ZYR3FKRlRlQWpGNXY1TWtPWmdaODgyOVpPUEVuLXhPV3p6RFBMeFVqeUpkV2dmZ0t3VVBKTGRfQ1FDbm10WWc?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1794783753,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les prix des carburants repartent légèrement à la baisse au Maroc à partir de minuit",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUpQVjl0ZHZaV2hFWENFT1Y4RjdlYkFmUHRVY2o0SVBuYVdkdzVPTjZ0d2RZYU5yek9ZRHRDUXJ6SnRNd2lORi1GcEpZR2FpZzhNVEtvcHlLcmR0UmdmNk0zdTR2d0p2UlRTNGRJOWppU0ZDWVRyUlczaDNjSVJBZTdDbzdwbG1SWVdGZmszenZKcWFWV1VMRy1mZ0Rhck5DZS14WGN6UHBaVjRxeG5qc0hSVnMyTmc4c3Jxbw?oc=5",
-   "source": "Hespress Français - Actualités du Maroc",
-   "ts": 1794769320,
-   "theme": "fisc"
   }
  ]
 }
