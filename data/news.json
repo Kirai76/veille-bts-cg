@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T20:12:19+00:00",
- "last_success": "2026-11-20T20:12:19+00:00",
+ "updated": "2026-11-20T21:00:30+00:00",
+ "last_success": "2026-11-20T21:00:30+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 73
+   "count": 74
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 30
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
@@ -98,6 +98,20 @@
    "source": "AEF info",
    "ts": 1795187308,
    "theme": "alt"
+  },
+  {
+   "title": "Facturation électronique : le fisc fait un premier rappel pour les retardataires.",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTJnMVUyVjBHQkpVRTZwTUlGSzlSVDdZZkhieDAyNld0cm0wQm5ybmZfYmNtMDJ5Zl9WeVhZdVpNcVdOaUV6TW1xNnBsQ2RjSUFIR2l2U3pIZmVhT0FYeHdndTFNUks1Z3diQk56bHoxZDNZVGJVVXJQdkNsbXo4bzdSa2VEcXlORExoRU5BWTI2aHlyUFUxVW9TU0FDTnJVMDlGSEdrU3FSVzE0LXhj?oc=5",
+   "source": "Corrige ton impôt",
+   "ts": 1795187100,
+   "theme": "fact"
+  },
+  {
+   "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
+   "source": "groupe SVP",
+   "ts": 1795186800,
+   "theme": "soc"
   },
   {
    "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
@@ -828,6 +842,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Auxiliaire de vie auto-entrepreneur à domicile : contrôle URSSAF, requalification et comment contester le redressement",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjBiQVI2eVdSZ2hMdnp5VFFEQTdoaHg1bEhGNVBVT0lqWmN3OGhUbjRISVlVVmtUWHdXVVNfY09iQnpIODY5V2ljZS1DNVJHRWdpX2FZaGNKd01IQ0xZM3BsdjJsSGVDVHlDWnhsSk9UcV9fZWVxOXR2U0xhWVNHSHNHS2U0bUh5UDByMFFfd2JoMzNYei0zaFVCZ3U2Wm9WMWtBaE9tT1JtcC1MWnc?oc=5",
+   "source": "Hassan KOHEN",
+   "ts": 1794982860,
+   "theme": "soc"
+  },
+  {
    "title": "Insécurité, erreurs de médicaments : les inventions bluffantes, du bijou qui sauve la vie au pilulier intelligent, mises au point par ces étudiants varois",
    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbU1iN1ZMa2dRNlNVajh4WktSUU0yQ2JCc05HSHNyQnRJYk4wVTNnd1c0Qk1tRHI5aWpISUJldGN4ODQ3dVFxcmFVQVpsUllHMHUybElPWU41N1JQQUFOWUJSNG40bVhwUmRyU2dDMTJLRW5jWUR1bWl4N2djUlBMZjFmWlpuRnZGZGJXeE5sbFRfdWE0aGJhblM2WGdHU3VsX05LaDdQLTJScmpBSFZfZHIxUmk2NlhjSUdoUS03UFEyMXlnX3ZtQXZUS2NIcDZfWm82blpRTDRwMmJDdTBpYkNNQWhtVGtGc3FrbDA1S2I4NnBjeDRnQ2xrdkJ5NGktVG1oUWlUUFZpUTdFbzFRT3JmUTFRX0FwUklyaw?oc=5",
    "source": "Nice-Matin",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOODNnNVRIV2dXWFNJWl9ZVWNIZHBtZTZFcEJNRmV6cGlRaEFwOEthRzNrRmdTMkFqNl9MQl9EY0RQUk9CZ21QTmc1Z3I1Z1JHamVOV2lKZndXZnJ4M05jdTYyTy1YUDg3QUlRODE0UUh1RWs3aFBNamFiel9xSlVoTHNFbF9wYXVHU284a0dyRTk4Y2xoZHM5SndpX0xKYkdtVTA0SE51NTFGei11Ry12R2FzVlFuYnZuUnZ3VGRvY1lFU2tMU2dTMWVhVzRLNE1WbUtfMjJjUVk?oc=5",
    "source": "L'Opinion",
    "ts": 1794912432,
-   "theme": "fisc"
-  },
-  {
-   "title": "Revue de presse Sénégal du mardi 17 novembre 2026 : Diomaye Faye obtient un compromis sur l’OIF, le budget 2027 sous tension",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOGlFeUhXVXdkWDB6WUdQOHpyY1FLNzM0MGdFRG40THd4SncxcW9PbG84azJraVR1R000QWV0dHMwVTZDdDJLVGlnWHE3Wm8ycUtlRW9kSnJHNGs2b1pyQm9RVDcyQjNWRFU4cV9iVTJHZmZhWnBlVGE4WGJ5QUY0MlhSUWlPelZ0UVYwRFJ3WVhDRG04YzFiTEJCUHNtcFRvWElLbUhsZ3Q5N3RpR0VleEtNZGZpckR5YWIxb1czYTBNQ0dfZ3plY1hzd2dXM1dNSHVzNENWYklvWnc?oc=5",
-   "source": "Afrik",
-   "ts": 1794910899,
-   "theme": "fisc"
-  },
-  {
-   "title": "Missions d’experts : séduire les jeunes et agir pour l’attractivité du métier d’expert-comptable",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZBWXpZX0p6VnBWdWIwMGUtOTIwMTlDZDV0MUVQWG1IZFpfbFVjcUJ5UDhGY3BUeTZ2OVUtRXlsQURMaXVGY1lOaFc5UUN6N0l6U3ZHOGJjVjNRNmRsM0lRWG8zdk84VXd4dk1tX0dmbmpTaHpsbXV5WW1Ed2pwdTI4Ym5vYmpHSGo3UzgwX2VvbVFZZGtDNlRxM0F4bFVoaml6RkZfek1URWxlLURqOFB1WTFJc3lBLU5QX01QbklLd0dQ?oc=5",
-   "source": "La Semaine",
-   "ts": 1794910800,
-   "theme": "compta"
-  },
-  {
-   "title": "Captives de réassurance : l’atout stratégique qui séduit les entreprises françaises",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1BaTlNsYThjZXhzUVpwN0xFVWUwR3ZOTmpCVTNudU5uSlJXTXhHMGxsRTJkNXJkZ191U2F2ZjFMc3liSFBLRUFYSHZtQjZYWFRxY2xZbEJReXVvOHBhVzI3NDRTUlIzdmgxRlJZaG9fRy1vTGJwczVSVWVEOEI1bGljYTdiY3cySUFBRzNUbnhla0pnM2F0MUNlYmFkcVhKY1dELXZGSnQ4RThib0RzbFBaQQ?oc=5",
-   "source": "l'Opinion",
-   "ts": 1794907800,
    "theme": "fisc"
   }
  ]
