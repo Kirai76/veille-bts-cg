@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T22:58:00+00:00",
- "last_success": "2026-11-20T22:58:00+00:00",
+ "updated": "2026-11-20T23:56:56+00:00",
+ "last_success": "2026-11-20T23:56:56+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 75
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -50,17 +50,17 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 47
+   "count": 32
   }
  ],
  "items": [
@@ -70,6 +70,13 @@
    "source": "https://horticulture-abadie-pyrenees.com/",
    "ts": 1795199872,
    "theme": "alt"
+  },
+  {
+   "title": "Facturation électronique et GMAO : un duo utile aux entreprises de maintenance",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVhVa3JyYVE1SEZwRnlxbTVLLXlnVGpYTWtCRFgzMmdPaUVpQnBnc0RqbGtycTVHcmNfZ0xZSUpmekxmUjJtN0xxUVQwZnZCSlg3TUZDbi16SkFYSXpZeW5TdGJRS0RMOHA2NTJXeV9VWE1QVkRSWlJSeV9mX2xpOWRUc1JXMDFiT1phZURpVnRVanRIVWE2UTdWbjBGVW1pWU0tS0cwMkJmYmludFNIZDlkVUc?oc=5",
+   "source": "Batiweb",
+   "ts": 1795198411,
+   "theme": "fact"
   },
   {
    "title": "La FFB appelle à préserver les financements de l'apprentissage et la gestion des contrats par les Opco",
@@ -261,6 +268,13 @@
    "theme": "alt"
   },
   {
+   "title": "Facturation électronique : le piège de la simplicité pour les PME",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2FEa3BGNzdHdFFMYV9HMFdTYW1XNnJOc21fQ2hHU1RDX2RrdFNZYmJEaW9nQWtqM3VVc2RkdjdrMWQ3cF9VN1ZOLVNsa2h0eHdKanFKQ0h5U19FV05pWkRuQ2lNMDhUNWpONF8zQ3JhU0xzdXFmOFJmQTFxNWZWLWpZSEVHcmo1bGVud1ZCYVMzcklOWmY3WTByYzEtQXV6TVZEWmpVcm1QNUI1ZHdFaWYxONIBuAFBVV95cUxPblp4WElTaS1vTHRXanR3LTNURmYyQ1RLR05tT2lVZWl4Y2J4OXdfamFaQ282RWVndDlLUVA5VFFjTHRrdDM0TV9lZkc5OFFaM2pSYjQzU1gwUVNnN2JMOFZGam5GWS1XMmVuRzRhLTQ3ZFJzdW44dDFNcjh3WjczTHFCenQ1Y3BQdDFBTnlBaXBUUEVVSnlsMkdrRkVYMFQ2UU1Wdm1ocmxtR2RiQ01KV0pGTjI0UTlC?oc=5",
+   "source": "Beaboss.fr le site des dirigeants de petites et moyennes entreprises",
+   "ts": 1795154747,
+   "theme": "fact"
+  },
+  {
    "title": "Des directives prévoient une réduction de 30 % de l’impôt sur les sociétés pour la période 2026-2027, et des conditions plus strictes s’appliquent aux scissions d’entreprises.",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk5DQ2FYVzY2dldiWTlkNWdCRFgxNGNEc2xJT2gzUHZHSzBrUzRlZXVvQ0V6RS1hUHJPYzE1WkdYZFg4VGlRdm9sM1ZJcHBPemNaSVdFeHU3cC05Mkd3WTdtSjdCeHpwRVVuMzZfVmlVR1F6TkJhaGhTT2pKYzZkUWlzeVQtd0s3SjBRNEdPTTJPcEdjY2Nub3Jxb3hJa1cyYkp1R3NMX0NJU2lMRXBKTmF5UmcxU3NpV0VKTWhNY3RNdWRmYUNyREk4UQ?oc=5",
    "source": "Vietnam.vn",
@@ -405,7 +419,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFZUTHNvYmNvZUh0VmhIdk5vcTRZZ0JzVXo4SEhtMnZxcWRGYlFrWThoZXN2Q1M3SmVhU3lmR3kxU0k0QktTS3J3QXhvd3BtZnctVThEbF9hdEVVV004OHU1X0hiYWdhOFJfRzF2d2VHdjgtU25lQXl1Q2Q1dlpfdVJQaWRxN1pMaEU3S0NQZHNpNl9ZTUpnRHF3OGo5LVFvaGg5OE80RGRDWUVNWEhmV3hKZktCaXA2YU5zZUJ0TEs5LW1OT1lLVjA2YmVvOE1hamc?oc=5",
    "source": "L'Union",
    "ts": 1795098063,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
@@ -571,7 +585,7 @@
   {
    "title": "CFE et SCI : seuil de 100 000 euros, SCI à l'IS ou familiale, quand la société doit-elle payer ?",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRkNhd3lYa2FCMndlbk95SV8zWFF6NkQwdGtFeU05TlE3YTZIc1R3WGVGczVnR2RlUzlkMXhYTmFaMUdPM2NlWEpWbHozOTkxY0MwdzV3UjVCU241V3YydGVNUG1aWkh2aE1xRWJCZFFmNFdTcEFfMFFEb2l4RkE3MEpxeHJuM3JWUWt6azhETkRneWstY1E?oc=5",
-   "source": "Maître Reda KOHEN",
+   "source": "Reda KOHEN",
    "ts": 1795061400,
    "theme": "fisc"
   },
@@ -693,6 +707,13 @@
    "source": "Zonebourse Suisse",
    "ts": 1795017202,
    "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : les TMC face aux défis du premier bilan",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVBaLUNRYnBIZS1lVlF4WVJWTEhmZnBLRmpaNVc4TnZmSkNSWkplLWNaV3ppTFdKZHFucHhlTVhFWGdaYzNpSUpTYVpzZU5iSVZ3WFBBMi00Z1dqZy1uSjltdGV6YVBHclBKU0Y4UnBiQUswQl9fOFpCS1hjTUhRN1o3eXVTRWZOOGQ2cE5ubFdqOHNsUmZwcGxPWEVya0s1enhSUE1nRlVWMWFTTWJNREU5ZzRKQVF2?oc=5",
+   "source": "www.deplacementspros.com",
+   "ts": 1795015558,
+   "theme": "fact"
   },
   {
    "title": "Le RN veut réaffecter la moitié des contributions Formation au financement de sa réforme des retraites",
@@ -941,8 +962,8 @@
   },
   {
    "title": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5vYlhKZkJPVEV3aUlZb2JNejRxY0FUa2hKc2pLR0dUWTJLd1RfUk5mMjlZX1hyelJLZDBnY0lWR0FQcTNtZXdidV9BQ01IQktuYlJnX3NuYXBpWnlfZUZFVUxacXlHWjVvR19qaVJ0VFZ0bkpWemttTXQ5Nm9fZHFoNWVXSHA1a0ZhdlNubw?oc=5",
-   "source": "Yahoo Actualités",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFBYemllS1d0aWI5cG9PT2cyRU5md3RlT19weFVIUElBTnRHSm1mNUNzeWpBMk1LN29yUlo3UDJzcnRla2xRbzljYXc1aEViVnVDVEJRNzN1SkZ1V3h1OXZqaUotQnUzV2dpUjFvRm5KVktGQ1dnempQUlFLNXM2UF9RTkJQbXFFeXFPTkN3R1U1Y18xWkNvVWVUSHdiVXBDbllXN1JoemM0YU5WZGlpRWl5ZFpXWFlWQzVhTG5rS0JYTldkSkFUcWRINjV0ejhiVzRBeWhmZWtHWFhudXlkNWdxcUE5ZHB4aVlTOFZSdjQ3d1di?oc=5",
+   "source": "France 24",
    "ts": 1794929495,
    "theme": "alt"
   },
@@ -1092,27 +1113,6 @@
    "source": "BFM",
    "ts": 1794916503,
    "theme": "alt"
-  },
-  {
-   "title": "Retraites : le RN promet des années en moins et des milliards en plus",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1NGNkxjcEFkYlRpNklHUEdyWGZqbjRRTzRWVlA0NE8yNVNxczlfRjQyM2FSallKNzlDbHlmYm9Ydm9PV1A3M3Rkc3c4NHBoTHRSUy1MeU1oaUhIUU5LT2cyNUhqQ0FHcU1Rc1RLZVRnTmRRN3ZRNEhwN3dfM3NjZWR0R05OOEN0ekhtWl9IY0tlR3hvc1RaaGdB?oc=5",
-   "source": "Zinfos974",
-   "ts": 1794915781,
-   "theme": "alt"
-  },
-  {
-   "title": "La facture électronique, ou l’art d’emmerder les petites entreprises",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem9WOVZDWk16dlEtLU1EM2JoemgtUWlSUFFTWlo5UGQ5SnRoaVNxTEszSzJORmtoZkFpbzF0RmFtWjA5ZTBvWnpFUnNEbVpzUUJPYmhoQzBQRkY4MDFwbFpSMUlYczgyQllxRnZVWUVEVjdMdTlfSXNwNW0xUGFsOW5hVmU0Ylp6V0ZKWTlDY3dFcnBVajBQWVNnWjRySms3dWpvRy1RQjJ5WGhhNWlaYzNn?oc=5",
-   "source": "Journal de la Corse",
-   "ts": 1794912997,
-   "theme": "fact"
-  },
-  {
-   "title": "PLF 2027 : IR, hydrocarbures, tabac… les mesures adoptées",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOODNnNVRIV2dXWFNJWl9ZVWNIZHBtZTZFcEJNRmV6cGlRaEFwOEthRzNrRmdTMkFqNl9MQl9EY0RQUk9CZ21QTmc1Z3I1Z1JHamVOV2lKZndXZnJ4M05jdTYyTy1YUDg3QUlRODE0UUh1RWs3aFBNamFiel9xSlVoTHNFbF9wYXVHU284a0dyRTk4Y2xoZHM5SndpX0xKYkdtVTA0SE51NTFGei11Ry12R2FzVlFuYnZuUnZ3VGRvY1lFU2tMU2dTMWVhVzRLNE1WbUtfMjJjUVk?oc=5",
-   "source": "L'Opinion",
-   "ts": 1794912432,
-   "theme": "fisc"
   }
  ]
 }
