@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T18:08:14+00:00",
- "last_success": "2026-11-20T18:08:14+00:00",
+ "updated": "2026-11-20T19:13:50+00:00",
+ "last_success": "2026-11-20T19:13:50+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 72
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 86
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "query": "plan comptable général ANC",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "query": "aide embauche apprenti",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 31
+   "count": 32
   }
  ],
  "items": [
@@ -76,6 +76,13 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGZUa3dTUTR2SnltMHk4NTdFanE4M19ZQ25SM0RGOG1YMW9lX0lkYTZMLXZ4cG5pbmVaR1dWelJlVnVsT1h0dzVBZWQ2Z0ZKcHRoS0ZOWnczTzZaaGxFdVBOUmg2UTctOHN3YldrSjlYaXluS01LZkJrVjJuLUtKQ3ZkTFZiOWVBc0FlTy1VU0RUdUd2RWl6Z0NVTFhVVnp4Xzd6UDJtY3VYTWJiWHV1Xy1iS2tidzg?oc=5",
    "source": "Tunisie Numerique",
    "ts": 1795191405,
+   "theme": "fisc"
+  },
+  {
+   "title": "SARL devenue EURL : comment conserver l'imposition à l'IS ?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbk0xSnktVFdUSFYwUmZkbVVxZFB1RG1vMWNfLTFNWDJlWmJBa1BNVTFNVXgweExiU0RtWF9tTTlHR3ZvSkZxaXhCRkFVN1RDOEo1NFc0Q3JkVDAtdkZxMmVCUy1oZ3kwNmRXYWIwOHRaQUd0ZmtPUXJUT3ZON1JqY2JDZUtrR09sTlNzeEl5eHlUbk90ZGlNOUtWYm5pOHFXWDMzZjVYRTR2VHM?oc=5",
+   "source": "Bpifrance Création",
+   "ts": 1795189886,
    "theme": "fisc"
   },
   {
@@ -98,6 +105,13 @@
    "source": "panorapost",
    "ts": 1795186800,
    "theme": "alt"
+  },
+  {
+   "title": "Les sénateurs devront s’exprimer sur la suspension de la facturation électronique",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMlYyYTFWRklQT1BlM1BFb1BrZTdEMnJHRUhiRVNDS0RNSGdxZTl2QklJMFJCdzhSVk9QUUQya2NrX3J0bmIxRXdOMHgtUDNKV2xuNDFEYVpDaEdfTUZ0d1Q2cFZqUzd3bmZYTm00UFpUYS10eTZVY1VGS2d0b0NVMkU5OHpmRzFfaDFYNzcxeGoteTJTT1hla1pwM0FXT0w2VW84Ym16Njh1ODdRb21od1VkenZtNzM2N2NHekt5Y2s4RDhDa2VqZzdEMGxpTk9kdVJweTdjdUQxaWPSAeABQVVfeXFMTm1ZbW1Wa0hTdHA4WTV2U0xmQWJsRF9pMG96VHlTMmVES3BGblNtRng1dWJGSnBPZE85RV82QjdYeXM1ZlhTSVpjMXFkR0gxcG9OeTVLdEVjYy1FMGVNeW56TW8wVHh3WEJNWG9aWlRsN2VsLUw2UllZU3lHNzFnZE9DbmFMSzhDdXRqdzVjUjNKRkp2ZkFkb1c5bTJCSkgwT18xTUhLSEpFSFExX184NDF2YVlSVGY1Y282Njc4YzJCZ3A5MmJ5OWJSeGxXemdKdVhjYlRoajk1QVo4VnZmNkI?oc=5",
+   "source": "La France Agricole",
+   "ts": 1795180680,
+   "theme": "fact"
   },
   {
    "title": "Modifications et ajouts à certains articles des lois relatives à l'impôt sur les sociétés, à la taxe sur l'utilisation des terres non agricoles et à l'impôt sur le revenu des personnes physiques.",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jSlVzWVJDdUNVNXVOZzl6MERfT3dOQUhBRXpkZVhwVncwbmNYajhuM0pzT2FYS3BfdFZfRVJBV3ljb2J2NHdBRUsxdHZFZw?oc=5",
    "source": "AEF info",
    "ts": 1794903886,
-   "theme": "alt"
-  },
-  {
-   "title": "Crédits d’impôt à l’investissement dans l’économie propre",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY1c3YjBReHBkRXp6d0NmZUtNU3ZHdDFYeGUtNXZERnpPYmoyNnNad0FMYUJqeFktbHpzTVlmTHFibDVadmgtY3NMZ2pxNVh0aE15bERSWG1qcHdBWGozS0dKVU9Id052YWcxbUNUbnlicWd0a1YwV2lvdzVwU3pLbkdlNHdSUWdBUjI2R2V3R0dRTl9WTktWNVBmZzBuNHZEYmlQWE93RGU1azJ1eEt3dUVRYzc4R2U1STg4U25FTFYwdHJia3BxOFZtZ1RUTHk5MVlwVVBEV2lDQ3F2LWJ0eGFSOG5saHJIUEplV0UwSQ?oc=5",
-   "source": "Canada.ca",
-   "ts": 1794902400,
-   "theme": "fisc"
-  },
-  {
-   "title": "Comptable ou expert-comptable : deux métiers que l'on confond souvent, mais qui n'ont rien à voir",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkJFSWtkNGxGZGdiYkphUHJZMlhnS3d1MFAtdTBWYWhQLTItX3A0SGsyaWhKVHg3VG1BYWFETzdfT0h0cGZwdTRPSWxOcXVLcW44OTFBQzN1ZkM2MjZ6MlNjVUw5NVduSzhZemNxZDAxTlhzNDRNZnhDaFE5VDlOcmJGQUlSNlpMR2dBMzZfMTNXM1pOakhEaTJyM0NUV0FGNU00V2hNblA0OVZxQXRCemRXb0drRy0wdk5wbFZCU3VCb2NCaWNOUUZzM3lSdWpN?oc=5",
-   "source": "Economie News",
-   "ts": 1794902375,
    "theme": "alt"
   }
  ]
