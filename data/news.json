@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T05:13:25+00:00",
- "last_success": "2026-11-20T05:13:25+00:00",
+ "updated": "2026-11-20T06:18:36+00:00",
+ "last_success": "2026-11-20T06:18:36+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Des directives prévoient une réduction de 30 % de l’impôt sur les sociétés pour la période 2026-2027, et des conditions plus strictes s’appliquent aux scissions d’entreprises.",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk5DQ2FYVzY2dldiWTlkNWdCRFgxNGNEc2xJT2gzUHZHSzBrUzRlZXVvQ0V6RS1hUHJPYzE1WkdYZFg4VGlRdm9sM1ZJcHBPemNaSVdFeHU3cC05Mkd3WTdtSjdCeHpwRVVuMzZfVmlVR1F6TkJhaGhTT2pKYzZkUWlzeVQtd0s3SjBRNEdPTTJPcEdjY2Nub3Jxb3hJa1cyYkp1R3NMX0NJU2lMRXBKTmF5UmcxU3NpV0VKTWhNY3RNdWRmYUNyREk4UQ?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795153142,
+   "theme": "fisc"
+  },
+  {
+   "title": "Cyber Week 2026 : TVA et e-reporting sous pression",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdEEwNlMyMzNkZ2tNY19UUDB0MXJPeG1td01RenRiQjZhR3B5UHRHSWFoNUJNTXhZcFllek5PSnFmSFo1Z3JkWWo3UjJzQ1dCQVZ2Mm15dnlUSWJmMDBaZGM1YlpTWFh4SjRGcFdXT0M0NUwt?oc=5",
+   "source": "business-times.fr",
+   "ts": 1795149720,
+   "theme": "fact"
+  },
   {
    "title": "Facturation électronique : le mail de la DGFiP est-il une arnaque ?",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTW92WnRvYjFNRkNHTmxNRk5FYWJlZDMzQ0g3eEdRT1h6TXhkSFRGZFdsUjJmZTlVUVVsd0lZVUhGZXhwS1JoTENoRmRuR2VLYlIyT2syNVpvRDRsMmthNDByZ0s1Z2wybW9nQ0dMTTFMRXl2ekRiM0p4bVRkdHdXLXlySXlET1ZwVjZMbWNqY2Y0Z3Z1?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUpQVjl0ZHZaV2hFWENFT1Y4RjdlYkFmUHRVY2o0SVBuYVdkdzVPTjZ0d2RZYU5yek9ZRHRDUXJ6SnRNd2lORi1GcEpZR2FpZzhNVEtvcHlLcmR0UmdmNk0zdTR2d0p2UlRTNGRJOWppU0ZDWVRyUlczaDNjSVJBZTdDbzdwbG1SWVdGZmszenZKcWFWV1VMRy1mZ0Rhck5DZS14WGN6UHBaVjRxeG5qc0hSVnMyTmc4c3Jxbw?oc=5",
    "source": "Hespress Français - Actualités du Maroc",
    "ts": 1794769320,
-   "theme": "fisc"
-  },
-  {
-   "title": "Projet de loi de finances, Confimprenditori : « Les entreprises ont besoin de réformes, pas de primes à durée limitée »",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODdCcURhZWpVejdvNk5aQlVBWjhTZHlUcU1DNk9TTVVpU1BvSVBMalc1SlhPWjIzLTgtQTYwSElBRmY2M0g5SndFN3VUQmFCRDNzcHFCSFJEbTFYc3FXMXJkRjdxSWxhM0k5SFUtSnh4bHhZT3RkdFlQUll4Rk1XQWtwRmw3WEx1ZjZQMzRXeVZrNnJ0OVlIWDlSUnFoZFpBZDlqX3duazdqbVlFWktVbldXZF9yeVZxV0lMSTJiazNUYkhyaFU5Nm5hR0RmbEE3UTB1QnhLR3h6U3ZqY0MzWHhaVk9aNkVfTUJEMF9UNjM?oc=5",
-   "source": "LaPresse News",
-   "ts": 1794768241,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : la Chambre des représentants adopte la première partie par 179 voix contre 126",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONThSU2UzYUVjVnNpRV8yUHNZN19VeUpVU1Y2YnBCQ1BUT25wLXFMR3RKdnZjMko0NkxyVzNBOHZ3ZU1vbjB0UXBrZmdYYlI5NHJTU2tlOHZUMGpjbFF3OEF0MFltQS12am1OdEZpeXphTDkzeGRPNnhIY1JDZF81czVkSVp4ZFhHUVhUckpaMERYbERYYlByUFVpSHBkMmFLY21rbmhR?oc=5",
-   "source": "lnt.ma",
-   "ts": 1794760590,
    "theme": "fisc"
   }
  ]
