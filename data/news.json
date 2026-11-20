@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:17:00+00:00",
- "last_success": "2026-11-20T10:17:00+00:00",
+ "updated": "2026-11-20T11:18:19+00:00",
+ "last_success": "2026-11-20T11:18:19+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 76
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 26
   },
   {
    "query": "BTS comptabilité gestion",
@@ -919,6 +919,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Pas de désindexation des retraites mais une suppression totale de l'abattement fiscal de 10%? Voilà le compromis négocié entre le Sénat et le gouvernement",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPc3VmekZMU2xDb21NcUVtREh1QkRuM20tdE5BRU4wOGRwYmVnWXFkZ3IycHJQM3ZwMXhXbkpVVlR3WjJGX0VtM092Ykxpck0zRG91QTA3TU5VOGs4bHVPWEpsOTFrZm1xa0x3Qlk1bDJuNXlaYTI4V3U3OTBIWV9WeDBFZ3JwbWN6RUZ6by1xcERsVkRual9yUWQwckNGb1dWY2J4TFBOdmhoWFk4dTRqTnR4ZGVpcUotcU5tcm1qdlo1aUpSLW1mZC00RGpza0VYSVoyb3o2MGVrRFF0a3ZLNVlPVGVVeElkaS0tQTd3NmZhRUlyYnV5T0FTZkMzQWpqbXRSblVCdXQ3UFI4SzNkc1dzLTFlVG5ndXZSdE14TWE4ODVvcGxMaDFrR1ZJTk1RMU1MSGl5cEpDbU8tdGp6OENB?oc=5",
+   "source": "BFM",
+   "ts": 1794894858,
+   "theme": "fisc"
+  },
+  {
    "title": "Expertise comptable : à quoi ressemblera le cabinet de demain ?",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUtGS0w0RHgtc2ZfRExNOS1vOTlnanFpbkhfMno2NjJMd3ZwVU81UHdFM0kxZ3ZLaFA0bzlNV1J4UHF6bjJodHRHX19pOVpSNjctdjNKVnRNQ200SWg4MW4zbE11ZEtoUElXa1RWYXRldE1YdkhjM1lkazg1S2pzWm5tUQ?oc=5",
    "source": "Compta Online",
@@ -1001,6 +1008,13 @@
    "source": "l'Opinion",
    "ts": 1794844800,
    "theme": "fisc"
+  },
+  {
+   "title": "Emploi & Recrutement : Handicap... ou pas cap’ ?",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcko3eUg2SGpWZ2tSWHlRUmdrN0NRNWs4X29fVTctcnNsQ1VxaVBTRWEyQ21yS2tpU2s4V01naHJLRkVoc1FRRXJpZ2ptY2JoeVFaSWRjR21qbkFxd0J3VGhnLXlLVFNLMThSSUgxa3F5Q1V4MlJDRkVQbkFGM2pad2NKWQ?oc=5",
+   "source": "Zepros Négoce",
+   "ts": 1794842940,
+   "theme": "alt"
   },
   {
    "title": "Hub Business Solutions : les 6 modules de la suite HBS d'Épithète",
@@ -1099,20 +1113,6 @@
    "source": "Les Echos",
    "ts": 1794820808,
    "theme": "compta"
-  },
-  {
-   "title": "Marine Tondelier sur LCI : un smic à 2 000 euros brut et des aides sous conditions",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeklNWk94Ymw3MHk4YU9la18tYUg4TlE4am1tTGI1R2NzWWdfVkpUZzNkZ0NUZmY2N0ZDZnNOLVh4S0VfVmhxeS10TXlEVWVRMnZpSjYtRkNDRXlfbTQ1TWZiZXJVWDkxZDVwZVFydzk3R1pZMFFieGpZUHo5ZWZkbmJkd2s0UFgwZ0Q0?oc=5",
-   "source": "Politique Matin",
-   "ts": 1794818998,
-   "theme": "fisc"
-  },
-  {
-   "title": "Micro-entreprise en 2027 : est-il encore intéressant de rester auto-entrepreneur ou faut-il passer en société ?",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXdHQjA1Q3A5UVJyMWJIZG5hMU5SYTVOTlF1YmhlSlYteE9LbWx5Z1EtMkJ1bWtsZHV6RlFaZWM3Tm9IYTJmZzRCNjJaaVV4UWd0c3dldkxqYmxvTFd4S3pCMTlzS3lSZXRxVGJ3X1ppTmN4U1ZfYUpBWGxBX0ZWbmdEaEhsb0hnUExJWWFPUXpnOHdSWXdCcmpOT1VjZC1DSGs3a0g0bFJSb3l6X3JfSlNDUGUxelozdHprVmMtdWkxa1lwZWptaEdOZnBydWRvYk9rSkMyamlRVFFBTVJfVFdFRDJnZzJEcUlRZFd0bw?oc=5",
-   "source": "Carnet Le Parisien",
-   "ts": 1794818901,
-   "theme": "fact"
   }
  ]
 }
