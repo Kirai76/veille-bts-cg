@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-20T11:18:19+00:00",
- "last_success": "2026-11-20T11:18:19+00:00",
+ "updated": "2026-11-20T13:26:05+00:00",
+ "last_success": "2026-11-20T13:26:05+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 26
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,41 @@
   }
  ],
  "items": [
+  {
+   "title": "Modifications et ajouts à certains articles des lois relatives à l'impôt sur les sociétés, à la taxe sur l'utilisation des terres non agricoles et à l'impôt sur le revenu des personnes physiques.",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVW53UmlpMHQxYmlKd1hyVFlPeW9RQklsbXBYamlyVDZELTlfQXVTdUJQSjVKeWJhTWpmdjZqVF9LUUpkNWMyY0h1SV9iSTVfSy1TbzhtS0FVcEF2UjFCbkFsNTFXUkFHMmJiMFlCM1lEbFBoTHUycklsUHJjNmhUQVREczFsSHZiTjJTRkVjNVplMHd2bEtnRE5DS1U5Z3p1bmRtaVZLblltRnNmdVlKNlI2bVZpTml4R2RheklaeFMzVmgySW5OeUJ4Rm9TU21kVy12S0YtVXExTGVWUVdMVmlGMk8tZw?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795179873,
+   "theme": "fisc"
+  },
+  {
+   "title": "Les petites et moyennes entreprises sont exonérées d'impôt sur les sociétés pendant 3 ans.",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjRMallHb0U3dUxrLVZkcy1nUC1aUWJxSFBPamM0Tlk4aUFYSEhsWXNhODBDeVNnNzhQN1NYUWY1eUtMc1U0MDZzd2RsWHJJc1FUZ3k4X3NxSlZBZ0ZrU1BGY3VXMGpUWGpPVXplYk1haGNmQXhwQlZfSU5Dem5TdFpqd0N2Q2g1NkFFTWFQdGUyMXpvRFhN?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795178407,
+   "theme": "fisc"
+  },
+  {
+   "title": "Emploi des jeunes : la CGEM pousse ses réformes auprès de Bensaid",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0tpQ0dpZjBJLXRtbktwUVpYWm8wZkpfZW90OHRVeksxUkpTeThIN3hLVGFXRXpucWFtRTRpRlRuUHpGNE9RcTl3UGFEQnlxbVdQVFpMSkg0MTVBVWt5OTJOclUtYlNHV2p2OGM1RlAyb3ozdGJfRzc5bS1SLXprV1RWNE1HZnN3ZVNoVUZNR2N0Q1JuYXc?oc=5",
+   "source": "Le Desk",
+   "ts": 1795175520,
+   "theme": "alt"
+  },
+  {
+   "title": "PLF 2027 et entreprises: des arbitrages fiscaux aux effets contrastés",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEExbVhEdGRyNk9QRG9ETWY3M0FpazJiZmFnVER3MVI3am1RME5qREdNb1NVRFUzV1p4NGZYVVM3VmcwTTBQZHl0M2tncjBic05feFFiSFZjX1F0SFViTkZmTDd4SzhvZU1aa2diRkZqX3hvb1NlLVJMTFVOTkdtT2sySnhoWmdXd0ZtR05kTFl4Q0RoNjgwMEFhZ3BBM3BsUXc?oc=5",
+   "source": "LesEco.ma",
+   "ts": 1795174244,
+   "theme": "fisc"
+  },
+  {
+   "title": "Emploi des jeunes : la CGEM plaide pour une réforme de la formation et du Code du travail",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjZtQUQtd0dWZlk4Y0NiOE5LMk9SR0lfRG5NSmZ3SWdETnFXR2JfVFRlWEJzNXMyS0gyamZaQkRhZkk5cHFqSzFNRzJGdTZmOU9IWGJYc1F1TW9VSEVJT1ZmdVZoWklTU3FfbkNUOUljdmlpNU1OUXpSNVhxWEM4OEVrWjV3NjZNOWVSWDNtaV9aVmtWNjB1ZE9XY0hiTlg5Ujd2YVdR?oc=5",
+   "source": "laquotidienne.ma",
+   "ts": 1795171197,
+   "theme": "alt"
+  },
   {
    "title": "Politique de l’offre en France, leçons fiscales et industrielles des Etats-Unis pour relancer l’investissement industriel",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFhqU3VzN3I5X0hRVXBXRWxNa0xFcElzcXc3a2RRdGJQWTdxeHA4bS1PWlAweGhyclBacURmcFg0OTdQUElNVUNqb3NFbXBmdldwdDBrN0JhX3JLYk0tWkpvZHNPMGxlUDhCWWJXRDhCbHQ5S3Jza2NHc21oU1RuRXVJZXpsLVlPMkl2U0Z1aWY5eldYLVFUZWRnTTgyTkZkQmg1ekZfbDhNZ3RBalUzY3BFSThSckZpUGczcUVMandXQTUyUkxENmk4Mkc2bFJN?oc=5",
@@ -448,6 +483,13 @@
    "source": "Normandie actualités",
    "ts": 1795021522,
    "theme": "fact"
+  },
+  {
+   "title": "Ils rétablissent la réforme des retraites et décalent la réforme des allègements généraux: ce que contient le budget de la Sécu pour 2027 adopté par les sénateurs",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQTG05ZngzNVhQVEVPYVU0QkNFcjJBV2M0UjFfQWVUUVF1bkN5TDIwSGxabll5di1MU19ZTmxvTWkzV25VVmtGLXc2SzdIWkxCT2RlODUxLXlnQklpUFdwOG1aN0QteThpTlk4MDJacjZ4NlNHZktzY0EwdFJkZ0poU3RtQmp0cTYtTUFtZlZfejBoRkFiQ25fWUFmUTdod2lPcVVLNFAyaFFiRXBwdTA5ZFB4NWFWckFTWXNUTFR6RW9uRzJfRGJwSWJORHBmSnEzS19MQ0hEMkdfRjhjOERLcWZFN3NsR1NRY3MzcEhobWcxNWxrTHU0NlQ0US0wUmJwSk9aUGpnNUNhWUZEU3VIdUdEY0N1M2JpVzJBUF9oRzkzQzZWc29xTUF0Nm5qaklWYUpnUnRTT2xnVnk4eDJfdXpGV0IyRjg?oc=5",
+   "source": "BFM",
+   "ts": 1795020945,
+   "theme": "fisc"
   },
   {
    "title": "2,6 milliards de réduction d’impôt: l’UEL conteste le calcul de la CSL",
@@ -989,6 +1031,13 @@
    "theme": "alt"
   },
   {
+   "title": "Fonds d’investissement au capital d’un cabinet d’expertise comptable : comment vendre ses parts en respectant la règle des deux tiers",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWFJZ0F3SVdQTGZ4TTlLdXRJekV4YUpVbjNLNVdOSjlQUV9WZkhMUmdIOFZrMUMyNVE0SUVlQmlnR1hRSkJJTFNLX3QyeHp6RzFLY0NKVGRmWjdsVEE4ckZrYUZwRnlIWjdQVThUZnhNMnRrSWNFUXV3cFdHSnNVdlljR1VqdHN4YWwwMDRZVDR3TTJERUk1U3o3S2tlVk40UmJsUXVzOA?oc=5",
+   "source": "Hassan KOHEN",
+   "ts": 1794848580,
+   "theme": "compta"
+  },
+  {
    "title": "Collecter l’impôt coûte 41 % plus cher en France qu’en Espagne",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0hhSml6WDFfY3p2VzF4Z05udTVwSEFTVl9SU0paSkQ4bjZrU2NhQS11REx4S1VUY0tWMF9pUjU1bG5zeUJDcWtDc2tTOEF5WmNBY1BxNG5aSkt1RlRpNmlQSFVIMm42Tnh3ZkJSYUhrckE3a2toN0g5M0FkYUltd2ZnOVRXdU95djFvRldTbjRXbDRDT0NpRFVZVWZCR09Temp2Q0NRTQ?oc=5",
    "source": "Contribuables Associés",
@@ -1064,55 +1113,6 @@
    "source": "maCommune.info",
    "ts": 1794830400,
    "theme": "alt"
-  },
-  {
-   "title": "PLF 2027 : les distributeurs de carburants soumis à une fiscalité plus lourde",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81aFdRVk1fdFF6aUJQWFg0cE1JOEY3ZmZfQ0Y3SGtYaEU4cjBhcnZXa1psVEF6YkRJQUhxQzhFZjd3U1ZkbVZVYWxIUEtmM1JBbUxOTVV2NWRQanFtZVk5Q2JKQlBJR2MtbXNLR3k3elNBUDRNSmww?oc=5",
-   "source": "la vérité",
-   "ts": 1794830387,
-   "theme": "fisc"
-  },
-  {
-   "title": "Apprentissage : le gouvernement prévoit de reconduire les aides à l’embauche en 2027",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeXM0ZWhfS2M0bGNBZU9ZcW5Ra2xkYTRxWnBaUTVWanJCSWUwV1BpWC10Q1JMUkFyTGVGUFE4TVhIT3VPamJreFdyQTNYSzdPU1BzYm5OTlViSGpSV2JuckhOTUVKR094dlpZN1NzX1VWLXdtWE9qc0dHN0c2b1I3NUx6OE9ITUxmc0daQW11T0cxa0t2a1Y5ZnUzcW45ZmM3cnA2dVFhdHpHQmswV3AzQUU5ZktPQi02ZmExSFZkMFo1TjF6bTFLUlE5emQ2V08tQndadnZuVjItMV85RG9nMnIyTGRpNFdQU3MzazFpeVlSVlpFWlNGS3dtQQ?oc=5",
-   "source": "Focus RH",
-   "ts": 1794827629,
-   "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : Si Sébastien Lecornu « procède par ordonnances, il y aura une censure », prévient Olivier Faure",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmx0Qk9qTmtYQ3pGTnI5MUlEV2pBMV9VM0JqamQ2MzZGbHFtTE1rWDBTRWlfQU94T1FVNVV5dkRtbk5uWGpRaDAzSl9ZZHpPeUtPWUFtRUNvZ1Q4RDcybjR0VkZoQXJJbGVNWmU0QmRZTTBuY0dEdmlxaUtFaWxtcnVXMERING5CVWlaRFJseDVDQQ?oc=5",
-   "source": "Yahoo Actualités",
-   "ts": 1794824213,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 | Les députés adoptent le projet de loi de finances en première lecture.",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2w0d3JjWUVvWUNXQ1VuNS1qNVRSVV90WjQzVFQ3d1c1dF9wUUJVek1YQk9lazNwVDk0Mi1RQ2xQSGNNY01Ka3pJVzh0bWFGbXFnU2p2akFMWm54a2FtQi1tMnFsQ3lzVDExSmJWeTZuenc3YktfeHVrMWEyV0FmMEkyQmhPM2M5MlVFWFFHcGhadVdHcXF0aE95TmFoNzBldkJ2RjZMSQ?oc=5",
-   "source": "Industrie du Maroc",
-   "ts": 1794824134,
-   "theme": "fisc"
-  },
-  {
-   "title": "« Il faut s'attendre à une hausse de la CSG et de la TVA, qui touchera tout le monde » : l'analyse de Philippe Bruneau, président du Cercle des fiscalistes",
-   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPV1JuVmY3aUtmRDNNMGltN3JMQkhLWEpoc2pzSEJvV3hXMWc0VXBqLUg4Z190Nkl1d04tbERJNzdPWnF2dUQ4RjBjaGhEY21RUzRLRjEzS1lVbmVuS2U5V3ZZMTBIdEhfSnpPT3EyVW5BSUk5dG9ZaVVIZDQwdWVJSWI1NklHVUNwR3dsMWlWamdjaVVycnFyclBZc2VleHZvUHI0VFpJZzF5U2tCeHhweFdxUEZ0bjcyb0o2VGE1bUpIQWs5TFV2VTZ3dEhRbmUwSEZXcU1yU205VUFRaVhJSUlXUlZ0Wk14OHBCc2lrZGhHUU9uMklSaDRSYXVxZ2RGb0ZXVFJfRkJCdkdsdWdfRkhmZnNhdUQyQ2I4cnk0RHBna0ZsRThr?oc=5",
-   "source": "Investir Les Echos",
-   "ts": 1794824107,
-   "theme": "fisc"
-  },
-  {
-   "title": "Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Commission des Fin",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSE12MTd0NWV2aS1tRTBPNVF4aU9pN1QtWENHb1ZaRUU2UGI2OGdZbzNEbzBPS01sUWhKWXU0eWJLc0gtQ0Y0TGdLWXhBUzFMVE9sV1RZNWNYUktwbUNEeTFEeGhFcy1EZ2cwT2tOaGFqSlI4VnhiZEdVY0lYaHFmVjlvTHNWaHJCZG5MQnViM2tHWmNHX2I5Z2VPVjYxdW9NTnMySnJoR2lxT0lKVVJLX3RKMzRTZ2twOWVyNDNTUDZNSUhWTm01cEEtQmtiZDk2akVROTlOUGl3SDZsaXJqVmlxcXFKY2Ruc2pYZVB1eWR2TnN3ZjlUT0g3M3VpUVZy?oc=5",
-   "source": "Facebook",
-   "ts": 1794821801,
-   "theme": "fisc"
-  },
-  {
-   "title": "20.000 cabinets d'expertise comptable : « D'ici cinq ans, il y a fort à parier qu'un tiers d'entre eux auront été rachetés ou absorbés",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOGpYX0ttUy1PTWd6Z1NrNWZweGlXdVNta1RIcnJxTGQwS1ZhZUhKRkdDekdIT3dHTkxTRHlHcndNaWxDVFpRc2xoRGE5S2s1Y3lfcFdHSmQ3N2tMTWJQbDBMTE04bjY4LVYyRjBsZEx4NkF0WElJc1BEc3VzVjMzS25NVmdnRTYxMFhVYTc1Q0dwVHcxd0N3Z1dXVE53UWh5cTk3cXptaHFqQ0U1LWI4dFZXeHpnY1dObFRQdVd2ZU1PeXJzNkVwaE9naHVzazVmekZKYWFiSzQ4cWk1WFJyZnYwUFBmRUVLM2IzYzhxVEk0VWxTdjJFRXNvVG5lMUZLQTRWN0pLVQ?oc=5",
-   "source": "Les Echos",
-   "ts": 1794820808,
-   "theme": "compta"
   }
  ]
 }
