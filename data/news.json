@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T15:06:32+00:00",
- "last_success": "2026-11-20T15:06:32+00:00",
+ "updated": "2026-11-20T16:07:48+00:00",
+ "last_success": "2026-11-20T16:07:48+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 76
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 28
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 23
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Un référendum pour augmenter la TVA: les retraités suisses vont toucher pour la première fois un 13ème mois mais la mesure à 4,3 milliards d'euros n'est pas financée",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQd2VOUmtITU9SYS1QYU9lMDNUcDhEU1lXMjNscUpBcWVCQ0FxRUIzRFBZc1p6cmJvbE4wbDVWREltQ2htYXl4SWhGdUFrTHprVTRqRTVhSGVjeldyNkRCWjY5dTVXLVlOYzNtMjJFNXpuVTk1UjI5cXBUUHY4S1ZzaDF5TFEyVGJzejJldWU4eWw4YlZ0WXBiNk1QcC1USC05ZHdXTTl3ejIwdktrYlE1NG9nTGg1RGd2cnhDUzd3cnFYdUxFak9kMUlhb1VhNHpzVHJ0Ri1RTGJ4ZnRCazN5dkJ2VDhMZTB4V1hYTVoyQmNFczlPVUFxa29SV3ZjcURvSnV6cl94Y3JGUXkxX3VPN29ieFlKaEtJZ3NnUWhNRGE4aTZ1NFFtWHEzTjRVM1VGZTJUYWZIUHViaHhWc1M2aV9ZLXU3UnhYWWYtRHhTUQ?oc=5",
+   "source": "BFM",
+   "ts": 1795187648,
+   "theme": "fisc"
+  },
+  {
+   "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
+   "source": "panorapost",
+   "ts": 1795186800,
+   "theme": "alt"
+  },
   {
    "title": "Modifications et ajouts à certains articles des lois relatives à l'impôt sur les sociétés, à la taxe sur l'utilisation des terres non agricoles et à l'impôt sur le revenu des personnes physiques.",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVW53UmlpMHQxYmlKd1hyVFlPeW9RQklsbXBYamlyVDZELTlfQXVTdUJQSjVKeWJhTWpmdjZqVF9LUUpkNWMyY0h1SV9iSTVfSy1TbzhtS0FVcEF2UjFCbkFsNTFXUkFHMmJiMFlCM1lEbFBoTHUycklsUHJjNmhUQVREczFsSHZiTjJTRkVjNVplMHd2bEtnRE5DS1U5Z3p1bmRtaVZLblltRnNmdVlKNlI2bVZpTml4R2RheklaeFMzVmgySW5OeUJ4Rm9TU21kVy12S0YtVXExTGVWUVdMVmlGMk8tZw?oc=5",
@@ -121,18 +135,18 @@
    "theme": "fisc"
   },
   {
+   "title": "Un partenariat entre Odoo et Namirial pour sécuriser la facturation électronique",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0l2OEVnSmdXcldEY29sOTJqSVNLOUxwZWVPU1ZwWGlLVHdjUlpwbXJDZWxDa3AtQzlMX3pKbXVWWW04b1EyZk9vVngtSktaR3hPZlZhdjBQNnRUb2Jic3JyUHlWMkZMeWJYTHo3TlAxQ1JFaHhyTTVNdzNKV05IUzUxVjItSVRfLTUwUWI2MTM3MmFyTWxwcE1ud043b09Jem5YXzM5RGlQSUl5?oc=5",
+   "source": "Archimag",
+   "ts": 1795170155,
+   "theme": "fact"
+  },
+  {
    "title": "Politique de l’offre en France, leçons fiscales et industrielles des Etats-Unis pour relancer l’investissement industriel",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFhqU3VzN3I5X0hRVXBXRWxNa0xFcElzcXc3a2RRdGJQWTdxeHA4bS1PWlAweGhyclBacURmcFg0OTdQUElNVUNqb3NFbXBmdldwdDBrN0JhX3JLYk0tWkpvZHNPMGxlUDhCWWJXRDhCbHQ5S3Jza2NHc21oU1RuRXVJZXpsLVlPMkl2U0Z1aWY5eldYLVFUZWRnTTgyTkZkQmg1ekZfbDhNZ3RBalUzY3BFSThSckZpUGczcUVMandXQTUyUkxENmk4Mkc2bFJN?oc=5",
    "source": "Atlantico",
    "ts": 1795167342,
    "theme": "fisc"
-  },
-  {
-   "title": "Un partenariat entre Odoo et Namirial pour sécuriser la facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0l2OEVnSmdXcldEY29sOTJqSVNLOUxwZWVPU1ZwWGlLVHdjUlpwbXJDZWxDa3AtQzlMX3pKbXVWWW04b1EyZk9vVngtSktaR3hPZlZhdjBQNnRUb2Jic3JyUHlWMkZMeWJYTHo3TlAxQ1JFaHhyTTVNdzNKV05IUzUxVjItSVRfLTUwUWI2MTM3MmFyTWxwcE1ud043b09Jem5YXzM5RGlQSUl5?oc=5",
-   "source": "Archimag",
-   "ts": 1795166912,
-   "theme": "fact"
   },
   {
    "title": "Facturation électronique 2026-2027 : guide pour les TPE",
@@ -188,6 +202,13 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdEEwNlMyMzNkZ2tNY19UUDB0MXJPeG1td01RenRiQjZhR3B5UHRHSWFoNUJNTXhZcFllek5PSnFmSFo1Z3JkWWo3UjJzQ1dCQVZ2Mm15dnlUSWJmMDBaZGM1YlpTWFh4SjRGcFdXT0M0NUwt?oc=5",
    "source": "business-times.fr",
    "ts": 1795149720,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique 2027 : comment Tiime simplifie la transition des TPE",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERud1BtWVB3dTBZWDdIeW5tdTZ6enI0Y3FYV2M1YXNvcGIxeFc5V2dwbjJyZTJtSTNuNzhBUmpjNF91WXBXMDBRdUZCVlFSRFRvWEpSbFM4V3dOWDBEdG1ONXdLenhUZ0tCeFlhVE5MRHpsdG42NkZ2V3ZzTmlYdVBhNGtKbGprQ3EwaWdialRrVHRiV3ByX1dUd0pOWHlMS3M3WHN5ZHBZWVVCYVFENTln?oc=5",
+   "source": "Stratégies",
+   "ts": 1795129199,
    "theme": "fact"
   },
   {
@@ -373,9 +394,9 @@
    "theme": "fisc"
   },
   {
-   "title": "Miss France 2027: étudiantes, cheffes d'entreprise, kinésithérapeutes... qui sont les 31 candidates au concours?",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUWdDcmItRjZEWFQxcGc1WXhkaExRQmt4clRrSDlBbHhrcTdaVnQ4Qy1Qb2VPY3VMWWZMeHg4QW9BcTYzNlBEVWFHclloVjA3N3JDMjdTVFBCSWEyQTMwTGRqZEt6Y0lLNk9pSVdTWGF3enJoMEtmOV80czZzbFNIbTZBZkJ6VUxpbjE4eHRuaGM3MUtTQkR4TGhGcjlCOVBfalNxZDZCU3BNNXA2UjVNN2hQQlE4X0k2V0hfRXlra19hSUMydXVpV2w4UlZfX1VJZ0FJdEFkazdiVDMzeWY5STdUVDIzYTlnMlpv?oc=5",
-   "source": "BFM",
+   "title": "Miss France 2027 : étudiantes, cheffes d'entreprise, kinésithérapeutes... qui sont les 31 candidates au concours",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDhDWjVjZE1XUVg4YVF4M1FzVUpIZ0FqNFhpZGRLVzRQVkh3VjlBV0xoU2tLY1lOVjRzRDZJbVJNWWZnZzB3WTZ5ZEd6SUU0ekJHZFBxU1pNdXF0WDBncHB3RFFEMm5RaVdIRGhhdHVsRTlKTEIyNDlvcHl2dEdNMFJR?oc=5",
+   "source": "Yahoo Actualités",
    "ts": 1795088363,
    "theme": "alt"
   },
@@ -1087,32 +1108,11 @@
    "theme": "fisc"
   },
   {
-   "title": "L'Opco EP vise 80 % des dossiers d'alternance traités en moins de 24 heures à compter de janvier 2027",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZXE1Nm9nQTBTd1k3YUNQTUdvdjZDLWNOdXh0MWhPdVhWN3FndG4zMGxzNVUwelc4a2Z1WGp5ZEhqa0NiV0pfUUU2TEFvazRGNU9UU0k1WWNIRDdQTWpHTXpwOXlKVFRRVU1uOTBvdDBtTUlpcGdaNmk3dkk3d3k5Qi15N1dZaEJMSGJUZzJNX0NaUE5MdXJxTzZLS1ZEWi1kNFA5RG9ZdXVIM2oySGtReE41cWJlSU9iZzd3S05HSE8xVXRMdkh4S2UxY182Zw?oc=5",
-   "source": "AEF info",
-   "ts": 1794853510,
+   "title": "Lure. Du lycée à la vie active, les diplômés de BTS tracent leur chemin",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTlNJeHZBcjlseHV0X05uMUkyb0dyaWpxXzJqMHU0VUNwRXFKUkZrUElGbkZSVG9lRC1vZWxjZ2Y1S0wzYVhDdjU2dm5rTVhXdUhIa0pvNXVxZmUxMG9mYkVaUFdlMVJaUlBKQ1JjYkhYTTdDWnV6eTZId3FoRU5GUlQzUkU0N0ZVbWlCTTZma2JiaVFfV0Juc0xXSVgxNFdCM2hUVDl0eklOVVNKQVA2dUN0UmdiQQ?oc=5",
+   "source": "L'Est Républicain",
+   "ts": 1794860340,
    "theme": "alt"
-  },
-  {
-   "title": "Mobili-Jeune : les 5 conditions pour toucher l'aide au loyer pendant l'alternance",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42OS1TVzlGSnY0U1JndFJocTFvcDJmeTgyLTN5S21OVVdEbGYycUtzOEZ6ckR1aDNzNFdhSnMwTlVhSW4tVHJYX2dGY1U3Z3NBMFE?oc=5",
-   "source": "Actual Immo",
-   "ts": 1794853200,
-   "theme": "alt"
-  },
-  {
-   "title": "\"Nous avons davantage besoin d'une vision que de mesures pour la formation\" (Guillaume Houzel, collectif \"Avenir compétences\")",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN1YwSk9NMFRhdHRoaVdmRmZHeng3MGN2RC1ra1NfTmZWR2dCcXZMWGtma3Z4QzJuaXpFdUlJQnRvSTB6T2k1RHktZ3hpUjd0bEdDZ0ZCbm9qTzl0OW9PWnc3N1JGRXhTOHJLZEw3Q01rVkNYSTZ4WWZFZExCLWJiN09NWG94R0daWmNiYndZTUtzN0dweTJVdTBVbkxncXk3Vm0tRXoxRzNWc2RId2xXVTNfVUFqNHR3cDgzd2ZFcldualVuOHJKLWw4M2VmWmFLdEtQekpzLVdIYnY3cjNmWklvWW9FOGlLajZHYg?oc=5",
-   "source": "AEF info",
-   "ts": 1794849108,
-   "theme": "alt"
-  },
-  {
-   "title": "Fonds d’investissement au capital d’un cabinet d’expertise comptable : comment vendre ses parts en respectant la règle des deux tiers",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWFJZ0F3SVdQTGZ4TTlLdXRJekV4YUpVbjNLNVdOSjlQUV9WZkhMUmdIOFZrMUMyNVE0SUVlQmlnR1hRSkJJTFNLX3QyeHp6RzFLY0NKVGRmWjdsVEE4ckZrYUZwRnlIWjdQVThUZnhNMnRrSWNFUXV3cFdHSnNVdlljR1VqdHN4YWwwMDRZVDR3TTJERUk1U3o3S2tlVk40UmJsUXVzOA?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1794848580,
-   "theme": "compta"
   }
  ]
 }
