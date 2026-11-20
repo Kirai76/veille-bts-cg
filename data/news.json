@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:26:24+00:00",
- "last_success": "2026-11-20T08:26:24+00:00",
+ "updated": "2026-11-20T10:17:00+00:00",
+ "last_success": "2026-11-20T10:17:00+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 76
   },
   {
    "query": "impôt sur les sociétés",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "query": "plan comptable général ANC",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "query": "aide embauche apprenti",
@@ -65,6 +65,13 @@
  ],
  "items": [
   {
+   "title": "Politique de l’offre en France, leçons fiscales et industrielles des Etats-Unis pour relancer l’investissement industriel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFhqU3VzN3I5X0hRVXBXRWxNa0xFcElzcXc3a2RRdGJQWTdxeHA4bS1PWlAweGhyclBacURmcFg0OTdQUElNVUNqb3NFbXBmdldwdDBrN0JhX3JLYk0tWkpvZHNPMGxlUDhCWWJXRDhCbHQ5S3Jza2NHc21oU1RuRXVJZXpsLVlPMkl2U0Z1aWY5eldYLVFUZWRnTTgyTkZkQmg1ekZfbDhNZ3RBalUzY3BFSThSckZpUGczcUVMandXQTUyUkxENmk4Mkc2bFJN?oc=5",
+   "source": "Atlantico",
+   "ts": 1795167342,
+   "theme": "fisc"
+  },
+  {
    "title": "Les incitations fiscales – une source de « capital d’amorçage » pour la Fintech et l’innovation.",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzdKVE5RVmRBeWFHX2pVVVU5RF9KY3ZmX0ExdXVtUW5UcjJJR0xzeF9JUTlNSEgzZEpNRjNhcEd6T2FtMGRmTTF3cWpxQUpjNVhrOG9tOF85RC1hMWp2Y1dXTFZzLUdKeERrTE56M2haN0FhOW1CZUhvTE4xeFZGVWkyUkFHMjJ1Wk9j?oc=5",
    "source": "Vietnam.vn",
@@ -77,6 +84,13 @@
    "source": "24matins",
    "ts": 1795158013,
    "theme": "fisc"
+  },
+  {
+   "title": "« Sans la production, il n’y a pas de tournage ! » : entretien avec Anaïs, étudiante en BTS gestion de production à l’EMC",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1Z6bmV6RngwZmhfX0JJNlZNVzNaN1VLRkk4eEs0YXV2RmhXRHU4MFdVR1RHRzlqYVpNdDRHWVpYNVJweXotV2xqQ1UyVlEyWVg4bU02d3dwUkh2OXJFUmxtTHM1TGtvd0lFVDdWLTBkb3UzbHFKa2dVOERiTFFMVTc4Q2tZM0FNZ2piTlVTdnpiRnFaMWJvM0IyVXhKVTl1YUxiZ2pNTENPNHdHQmdSTDNnekE2VDJlemlTQXZMUmVOelhVMWZGSk5n?oc=5",
+   "source": "Studyrama.com",
+   "ts": 1795158001,
+   "theme": "alt"
   },
   {
    "title": "Des directives prévoient une réduction de 30 % de l’impôt sur les sociétés pour la période 2026-2027, et des conditions plus strictes s’appliquent aux scissions d’entreprises.",
@@ -119,6 +133,13 @@
    "source": "CB News",
    "ts": 1795114393,
    "theme": "fisc"
+  },
+  {
+   "title": "France renforce sa mobilisation pour l’apprentissage et l’emploi des jeunes",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHo2NHMyR0JMS01Ubk1oY1ZTVTl6eV9Gb1pnbUVPRndKY3RuVGh4UGdvOHp3a1RNVGxkWm1Cd2pUbXdJbVZmS0NZZmU4eVBHSnBiTG42ZEZfakRTZWRkZk50NlloeEpybkxmblg4ZC1hc2x4NFo5Q3N3UmphQlIxMWtrZXBYZ29xLUdyQl9PZ2xncjIteWZNZ2xhbw?oc=5",
+   "source": "Traders Union",
+   "ts": 1795112662,
+   "theme": "alt"
   },
   {
    "title": "Taxe foncière bail commercial : comment obtenir une minoration du loyer renouvelé (Cass. 3e civ., 19 novembre 2026)",
@@ -174,6 +195,13 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpZSzVYMjJzanhkUlBFcWlBUnE5WVF2Uno5Q0E5bHE1Zjh6czI0UFdpZ2FNT0k1ZTlGR0IwOE0yN3FURU5SZGd4SXNLd0JucmRTdHdOYnpLQ09nVm9LRzI4aUhPVDBuTEhTMV9TNVo2Q3I0YmcxQ3Frb1JQUDgtS0xlMFVYV2pNbVpwamlhb3N1dmlqYWVRQzZOcFlFQmNsYlZ4T0dkcG94c1B0eWtfNGRkdDloSVl1aWxVeE1oSUlDMmFNemVDdkxoVGRwTVZtN0pLXzY2UXlWWUF5NE90eGZTOXZZcGNxZkhGcHVB?oc=5",
    "source": "Public Sénat",
    "ts": 1795098934,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facture électronique obligatoire : ce qui change en 2026, ce qui arrive en 2027",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFZUTHNvYmNvZUh0VmhIdk5vcTRZZ0JzVXo4SEhtMnZxcWRGYlFrWThoZXN2Q1M3SmVhU3lmR3kxU0k0QktTS3J3QXhvd3BtZnctVThEbF9hdEVVV004OHU1X0hiYWdhOFJfRzF2d2VHdjgtU25lQXl1Q2Q1dlpfdVJQaWRxN1pMaEU3S0NQZHNpNl9ZTUpnRHF3OGo5LVFvaGg5OE80RGRDWUVNWEhmV3hKZktCaXA2YU5zZUJ0TEs5LW1OT1lLVjA2YmVvOE1hamc?oc=5",
+   "source": "L'Union",
+   "ts": 1795098063,
    "theme": "fisc"
   },
   {
@@ -912,6 +940,13 @@
    "theme": "alt"
   },
   {
+   "title": "Comment se mettre (enfin) à la facturation électronique ?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGNPaGxRaE13RXU4eXBtT014ZEU2ZWhJY20tMW9DWGl4WTQ5MVRNUWgzMTkwQVgtS1JvQUc2Y2dqNWFYT0xLNW1KY1BVVVEyZVp3UUlkTHhfZmFaZmI3TWlQOHhDQUFYamRGcUpvVXVtNmxYV3hfVkhLeUVDaXVabzg3cFRtVkN3ZTFsSDZBMWdJS0piTnpCd3FpOG9kQQ?oc=5",
+   "source": "Maison et Domotique",
+   "ts": 1794867744,
+   "theme": "fisc"
+  },
+  {
    "title": "Expertise comptable: UNE IVOIRIENNE AU CŒUR DE L'IFAC -",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlrOGtfMnNqMTZkR0RDZGp0N19rcmc1LVdCblZLVDcxclgyaXJ1ZWZRYzh6MFgwQ29sR3E4c2RWZ0dabU9DWUZNUWdZbkhrdW1UQi1saldEb01jcFJPRTRHMks1NHh3WTBZZmZseF9ueUI3YTBocWk1c3F5NURWd0dhWGlDMGRwYXVLSE51b01QTS1WcFpUOHE5NEtOQQ?oc=5",
    "source": "Connectionivoirienne",
@@ -1077,41 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXdHQjA1Q3A5UVJyMWJIZG5hMU5SYTVOTlF1YmhlSlYteE9LbWx5Z1EtMkJ1bWtsZHV6RlFaZWM3Tm9IYTJmZzRCNjJaaVV4UWd0c3dldkxqYmxvTFd4S3pCMTlzS3lSZXRxVGJ3X1ppTmN4U1ZfYUpBWGxBX0ZWbmdEaEhsb0hnUExJWWFPUXpnOHdSWXdCcmpOT1VjZC1DSGs3a0g0bFJSb3l6X3JfSlNDUGUxelozdHprVmMtdWkxa1lwZWptaEdOZnBydWRvYk9rSkMyamlRVFFBTVJfVFdFRDJnZzJEcUlRZFd0bw?oc=5",
    "source": "Carnet Le Parisien",
    "ts": 1794818901,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture à 180 milliards : les super riches fuient le Royaume-Uni face à la fiscalité imposée par les travaillistes",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRzY5Q29YUDJ4NzBMQVViSVNWbGRvOTNaNmpwN0NSR2F1SndadEJvOHBPeXc0RGVOTWd3YVppc1YtWG95Ni1XSDZweDJqbUJvT0VPOU0zM2JvbHRkYkc5RlhuV3NyN2RlQjUyRUgwdWZMUWlHX2pnZ2hrc3R2bDloTGw4RkRrQnUzOGYzQmMwZ1dJcXlTQ3QtaGM4UGttNUZURWZrS3dod3FtTENFR3UwTlFNM0U5U1A2UUdEbzlkUUZEYmllUVM3X2dITWNFaFMtTzBWd25wZmVORGJ3dGtXTW9XMW1CS0FobXRwRVdjQ3Itb0JjLTU4?oc=5",
-   "source": "Atlantico",
-   "ts": 1794818531,
-   "theme": "fisc"
-  },
-  {
-   "title": "Quadient : forte dynamique deux mois après le lancement de la réforme française de la facturation él...",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVlPWmlNZ1Y0dXRlNVFNSzhQR05kQjloRXRNR1diTDJWMUFxMVBFUkxTNkM2STNoMnFkWFlycWVaTmhPU3JxR1dvZEQ4WVo2MDJtQWNnQzJIendwTFlGcXplMWNMNVlTUjB6ZWdER2tvWVVQY2NSR1VnTVZCS1ZnVGk1WVpRRFUzMlFiYzQ3X3ZwY2VsbGtjT0N2ZnNlZVhuQko3WEVYZVc4RzF0a0hTWFVqYVlJYzNOTWpUNEdEODFUdFZtSFlIQ2tCNmpNV3pzU2ppR0NHMzhBS19MX1A1T0M1M21yTkhrTHfSAe8BQVVfeXFMT19PcVQzTmZTN1hLNi04cWFTWmlPYV9HNGFwVkc2aWdYM2k4cXk1dF95am8tb0ljV3R2bGNvSGR4ZEdOLWp0Ti0wY2xBU2Z3WEVJWC0xcVUxTFZHeTdtZ1BISk1LQ2ZOd1hxVlprZHpVQk42dWh3WkdKSkNQMjNDb2VtYkQtR3dBaVRjZ1lTdlBSbmZYZUV6ZEZrR3Ayd2JieElKcWgyblNGb3JpSnZnUHJ5d0hlR2JJcC1XV2NOV3RPekU1VVRvRUpJLXpSUVphMGp2VUk3LVlEbXJVSDd3VEdBVDhTMHcxMzZ5ZkoxU3M?oc=5",
-   "source": "Fortuneo",
-   "ts": 1794818100,
-   "theme": "fact"
-  },
-  {
-   "title": "Marges des entreprises : un problème de profitabilité très français",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXlMSjRlYWtUOTBUd3RtZkR6Sm9vRTVMY0dUclBOenFVVTB6TUdYMlNyRHNfVlhzQ1R1eDhKb2c1WXNReDYwNDJPVDBtSlEzUzV6SmxRWDd1Mmd3OUVSS3BUYzhjcEZoTTBwcnBUUko2U2lvNENhdlZMb3FpN0pIUGFiSVE1cFdhWVpucU03QUhCOGllck5ndE9rTkxZb3dKOHNNNGNqRHRNN2JuYmlVb1ZFeGFjZ3JtbWRMUTJ0b0I0dloxLTh0TXhYTHdYUk1fRHNSYVh2MjNuUXFrbUIydXlaMlRvZw?oc=5",
-   "source": "Atlantico",
-   "ts": 1794816390,
-   "theme": "fisc"
-  },
-  {
-   "title": "Grille de salaires 2027 dans la branche hôtels, cafés, restaurants (HCR)",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmY5VXNIeXo5c2tsRDBWTWE4aXEwSzBHeFlfMUhUU21ha3d2cDhPdFpDbFB0WUZoLUJGU2F1VHlwNDhCQnVPUmZvU0NackJicXJQWkRPZ181Q0R0MWhiRHhUbHZpSC1DNUlVd1VLMGtkTTJPaW53NVRidmdLZERqbmM1NERCWEdpN2ZhMUF2UFotOTBhajM0bTRyR0JQWE1OdGZkb0VnbDJOTWdsaTlXNm9B?oc=5",
-   "source": "Juritravail",
-   "ts": 1794816000,
-   "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : Quadient franchit 1,05 million d'entités inscrites",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjVrMC1HcFhSSXhLLUpvQ2ZQU2xFQWpHMXdKdWlISU5oMnNLeEhtODRDSW5vTlRvNWtIOXA1VFdZeER1aWNtY3ZSM3dtUXZ4V1hvYXVPN3FxM29od0JoM1JyNnRUSjA3NUZPTk1qWFlOOVlOeEVCazZjcGFNNUFVVzFJeF85SWc5NWstVHhKaTZQeTZRU3I5N21XeGpVSGVwNWg0NEVldmluM3YyYTdxUVR6RHhIckRYcVNIQlI0a0g3SEZiTm53?oc=5",
-   "source": "Idéal Investisseur",
-   "ts": 1794815160,
    "theme": "fact"
   }
  ]
