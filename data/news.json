@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:58:32+00:00",
- "last_success": "2026-11-20T21:58:32+00:00",
+ "updated": "2026-11-20T22:58:00+00:00",
+ "last_success": "2026-11-20T22:58:00+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 76
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 32
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 47
   }
  ],
  "items": [
+  {
+   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
+   "source": "https://horticulture-abadie-pyrenees.com/",
+   "ts": 1795199872,
+   "theme": "alt"
+  },
   {
    "title": "La FFB appelle à préserver les financements de l'apprentissage et la gestion des contrats par les Opco",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2YwRXZDQ25PbWdodFRZWWNwYVlyZjJweDdWX3loSTByRU00SXN5VlJwWk1kR29PRjF0WkRwMXdPNlZtci1ZanBYQ09nQTg5VG8yRUZWVDVZUnZCZ0FPc2oyYXFkejVJU21pc1d5cXowMGVEU1BzWk4tYXg0elROMFJwM3N1MkR0UzNaeG5SSFE0NFRSMXdSQ09vUHZuUTF2dEtqa3ctcUtTdlVGaHJsdG5HYzFMTVVEOXhGdjFOY2dTengzZVZrUWh6Y1FndnVZSmNfT193?oc=5",
@@ -527,13 +534,6 @@
    "theme": "soc"
   },
   {
-   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
-   "source": "https://horticulture-abadie-pyrenees.com/",
-   "ts": 1795075165,
-   "theme": "alt"
-  },
-  {
    "title": "Le cabinet de conseil et d’expertise-comptable Fidsud élargit son offre",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0ZVNExZTkJLNzdybkdzX2NiOVc4eXVDMXZmbURFZThvRC1YZWg0c2lrRURpT0Vxd2M3YzRMeVI0UU1nZ2hvNTBGUV9BMk9sRksxbXRQV2t0QXgtYkNlVzlMN2M4X0dhYkVOWDBneUNBaXh6dnk3VHg4ZTVSU2xrYThMYW5jQnR2QjIxMlc3V0dOMTl0Zk5mVVhIZ1BLdkh3dVlBZHFCWHNqbVIwdUdDSC1qQQ?oc=5",
    "source": "La Vie Economique",
@@ -941,8 +941,8 @@
   },
   {
    "title": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFBYemllS1d0aWI5cG9PT2cyRU5md3RlT19weFVIUElBTnRHSm1mNUNzeWpBMk1LN29yUlo3UDJzcnRla2xRbzljYXc1aEViVnVDVEJRNzN1SkZ1V3h1OXZqaUotQnUzV2dpUjFvRm5KVktGQ1dnempQUlFLNXM2UF9RTkJQbXFFeXFPTkN3R1U1Y18xWkNvVWVUSHdiVXBDbllXN1JoemM0YU5WZGlpRWl5ZFpXWFlWQzVhTG5rS0JYTldkSkFUcWRINjV0ejhiVzRBeWhmZWtHWFhudXlkNWdxcUE5ZHB4aVlTOFZSdjQ3d1di?oc=5",
-   "source": "France 24",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5vYlhKZkJPVEV3aUlZb2JNejRxY0FUa2hKc2pLR0dUWTJLd1RfUk5mMjlZX1hyelJLZDBnY0lWR0FQcTNtZXdidV9BQ01IQktuYlJnX3NuYXBpWnlfZUZFVUxacXlHWjVvR19qaVJ0VFZ0bkpWemttTXQ5Nm9fZHFoNWVXSHA1a0ZhdlNubw?oc=5",
+   "source": "Yahoo Actualités",
    "ts": 1794929495,
    "theme": "alt"
   },
