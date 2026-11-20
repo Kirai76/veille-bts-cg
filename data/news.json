@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-20T02:57:16+00:00",
- "last_success": "2026-11-20T02:57:16+00:00",
+ "updated": "2026-11-20T04:04:24+00:00",
+ "last_success": "2026-11-20T04:04:24+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 72
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -406,6 +406,13 @@
    "source": "WIZBII",
    "ts": 1795013991,
    "theme": "alt"
+  },
+  {
+   "title": "Taxation d’office Urssaf : comment vérifier le montant après une DSN manquante ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUdZT21tT1JMa0ZZZHNpTVdpYUFCTHV4NVktX1R0TUdGano5TW1KYjhIZ3drNXRmRXZIalh4MGhtUUdxMEpCUG1za0llQmZwZk5nam5fOVJObFRWSUZJR3BZZzg2TE1EazhrRWRjVmwtN3JGZGY5RWJiYXpuejYxODBSb2Zwd0da?oc=5",
+   "source": "Hassan KOHEN",
+   "ts": 1795011480,
+   "theme": "soc"
   },
   {
    "title": "Budget 2027 : 7 005,6 milliards de FCFA de dépenses, bourses familiales quadruplées et 480 milliards pour les entreprises",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONThSU2UzYUVjVnNpRV8yUHNZN19VeUpVU1Y2YnBCQ1BUT25wLXFMR3RKdnZjMko0NkxyVzNBOHZ3ZU1vbjB0UXBrZmdYYlI5NHJTU2tlOHZUMGpjbFF3OEF0MFltQS12am1OdEZpeXphTDkzeGRPNnhIY1JDZF81czVkSVp4ZFhHUVhUckpaMERYbERYYlByUFVpSHBkMmFLY21rbmhR?oc=5",
    "source": "lnt.ma",
    "ts": 1794760590,
-   "theme": "fisc"
-  },
-  {
-   "title": "France Inter. . Michel-Édouard Leclerc serait-il disposé à payer plus d’impôts sur les sociétés, comme le programme de La France insoumise le prévoit ? Réponse du patron du groupe E.Leclerc face à Éric Coquerel, président La France insoumise de la Com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzVkR2RBUTRvdnZBVExRSXdrbklUcG91TDc5VmZNOEs0YVdkcVNNeVM5ODFkQ1BubE5UZm1OLVhDNTdIRGQ5eDZDRzh6UUc0R2FjZnlGOGtRTURHOGJvTEM3bzRzUHZrbnVWZzFobTlxeDY5RkY4dEx5a1pLTE1MTHB3anE3bGdEaExLR1NULUdlem9ISHdubXFDNVVwWXZTYWEzUVZmaW5wZ3BIajhlUDltaVlrMjBQOF9WRw?oc=5",
-   "source": "Facebook",
-   "ts": 1794760220,
    "theme": "fisc"
   }
  ]
