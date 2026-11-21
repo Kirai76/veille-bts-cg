@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-21T04:01:47+00:00",
- "last_success": "2026-11-21T04:01:47+00:00",
+ "updated": "2026-11-21T05:05:51+00:00",
+ "last_success": "2026-11-21T05:05:51+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 75
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 58
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Des incitations accrues et des procédures fiscales simplifiées faciliteront la transformation des entreprises familiales en entreprises.",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMURxTmR0QzJxLTFGcTdGRmt0QjJrLUZFYUNZNGJQTF9CeU5RRjVhYmt0YmZNZG9TczNPdmJ4d1ZWNmpuRE9yN3QtYXUxOEFVUHROLXJFTDIwdXFBUlFqQlJTWEdwYzNSWUNkaVQ0Ukd2czFOM25kZWdHeXRYOU40eUl4alJfUXVJQmFveDUxRnpmRVJSNE5VTWJNUHlHbXExWDlNX1ByVFhRU0tiUlR1RG5JbnVpbzBoVHRaRnVEZFZGcGpi?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795237203,
+   "theme": "fisc"
+  },
   {
    "title": "Suite à la hausse officielle du seuil d'imposition simplifié à 10 milliards de VND, que doivent faire les ménages d'entreprises ?",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVCOE9nVU04UGV1QU40S3N2RWJub0luQnlqQUNyMEI0R1JxY1N4MXJfN0RzQTYtQzhkV3JEZXhabG5iblhoMm0zWXZvbFBjNWtSRjdXMEtocXNXQTM4V1A2dFFOSDFaSHV6UTVNdF9vcmk1WHQ4V3d0RnRxRjh5SFgtYlc4cFlHY0Z6TklPbTNJa1k0VFhxZDg3NXRNZ2kxQVNiOVdzOGw2d1BXUG9hVDdlM3FidkhY?oc=5",
@@ -440,7 +447,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFZUTHNvYmNvZUh0VmhIdk5vcTRZZ0JzVXo4SEhtMnZxcWRGYlFrWThoZXN2Q1M3SmVhU3lmR3kxU0k0QktTS3J3QXhvd3BtZnctVThEbF9hdEVVV004OHU1X0hiYWdhOFJfRzF2d2VHdjgtU25lQXl1Q2Q1dlpfdVJQaWRxN1pMaEU3S0NQZHNpNl9ZTUpnRHF3OGo5LVFvaGg5OE80RGRDWUVNWEhmV3hKZktCaXA2YU5zZUJ0TEs5LW1OT1lLVjA2YmVvOE1hamc?oc=5",
    "source": "L'Union",
    "ts": 1795098063,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
@@ -1102,13 +1109,6 @@
   },
   {
    "title": "IA, management, équilibre de vie : trois étudiants de l'ENOES racontent la profession qu'ils veulent",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZndhSTFEN2lMcno1ejQ3TlB3ZzVOOVAxa1VnN1hnb1dvZUZwbHJvZmFvaDlhNzZ5U09qMkFkOGs2RER0SGszYmRzbnBhclRjS1JFTHYtM0YwRUYtNFVEeXYwR040VTMwWTNfQ1lWcw?oc=5",
-   "source": "Compta Online",
-   "ts": 1794921322,
-   "theme": "compta"
-  },
-  {
-   "title": "Étudiants en expertise comptable : la profession qu'ils veulent",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZndhSTFEN2lMcno1ejQ3TlB3ZzVOOVAxa1VnN1hnb1dvZUZwbHJvZmFvaDlhNzZ5U09qMkFkOGs2RER0SGszYmRzbnBhclRjS1JFTHYtM0YwRUYtNFVEeXYwR040VTMwWTNfQ1lWcw?oc=5",
    "source": "Compta Online",
    "ts": 1794921322,
