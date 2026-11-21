@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T01:24:19+00:00",
- "last_success": "2026-11-21T01:24:19+00:00",
+ "updated": "2026-11-21T02:57:17+00:00",
+ "last_success": "2026-11-21T02:57:17+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 87
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "query": "DSN employeurs paie",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "L'Assemblée nationale a accepté d'imposer une taxe de 0,2 % sur les terrains abandonnés.",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnRSQ2FhQ0YzejRkd3NBY1FpVjdYdjVGT2ZBMFg2TEJieUZGNlBncW80UmFDbVZxa21ldnR6SFF0U1VIeTdjUnNrMEozYU9YbHQ4SmdkTDNfWDZ2WEVFQzJZSVM5eGU5QkY0ZThnZ0NmLVY5bUc5REE0MFItRlVjTE1KZkdHTW5laXc?oc=5",
+   "source": "Báo Nghệ An",
+   "ts": 1795228081,
+   "theme": "fisc"
+  },
   {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
@@ -926,6 +933,13 @@
    "theme": "alt"
   },
   {
+   "title": "Coach sportif auto-entrepreneur en salle : contrôle URSSAF, requalification et comment contester le redressement",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDUwNlQ1RkRnb1huSEw1bW4xN2V4dkJZYWZVdl94OWRBZUNlVmhkUU1paFVrUTQ2bXhBWWpfd0d5a3lRVVVTdDdfTGo1UDBsc1UyQTEtUHI4aGV5aXFESWdaUUNpczVpYlJsQjM4eWs0cURzUUpoaHRxNUlES0N1d0VIUjRRMFBLNi0yYTZZNUU4TFdMUElic3JuZTNRQUZrMTUyWnFmay0?oc=5",
+   "source": "Hassan KOHEN",
+   "ts": 1794936360,
+   "theme": "soc"
+  },
+  {
    "title": "Un rapport d'experts rejette la création d'un nouvel impôt local sur la résidence",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV195a3BNTkFVZEpOQ3ZMb0NzaFlvaEVtMXJCeVI0TUdmSkNQUVBUa3c1YTZLQjdZUWozQkdLQWV5bURSbEQwOTJDODFmY2c0SGQxOFJZelZzTFM1dk9HbGlKMll5RFItVF80T3FoUGVhUHNyM0YzUWI4UVNtNTRNcTZmQVNXOUhqOTZaTWRIZjF2NWdNam40ZTkxajRPTV9Oek84MUFFVmxON3cweU1UamViQl9NQQ?oc=5",
    "source": "Banque des Territoires",
@@ -1099,20 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1794917750,
    "theme": "fisc"
-  },
-  {
-   "title": "SEEPH2026 : 30 ans de mobilisation en faveur de l’emploi des personnes en situation de handicap",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzBxTjJmUTltOWg2bG13ZHU1VmFXTkQ1ZGFxQmZjc2ZSNU9UMW1UckdrTnRLMXhrLTUxMkVlSzJXaUJ3SXA5eFNET3JYV3U5eDAycEtQcjRWcnppTjN5bDVXVGtldVAyWnJ3Y2M4M3MySjcxbUdZRFZneWRqWWY1eGQxWFo0eDBRVGtlQTlSaUY?oc=5",
-   "source": "Handicap Gouv",
-   "ts": 1794916800,
-   "theme": "alt"
-  },
-  {
-   "title": "Âge d'entrée sur le marché du travail, départ légal entre 60 et 62 ans, décote durcie, part de capitalisation... Ce qu'il faut retenir de la réforme des retraites présentée par le RN",
-   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNUy1LS09aNEtwdmcya2dQbzFfN0ZGbXhQNHRSRWhYZkpuUDY4RHpqbUd5azBITHN0RjJZVzl3OFBBQjUxUUtvbUpUQjd5dWJyU0s4ZXFLeTNCSmtjWnRmTUE1R1d5SUJXNmFvRXBkbkJ6cWVNdkE3VXRnM2pGakxkOTcycTRvZHNvT3Y3TlpVdnUzazJybHdnU3RfcVdiODBJNEZKNk5SNW9mN3ZGUUFUUnN3cGdkN0JGNzQ1QUlqUk11bDZCUHNyMFdxWFRCT09JblR1T2tzV2FWMlIyT3ZhREozZjNNRmVkOHA4UWZINE1zZHBjQnJUQjBWNWFlbHlGemh5N0czRmRXQUpUYUZ2YkJrUEJKTXA4ekhWX1ViZTM0Zk1qR2pDZFVLRHZlYVVlMU5KcExTRE1HaFMycXREcExjWEpCYThnLVVTTEFiSFBpaWI5UUprS0tZSVdsQWJVZjIzQkJLOA?oc=5",
-   "source": "BFM",
-   "ts": 1794916503,
-   "theme": "alt"
   }
  ]
 }
