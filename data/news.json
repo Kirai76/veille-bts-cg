@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-21T13:09:31+00:00",
- "last_success": "2026-11-21T13:09:31+00:00",
+ "updated": "2026-11-21T14:10:04+00:00",
+ "last_success": "2026-11-21T14:10:04+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 72
+   "count": 71
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 32
   }
  ],
  "items": [
+  {
+   "title": "Emploi des jeunes : le gouvernement mise sur l'apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2kwQmhGczhJU1lqQmtvblFYNjl5enp0c0J5RnNIdXJUcEZKNkxoZWlmN3dfRHhrMHJyWXJrSUNYRHc5VTJrejJ5VzkyVkdKeWFOcmpwNHAzVzl6REpIR2lXV1JVVWJDTFNTQVJXVGdsMDRnTEJhV3BycUxUckQ4Q2huM0Z4SlJoVUVxNkt6ZWV3amoxWUpMWnpzZEdvSTVydXZLdEQ4Ql9FYncyRExWbGVhY0lGNWFuSDFRRlVNYU9UVXJBclE?oc=5",
+   "source": "Presse Agence",
+   "ts": 1795269600,
+   "theme": "alt"
+  },
   {
    "title": "[PODCAST] L’employeur peut-il faire ce qu’il veut de l’image de son salarié ?",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2dqWUV5VFBxdm9FckJ0RUl3YkZobHpOM2xhbmYxaHZpTmpLalNMNjUwWnVJbHFFUkJsQUhUbU9ubVZURnI2eEdsLUFaVFFaRFRVZkNEUUplUW96Z2JxQWxXY0RzUk9ERkpKUGdoVHVFeHM1eFNUN2NMVmIwSy00YjByemtHTTVVTnFEclhMVS1faG52RmZJOXYtNmJvY1cyWURlZFFBXzFlaWJhekwxX1dB?oc=5",
@@ -426,13 +433,6 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXZTNDNOUmYydVI5MHRycWZQV0JJU05oVGstWlBpZnlPUXZXYkdyZnpjZTFWd1owS2pQS016TnhlLTh2WFViV055RjVnSkdpYTJGX1AtMHFpd3h6R3JfMjB1RzRVMEp1Zm5xT1hMMGgtbVVIcEk0LWtSdG9rOHJ4alZJZ29wYWZHbVN5VWVSZTB2YlNuWkMtYkNnQ0xXXzdpQ1dqdXVWMWEtQTNvTU1ueEpQN3NfdTM5ME96bnpMMm9iWVp3UW96dkgySk1fbzg?oc=5",
    "source": "L'Etudiant",
    "ts": 1795104000,
-   "theme": "alt"
-  },
-  {
-   "title": "Emploi des jeunes : le gouvernement mise sur l'apprentissage",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2kwQmhGczhJU1lqQmtvblFYNjl5enp0c0J5RnNIdXJUcEZKNkxoZWlmN3dfRHhrMHJyWXJrSUNYRHc5VTJrejJ5VzkyVkdKeWFOcmpwNHAzVzl6REpIR2lXV1JVVWJDTFNTQVJXVGdsMDRnTEJhV3BycUxUckQ4Q2huM0Z4SlJoVUVxNkt6ZWV3amoxWUpMWnpzZEdvSTVydXZLdEQ4Ql9FYncyRExWbGVhY0lGNWFuSDFRRlVNYU9UVXJBclE?oc=5",
-   "source": "Presse Agence",
-   "ts": 1795101775,
    "theme": "alt"
   },
   {
