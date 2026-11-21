@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:55:00+00:00",
- "last_success": "2026-11-21T19:55:00+00:00",
+ "updated": "2026-11-21T20:52:39+00:00",
+ "last_success": "2026-11-21T20:52:39+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 76
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -77,6 +77,13 @@
    "source": "Presse Agence",
    "ts": 1795269600,
    "theme": "alt"
+  },
+  {
+   "title": "Projet de Loi de Finances 2027 : «Un système fiscal performant finance l'État sans affaiblir les forces productives",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRk1oZ2hFa3pQZ016NVVuMGM0Q3dNNllBbDZFb1JINllDZkdqMkt6OUZoMEVFcmU0RzRjZ0dqX3JsbUVDWEVxb0dXRkVVTER6ODV2Nmo4X0d6aFdjWm4tZ3Y2T3JuM2M2UGxSeEJZUkxLYVlvU3M4UzN1a0gtNVZTaDRJY1hubVQ0YnpSTjZoQVBVeTk0U1VYT3hoTUJMTU1TYkdIamJ2eDg?oc=5",
+   "source": "Finances News Hebdo",
+   "ts": 1795266000,
+   "theme": "fisc"
   },
   {
    "title": "[PODCAST] L’employeur peut-il faire ce qu’il veut de l’image de son salarié ?",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbXRORE56WTh4TkxWdVF1OHprX1pOZWNmQmpnZmV2Rm95Q2otLWY2bmJzZWNSSWVsN3ZBTTI4alF6V2U4MzU5bEIwRjFJWGtXZzVYcVlLWE1oaXlfUTFNYmhSdmZHQktKeFFOcUNXYlVvczlGc0N3aTNBSWVmbFlJS3d3NFpBczQ5ZUJreDBpeXNYdHdpdFpDQW9Kek9yNkZwekpvX3VqSDFMWGFlSm5UU1hTWWhqOUFSeWtqSWZRX0NUNmwxU040eXpFU2IzRDlPZDNuQWtudmluZkYwcnZtdFAyZkxleUd4aHFfNXpyeDRNMXR1TU5SdkJkOWxIRUprX1cxVjVUclI3Tkk?oc=5",
    "source": "eurojuris france",
    "ts": 1794925788,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi de finances 2027 : les commissions des finances adoptent les articles 13 à 34",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjhFY0w2YjMxZGtsQlpNRkpDVHVOQ05pU3dwS3BNSmlqOVZZRHpkem5iLVUwT1lwRGp2QmtxLWlxZVJkc0l6VDE0WHl5eTVQWDJpTFlHdTFtd3F4OHVTQnZ6VnBrZ2x5ZTRDZm1FdzRNR0hCWHFfUWZKS2tTOVRtcDdZU3pFMnEwQl9CcWZGeFZ2NXVzQm5vX2R6Mmk4d0ZOMHQyTi1JSTREai1GekpMbXNjMGpfQmd1Vl9qRndob1owTnJW0gHKAUFVX3lxTE1kcmdnQnhlS0U4UTd5WmNabENIRzBNV3E3Y0JTY2FHZW8zaTNkWnJwT1d3OHNTTmtnelVWMmhja3Jnd0JCd2NmT3NjeDRvTWExU0lzazVMYWhMQ1RZb0JfTUxZSjc3VDRiaC1RZnFpNjFfcW11US13cWg3eE9MSk9NTzI2YVltekswVkVoMmxnYVFOT3hKTHNoNU9STjdZalFSMld1REJPSk5BdEQ0Z1lGTXlOMnMyRk9IU2d2NXhSQm53a2RUQkdwblE?oc=5",
-   "source": "Nessma TV",
-   "ts": 1794925620,
    "theme": "fisc"
   }
  ]
