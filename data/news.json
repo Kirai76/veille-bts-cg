@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-21T07:23:02+00:00",
- "last_success": "2026-11-21T07:23:02+00:00",
+ "updated": "2026-11-21T08:58:00+00:00",
+ "last_success": "2026-11-21T08:58:00+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 75
+   "count": 73
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 76
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 57
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "[VIDEO] Arrêts maladie : nouveaux plafonds au 1-9-2026 et impacts pour le salarié et l’employeur",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnJvektkWWpvU3dZSVl2NXZoMW1nWXlaWXVPZFEyTkotYnRqbllQNjhMeElRRjJ2V21LYklNOTBWU0Z0QndXR0tUZzZ1Z19DUzhYTjF6cXJTdkNQenpUWTNIZDZoVTdQQncwZHEwZ0stSHY3SFlWZmNSM3VJOVY4Nkx0ckIzV2lLNXlsQ0dfelc5TUgzbkQ3Q0ZWeGZhQlFTMTJBYUZ2Z0VHQm9FZXNGWUNzdEN4aXhWcTdfZGg1OGdoeTVJRVZLR0dhajlPVFBMdUU1MjltUQ?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1795246394,
+   "theme": "soc"
+  },
   {
    "title": "Des incitations accrues et des procédures fiscales simplifiées faciliteront la transformation des entreprises familiales en entreprises.",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMURxTmR0QzJxLTFGcTdGRmt0QjJrLUZFYUNZNGJQTF9CeU5RRjVhYmt0YmZNZG9TczNPdmJ4d1ZWNmpuRE9yN3QtYXUxOEFVUHROLXJFTDIwdXFBUlFqQlJTWEdwYzNSWUNkaVQ0Ukd2czFOM25kZWdHeXRYOU40eUl4alJfUXVJQmFveDUxRnpmRVJSNE5VTWJNUHlHbXExWDlNX1ByVFhRU0tiUlR1RG5JbnVpbzBoVHRaRnVEZFZGcGpi?oc=5",
@@ -149,18 +156,18 @@
    "theme": "fact"
   },
   {
-   "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
-   "source": "groupe SVP",
-   "ts": 1795186800,
-   "theme": "soc"
-  },
-  {
    "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
    "source": "panorapost",
    "ts": 1795186800,
    "theme": "alt"
+  },
+  {
+   "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
+   "source": "groupe SVP",
+   "ts": 1795186800,
+   "theme": "soc"
   },
   {
    "title": "Loi de finances 2027 : quatre articles fiscaux reportés, entre soutien à l’industrie et transition énergétique",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDBFeFhlRXhOOGRjNHNJZ3dOZ3VSZWljdGRqUHBJREFidll2YVNUN2JtYnBVSlJTcmJyLVZQYWdtaHBybkR5NWVCX1FpN29ibUNPNDhONUdXMm42TGk0RHgzbHRzMTFzSE45UzU0NWVGZWx6dVZVdVI0N2MwQm54Wg?oc=5",
    "source": "Compta Online",
    "ts": 1794921623,
-   "theme": "compta"
-  },
-  {
-   "title": "IA, management, équilibre de vie : trois étudiants de l'ENOES racontent la profession qu'ils veulent",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tZndhSTFEN2lMcno1ejQ3TlB3ZzVOOVAxa1VnN1hnb1dvZUZwbHJvZmFvaDlhNzZ5U09qMkFkOGs2RER0SGszYmRzbnBhclRjS1JFTHYtM0YwRUYtNFVEeXYwR040VTMwWTNfQ1lWcw?oc=5",
-   "source": "Compta Online",
-   "ts": 1794921322,
    "theme": "compta"
   }
  ]
