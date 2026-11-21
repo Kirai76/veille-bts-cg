@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:57:17+00:00",
- "last_success": "2026-11-21T02:57:17+00:00",
+ "updated": "2026-11-21T04:01:47+00:00",
+ "last_success": "2026-11-21T04:01:47+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 33
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Suite à la hausse officielle du seuil d'imposition simplifié à 10 milliards de VND, que doivent faire les ménages d'entreprises ?",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVCOE9nVU04UGV1QU40S3N2RWJub0luQnlqQUNyMEI0R1JxY1N4MXJfN0RzQTYtQzhkV3JEZXhabG5iblhoMm0zWXZvbFBjNWtSRjdXMEtocXNXQTM4V1A2dFFOSDFaSHV6UTVNdF9vcmk1WHQ4V3d0RnRxRjh5SFgtYlc4cFlHY0Z6TklPbTNJa1k0VFhxZDg3NXRNZ2kxQVNiOVdzOGw2d1BXUG9hVDdlM3FidkhY?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795231695,
+   "theme": "fisc"
+  },
+  {
+   "title": "Histoire de la fiscalité andorrane, de l’IMI à l’IRPF",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5YXgxdlVoU1ktWWxXTWxqZktKakR1RjZhdFhYazNyQklNNGQ1Mi1oVnBzOWFnSlh4SmsxSTlVZXdlSloyT1NHWXliMTVoSk5kY2dpdTBQSVhqNkZaR3ZneWpJQ25ZY1h0Zm5IMEJ3?oc=5",
+   "source": "Andlil",
+   "ts": 1795230783,
+   "theme": "fisc"
+  },
   {
    "title": "L'Assemblée nationale a accepté d'imposer une taxe de 0,2 % sur les terrains abandonnés.",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnRSQ2FhQ0YzejRkd3NBY1FpVjdYdjVGT2ZBMFg2TEJieUZGNlBncW80UmFDbVZxa21ldnR6SFF0U1VIeTdjUnNrMEozYU9YbHQ4SmdkTDNfWDZ2WEVFQzJZSVM5eGU5QkY0ZThnZ0NmLVY5bUc5REE0MFItRlVjTE1KZkdHTW5laXc?oc=5",
@@ -1099,20 +1113,6 @@
    "source": "Compta Online",
    "ts": 1794921322,
    "theme": "compta"
-  },
-  {
-   "title": "Dose de capitalisation, départ de 60 à 62 ans... Marine Le Pen dévoile sa réforme des retraites",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTBzMHpueHpDRjlkaHdjYnhZYmQ2dUdJbWo4TDYyRkhIdkZLVEQyLUtrU1F2SS11TXVrYVExTVVTR0pDd2hYelNJVnBQWkVNN291MnFCUzkxeDBhckVqUW95OWg0VmpKMGk1X25aT1V1YUpnRW93cWlidDZlTTR3cmEtd21NVHZ1NGpSX0QtaENOTXZxM25IZ3NXclI2SkNLLV8tc2d2NXdlMTNoWF9oMXI3emNRemlrNjRxLVgyRll4WFU?oc=5",
-   "source": "Euronews.com",
-   "ts": 1794920891,
-   "theme": "alt"
-  },
-  {
-   "title": "Améliorer les politiques d'exonération d'impôt sur le revenu et prévenir les abus de ces politiques.",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWdXWDd2NDZGR1hvZG1yTGVZTHNUQ3BnWU5wWFdkam12U3VJcUFGeE1uSVFxN3djd0pEakFwY1JfZTBvSDlMNVB3MjRiWVlPOWNjc3dUNndPaE9zRWIzdE85bWlxNE1iZ0JkOGZWWVlNMEZnbkd3bHlId1hISkRuZFozbWRNSC1PRHRIQmFUZ0FHTTdNamxj?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1794917750,
-   "theme": "fisc"
   }
  ]
 }
