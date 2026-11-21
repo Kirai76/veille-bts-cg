@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T14:10:04+00:00",
- "last_success": "2026-11-21T14:10:04+00:00",
+ "updated": "2026-11-21T14:59:33+00:00",
+ "last_success": "2026-11-21T14:59:33+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 71
+   "count": 70
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -898,6 +898,13 @@
    "theme": "compta"
   },
   {
+   "title": "Embaucher et former les travailleurs dans les métiers spécialisés - Équipe Canada fort",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEJDNmlPZllROHRGTVg0U1A3S2drYXNrNktlM3Q3S25PbzBHZ3FHd3VqSUxHM3BGc3NveDg0NHZTX2VIVGduX3RqSW1WdDNDOFRNaFhDWTBjRWZ2d2stZFlvXzdEZWY5d2FJT19MMjl4aWktUHdyRGxUTllJeVA0eVJGRXc4XzY5ZTNOVVVXTHhSQkZtbVh4eEktV2lWWWpwdGxIVDdn?oc=5",
+   "source": "Canada.ca",
+   "ts": 1794985703,
+   "theme": "alt"
+  },
+  {
    "title": "« Management package » : cette nouvelle bataille fiscale qui se joue en coulisse",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTBWSnVSNnFoRExCY0Y0UXg5TVpLV2FoYm42eWdaN1QxbERGWUVTQzVoVjQwV0RHTlZYM3o4R0VQTjFxNENTVWliN1UwTmU3RFk3ckdYcmRMc3hzWFlBQWlwVE1kYzJqMk02TnBtYmJVdHFJTGR6a25DM296SWxhVV9mQ3BFWmUwU1NsVi1rbzF6cWRkQ3M0QmZUY3ZsQUFMRFRCdDltdEpjb0N0TmN4aF9MQ2otTXE4NUNSWDc3Wk9ETmc?oc=5",
    "source": "Les Echos",
@@ -1106,13 +1113,6 @@
    "source": "LCP-Assemblée nationale",
    "ts": 1794923742,
    "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : le SNJT appelle l’État à élaborer un plan national de sauvetage des médias",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEl1Q21tSWtwdWYteGZEa3pFUWt3MGFyd3dNVHhOUFk1YTRzRGhycWQxMlFISnlKX0hRaXJXQV9zd3Nna2xHeEU1Q2FTajNlVGc4MmN6MllMRkdYdjZDUmQ5N2l6WWVubEhCbVhsc1gzWWUwenBLelFnRWJDMmdDckRTdEgyVkFRazVyMmFoc1hVdF9PU3VGRDBMWFNVSWJVQTBsRmc4eHU2SzJDRl9EbENheTFWY3YyR09z?oc=5",
-   "source": "Tunisie Numerique",
-   "ts": 1794922080,
-   "theme": "fisc"
   }
  ]
 }
