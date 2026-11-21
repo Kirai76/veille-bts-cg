@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T18:58:48+00:00",
- "last_success": "2026-11-21T18:58:48+00:00",
+ "updated": "2026-11-21T19:55:00+00:00",
+ "last_success": "2026-11-21T19:55:00+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 76
   },
   {
    "query": "impôt sur les sociétés",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 33
   }
  ],
  "items": [
@@ -349,7 +349,7 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdEEwNlMyMzNkZ2tNY19UUDB0MXJPeG1td01RenRiQjZhR3B5UHRHSWFoNUJNTXhZcFllek5PSnFmSFo1Z3JkWWo3UjJzQ1dCQVZ2Mm15dnlUSWJmMDBaZGM1YlpTWFh4SjRGcFdXT0M0NUwt?oc=5",
    "source": "business-times.fr",
    "ts": 1795149720,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Les petites et moyennes entreprises (PME) reçoivent des bons de soutien, qui seront révoqués en cas d'utilisation abusive.",
@@ -468,7 +468,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFZUTHNvYmNvZUh0VmhIdk5vcTRZZ0JzVXo4SEhtMnZxcWRGYlFrWThoZXN2Q1M3SmVhU3lmR3kxU0k0QktTS3J3QXhvd3BtZnctVThEbF9hdEVVV004OHU1X0hiYWdhOFJfRzF2d2VHdjgtU25lQXl1Q2Q1dlpfdVJQaWRxN1pMaEU3S0NQZHNpNl9ZTUpnRHF3OGo5LVFvaGg5OE80RGRDWUVNWEhmV3hKZktCaXA2YU5zZUJ0TEs5LW1OT1lLVjA2YmVvOE1hamc?oc=5",
    "source": "L'Union",
    "ts": 1795098063,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
@@ -489,7 +489,7 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2ZRb1Zxd0JtWndTMWNMWjVMNF96TXcyUGI5bXJoZGZsWXhEM0FoZm9hM1NiZkZIeEN6OFJyZURVMkM2WllldFlyMHNsVmlPaFl5RlUzUXo1b1RVTkRiQkpETi1mcVlfaXZYVU5yaEV1OXNETmxSSjJXbTBIUDBCWndPLTIwUHplbjNZT3lwQ0pyeFVZUDFyY2pvMEVxcmM3aW1YYi1UYWhJTHo5cWtFdENaRmpEMzd3dUNoaVhNQ2xKbXc?oc=5",
    "source": "L'Est éclair",
    "ts": 1795096903,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "Facturation électronique : les entreprises prêtes dès maintenant évitent la course de 2027",
@@ -597,6 +597,13 @@
    "theme": "soc"
   },
   {
+   "title": "Sujets corrigés BTS CEJM 2025 (Culture économique juridique et managériale)",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUy1sekU1MmdxOFB2ZC1rRTJVcXE0VkswYU5mdkJCdTBCaEtWMVNkWlV6T2Q3bW1ab3FyRkVRVnBFclNuTlpmMGRnUC1XYW5UNzhyNXJzT2pKaUdvVkFXeE55R01PNmoxcTBNTE9kV1Y4cGt6WmVscTBYYXBYWmw0aE1MbnVmeUdwczJWSjFOSkoyNGtCX0hkVlk1dlMxRkg2Yk5mZnNfaWt3OHVGMC04MDFwZFk2QlNH?oc=5",
+   "source": "L'Etudiant",
+   "ts": 1795075200,
+   "theme": "alt"
+  },
+  {
    "title": "Le cabinet de conseil et d’expertise-comptable Fidsud élargit son offre",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0ZVNExZTkJLNzdybkdzX2NiOVc4eXVDMXZmbURFZThvRC1YZWg0c2lrRURpT0Vxd2M3YzRMeVI0UU1nZ2hvNTBGUV9BMk9sRksxbXRQV2t0QXgtYkNlVzlMN2M4X0dhYkVOWDBneUNBaXh6dnk3VHg4ZTVSU2xrYThMYW5jQnR2QjIxMlc3V0dOMTl0Zk5mVVhIZ1BLdkh3dVlBZHFCWHNqbVIwdUdDSC1qQQ?oc=5",
    "source": "La Vie Economique",
@@ -629,7 +636,7 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanZHS2lWNjM1R2gtNXN0NFMxeldUVEZqNGlid2pRU2Eydk5WSW9zRlFHVzJMVmRTbGsyVFl3Mml6XzVoMHZOQjhFZmtxSUxjbjZSYUZXcl94MTVnNUJuSTQtaEhNOHo3QXN3LW1OcFVXRVFzWGNld0VRaWF3X0V0ampPMEFOeWFPYzkwaTBiOVBTZ0FLbkpGUjlfb2hlZmhDU0F4N2tqaFh2TEJ1d19DRGkwM2czUkxQUlpiYkNCTTNpbDZxdEwwV1JnNGVaNHVzSnkyMzFYMzZMV3ZsS2tV?oc=5",
    "source": "Leptidigital",
    "ts": 1795066200,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "CFE et SCI : seuil de 100 000 euros, SCI à l'IS ou familiale, quand la société doit-elle payer ?",
@@ -735,6 +742,13 @@
    "source": "Normandie actualités",
    "ts": 1795021522,
    "theme": "fact"
+  },
+  {
+   "title": "Avantage en nature véhicule 2026 : le vrai coût de la voiture du dirigeant",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRU1kOVVabkd4bWRjT05mREs1VzhWVEowT2pMSXVnd3FZSk1TTGo1ZVRXekdWcTlfUzFmY0p3VG56UEt4WHFEOHpLM1hqLXhCSEN1ZGJPdjdaV213cEFuWnoycXZobHZEQ2R6VDczWHEwcGgwX3ZoSjdzQVZHeUZvS05RTmw5MENxVXJmcDVFTkpoLXkwWS1UX1hFVW9ULTVZeHZCM3pTcXhzRW9mR3h0M2pmeVpFSHlscDJ0R0g5SV9DVjdERndaczdzU2lZUkVfVUR1YUt3?oc=5",
+   "source": "BFM",
+   "ts": 1795021203,
+   "theme": "fisc"
   },
   {
    "title": "Ils rétablissent la réforme des retraites et décalent la réforme des allègements généraux: ce que contient le budget de la Sécu pour 2027 adopté par les sénateurs",
@@ -1099,20 +1113,6 @@
    "source": "Nessma TV",
    "ts": 1794925620,
    "theme": "fisc"
-  },
-  {
-   "title": "La retraite à 60 ans de Marine Le Pen se joue avant 20 ans",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOekgwNzJSTm1uZFl5QllOQVZQMnh4bTR5SFVOUWgxTHllaWFqU3lhcVBhSExZRlJ1M2MyQy1RekZkU3Zqem1LekdCY1JRUkpDODFLcGtGMVl2NFE3THVZNUNsWE5TeW5pN0lveWtSRlFJODhyTlNXTFZFZnhxWW9nVWhxTGVzVjU5U1FsTDNhRkROZnNDam5N?oc=5",
-   "source": "Le Monde Moderne",
-   "ts": 1794924987,
-   "theme": "alt"
-  },
-  {
-   "title": "Banque en ligne pro avec facturation intégrée : les trois meilleures offres",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaDZyVlhxejRRcVJZOUJrVm5nRTBkRU05bEJfMTBHNW1VSnJFRGEydDlhX0FLRmRaTWZUSWFZZU5rYlJSaGpXdG13T29pNTV4bWYxakc0SmtlYWxpdTRsS3lFcFZ0QmZjTF96eWY5al8xaWR2TVpfOEV4MGZ3V29mTTlqTGxuVmFkcXBaOWh2ckJzNDd3YnhWUlRDYXdBLVpSUURxYTdRQ01IRndhcGszLTFWMFhTWkhQNG5PTDR2RmlBcmFxN3BITDBkaG9yM2lURXlLaWIxaHZNbjdJdWoxUTdmbDNlbjlKRnNoa3RnTXk1Y1pKeWFOcmN2VC05WUl1OFJFVlpzUUhGWmRaODN2VFh4MUZ6cVNqaGFIUzF3?oc=5",
-   "source": "Le Parisien",
-   "ts": 1794923760,
-   "theme": "fact"
   }
  ]
 }
