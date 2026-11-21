@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:52:10+00:00",
- "last_success": "2026-11-21T21:52:10+00:00",
+ "updated": "2026-11-21T22:52:07+00:00",
+ "last_success": "2026-11-21T22:52:07+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 76
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 57
   },
   {
    "query": "aide embauche apprenti",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 22
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 47
   }
  ],
  "items": [
@@ -254,6 +254,13 @@
    "theme": "alt"
   },
   {
+   "title": "Verre, chimie, métallurgie : l'industrie se bat pour ne pas payer deux fois la taxe carbone",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZklEZ20tNTJuaEtRZkdRdnRBbnFNYWxoQUdBOW9fcEF2bjR4VEIybjUya09nT0V6Y1NPd1E2YW9YcUZsVEg5Q3RLRXh0dTgta1dsWm5IdmlfMENxVDZLb294c21MQnpncGd2TWFXMWM3b0Y1ZlpuU1pUcUNnUVMyUVJIY1ZhclY3LW9uZVlwNzdTNnpVOWZjWkhlaTV3eVlRQjdPanBfQi1LS3JuNXhRSUtFX21yWDY0NEdzWWhJZ24tSEwtak82TThPQThGTnRzUnJUdHZjZE04YWhyWFhLVVdoNGFwbzg2WXc?oc=5",
+   "source": "Les Echos",
+   "ts": 1795174262,
+   "theme": "fisc"
+  },
+  {
    "title": "PLF 2027 et entreprises: des arbitrages fiscaux aux effets contrastés",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEExbVhEdGRyNk9QRG9ETWY3M0FpazJiZmFnVER3MVI3am1RME5qREdNb1NVRFUzV1p4NGZYVVM3VmcwTTBQZHl0M2tncjBic05feFFiSFZjX1F0SFViTkZmTDd4SzhvZU1aa2diRkZqX3hvb1NlLVJMTFVOTkdtT2sySnhoWmdXd0ZtR05kTFl4Q0RoNjgwMEFhZ3BBM3BsUXc?oc=5",
    "source": "LesEco.ma",
@@ -329,6 +336,13 @@
    "source": "Studyrama.com",
    "ts": 1795158001,
    "theme": "alt"
+  },
+  {
+   "title": "Crowe Altexia accélère sa croissance en Paca avec un fonds d’investissement",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGFuRk9OYlZRUHV5QnBNbzdOR0VHalpfYnJ1eE0tUjlwS193ZWlMS1JPNnpMVTJoWEpGX0R6bno3Y25jYkN4TFBFaDdWS3JfWjMxbDdyTUJyOGE1aHlyT24wT3FjZDBoQkFBa1ZFd2lua1VhclY0MEJmOHdVVmlLakM0b0NHS0Y1Y2FtVE5vTk9wSENYMm5yM2I1d0EzNFhydGc0S3NRYTRNR0VmM3Vja2dfWFhJb2I5dzE3NHNYdGc?oc=5",
+   "source": "mesinfos",
+   "ts": 1795156200,
+   "theme": "compta"
   },
   {
    "title": "Facturation électronique : le piège de la simplicité pour les PME",
@@ -842,14 +856,14 @@
    "theme": "fisc"
   },
   {
-   "title": "Rydge Conseil : quelle stratégie derrière la vague d'acquisitions ?",
+   "title": "Rydge Conseil : la stratégie d'acquisitions de son président",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YVFZdXFFczBuc1Baak5mMUhSUzJqZk83WG5kdXlIUDUycEl5cHFYeEFZd01wcWo1X1BwNm10LW5OOGZ2V0FOVWxHOFJaQmFlazJWb2xiOVVNQkx3cTJv?oc=5",
    "source": "Compta Online",
    "ts": 1795005088,
    "theme": "compta"
   },
   {
-   "title": "Rydge Conseil : la stratégie d'acquisitions de son président",
+   "title": "Rydge Conseil : quelle stratégie derrière la vague d'acquisitions ?",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YVFZdXFFczBuc1Baak5mMUhSUzJqZk83WG5kdXlIUDUycEl5cHFYeEFZd01wcWo1X1BwNm10LW5OOGZ2V0FOVWxHOFJaQmFlazJWb2xiOVVNQkx3cTJv?oc=5",
    "source": "Compta Online",
    "ts": 1795005088,
@@ -1046,8 +1060,8 @@
   },
   {
    "title": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFBYemllS1d0aWI5cG9PT2cyRU5md3RlT19weFVIUElBTnRHSm1mNUNzeWpBMk1LN29yUlo3UDJzcnRla2xRbzljYXc1aEViVnVDVEJRNzN1SkZ1V3h1OXZqaUotQnUzV2dpUjFvRm5KVktGQ1dnempQUlFLNXM2UF9RTkJQbXFFeXFPTkN3R1U1Y18xWkNvVWVUSHdiVXBDbllXN1JoemM0YU5WZGlpRWl5ZFpXWFlWQzVhTG5rS0JYTldkSkFUcWRINjV0ejhiVzRBeWhmZWtHWFhudXlkNWdxcUE5ZHB4aVlTOFZSdjQ3d1di?oc=5",
-   "source": "France 24",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5vYlhKZkJPVEV3aUlZb2JNejRxY0FUa2hKc2pLR0dUWTJLd1RfUk5mMjlZX1hyelJLZDBnY0lWR0FQcTNtZXdidV9BQ01IQktuYlJnX3NuYXBpWnlfZUZFVUxacXlHWjVvR19qaVJ0VFZ0bkpWemttTXQ5Nm9fZHFoNWVXSHA1a0ZhdlNubw?oc=5",
+   "source": "Yahoo Actualités",
    "ts": 1794929495,
    "theme": "alt"
   },
@@ -1080,6 +1094,13 @@
    "theme": "alt"
   },
   {
+   "title": "Devenir kiné en 2027 : la bonne porte d'entrée",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnFubnZKU1BjWEp6UmR6RU5DV3RVUF9zQXdQbFRsMDR3YjM2Tmt1RVVSWDVieTluNmZOVFJKYVNPVUdvMW5HYWI2ZTk3M2JyRDRjVmFtZ0tDWGlzUlJBOUxBSkxyV1NIbGtXLTZIcXBubFVzd0R2T2dpUFUzbkJWREE4Z01La3VWMEhrSkR2dm04Szh1UnhDRGtoR2ZDbzBRNno3RjlhX2lKSzYweVF2TVA4dmZNMlM2NzhzSlRXRDl0MjJLSmx3c1Ntb2o?oc=5",
+   "source": "Studyrama.com",
+   "ts": 1794926411,
+   "theme": "alt"
+  },
+  {
    "title": "Kérosène cher, fiscalité alourdie : le transport aérien en France déprime",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUFEWG9RMU9sZF9hRm5McEpSdDhQTTV6bnFaeFdLVUd5cnN4bnhBZ0hDcDBQYV9tc21OYXBpdDk3eXZ5X3RBYmZ4c1RNNmdEd3FxUzd1NkZJYVhaTjMtRE13anRRcU9GbUdUek1wTnNVcjg1bTQ2VzRoeTFadTAxNWVoajJXUXlPR0lFbTZmcnR0aUFyU3VXZUV5MklWRnNHcEZvS0pvUndhOXpMY1cxMWZkZUxiNF9OYzVNRWU5YnRzY0dUcDUyeA?oc=5",
    "source": "Sud Ouest",
@@ -1092,27 +1113,6 @@
    "source": "Ouest-France",
    "ts": 1794926087,
    "theme": "alt"
-  },
-  {
-   "title": "Fiscalité : les riches paient-ils leur juste part d’impôts ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUNCQlgxWlpTU2FmWnRRU3RnUzg5YlJ5R1NSa2JhbFFMZjVSazBLcEdIa1ZOZ21OTmktclN6aGpmeW1GZ01Ma3ZsOXJ4b1EtSDRBY2tQWVMxWWZRcnhXc3R0NVdlZWhkZGdnZUdYTHE0a3ljREdJOHNaVWFwMkNYTWtTb0ZTcHFT?oc=5",
-   "source": "Les Surligneurs",
-   "ts": 1794925974,
-   "theme": "fisc"
-  },
-  {
-   "title": "Fiscalité : les riches paient-ils leur juste part d’impôt ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUNCQlgxWlpTU2FmWnRRU3RnUzg5YlJ5R1NSa2JhbFFMZjVSazBLcEdIa1ZOZ21OTmktclN6aGpmeW1GZ01Ma3ZsOXJ4b1EtSDRBY2tQWVMxWWZRcnhXc3R0NVdlZWhkZGdnZUdYTHE0a3ljREdJOHNaVWFwMkNYTWtTb0ZTcHFT?oc=5",
-   "source": "Les Surligneurs",
-   "ts": 1794925974,
-   "theme": "fisc"
-  },
-  {
-   "title": "SCI familiale et location meublée : le piège fiscal qui peut coûter très cher aux associés",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbXRORE56WTh4TkxWdVF1OHprX1pOZWNmQmpnZmV2Rm95Q2otLWY2bmJzZWNSSWVsN3ZBTTI4alF6V2U4MzU5bEIwRjFJWGtXZzVYcVlLWE1oaXlfUTFNYmhSdmZHQktKeFFOcUNXYlVvczlGc0N3aTNBSWVmbFlJS3d3NFpBczQ5ZUJreDBpeXNYdHdpdFpDQW9Kek9yNkZwekpvX3VqSDFMWGFlSm5UU1hTWWhqOUFSeWtqSWZRX0NUNmwxU040eXpFU2IzRDlPZDNuQWtudmluZkYwcnZtdFAyZkxleUd4aHFfNXpyeDRNMXR1TU5SdkJkOWxIRUprX1cxVjVUclI3Tkk?oc=5",
-   "source": "eurojuris france",
-   "ts": 1794925788,
-   "theme": "fisc"
   }
  ]
 }
