@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:06:24+00:00",
- "last_success": "2026-11-22T06:06:24+00:00",
+ "updated": "2026-11-22T07:23:44+00:00",
+ "last_success": "2026-11-22T07:23:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Loi de finances 2027 : l’UTICA propose une TVA à 0 % sur les équipements solaires et de nouvelles mesures pour les entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEJvcXhjX2tZRlJGNU1qZzVXTU5kc1d6dWxhTGJEaVE5RHB2cVR4dlJnbkcxdWJESTRDU25DbEZoZ0ZBZU1Xdk85Y3dKQTJoUFlmV0tjUE53Q3FsSlRKUG5PMElhY3d0TEhidUZFX0lwd3M4ZEo3Tk5pLTJXSVRaNkZjdlJNQkwtNGd5MUFmckd0U0JWWHRxYVFrM2hJem94OXRZeXVqS0U0bnU3dTYycHdaZjhyLVRIcnVXRHFmeE93YnRGeXViUk5DbXVoQzY2X0J2SVh3WVJBRl9DMVR5a01NYnVVZUNxUllteXZ3?oc=5",
+   "source": "La Presse de Tunisie",
+   "ts": 1795327380,
+   "theme": "fisc"
+  },
   {
    "title": "Loi Malraux : conditions, calcul de la réduction d'impôt et recours si l'avantage fiscal est perdu",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHV0NS14a256SFF2MjYwMWhzLVE0T21xdUlvQ0hoX095QnVESC1JNk9OQWlDSWJGUEg2RFp6U1haeEdoeDFjM05HWG44YWxhcUxyUURCaTJoUG8xSFBIMWpoVXVDcXFvZ2Z3NVRkYXZkdjRITE9VYTFlc0xVWXU2T19LaTdwcGYwM2pyZmw0UjRpaDdMREhLdXBfRVFxUlNoUkFoSGVWT1FWS3BFSmpUbw?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Studyrama.com",
    "ts": 1794926411,
    "theme": "alt"
-  },
-  {
-   "title": "Kérosène cher, fiscalité alourdie : le transport aérien en France déprime",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUFEWG9RMU9sZF9hRm5McEpSdDhQTTV6bnFaeFdLVUd5cnN4bnhBZ0hDcDBQYV9tc21OYXBpdDk3eXZ5X3RBYmZ4c1RNNmdEd3FxUzd1NkZJYVhaTjMtRE13anRRcU9GbUdUek1wTnNVcjg1bTQ2VzRoeTFadTAxNWVoajJXUXlPR0lFbTZmcnR0aUFyU3VXZUV5MklWRnNHcEZvS0pvUndhOXpMY1cxMWZkZUxiNF9OYzVNRWU5YnRzY0dUcDUyeA?oc=5",
-   "source": "Sud Ouest",
-   "ts": 1794926313,
-   "theme": "fisc"
   }
  ]
 }
