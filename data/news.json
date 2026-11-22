@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T14:58:21+00:00",
- "last_success": "2026-11-22T14:58:21+00:00",
+ "updated": "2026-11-22T15:55:47+00:00",
+ "last_success": "2026-11-22T15:55:47+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 49
+   "count": 50
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
@@ -111,6 +111,13 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkRmWXBkVmlRelJPYWtZZEItcVczZHdtZDU4MXNoeHhabGh1THFGbVdnWnZHdEJoYXNoZGFxdVg3SHlkTHdkTTJTcWxxUWJKbk9XTHNBd1FpaFRxTnpYcC1aWllUeGx5dFVqM21JdEREUXREOHpMV1NJNjFLWXVKNEdSUlg0VHZuTk9Oa3MycE1YYVR6a3piZnpRVnRSUQ?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795335130,
+   "theme": "fisc"
+  },
+  {
+   "title": "Plus-value terrain constructible : calcul, impôt, prélèvements sociaux et taxes du particulier vendeur",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2s4MmcySjVYeWk5YTI2N0JiS2ZzTk9PdTdUV3A4X3labVYxeGdWQWI3bjlnNGhEMkg2UjNMXzBhQW4wYWoyVjZiUWZDbXF0TkFGb01BN3BiZTY3eEEwaG4tWVRyUDlZZkpIaDl3cm9KSmxtcjh3MTQ1a2hjUE9DdHFYRG5ITGpfUzZWZDlQdVByS29jcHdGenJQNW1Sb3pNREdlbU52UVNoMGs?oc=5",
+   "source": "Reda KOHEN",
+   "ts": 1795332780,
    "theme": "fisc"
   },
   {
@@ -737,6 +744,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Assurance auto : 2027, encore une année de hausse",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0lJYk1zejZBYXBaS2hkbzdLLVlYMWdiTUdKbHJUVnFWbW53dmFYNkN5Vl9sZ2tpTWNQUmRZdUM2NVR6WTR0RkxxM2JFQlJMeU0wQzRCTm1uVmFSWEVNOUpjcjVidjVpWGI5dEVMZEwyeHVTQlRvck9qWFNKY282dHU5YjFNcGF6RUlmWmtMVDNweDhIZHB5bFBfd1FfWHgwSHpTTDRCRHlNYUdO?oc=5",
+   "source": "Le Quotidien des Entreprises",
+   "ts": 1795068360,
+   "theme": "fisc"
+  },
+  {
    "title": "Le capital est de plus en plus imposé en Suisse",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NaS2J6WGlfUGFmWHdZb2o5Wm1aWWlhNW5aYzAtNHFuajBxUGZ1bk1NY0VtdmdFNWl2b1ZqbmFjMXJHNG1GWWdIZWgtSFRURUNZaG8weEpBX3FXWnJMZGxKbkViVnZpLVl4SFVnNi0yTEc0SVhOYk1leGNxOWFMNEd5WGdycFNZMTRCaC1laE9jN2dYemxF?oc=5",
    "source": "allnews.ch",
@@ -1099,20 +1113,6 @@
    "source": "Silicon.fr",
    "ts": 1794936949,
    "theme": "fact"
-  },
-  {
-   "title": "Financement des parcours, qualité, accès à la formation... La CPOF avance ses propositions pour la présidentielle 2027",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ0FIYnB6SUZRSXVBcS1LQVJydGUzYzdLbV94c1FOOUJDMVVCbUhmQWJ4c2Z5Wm51RVV6OGRXbDFZTUlYcWJlb0JudWhxYTdYdEFCejMzZXl6V2JyT0s3LUltS2M4RkpRN3Q5STBRbmc3V2NhR1FVTFVIVlNaZWo0VWtRQm1SekdiU0Njci01TDNjSm9vNlhLV01LUGV6eTVfSWRtX0JmU050a0N1UXo1UTRkeW94eHVkNTdVSW40RzBrNlBXSDhqTTg5QTNwTXJNd1F5MlhDMFRhZ25JOGlBVE53aWpGdw?oc=5",
-   "source": "AEF info",
-   "ts": 1794936780,
-   "theme": "alt"
-  },
-  {
-   "title": "Coach sportif auto-entrepreneur en salle : contrôle URSSAF, requalification et comment contester le redressement",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDUwNlQ1RkRnb1huSEw1bW4xN2V4dkJZYWZVdl94OWRBZUNlVmhkUU1paFVrUTQ2bXhBWWpfd0d5a3lRVVVTdDdfTGo1UDBsc1UyQTEtUHI4aGV5aXFESWdaUUNpczVpYlJsQjM4eWs0cURzUUpoaHRxNUlES0N1d0VIUjRRMFBLNi0yYTZZNUU4TFdMUElic3JuZTNRQUZrMTUyWnFmay0?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1794936360,
-   "theme": "soc"
   }
  ]
 }
