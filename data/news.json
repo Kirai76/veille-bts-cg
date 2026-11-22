@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T19:56:57+00:00",
- "last_success": "2026-11-22T19:56:57+00:00",
+ "updated": "2026-11-22T20:54:59+00:00",
+ "last_success": "2026-11-22T20:54:59+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "\"Un policier, ce n'est pas un animateur socio-culturel\" : Bruno Retailleau prend la route avec Anne-Claire Coudray",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQajZXVk5idW9lTENVbmEwaVpFbWFFMzc1aWpMZkp0VkNXRnRSVC1mbFN6bmJQNVZsay1sRFhqMU5oZFM0Z1ptWjdybzl4TFdJRUxLbExnSERlX2U0RldiVnQ0MmczS2xhTlpEVFBDdldCWWNjcnJUSWtrSUYtc0VmcEcwU2hXTjk2WXBscnBndnMwcnNIb2RyRVZoejBFWm1DbDdRQzE2RzhMNnNIZEFjR3VQUi1GVjBHTmZoTXdNc0wzMjBsdGpHT01fMXdlU3lGdDZuUUJsQjFSMTFjcC1CeF8tekpWOWhpdzRLZ051aTFRZFRSMk1IR3lMd1E1U3VBdEJ5TkltVE5yckYw?oc=5",
+   "source": "TF1 Info",
+   "ts": 1795377841,
+   "theme": "alt"
+  },
   {
    "title": "Ambérieu-en-Bugey. Diplômées du lycée Bérard, elles préparent leur BTS en alternance",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1FPV2h5dFVtbXotNi1nWm1yRjVYYkpLb0g4Umt1elJRMVpjemw1SnpscWUxdVN3cFEyRkh4YnBJckl6RXdTUmMxNkVMX2E5cUgtZjZnOWdMR1BOclJVb3NsWjE2ZUhNNlRoLWYxSVNwZ3hxb2U0U29iXzlrM0ROZHlrUHVfM29UeGlIcXJmWlRpTHlvNU9BM3FDTUw2VWlYbW9jSTlpcTZjQmhKYzM0?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Le Monde.fr",
    "ts": 1794976907,
    "theme": "alt"
-  },
-  {
-   "title": "Programmes 29N : la réforme fiscale du Frente Amplio, dans le détail",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVJ1ZmRkejlDOEExcG5UOXZaWEF6NmtreVJwUFo2b0dHTTY5QUZRLURBZmNWQ25TM0pHeXZzTTBqaGE0eHc2RGE1bUg4aFFyZ0lTUjZNUEFfTnkyWFRWamh6Z3lIV0xsWkE3RWYwdGpSN1VEMm92aUNkWll4Q2k0ZlFpOHRveUJ1RzBmSjY0cXFERlJlRWJzSkt6MXl3YmZzZ2d2ZGxwcjdzNmdIWVdtcUUzWmpPUHE2Vk50anI3YTIteWfSAcgBQVVfeXFMTktLZVZIYUthNGlSMXJvUFZFSHJhNV96Y3BGSE5MMlc0OV9BNTZNUDhXOG1HTVpsVXdhQm50T3RIUndmWjItR20zVXZjZDJOQ0xTVUd1Y2hIZWhPejN0SGVQcV9oMzlwdWQ5SzM2dzBSbWtiVTVBTm9NZ1BXSjV4NHFacC1OQjhhaTZqaXZ3MDM1WWVBdm9wbDdGRU9QMXd2RTZVeXRELWtncGFaeHlmZE5DblVnOVhBU0tLTGVFeFZ2TFhDbE5RWEE?oc=5",
-   "source": "Demócrata",
-   "ts": 1794974400,
-   "theme": "fisc"
   }
  ]
 }
