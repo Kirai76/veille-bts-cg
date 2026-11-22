@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T20:54:59+00:00",
- "last_success": "2026-11-22T20:54:59+00:00",
+ "updated": "2026-11-22T21:54:17+00:00",
+ "last_success": "2026-11-22T21:54:17+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 13
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "query": "plan comptable général ANC",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -310,18 +310,18 @@
    "theme": "fact"
   },
   {
-   "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
-   "source": "panorapost",
-   "ts": 1795186800,
-   "theme": "alt"
-  },
-  {
    "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
    "source": "groupe SVP",
    "ts": 1795186800,
    "theme": "soc"
+  },
+  {
+   "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
+   "source": "panorapost",
+   "ts": 1795186800,
+   "theme": "alt"
   },
   {
    "title": "Loi de finances 2027 : quatre articles fiscaux reportés, entre soutien à l’industrie et transition énergétique",
