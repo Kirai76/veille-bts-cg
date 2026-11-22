@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T15:55:47+00:00",
- "last_success": "2026-11-22T15:55:47+00:00",
+ "updated": "2026-11-22T16:56:54+00:00",
+ "last_success": "2026-11-22T16:56:54+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Arabie saoudite : impôt minimum de 15 % sur les multinationales, champ d'application, calcul et exonérations - Actualités et statistiques",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmhCdkZTZnkzVUtXZzdySXBjcVYycElkek5vWUc5RmRRZjVqSHctUm1kV0ZiUFlWcUFnWFgyOHZib1YzWWxUNnJyRzdPeGxsWkpkWVhQbUhoTmpaYlJ3XzhzNnp6Wlpab1drS0tLT1VqNXZUN1BqNFF4aWRad2NCVGpzN1o3VVlnV1B0Y3NPNi14YzZlWGtfMklOTEphQkRyQVJGR2tPUjI1QVhST181bzM0a2hndFJ1QlNVR2FR?oc=5",
+   "source": "IndexBox",
+   "ts": 1795363825,
+   "theme": "fisc"
+  },
   {
    "title": "Loyer sous-évalué dans une SCI : comment contester un redressement pour acte anormal de gestion ? (Conseil d'État, 18 novembre 2026)",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGtGRmVod2gwWmROaTRGVnJKR0xJUmN6X0lRN3pTNWdBQk51c1Z5d3ZBSlRTNXhkRktIbm1zamxGSnVld0xJakJIb2JxazV1NFRUZXh6RHhVUnI1QUtaWUx6cVRUWkpnSW83S2J6WlJ0blF2LVd5REkyUGxuUWFxbnNXMWx0VGVfTkU0bTkwQXV4cFdSZlpZX2VhQUxNT19PMWNsREwyMmdTcFQzWmZOQ3p4VXhCRjlnZ3RrMFF4TzRiaDFjSTk1aVYzMVRlU1k?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "AEF info",
    "ts": 1794937080,
    "theme": "alt"
-  },
-  {
-   "title": "NIS 2 : une transposition à périmètre élargi",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2VXa3ZsdC1BTXYxZl9PVlppeG0yallMS0p4d010N0Zud3VmLUpMc2l1RkVNaktVbm1BbEFPLWlQSHdLTXlEb2dnYS1DMWtXZ25pZDlBRS16YkVxSUhwUVlBU2N1dXhVNl9QT3FDVUlVNU9zN0FEa0J6eW9KMktCTkl3VFVoeVZjcUlhbkRvVnnSAZYBQVVfeXFMUFNpRl9xT1E2ZDhRMENBa25aVUNlQzU0a015dnk0WEQzdHdsZ0NxTUVqM1pZS0ZmNEM2WGNoUWl0OS03cWlUZUxDY3VVbzVWU2hhV2JuWjRGX2hyNWtPaHh2bnZudXY2dkJUREh3eC0yMk5NLTgtRktYTFZqMXBKS0tUQUNXYmxnVUJlYmlzanNocmlPMVVR?oc=5",
-   "source": "Silicon.fr",
-   "ts": 1794936949,
-   "theme": "fact"
   }
  ]
 }
