@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T04:03:46+00:00",
- "last_success": "2026-11-22T04:03:46+00:00",
+ "updated": "2026-11-22T05:08:31+00:00",
+ "last_success": "2026-11-22T05:08:31+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 52
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   }
  ],
  "items": [
+  {
+   "title": "Loi Malraux : conditions, calcul de la réduction d'impôt et recours si l'avantage fiscal est perdu",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHV0NS14a256SFF2MjYwMWhzLVE0T21xdUlvQ0hoX095QnVESC1JNk9OQWlDSWJGUEg2RFp6U1haeEdoeDFjM05HWG44YWxhcUxyUURCaTJoUG8xSFBIMWpoVXVDcXFvZ2Z3NVRkYXZkdjRITE9VYTFlc0xVWXU2T19LaTdwcGYwM2pyZmw0UjRpaDdMREhLdXBfRVFxUlNoUkFoSGVWT1FWS3BFSmpUbw?oc=5",
+   "source": "Reda KOHEN",
+   "ts": 1795321800,
+   "theme": "fisc"
+  },
   {
    "title": "[VIDEO] Arrêts maladie : nouveaux plafonds au 1-9-2026 et impacts pour le salarié et l’employeur",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnJvektkWWpvU3dZSVl2NXZoMW1nWXlaWXVPZFEyTkotYnRqbllQNjhMeElRRjJ2V21LYklNOTBWU0Z0QndXR0tUZzZ1Z19DUzhYTjF6cXJTdkNQenpUWTNIZDZoVTdQQncwZHEwZ0stSHY3SFlWZmNSM3VJOVY4Nkx0ckIzV2lLNXlsQ0dfelc5TUgzbkQ3Q0ZWeGZhQlFTMTJBYUZ2Z0VHQm9FZXNGWUNzdEN4aXhWcTdfZGg1OGdoeTVJRVZLR0dhajlPVFBMdUU1MjltUQ?oc=5",
@@ -283,7 +290,7 @@
   },
   {
    "title": "Budget : surtaxe sur les entreprises, retraites... quels sont les points ce qui font débat ?",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeURiRjJtcHM2ZVgzYzZzNDdNcFFZaW84TWpaclg5WGhncVlCbG9QWE1ITWgwZVQ4bXdob3NQRmFvNWk5WWtkUWY2ZXhnbVlZU2J4Z3pMUmY0M0VxME41YjJBRXd1cTE0QTZSbVQ5LVpLMUpnQm9oUnZvRVdaWnhlTThYNDVQb2VDcHRwV3R3aVMtU0JTaGxnNEhZYk95bUZ0NEpZR3BVVGM1OGt5QkhTZ0o1aHdvVEt5eEtTNmI1cDM2ZkF3ODFnbGs1QmhqUHlJNl9HMjRFWU90bGJ5elJSd0pOYzg4TkVEV0J4OUVUVjVsUktkTEdtY3h3bXFjQWtpV2cyMS1KTdIBjAJBVV95cUxOdGFaY1kxcmVFeGNKZGtuMnBQMldHMC1YQ24zSWdUbGhMMnJSNXg2bS1IOFY4TjRlRnRhV1lYRFJ2RldFTXpjLTVLV2Y3cHVTN3hEa1JpWU4yMERpeHNYVVhWUTJEeGVIVDFLclZrWGVWVGs4bnhVSU42N1RGek0zN01CeDdfNXdhbGVkTXlFenFIdVhaSTQ4bFFUdTNnem44NER4LV9KSXVQY0p0TzNyZTdiR3UzaEUxeG9NVzB3dXRMS1lyVFZoX2lVNjVHemZlbXpVN1luZ0FEd3ZWMmpuQTVoa2dTNU13S0JNY1FoYmVndzdaeUI4Sk9hejBrZEtWMTdXSnlXeHEzRW1p?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGFaY1kxcmVFeGNKZGtuMnBQMldHMC1YQ24zSWdUbGhMMnJSNXg2bS1IOFY4TjRlRnRhV1lYRFJ2RldFTXpjLTVLV2Y3cHVTN3hEa1JpWU4yMERpeHNYVVhWUTJEeGVIVDFLclZrWGVWVGs4bnhVSU42N1RGek0zN01CeDdfNXdhbGVkTXlFenFIdVhaSTQ4bFFUdTNnem44NER4LV9KSXVQY0p0TzNyZTdiR3UzaEUxeG9NVzB3dXRMS1lyVFZoX2lVNjVHemZlbXpVN1luZ0FEd3ZWMmpuQTVoa2dTNU13S0JNY1FoYmVndzdaeUI4Sk9hejBrZEtWMTdXSnlXeHEzRW1p0gGMAkFVX3lxTE50YVpjWTFyZUV4Y0pka24ycFAyV0cwLVhDbjNJZ1RsaEwyclI1eDZtLUg4VjhONGVGdGFXWVhEUnZGV0VNemMtNUtXZjdwdVM3eERrUmlZTjIwRGl4c1hVWFZRMkR4ZUhUMUtyVmtYZVZUazhueFVJTjY3VEZ6TTM3TUJ4N181d2FsZWRNeUV6cUh1WFpJNDhsUVR1M2d6bjg0RHgtX0pJdVBjSnRPM3JlN2JHdTNoRTF4b01XMHd1dExLWXJUVmhfaVU2NUd6ZmVtelU3WW5nQUR3dlYyam5BNWhrZ1M1TXdLQk1jUWhiZWd3N1p5QjhKT2F6MGtkS1YxN1dKeVd4cTNFbWk?oc=5",
    "source": "Boursorama",
    "ts": 1795170532,
    "theme": "fisc"
@@ -1106,13 +1113,6 @@
    "source": "Sud Ouest",
    "ts": 1794926313,
    "theme": "fisc"
-  },
-  {
-   "title": "Présidentielle 2027. Marine Le Pen dévoile son programme sur les retraites : les cinq principales mesures",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZkhNZkZRNGY3UUJuM3NWeHJWRV93YUNxZVNqc0lNQ0wzNTd2Z2t6YTBEamljMVRVbklfX3JpR2pkOU1UUmhoMVNyYktjdzJBQlh5NmlGal90aHlzNFEwMUtvYWlYekdKb3VvM3pDUl9mbXF0ZGlkUVhyLTFRODJFZTBmOTc0UV80ekFibXFtdE5mRVhQTjVaOVZ1TlNMQm9pME5SQ1dzcGduNDR6SHpLeWpyT0tsQkJwSDNzQ3pCSGs3Si1oamFPSFVVNG9qdXRmeF92QmxQbExIVTdBRjVRelVCTS1PajlHc0QxdEVvazFiNVZHZmJlQnRfMXlsOUZHMk55Mml3a2tWRHJqVFphdFU0WUxZVHJ5bG9j?oc=5",
-   "source": "Ouest-France",
-   "ts": 1794926087,
-   "theme": "alt"
   }
  ]
 }
