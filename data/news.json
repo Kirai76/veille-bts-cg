@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T08:58:06+00:00",
- "last_success": "2026-11-22T08:58:06+00:00",
+ "updated": "2026-11-22T09:57:43+00:00",
+ "last_success": "2026-11-22T09:57:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 51
+   "count": 50
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 83
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 59
   },
   {
    "query": "aide embauche apprenti",
@@ -55,15 +55,36 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 21
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 32
   }
  ],
  "items": [
+  {
+   "title": "Devenir experte-comptable à 32 ans : le parcours de Céline Amyot",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSEE0R0lyQllHaHUzcTMzX2Ftd3pwWHNLV0NBX2xlUHJNZXBqSW1SUXpLOW1sM1h2UU9xc0VSN2dhOTRMSkZhZHRCeVpnUWNnazBJT2lXX19aNlpuUzB0M1AydzNkOVhWNDdSLUZFT2xra2NLOVpFYWxRWWF6Mzg?oc=5",
+   "source": "Compta Online",
+   "ts": 1795341287,
+   "theme": "compta"
+  },
+  {
+   "title": "Le regroupement du premier exercice fiscal a-t-il une incidence sur la période d'exonération d'impôt sur les sociétés ?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFRsRThKNDZpd3gwa0pSMEJxcGI4YS1lTE5KQlZlOGhSRWpQbjFmSVNjb0l4M3VtcnB2eFlxTzlHM0U5aTRWT0h1V2stQ29tRkJrV0k1bEtuaVJjaktOcllsYkY2MXlVWFVyZ01CYzNycFBWQTlYQUtpWEo0enRTcXRwODVCV2o3Nm9ST0gwdnVHQQ?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795338675,
+   "theme": "fisc"
+  },
+  {
+   "title": "Taxer les riches pour réduire les inégalités : quand la gauche s’appuie sur une étude économique multi démentie",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUdQSFA4NUlsX0NJR3FUSkFRZV9WTW5adkZuUWphT0VKbGhlWWZnVDVRenp1Y0sxemtiN2JTNmRMMUxuSWQyMnlaWF9OUE5QNFZodjZpRkItSk5SLTFYY0RRckdHOEg0TFNLWERNZmdNS2pOWVRWTWFNb0QtdTd0dEE3T0w1R3VCR2YySDZ4dWtKQjVKUlVOZ0xKRGYycDdtSUJEVkZERQ?oc=5",
+   "source": "Atlantico",
+   "ts": 1795336585,
+   "theme": "fisc"
+  },
   {
    "title": "Transformer les exonérations fiscales en productivité et en emplois.",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkRmWXBkVmlRelJPYWtZZEItcVczZHdtZDU4MXNoeHhabGh1THFGbVdnWnZHdEJoYXNoZGFxdVg3SHlkTHdkTTJTcWxxUWJKbk9XTHNBd1FpaFRxTnpYcC1aWllUeGx5dFVqM21JdEREUXREOHpMV1NJNjFLWXVKNEdSUlg0VHZuTk9Oa3MycE1YYVR6a3piZnpRVnRSUQ?oc=5",
@@ -118,6 +139,13 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRk1oZ2hFa3pQZ016NVVuMGM0Q3dNNllBbDZFb1JINllDZkdqMkt6OUZoMEVFcmU0RzRjZ0dqX3JsbUVDWEVxb0dXRkVVTER6ODV2Nmo4X0d6aFdjWm4tZ3Y2T3JuM2M2UGxSeEJZUkxLYVlvU3M4UzN1a0gtNVZTaDRJY1hubVQ0YnpSTjZoQVBVeTk0U1VYT3hoTUJMTU1TYkdIamJ2eDg?oc=5",
    "source": "Finances News Hebdo",
    "ts": 1795266000,
+   "theme": "fisc"
+  },
+  {
+   "title": "Les petites et moyennes entreprises nouvellement créées sont exonérées d'impôts pendant 3 ans, et une taxe de 0,2 % est appliquée aux terrains abandonnés.",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlveUVMUzJBMUQ3am1uWHBRdXRWdlBtWHJRenJmVVZDaHdQWXphdTc0VVZUS0J0b2gxamZzWFVrU1NyM2lxMVR2ZjFXdmQzR0Q0dzh2M0pkTzZXZzBEZXRRMmdTcVZQUzZQbDFEV05yLU93M3k2TnlqOUxWa3RnaVlMOUNqSFZsWmZoVGVoR0RZMGEyb2hUYktFVUQ1aGtLS2JCOVh6b0lfTUJwZkZTcHUyNDZmdXc?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795261012,
    "theme": "fisc"
   },
   {
@@ -212,18 +240,18 @@
    "theme": "fact"
   },
   {
-   "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
-   "source": "groupe SVP",
-   "ts": 1795186800,
-   "theme": "soc"
-  },
-  {
    "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
    "source": "panorapost",
    "ts": 1795186800,
    "theme": "alt"
+  },
+  {
+   "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
+   "source": "groupe SVP",
+   "ts": 1795186800,
+   "theme": "soc"
   },
   {
    "title": "Loi de finances 2027 : quatre articles fiscaux reportés, entre soutien à l’industrie et transition énergétique",
@@ -1085,34 +1113,6 @@
    "source": "Capital.fr",
    "ts": 1794930312,
    "theme": "alt"
-  },
-  {
-   "title": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFBYemllS1d0aWI5cG9PT2cyRU5md3RlT19weFVIUElBTnRHSm1mNUNzeWpBMk1LN29yUlo3UDJzcnRla2xRbzljYXc1aEViVnVDVEJRNzN1SkZ1V3h1OXZqaUotQnUzV2dpUjFvRm5KVktGQ1dnempQUlFLNXM2UF9RTkJQbXFFeXFPTkN3R1U1Y18xWkNvVWVUSHdiVXBDbllXN1JoemM0YU5WZGlpRWl5ZFpXWFlWQzVhTG5rS0JYTldkSkFUcWRINjV0ejhiVzRBeWhmZWtHWFhudXlkNWdxcUE5ZHB4aVlTOFZSdjQ3d1di?oc=5",
-   "source": "France 24",
-   "ts": 1794929495,
-   "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : les directions achats face au défi des fournisseurs",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZjhjSUxlUWRlZTBReWZRUXRuVU5Cckh5Qk9TOXNpMFhaMGhxWDFxU3ZCbVBlTXJJS1FQdWk5dDN5MkF2eThEZ0pyS2xhaHgybkQ2aGdDZU9UYXBES2xUSGlaQU43aFNLZ1dOTUtvSlJOejZqQmU1Ri0tTkxKMWppV0hVclllZ1I2U2draFk3VzJzZGRBSTRLZkMwZXk2NzBqZk9vbUJ1QzZodnliNURHVE5lMDR6TW9mNXNQVmhOTndtaF8wa2pNMnpFZTYtQ09Yc0FWT2loUks1WkJUNUhWVnE0OEV2bnhNT2Nj?oc=5",
-   "source": "www.republikgroup.com",
-   "ts": 1794929140,
-   "theme": "fact"
-  },
-  {
-   "title": "Impôts locaux : un rapport propose de recalculer la taxe foncière sur la valeur de marché",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ29jeFJZMGFWNkg4U0l3NS1iOGFuTU03SUFZMVdQYUFwejUycXpMX01DOEg4X21ndUoxTmlMMG4xcWtmVGRzYXVNRldZV0FhZzluUm1BTGEyNlc0SEQ0NW5RelRMdkdiRXRvVkxHR01uZFNoQUlkYUhwTnd5b1ZycHU0MmpHZFdTS2hzRTg2QTdOVmY1dEdvajVPdG9Zb3l5Y2pScVNmZ05NMjVaZmtXaG1HbG9xajhtVHV5UDNZMkZBV3lKNFNTQy0tVU9TbEJfbXhR?oc=5",
-   "source": "Capital.fr",
-   "ts": 1794928888,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi de finances 2027 : quatre partis disent non, le PT choisit l’abstention",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWhwaHNtSUdib0dqN3gyWlk5V3RQVUVsWTlzSmx5QzhWTGphOEdiaE1pMThyLXR2M2F2dXpreFAtZ2N2bHpjRE9WNTk4aW5NUVdyanFxel9MTXZHT0V0TnJEa1QteU5lRkJoSDYwMjBnb1Rmc3VQZzVKLUJaRlpnS0Z4LVd6dk9RQ0NjTXFOS2xSWEdLUFJUV0VIV3lPeFBJby1LdjU1Yw?oc=5",
-   "source": "Maghreb Émergent",
-   "ts": 1794927921,
-   "theme": "fisc"
   }
  ]
 }
