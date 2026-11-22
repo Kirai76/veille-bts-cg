@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T17:52:17+00:00",
- "last_success": "2026-11-22T17:52:17+00:00",
+ "updated": "2026-11-22T18:59:45+00:00",
+ "last_success": "2026-11-22T18:59:45+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,12 +10,12 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "TVA entreprises réforme",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 22
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Ambérieu-en-Bugey. Diplômées du lycée Bérard, elles préparent leur BTS en alternance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1FPV2h5dFVtbXotNi1nWm1yRjVYYkpLb0g4Umt1elJRMVpjemw1SnpscWUxdVN3cFEyRkh4YnBJckl6RXdTUmMxNkVMX2E5cUgtZjZnOWdMR1BOclJVb3NsWjE2ZUhNNlRoLWYxSVNwZ3hxb2U0U29iXzlrM0ROZHlrUHVfM29UeGlIcXJmWlRpTHlvNU9BM3FDTUw2VWlYbW9jSTlpcTZjQmhKYzM0?oc=5",
+   "source": "Le Progrès",
+   "ts": 1795368976,
+   "theme": "alt"
+  },
   {
    "title": "Arabie saoudite : impôt minimum de 15 % sur les multinationales, champ d'application, calcul et exonérations - Actualités et statistiques",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmhCdkZTZnkzVUtXZzdySXBjcVYycElkek5vWUc5RmRRZjVqSHctUm1kV0ZiUFlWcUFnWFgyOHZib1YzWWxUNnJyRzdPeGxsWkpkWVhQbUhoTmpaYlJ3XzhzNnp6Wlpab1drS0tLT1VqNXZUN1BqNFF4aWRad2NCVGpzN1o3VVlnV1B0Y3NPNi14YzZlWGtfMklOTEphQkRyQVJGR2tPUjI1QVhST181bzM0a2hndFJ1QlNVR2FR?oc=5",
@@ -105,6 +112,13 @@
    "source": "Vietnam.vn",
    "ts": 1795338675,
    "theme": "fisc"
+  },
+  {
+   "title": "En situation de handicap mais pas d’échec : le parcours de Nicolas lors de son DuoDay avec la NR en Brenne",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdEVCZ3ZJVFRKc1drbDc0eEpqRWkwM29TRFhmR2dIRUltbUp2eWFIUVE2blRnMzNDbmdJVENXZW9Pb05Wem5pYWdFTzdtV3dCVzB0OWdERlBNMVREN0FZd05qa3ZlWFUwV3hwdjh6VHF2VmxGREl3LXludjZ6dENfbzdTY2dhSlozUVpzbUtOWk83Q1lldkppZlZQOUNMZFRVMHVQY3NFNjhXei1IYXlpY1hoNWRJYjdNTDh0SzVLMmp0XzNWLTZpb0pHQzROYkw4TTRqaV9sQ2V3M2xEd01hbWtlLWZmMUdQMUZYMFQzaUxYQQ?oc=5",
+   "source": "lanouvellerepublique.fr",
+   "ts": 1795338000,
+   "theme": "alt"
   },
   {
    "title": "Taxer les riches pour réduire les inégalités : quand la gauche s’appuie sur une étude économique multi démentie",
@@ -1099,20 +1113,6 @@
    "source": "Le Cri du Troll",
    "ts": 1794972896,
    "theme": "fact"
-  },
-  {
-   "title": "En direct - Grèves successives, élection présidentielle, réforme des retraites... Ce qu'il faut retenir de l'interview de Jordan Bardella",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZjdKbDFTSmIxQWRvWmFrQk1lRUZDLVZwUTJac1JmN1dBQ1p2ajYwMlRJeEIwdks2bHhKQlJfSGpUelVXVjNBcXdhcnhJVlFOLVdleUs1Y3ZKdHRUSW13amZmdmk3ZWZNSy1aQ1Rpc1pCanBSN2xlQS1CRmtlNDE3N0x2TXdlWW5Bck1ZUkF0Q2pLR3dydWhUQi1oVER2cWNnN2dZODhHZjRDSzYyMzJGMGU0WGgwMmViWEdpTFNfbjdjbVJ5cnQwX1o5MXNEc2t2UDFORTFyRkhhV2M5TmNGazUtb19XdDJuTUNLWWxpWjcwNDAxZm9EMEQ3c29HUdIBgwJBVV95cUxQRU4tbmpsS2txZkRUSGJzaHVJRXJ6N3BKY28teGdCc2hYcnVEa0ZWekZ6R3AwR0lTMkxSaWgycEN2dmJpZnBINVhCUlc5bWluNFd0MmQyNHU2YS1tRFNHQkhXVkF0RWdySUNBTUVoWFV3bllkanR0eENZbzQ2dHczbkNhdDBoZlpOZ2sxUnZDWmV5THRzN3V6clJyRFFWYk8xVGJxdDN6c2lCMHB1SmdXOW9SNWdieVBNX256c0s2aWVtYWtiV2ZCUGk2Vmh5QUFWbzdqSjJmRUViaUpoeFozYWJCQjU0eEU5aEZKbGxSdzVvTTc3SnpIcUtFbkphRWdzblE4?oc=5",
-   "source": "Europe 1",
-   "ts": 1794943800,
-   "theme": "alt"
-  },
-  {
-   "title": "Capitalisation, trimestres validés par l'emploi, renforcement de la décote : ce que propose le RN pour la retraite",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYldndXA0MXlKOF9fb2ZxMDlBQUcxQzFOaXJBT00wMFEybENhOUhVdElFRmxhLXU5Z0tCc3YydWdNbDNWVkxLVWlFSGpiWkFFcXB3NjUxNzduM3dGa0VkYmVXc1VGb0FENFdMbkJWSHdPVWV6STdlalduS2ZVQnhIb1BGTTFidlk5eDd5LXMtekpmSTFjZTVrNXFHSE00SndjQ3RUcVduWEZfMkU2NVRwaDRKLTN6WWw5TmZXd0JTOHM1RVdFNkVYQk9jM283ajByeS1jaGZwX3hJbm1FdEZrMA?oc=5",
-   "source": "AEF info",
-   "ts": 1794937080,
-   "theme": "alt"
   }
  ]
 }
