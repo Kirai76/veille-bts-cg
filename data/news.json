@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T18:59:45+00:00",
- "last_success": "2026-11-22T18:59:45+00:00",
+ "updated": "2026-11-22T19:56:57+00:00",
+ "last_success": "2026-11-22T19:56:57+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 22
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -70,6 +70,13 @@
    "source": "Le Progrès",
    "ts": 1795368976,
    "theme": "alt"
+  },
+  {
+   "title": "Loi de finances 2027 : L'UTICA propose des mesures pour soutenir l'investissement, la production et l'export",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0h6NnhEejNZWWZieGxRZ25WNVMyUnZFUnVJa2RwcHFjdlZBbUZwUFpoWnNSaDZDN29JYnU0b056UHJiVzZOWjRFMk1NcEtsd05RX2xINDJ5OExXd1lKMTNqUzIxcGZnTmFTN2otdnhlUk9CYm9DOFFLR2RJOUtYdEZWS1FFMHdTeEN2cmVwZkNCT0NQNDR4RXJvMVRkNWdqREhtNkp5cWRQUHB2YjVWS05xOGNxM2EtdDdYcmV6eGFuQ3VaZ1ltYg?oc=5",
+   "source": "Espacemanager",
+   "ts": 1795367992,
+   "theme": "fisc"
   },
   {
    "title": "Arabie saoudite : impôt minimum de 15 % sur les multinationales, champ d'application, calcul et exonérations - Actualités et statistiques",
@@ -1106,13 +1113,6 @@
    "source": "Demócrata",
    "ts": 1794974400,
    "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique 2026 : ce que les indépendants geeks doivent vraiment savoir",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnh3aXNqczN6bU54aVhOZkVITm90VVhvZUpqRTZTcE1DSEtBOVpPRFhGc3d0R1FpeThVeklXdzVlVkNPSTdsaS1sY0ZMVGxlX01QSVpnbXJjb2VWLXN3X1RRVXplQWpkVVhlUDB1Y3pZWFpsc0Z3VXY0NV9PVEhGTXNqVzVCUnl1MzhFc01WYkJNSFF6ZUNBZUVqNGNBR0dwcGliUUVfLVZaeEtDWjRB?oc=5",
-   "source": "Le Cri du Troll",
-   "ts": 1794972896,
-   "theme": "fact"
   }
  ]
 }
