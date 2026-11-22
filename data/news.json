@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T02:59:01+00:00",
- "last_success": "2026-11-22T02:59:01+00:00",
+ "updated": "2026-11-22T04:03:46+00:00",
+ "last_success": "2026-11-22T04:03:46+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 48
+   "count": 33
   }
  ],
  "items": [
@@ -1060,8 +1060,8 @@
   },
   {
    "title": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk5vYlhKZkJPVEV3aUlZb2JNejRxY0FUa2hKc2pLR0dUWTJLd1RfUk5mMjlZX1hyelJLZDBnY0lWR0FQcTNtZXdidV9BQ01IQktuYlJnX3NuYXBpWnlfZUZFVUxacXlHWjVvR19qaVJ0VFZ0bkpWemttTXQ5Nm9fZHFoNWVXSHA1a0ZhdlNubw?oc=5",
-   "source": "Yahoo Actualités",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFBYemllS1d0aWI5cG9PT2cyRU5md3RlT19weFVIUElBTnRHSm1mNUNzeWpBMk1LN29yUlo3UDJzcnRla2xRbzljYXc1aEViVnVDVEJRNzN1SkZ1V3h1OXZqaUotQnUzV2dpUjFvRm5KVktGQ1dnempQUlFLNXM2UF9RTkJQbXFFeXFPTkN3R1U1Y18xWkNvVWVUSHdiVXBDbllXN1JoemM0YU5WZGlpRWl5ZFpXWFlWQzVhTG5rS0JYTldkSkFUcWRINjV0ejhiVzRBeWhmZWtHWFhudXlkNWdxcUE5ZHB4aVlTOFZSdjQ3d1di?oc=5",
+   "source": "France 24",
    "ts": 1794929495,
    "theme": "alt"
   },
