@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-23T22:01:34+00:00",
- "last_success": "2026-11-23T22:01:34+00:00",
+ "updated": "2026-11-23T23:03:49+00:00",
+ "last_success": "2026-11-23T23:03:49+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 13
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 70
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 85
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,25 +45,32 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 30
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 23
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 44
   }
  ],
  "items": [
+  {
+   "title": "[VIDEO] Arrêts maladie : nouveaux plafonds au 1-9-2026 et impacts pour le salarié et l’employeur",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnJvektkWWpvU3dZSVl2NXZoMW1nWXlaWXVPZFEyTkotYnRqbllQNjhMeElRRjJ2V21LYklNOTBWU0Z0QndXR0tUZzZ1Z19DUzhYTjF6cXJTdkNQenpUWTNIZDZoVTdQQncwZHEwZ0stSHY3SFlWZmNSM3VJOVY4Nkx0ckIzV2lLNXlsQ0dfelc5TUgzbkQ3Q0ZWeGZhQlFTMTJBYUZ2Z0VHQm9FZXNGWUNzdEN4aXhWcTdfZGg1OGdoeTVJRVZLR0dhajlPVFBMdUU1MjltUQ?oc=5",
+   "source": "Éditions Francis Lefebvre",
+   "ts": 1795471990,
+   "theme": "soc"
+  },
   {
    "title": "Budget européen : Bruxelles veut sa taxe numérique, les Français paieront deux fois",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzFOLVdyZ2stRjl6cl8zNl9Idk9JT1JDY2tpdkJiSGRydTdDbjJPdzBSSXRpTUtlWkVKQnZfZzAyT2RlYTIwTGlBUDJvLXhDU0h4Rm9sT0RsdVYxV0hVc2pqOWVrOWs0VFUtZ1RGN2dSemtjUGFqcWZyZm1jMWV0dTBqczJYY18ybjEySm9CdVhITGIyekQ3ZHI4LVlOLXJfbUtjN24zam50QQ?oc=5",
@@ -126,13 +133,6 @@
    "source": "Virgule.lu",
    "ts": 1795450645,
    "theme": "fisc"
-  },
-  {
-   "title": "[VIDEO] Arrêts maladie : nouveaux plafonds au 1-9-2026 et impacts pour le salarié et l’employeur",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnJvektkWWpvU3dZSVl2NXZoMW1nWXlaWXVPZFEyTkotYnRqbllQNjhMeElRRjJ2V21LYklNOTBWU0Z0QndXR0tUZzZ1Z19DUzhYTjF6cXJTdkNQenpUWTNIZDZoVTdQQncwZHEwZ0stSHY3SFlWZmNSM3VJOVY4Nkx0ckIzV2lLNXlsQ0dfelc5TUgzbkQ3Q0ZWeGZhQlFTMTJBYUZ2Z0VHQm9FZXNGWUNzdEN4aXhWcTdfZGg1OGdoeTVJRVZLR0dhajlPVFBMdUU1MjltUQ?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1795450390,
-   "theme": "soc"
   },
   {
    "title": "Ces 300 millions d’euros de cadeaux aux entreprises qui crispent la CSL",
@@ -223,7 +223,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -951,7 +951,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFZUTHNvYmNvZUh0VmhIdk5vcTRZZ0JzVXo4SEhtMnZxcWRGYlFrWThoZXN2Q1M3SmVhU3lmR3kxU0k0QktTS3J3QXhvd3BtZnctVThEbF9hdEVVV004OHU1X0hiYWdhOFJfRzF2d2VHdjgtU25lQXl1Q2Q1dlpfdVJQaWRxN1pMaEU3S0NQZHNpNl9ZTUpnRHF3OGo5LVFvaGg5OE80RGRDWUVNWEhmV3hKZktCaXA2YU5zZUJ0TEs5LW1OT1lLVjA2YmVvOE1hamc?oc=5",
    "source": "L'Union",
    "ts": 1795098063,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
