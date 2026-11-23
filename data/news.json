@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T20:14:04+00:00",
- "last_success": "2026-11-23T20:14:04+00:00",
+ "updated": "2026-11-23T21:04:08+00:00",
+ "last_success": "2026-11-23T21:04:08+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 34
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "query": "plan comptable général ANC",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 0
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Budget européen : Bruxelles veut sa taxe numérique, les Français paieront deux fois",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzFOLVdyZ2stRjl6cl8zNl9Idk9JT1JDY2tpdkJiSGRydTdDbjJPdzBSSXRpTUtlWkVKQnZfZzAyT2RlYTIwTGlBUDJvLXhDU0h4Rm9sT0RsdVYxV0hVc2pqOWVrOWs0VFUtZ1RGN2dSemtjUGFqcWZyZm1jMWV0dTBqczJYY18ybjEySm9CdVhITGIyekQ3ZHI4LVlOLXJfbUtjN24zam50QQ?oc=5",
+   "source": "Contrepoints",
+   "ts": 1795467555,
+   "theme": "fisc"
+  },
   {
    "title": "Grande transmission : le budget 2027, entre incitations et fiscalité renforcée",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3JybkZDcGQ5bF9hVHhXZTlQV3F3MUVXdU11VWVWcDBqRHgtOG1ydEthUGllbmhrMHhRZWlxaVluY0xWSWNVR3dzREpUdFlNcFVWWW5WZW1mMzFWMVV2bkw2bVpqaGp4aThjdGNVWEZzOTd3ZElybm1jR1hQcnp2LVBBbmFMT0hMN3hsb1Vzc1llWk5WWnRMNFhSSWFBN21LaTg2NlROS3Myd0Ztd2I4?oc=5",
@@ -146,6 +153,13 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmhLVEhNN04yeGRheEtQakRRT0NtR2R0QVJQMVBhMGk2TE1YNlBsQWppOFU3cWVZU2JEOE13V3RDdDhucWdtQkN2NmRhN0J0MWctN2drSnA0U0dnWmRWM1lnem8zOTFMU25MdU1wWEs3VDFobGVEMURETjdFdndOM1RRQzBlSFI0a0w3YjNVcHYtbmFHOWc?oc=5",
    "source": "African Manager",
    "ts": 1795438583,
+   "theme": "fisc"
+  },
+  {
+   "title": "La TVA sur l’électricité relevée à 20%: pas de hausse des tarifs pour les consommateurs",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXdSMkdJeDM1MEJnVG5pS1hUczg5d1plZDRVOTJnQXNaTXhteVZJQzEwdjdyQXE3blpsTXRrdWx6OTVWaG81T2VFRWNSRG1WbTFDQnVRVVFBY3dDaE5FYVJsQWFBVm4xSVNmYUZWWlh0RWVaTTNNMzM3QUxDREN1SnZ1a3FIRVd5a29pN1JtNlM0OXBXaEZERXlZcnBpdG9MVks1Q01saDRpQU9rOTJpblFzN2VPYTlMTTdVNEdNcl9CeXhZQ0d0c3hQUEYzTWY4QTZhcnNfRFE?oc=5",
+   "source": "Le360 - Le média des actualités du Maroc",
+   "ts": 1795437900,
    "theme": "fisc"
   },
   {
@@ -317,6 +331,13 @@
    "theme": "alt"
   },
   {
+   "title": "Crédit d’impôt formation dirigeant 2026 : que change le décret du 19 novembre pour vos anciennes formations",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXlJSGVFS3dRYllxSWVPZTlHNEh0Tkp4M3hDbVNmcXducGN0OG0zbHEwamhTamNqNmNKZVNMVzRNM1l6LTM1bHVXX1BSbzQ3ZUVndGdpTHZMX05rcDFobzdlWEc3NDhnUU1lLTV5YUp3MF92UG1JOFdydDlqZHQ1cDM3V2x6OUpIaVdKcA?oc=5",
+   "source": "Hassan KOHEN",
+   "ts": 1795372380,
+   "theme": "fisc"
+  },
+  {
    "title": "Ambérieu-en-Bugey. Diplômées du lycée Bérard, elles préparent leur BTS en alternance",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1FPV2h5dFVtbXotNi1nWm1yRjVYYkpLb0g4Umt1elJRMVpjemw1SnpscWUxdVN3cFEyRkh4YnBJckl6RXdTUmMxNkVMX2E5cUgtZjZnOWdMR1BOclJVb3NsWjE2ZUhNNlRoLWYxSVNwZ3hxb2U0U29iXzlrM0ROZHlrUHVfM29UeGlIcXJmWlRpTHlvNU9BM3FDTUw2VWlYbW9jSTlpcTZjQmhKYzM0?oc=5",
    "source": "Le Progrès",
@@ -370,7 +391,7 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSEE0R0lyQllHaHUzcTMzX2Ftd3pwWHNLV0NBX2xlUHJNZXBqSW1SUXpLOW1sM1h2UU9xc0VSN2dhOTRMSkZhZHRCeVpnUWNnazBJT2lXX19aNlpuUzB0M1AydzNkOVhWNDdSLUZFT2xra2NLOVpFYWxRWWF6Mzg?oc=5",
    "source": "Compta Online",
    "ts": 1795341287,
-   "theme": "alt"
+   "theme": "compta"
   },
   {
    "title": "Le regroupement du premier exercice fiscal a-t-il une incidence sur la période d'exonération d'impôt sur les sociétés ?",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnpiSXlISnQycnRRY25FbV9mNUJYempYWDRhSFAzVlVqeXRSREZGQ0x6YkVWRTE4WUhhTjN0WnI0MTRHaWVTWk4wZVZvck52WHRPWHFhenlQbHkyanFhR0lrdUlYYUNNYW45Nk4ySkFxRU9yX0xkbGtZTi1PTTZONGg1V21SZ2R3U0U3SEt2dF8tVzl2TFhGc3ZFRGtnTlVtdWtvQ0tab3lwcDNCZFNOWTBkc2I4ZWNS?oc=5",
    "source": "LégiFiscal",
    "ts": 1795058896,
-   "theme": "fisc"
-  },
-  {
-   "title": "Emploi des jeunes : appel à la mobilisation des entreprises à Paris",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0xDYTI5OGRtUHF3LTVYcVpqY0Vrd1NoS18wTE9KenpiWDRVZ3NKam5TSlVveGl4ejVvczM3Vmtpa1ZBSno1YVN5dXc4aWZSdGU1S1R2bmxaak5mdnlTOHV3NDl3WlZ4MUZYeVNjOXJGZmhuQnNZcUZHenl5R1VMdlNnM1hQWXAtUU5ZTmFCYlpvanJzYmNZY0pzZWhZczdTQlB3VExlSTFDS0E?oc=5",
-   "source": "Presse Agence",
-   "ts": 1795057200,
-   "theme": "alt"
-  },
-  {
-   "title": "Exonération d'impôt sur le revenu pour les micro-entreprises, avec une réglementation détaillée précisant un seuil de revenus de 1 milliard de VND.",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW1hTEU5Wjd4WUU2NG9oNmZldEs2SGhOTi1aWldhZDdLRmt1eC1SWWs3b3Nkakc0bGF1d0hYZi1pc1cwbXpJVTRMbVV5ZTk0R0xieEJfS3VKTnhEd015YWZiMnZHQW1fRjZESWR1OEpUX21hRHEwUGpmNV9VZTJ2VDFTbFFDVjBuUEtIa2N0bVI1dWdBc3V2dDFtNEVmX2R5N0ZlNXNmQUtJTmEzYWYwMWJB?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795047794,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget de 2026 : transferts de pertes entre sociétés, assouplissement des exigences pour certains choix fiscaux des sociétés et exceptions aux règles de RDEIF",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPV2M3R2VrS0FBZk5NcWNETUVhQ29zOXpQakFiZ2RKMUVfcExKWkhIaWhCUjlIZ1ZHRFFDaGxIMkE3WHhaVXk2aGtPQXAwTEpDaWhOZGxZdFRLX050NXptQTM3RV8td2xGblhsd21zWlRBUVJPMFFCTDR6VGdzUkVPODFkV3NRdG16TXFiVHZDcHVNWlZDRmxENGlXOG5vbC1iUVdRYk4zRDBJcXk4TVl0OVl3QzI0b2p5NVZHakxUTDhpU2NOa1A2Y0tHQ3FFMVIzcjBaakh6THZDcG1MLURWXzN2b09CLUMyZFJyWG50TjV6TE1Bc1RwV0R5UE9lSVA3amotZ0NYTk5Yek92WlNfRm9pX3FyNXdnR295andTNExqYWNINWRrR2tnT1NrZw?oc=5",
-   "source": "McMillan LLP",
-   "ts": 1795046953,
    "theme": "fisc"
   }
  ]
