@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T17:13:45+00:00",
- "last_success": "2026-11-23T17:13:45+00:00",
+ "updated": "2026-11-23T18:11:41+00:00",
+ "last_success": "2026-11-23T18:11:41+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 66
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 84
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 23
+   "count": 9
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Black Friday : économisez 30 % sur les abonnements Tiime pour gérer votre entreprise",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZE5aZTRLWmc4UldqRy0tMjZVOGJpb3djWmYyaVhrNEw4Ml9aMnU2dDZjcTRYTThQbGpRRlNRc1NDVVVEQVdSZ2RYdmdNM0lRQV9hSmZhVllheEJ5Wm9UTUtWWTBSUVVMTDdaeDVPbGo2aVlDTGU2NEQ4emRZRlhYdEltc1V4Uks5UHdFT2E5V2lKbUR2eEx2aFZMa2puZ3VLSlRSN1VVNEQ0S3ZJODlsSm0wUTl0ZE85NEd3WHNpQkR2VmRPcVBjdmc4cE1XMFZodUNmUldNRHM1SFR5MXF2Wjh2SmVNMXRQTkpfNzYxdDRheUFuRjlrbDU2NGFKQy05aEpVbTZvakU2NHZWX1MxUGNfb0ZDdw?oc=5",
+   "source": "La Tribune",
+   "ts": 1795455002,
+   "theme": "fact"
+  },
   {
    "title": "[VIDEO] Arrêts maladie : nouveaux plafonds au 1-9-2026 et impacts pour le salarié et l’employeur",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnJvektkWWpvU3dZSVl2NXZoMW1nWXlaWXVPZFEyTkotYnRqbllQNjhMeElRRjJ2V21LYklNOTBWU0Z0QndXR0tUZzZ1Z19DUzhYTjF6cXJTdkNQenpUWTNIZDZoVTdQQncwZHEwZ0stSHY3SFlWZmNSM3VJOVY4Nkx0ckIzV2lLNXlsQ0dfelc5TUgzbkQ3Q0ZWeGZhQlFTMTJBYUZ2Z0VHQm9FZXNGWUNzdEN4aXhWcTdfZGg1OGdoeTVJRVZLR0dhajlPVFBMdUU1MjltUQ?oc=5",
@@ -146,6 +153,13 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGVUZWRLSkpKaUI3ZWtqTEp0eFloSFdRVEk1TkJWSTU4dmtWRkJOaWJLQ2hPWHpKMTUxQ01kbFNTa1FtMUtXY3UtZ0U0MHdLZENpdXJCdFpGWGItanV3UWxXTW9wZEpERkZoV3dmeEpxWG94dG01azJvdlVjQUlOOXZvLVNnWnBmd2Rva3lLYnhGOURTcjFHajR2MnphbXRaOW5nQXFWTEZGUmhLZ0NYazBsTWFmQWtTbzFmSg?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795429621,
+   "theme": "fisc"
+  },
+  {
+   "title": "En raison de nombreuses violations, la société Thu Duc Water Supply (TDW) a reçu l'ordre de rembourser et a été condamnée à une amende de plus de 1,4 milliard de VND en taxes.",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazNmRkpvb3BJRXZybDBBNlNxVWI2UkoyR1VRWVhVeHJKdHdVcG43RW02ckxkY0hteEtCR0o4SjVlSHl5OHVYUG1BTGtaRmpmTTYtVFdTNmxvaElUZUdkZXFsR0FfUVJvNkcwNFJRWERPamNjVE95Z2V5N3dpV2hPNFlPZS1nQ0dMMTl5dWc0S3F5bnJReWRlTTBVb190Yk51NGt1dG9OVm1tUFZa?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795429620,
    "theme": "fisc"
   },
   {
@@ -534,18 +548,18 @@
    "theme": "fact"
   },
   {
-   "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
-   "source": "panorapost",
-   "ts": 1795186800,
-   "theme": "alt"
-  },
-  {
    "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
    "source": "groupe SVP",
    "ts": 1795186800,
    "theme": "soc"
+  },
+  {
+   "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
+   "source": "panorapost",
+   "ts": 1795186800,
+   "theme": "alt"
   },
   {
    "title": "Loi de finances 2027 : quatre articles fiscaux reportés, entre soutien à l’industrie et transition énergétique",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDFBTEdmSWJJT1JzRUdQSzZQM0IzUlcxbEZMcm1FMWFjQUVxTkdjVlAySWN4UWx0QndYcmdJOW8wX3RTaVE0dndIUHJzMmhQbXJSTFZpalVOMkFQNXpvb0YyeEtkczMwVldKV0pNa2JUV1pqMUJYN2VrV0VucVNLcy1QcHBLYm1LeTNxcXhWWVJpMGoxeW5EZGN3UjRqcENmclBGNXgxYlgySkxYSWVDOA?oc=5",
    "source": "https://www.leconseilpatrimoine.fr/",
    "ts": 1795026709,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les représentants de G. Attal, R. Glucksmann, J.-L. Mélenchon et É. Philippe confrontent leurs visions de la formation",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVUU4ZGpzWVVMdGVSLXlQOHJMQmR3QS1LUmJUU25ZZEY1cG1VMHdFNEFfdDV5SGpieHpreElfaHRJbE1VdkkyU01wYTYwX2diUU5zOTFDNmI3cmozUnR0TVhCcVpUdTI3dzREU0I4MVRzT0w1ejVhTm1mX0hqQVJFTExRNlRTWDJnRXJsek9aM2oyRDJWLTJMYk9QNjVySGdNZE1oa05iOVFZWWdVOTRpNncxb0lZMXo2U3NFWFQ5MzVvenhuT2tETm1BLUpWNDRGX2RkRVVUaGt6THcwazVFVg?oc=5",
-   "source": "AEF info",
-   "ts": 1795026180,
-   "theme": "alt"
-  },
-  {
-   "title": "« Toutes les cessions sont interrompues » : la réforme de l'apport-cession continue d'affoler les chefs d'entreprise",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSkI3dFMzZ01lNTB0cWU5UmR0VVdPUXdxVllDS0JycjYzVE5RdDJndEctN25yMVdEdGluQUV1bmREYzREUXVpQUFxQl8tVHNPRWVERklxSkUydGxsUTdoR21nVy1NT1hidlJqaEhueEVVcHJSdHNhaDJFb0JsUC1wMDE2amZ4VTBPU0VOZm1pci0yMXFDTHNCVURsN0w0QmlpRUZ1Q2pmZXlxN2FIYU55cUs1NF93X2hQRDF0anZkamh0T093WWNHYWZHXzZVNFVjeVRMRW9Qak85QWd6NXBGMnVuODA5OGFBRmc2S0FobFd1dmJlMUU2enFZSnQzWUhUR1E?oc=5",
-   "source": "Les Echos",
-   "ts": 1795023077,
    "theme": "fisc"
   }
  ]
