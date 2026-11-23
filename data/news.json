@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T13:32:19+00:00",
- "last_success": "2026-11-23T13:32:19+00:00",
+ "updated": "2026-11-23T15:18:11+00:00",
+ "last_success": "2026-11-23T15:18:11+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 66
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "query": "DSN employeurs paie",
@@ -68,7 +68,21 @@
    "title": "Luc Frieden peut-il encore contrer le projet de taxe européenne sur le tabac?",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEwyVkt3clotMm1zUUJmLXk3YVRhbWUtendtbHBDdjI2X3FSUUxLOUlPR2dJWVJranpLdW5GRjVOZGk4RDdTOEVqQWc5UWR2ZnpzcXB5dVoySXMzaDJGcUNFT1hYT3NUZVdfa09LZjdGTDNrNnRrYkNyTkZUUWF5WTRFMGFRRWJneFJsTlZuQTRKcHZUOF9xVlo5Q05rVVoxelhQQTN0NG12dVJIZXllcS11dDI4ZFEzc0RSSF9GVHh1TjA?oc=5",
    "source": "Virgule.lu",
-   "ts": 1795440117,
+   "ts": 1795444708,
+   "theme": "fisc"
+  },
+  {
+   "title": "Ces 300 millions d’euros de cadeaux aux entreprises qui crispent la CSL",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlh6anlaZnBOSUtPZ0hmSGlLYS05NWpwNlozUTNzd3N2M3pNZlZUS21mWUtWdnBZc1REQ0VySi0tc2pmZ0cxX2p4b0VLdE1BWnFWNy0zMEg0cHRXZFVFVEZPcC1UTHBnc2M0S3dEUnNZTE9zalE2T1N6UWhaTHBQa3Uxak8wY2IzbzlVbVE2VWVHRG11OXc?oc=5",
+   "source": "Paperjam News",
+   "ts": 1795443046,
+   "theme": "fisc"
+  },
+  {
+   "title": "La Douma russe approuve une réduction de huit fois l'impôt sur les sociétés de l'animation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2pGN0N2YmRoZDBYTlhYZHZ1WUpoalpNblh5YVpVOVNZdWxEMGtIbVU3bWlzQzhjMkJLOFdiRmc5U3NFNkh5a2o5TXlvTXJ3UDk1UmZSLWNaS1YxZjlQT3NzNktTa3M4eVFQZldqaVR0Rm1aVUJzTXNOeEVCdXl2MlZFUUR6X3kxeTZ2LThQY3cyc1dmYnFZa2tncE9iMjc0TFY4cDhVRmFpTHBrWDNXTVR3?oc=5",
+   "source": "Foro3D",
+   "ts": 1795441053,
    "theme": "fisc"
   },
   {
@@ -77,6 +91,13 @@
    "source": "Le Parisien",
    "ts": 1795439880,
    "theme": "fact"
+  },
+  {
+   "title": "Faux courrier Urssaf : 2 376 € réclamés avant Noël pour une cotisation 2027",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaU5Udl9GVkJLR3VaYUhfZnRlNUhnX2hmSXp5RGh6OXluZHhpOVZTTnlVRDJrZlU2Mm1hdFp3aE9rb0hBQjRoXy1yeF9pVVNnY1VjV0xsNGJLWHYyT3VYUFNJaXhiZC01UTdhbS1LbmVrdVVEWEI3dENzX3FUT3FMN2pRS0U?oc=5",
+   "source": "Signal Arnaques",
+   "ts": 1795439802,
+   "theme": "soc"
   },
   {
    "title": "Douane, la prison pour une erreur de forme & un allègement en 2027",
@@ -154,6 +175,13 @@
    "source": "LSA conso",
    "ts": 1795422519,
    "theme": "fact"
+  },
+  {
+   "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVF3eXBEZ3lpR3dlTXJPbTBIeTB5akNfalBtUHRPcndkcmhmU2xpVnFkbm5jcXR5SWtkWE8xWnpvb3dya055cjZUT1NIRnAxYWs5UzBZamRGWF92V2NOcFRwWmQta1BfeHhJRUt1eUc4TDZ2QVlaUlBiSWNrS1AxSENRTWI4Ri16UEFlSVI2dmx3WjBuRks0elVTWHRYaFlvVV9OOWhHbTNab0hzSDhvZHdXcXdZLW5EZHk1YlcxcldkZzdULWZYNjFyS0xZWHdPVm1BUXB4SzRUQkNMSmtTc3ZtN3NIQ1RhdTIyOS1tbEtZVjBvalRz?oc=5",
+   "source": "Classe Export",
+   "ts": 1795421345,
+   "theme": "fisc"
   },
   {
    "title": "Facturation électronique : obligations et coûts pour les TPE",
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUR6STdNd0ZWODU5MXJPN2JJaE50djRiZU9rMERjRUptX1pDM3NLdVNzUTlJX3lycFdqckVlMlZSZldKM3A0NVpyMFhQUnEzeHZ2VWFfZnE3TDBrM2ZNWGRVZmt4TWZFYzBITFdRSHczcW5iX3llelRCM2tJemNjenlfbkwxTjBEbHZjSjgxOHViNU5RLV93Q0Z4b19FcjFSYkZXV2l2NXhIOVZJ?oc=5",
    "source": "Le Figaro",
    "ts": 1795021837,
-   "theme": "fisc"
-  },
-  {
-   "title": "Normandie : les entreprises rouennaises accélèrent leur transformation numérique",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIbjU1X0pZM3VQYUhKNGpMS0NyUW0wbUVNVDJSX2l2VmVjYW10SVVPRTdrME1NdHAyY0ZDR08xS1k4YU1hc0lNU3c2NERBcEFPbE92VUZJTHZZVEpFU190enB6ZWpmZUIwcm9N?oc=5",
-   "source": "Normandie actualités",
-   "ts": 1795021522,
-   "theme": "fact"
-  },
-  {
-   "title": "Avantage en nature véhicule 2026 : le vrai coût de la voiture du dirigeant",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRU1kOVVabkd4bWRjT05mREs1VzhWVEowT2pMSXVnd3FZSk1TTGo1ZVRXekdWcTlfUzFmY0p3VG56UEt4WHFEOHpLM1hqLXhCSEN1ZGJPdjdaV213cEFuWnoycXZobHZEQ2R6VDczWHEwcGgwX3ZoSjdzQVZHeUZvS05RTmw5MENxVXJmcDVFTkpoLXkwWS1UX1hFVW9ULTVZeHZCM3pTcXhzRW9mR3h0M2pmeVpFSHlscDJ0R0g5SV9DVjdERndaczdzU2lZUkVfVUR1YUt3?oc=5",
-   "source": "BFM",
-   "ts": 1795021203,
-   "theme": "fisc"
-  },
-  {
-   "title": "Ils rétablissent la réforme des retraites et décalent la réforme des allègements généraux: ce que contient le budget de la Sécu pour 2027 adopté par les sénateurs",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQTG05ZngzNVhQVEVPYVU0QkNFcjJBV2M0UjFfQWVUUVF1bkN5TDIwSGxabll5di1MU19ZTmxvTWkzV25VVmtGLXc2SzdIWkxCT2RlODUxLXlnQklpUFdwOG1aN0QteThpTlk4MDJacjZ4NlNHZktzY0EwdFJkZ0poU3RtQmp0cTYtTUFtZlZfejBoRkFiQ25fWUFmUTdod2lPcVVLNFAyaFFiRXBwdTA5ZFB4NWFWckFTWXNUTFR6RW9uRzJfRGJwSWJORHBmSnEzS19MQ0hEMkdfRjhjOERLcWZFN3NsR1NRY3MzcEhobWcxNWxrTHU0NlQ0US0wUmJwSk9aUGpnNUNhWUZEU3VIdUdEY0N1M2JpVzJBUF9oRzkzQzZWc29xTUF0Nm5qaklWYUpnUnRTT2xnVnk4eDJfdXpGV0IyRjg?oc=5",
-   "source": "BFM",
-   "ts": 1795020945,
-   "theme": "fisc"
-  },
-  {
-   "title": "2,6 milliards de réduction d’impôt: l’UEL conteste le calcul de la CSL",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOck1vYW1EU2JTOVcwNUdabzB3Wjg5UmtHSFF1NFd5YUprOElQaFlibXJTdnNCQzJzaDNmMHJER0RpMU5lemhQWWNIS2pKOHVYTVV4amVxYndseS01M3NLWnh4ZDQyd254X1Q4THMzUFN1Mk40dkpMUjdOU1ZoREg5MFlMeW5JZGRGbFVCc01iRmJhaXZGQmY1dmp0TQ?oc=5",
-   "source": "Paperjam News",
-   "ts": 1795020117,
    "theme": "fisc"
   }
  ]
