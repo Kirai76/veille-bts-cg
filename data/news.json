@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T06:17:38+00:00",
- "last_success": "2026-11-23T06:17:38+00:00",
+ "updated": "2026-11-23T08:45:02+00:00",
+ "last_success": "2026-11-23T08:45:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 66
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -45,30 +45,58 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 23
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 48
+   "count": 33
   }
  ],
  "items": [
+  {
+   "title": "Luc Frieden peut-il encore contrer le projet de taxe européenne sur le tabac?",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEwyVkt3clotMm1zUUJmLXk3YVRhbWUtendtbHBDdjI2X3FSUUxLOUlPR2dJWVJranpLdW5GRjVOZGk4RDdTOEVqQWc5UWR2ZnpzcXB5dVoySXMzaDJGcUNFT1hYT3NUZVdfa09LZjdGTDNrNnRrYkNyTkZUUWF5WTRFMGFRRWJneFJsTlZuQTRKcHZUOF9xVlo5Q05rVVoxelhQQTN0NG12dVJIZXllcS11dDI4ZFEzc0RSSF9GVHh1TjA?oc=5",
+   "source": "Virgule.lu",
+   "ts": 1795422579,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : le succès de la réforme se joue aussi lors de l’encaissement [Tribune]",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTk4xX3ZWSTBld3BodG5rZmhLWU5yYkxfWXBzRHpycnktMVRodF8xLXdqNGV0eDNSRkN0VGpXWXpOejFlRkNMaWhzdUw4ZGNZdmV4dUdiaE9fdGVsQ054VjNEV3cwTEJGQnJaV1FQbVY4U1R6bHJ6NGNjZFNIM25KajctaEVCMWdIMmVPSGxWekVhajZja1Y3Yml0d0pJbzhTYmtsZ2toUGdRbHpGaDkwRGczS1ZJVmc2ZVl4RzNneUF1OWxZZlI2V3RocWpqT0doLWxUYWpVcXRodzVKckp4SjBGV0t0b2IwRUlzR0gxTFl0Nmc2TkFvVS1ZdzVhUlBDSnQ5VmZuSmpkLVZ0c1FV?oc=5",
+   "source": "LSA conso",
+   "ts": 1795422519,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : obligations et coûts pour les TPE",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHdyOFVpa09NRE9qNzR2UVZmRmFCMGRhS1h5V3N6VEtKYnExRTdMclVzYUt0dGJFd1pUWExCQlF1ODhmRU9MSlNERmZsenkzTjI1ZkxHVFFTS212Ti01c0p1a2piVm5LT0FVWDNsSlJieENBc2JGVS0zcEk0YTlnVFNrSzM?oc=5",
+   "source": "business-times.fr",
+   "ts": 1795416480,
+   "theme": "fact"
+  },
   {
    "title": "Voici les 50 entreprises qui paient le plus d'impôts en Belgique, mais dont le taux effectif varie fortement",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUhMT2lfcWVzSXJ2ejBiRWJvX3E4MFlHY284Tkk4RHl0c2ZuNTRmNE9GTnZBMXJCVWhHRm9LcUFWRVVRanpLM0txcXRaOWFSMEF4U2t0QWViREFfbHdqZDAwNU5TNGlrYjJ1RFFxa2pkdDdIcjFWMUZPdkZxQzBlTkkxQ1NGaExSeW5nUnd4VFNWMm4w?oc=5",
    "source": "Trends-Tendances",
    "ts": 1795414125,
+   "theme": "fisc"
+  },
+  {
+   "title": "Nucléaire : le financement des EPR 2 suspendu au projet de loi de finances 2027",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQjNfNHE5V1dWd3NwQUc3YUVIZDFkQ2liXzl0OE9zTE9TOWFaNTQwd05GSE5oX0wtMzNDMV8tVU02aHVINGJhbDZGY2FuVGdtcG5fOVJtYUxlN09vQ0V4MVJnSHVXblo1U0JDUnhSQWM5QWFyZ3ZLbzRuSGR0akxiRGxjVkF2QW9aRkZNVnd0YlExeldhLXBiUXd3S2g0Zy15cmZneHRXVkViQlJtMGphczcxb1p2cFZIczR2dVZvQnlyUFYwYUFLSC1taHlzMDNaNEExVDJxZFoycWM0ZkRzREpfQmhpcjFsdXo3OWRZRmJWQld0RlBid2pYQQ?oc=5",
+   "source": "La Tribune",
+   "ts": 1795413606,
    "theme": "fisc"
   },
   {
@@ -744,6 +772,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Séverine Cartot nommée secrétaire générale de la CRCC de Versailles et du Centre",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzhDVTVtRF9sVTJjRjlrZjY3bzFtd2VLUENOcXF3S2RBcHNOUkw2d21kb3BDUi1sXzcwOG5paHpiaDR2bE9JbGdsWEoxbHVtRE9NSG9LY3VPTkM0SmtoNnlfRlA0Mm1RU09rY0hmazJxcEdXUUFyMVhBUl8wVjhFa09jZUNCNUpsUloybw?oc=5",
+   "source": "Compta Online",
+   "ts": 1795092540,
+   "theme": "compta"
+  },
+  {
    "title": "Tout n'est pas qu'une question d'impôt !",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEtRZkxMV3RfUHlVeEFpZkdGSFdqUzJSN0pJbDV3aWJfcDVDd1J1QmdBejBYWUJES3VBeVg2UDA3T3VnWm5nVXpnSklIMHRLWlQ4VEU4cUJfUFJJZTBfa2ZmRnZRSVB6YlZVcG5TT1Zzbk14V1lhRk9jb1Y5OWtqaWs5aG91MGRuQ2V0NnJiel9iNUtnNWIxa2dILXNfQ3NCSGFiWlZDLXAyWm9NV3NPbWJYZw?oc=5",
    "source": "La Libre.be",
@@ -1059,14 +1094,14 @@
    "theme": "fisc"
   },
   {
-   "title": "Rydge Conseil : la stratégie d'acquisitions de son président",
+   "title": "Rydge Conseil : quelle stratégie derrière la vague d'acquisitions ?",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YVFZdXFFczBuc1Baak5mMUhSUzJqZk83WG5kdXlIUDUycEl5cHFYeEFZd01wcWo1X1BwNm10LW5OOGZ2V0FOVWxHOFJaQmFlazJWb2xiOVVNQkx3cTJv?oc=5",
    "source": "Compta Online",
    "ts": 1795005088,
    "theme": "compta"
   },
   {
-   "title": "Rydge Conseil : quelle stratégie derrière la vague d'acquisitions ?",
+   "title": "Rydge Conseil : la stratégie d'acquisitions de son président",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YVFZdXFFczBuc1Baak5mMUhSUzJqZk83WG5kdXlIUDUycEl5cHFYeEFZd01wcWo1X1BwNm10LW5OOGZ2V0FOVWxHOFJaQmFlazJWb2xiOVVNQkx3cTJv?oc=5",
    "source": "Compta Online",
    "ts": 1795005088,
@@ -1078,41 +1113,6 @@
    "source": "ladepeche.fr",
    "ts": 1795004760,
    "theme": "alt"
-  },
-  {
-   "title": "Projet de Loi de Finances 2027 : l'État dans la ligne de mire des niches à fort potentiel fiscal",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONG5fWkdCYktVeENmd2p0d21rak5QRHl0NDh2aHQtSVhOc0FkbGVJTkJ6UzlTWDJYZFYtMFctUXdJWFZld2ZQeFlLWUJjV2J3RkcxaDNXQUhCS296cmliV0JuYndFMTRjS21EVm1LQzhRV01SdHZITXoxekItdnp5Z2drdUJsUEZHLVduZmY1QnJ2bFNFUG5IYi1OeGt5V3YxR1RtUkNPTVJKSktVS2NZZk5GMno4emZFd05TcnBjWndnVU9IdjZMdUQxdUtnM3h5RzdIWEF1QVdrOTdXSzdjZ1ZMOHZkODhUWHdJMDlYTE1EZ0hVeHJVa0F6NlFVS19ZUVYxWQ?oc=5",
-   "source": "lopinion.ma",
-   "ts": 1795004421,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : 150 millions de dinars de recettes en jeu… l’article 24 rejeté",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzk4RlhNdjlKNEVRMmZma0szYk9RZmMyX3NJOTdCYlpOZVpPOEx6ampzemRDVmt5R3MyREkyLXV5WEtVakZSWXJJV0QzRzk1Q0h6bEJaZ1hRNXhualZhTlpLei0yMlNhOS0xTnJ3ajFERnNHX1cxdlIzejI1LXo4VkNOWHRpMHBMVnI5NWhfdUFuc2w4NEt3Q0E1QjB0dnozYjVSb0MtalIwQQ?oc=5",
-   "source": "Tunisie Numerique",
-   "ts": 1795004100,
-   "theme": "fisc"
-  },
-  {
-   "title": "Réforme des retraites sous le RN : qui seront les gagnants ? Les perdants ?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFRHUVprWkVyOTNjOFltOEhqYldwNkFySE1SeWxmSlYzNDNGa1NnNWxQQzl6OGs1M0FyV2JtSTgtUzhONnY2N1kzQ3BES1ZFSldvcXZuWE1mVUNxMTFSSFVWMDVkWXY4bDZNS0hCb3ZfYU1hQXZqdXhKYldNMkFieV9hMVdBMm1YeVMyOHdpZXcwQVhyQlRIblZxcnpxMmRBeHBLMlp4Zlp6M2tH?oc=5",
-   "source": "Le Courrier des Stratèges",
-   "ts": 1795003624,
-   "theme": "alt"
-  },
-  {
-   "title": "PLF 2027 : la Confédération paysanne demande aux sénateur·rices de soutenir la proposition d’un moratoire sur la facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFak5icXJxQWt5T01qZENVaWw5QWJpdkd3OUJva0o0VzBScTNpa0dKVUFEMmQ4dElGQWNROG5NZWZOSUtHVER1YmptVENrYkZPSXhpUXpuXzRKOTdFVV94ck9xaEY?oc=5",
-   "source": "Confédération paysanne",
-   "ts": 1795001088,
-   "theme": "fact"
-  },
-  {
-   "title": "La souveraineté stratégique de la France \"commence en mer\" : les armateurs alertent les candidats à la présidentielle",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU3JSMlhPbC1Tc3VOWXJ0RUlOTWVNMFJ3eDNialF2Q0FObjNLYTBVMzRZajNUQmQzeWFYVmFFNUdySElFeERnUFpqZUdzeXk0ZmRxcUlGZUpsYWQ1SzM5MmlvZ3k4LU5OZHlJbnlITDRXQThJS0JoUG1ndkFocXNWbktJWnZNWkF0TU0zR3hrdDNGb1ladmpxWHJNbEdSVGRORFhoTjZ0R0lqeDU4N0dMYkpSYjR6OV81ZmwzeWk5M3BnZWI2WGhzanhYQXY1T3M2dDVFdDlhR3JmRU42TnhiNnpmeGlLUFBkSGNfdUF5WEtGQnFlNDZaNlNxVkx6dw?oc=5",
-   "source": "lanouvellerepublique.fr",
-   "ts": 1794997507,
-   "theme": "fisc"
   }
  ]
 }
