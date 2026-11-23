@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-23T21:04:08+00:00",
- "last_success": "2026-11-23T21:04:08+00:00",
+ "updated": "2026-11-23T22:01:34+00:00",
+ "last_success": "2026-11-23T22:01:34+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 66
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,17 +20,17 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 70
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 85
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 34
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -55,7 +55,7 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 23
   },
   {
    "query": "apprentissage alternance réforme",
@@ -72,6 +72,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Jean-Marc Conrad premier directeur du Développement International de Bertrand Franchise",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2dITkR4SnNZQkNROVhwUndQQzJpNHlvNVZ0RWJETVFaNkw3MzVkYXJsamE0MGlNMUp3VXdjT0ZjbC1JbEd4QmtINXBOWnl5UUtrbDh5Smt3aFJNMXNRUDdfemlET1NvVnVQWm5NNW9Od2dMa1BpWGlvTXVDVXNkYUhjUThQb2V4MzRzaUs5R1pkQV82MnZNYlI5a1hEdFF2TmV5UEg5ZjMzTENl?oc=5",
+   "source": "HR-Infos",
+   "ts": 1795465112,
+   "theme": "alt"
+  },
+  {
    "title": "Grande transmission : le budget 2027, entre incitations et fiscalité renforcée",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3JybkZDcGQ5bF9hVHhXZTlQV3F3MUVXdU11VWVWcDBqRHgtOG1ydEthUGllbmhrMHhRZWlxaVluY0xWSWNVR3dzREpUdFlNcFVWWW5WZW1mMzFWMVV2bkw2bVpqaGp4aThjdGNVWEZzOTd3ZElybm1jR1hQcnp2LVBBbmFMT0hMN3hsb1Vzc1llWk5WWnRMNFhSSWFBN21LaTg2NlROS3Myd0Ztd2I4?oc=5",
    "source": "l'Opinion",
@@ -79,10 +86,17 @@
    "theme": "fisc"
   },
   {
+   "title": "Cinq décisions que l’on peut encore prendre pour payer moins d’impôts en 2026",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZENzcjh5TnpjbTRVWDNtTXFMTGxMdnRONDR4QmNEOWkwUFlWQzgtcWMxNWM2SEczSEtLX0gtZ2ZVMHNiRHNfcUllTGtITzNtX1JmME82ZUdER1dtUUVpR09DMTh0MndIVVpyd0tDemZ2Z3BXS2VxbzNNRzBsOWlBb19NYkdKVXBWUWRiOUczN2VUaExjY2F5TU5yZ2RWeHkzc0tLSWw1MklKUENFZHE4M25HV3NHb25McGUyUjNqN0U0Y205WmFKWTdlVVRwNWhJOVHSAdIBQVVfeXFMT2RDc3I4eU56Y200VVgzbU1xTExsTHZ0TjQ0eEJjRDlpMFBZVkM4LXFjMTVjNkhHM0hLS19ILWdmVTBzYkRzX3FJZUxrSE8zbV9SZjBPNmVHREdXbVFFaUdPQzE4dDJ3SFVacndLQ3pmdmdwV0tlcW8zTUcwbDlpQW9fTWJHSlVwVlFkYjlHMzdlVGhMY2NheU1OcmdkVnh5M3NLS0lsNTJJSlBDRWRxODNuR1dzR29uTHBlMlIzajdFNGNtOVphSlk3ZVVUcDVoSTlR?oc=5",
+   "source": "Demócrata",
+   "ts": 1795459600,
+   "theme": "fisc"
+  },
+  {
    "title": "« Ce sont nos derniers actifs » : toujours sans budget, France Télévisions à la recherche d’économies et d’argent frais",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMUY4Ynp1YkdhOGdwUlduczRMRGJ5bDViV29yc1YzUzBITm5kc3M3UXcwcWFXZWlEV1Y0NlFtMFlxcUVmUUd5YWhuUzhmU3B4cV9WaDFJZWdoTnJmS0haNlNyVEdORHpTVXVtN01GeTc4ekkySC1hWUdPZkpjeTNnbXNhRHBTLW92OXF4WlZ4dVZ3QkZCV3BzXzdBSThLVHJpU3dHUHV6ZTEyb3BxSzZIN0ZMcU5qYS13U0tRS09UZDB1bzlmSDNRVHdQX1ZmUzVnMUVjOUV3VWw1Z19OajVlYTk1ZVc3dWM?oc=5",
    "source": "Le Figaro",
-   "ts": 1795459500,
+   "ts": 1795459503,
    "theme": "fisc"
   },
   {
@@ -91,6 +105,13 @@
    "source": "webdo",
    "ts": 1795459320,
    "theme": "fisc"
+  },
+  {
+   "title": "Concours de Recrutement LPEE Casablanca 2026 (5 Postes)",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWtMVkVuSGw5Vi1KZkxGb2NzVkEwNURWM09CUTVCOWt4bEQ1YmstdnRia2NPS0drZ3p3UjhMZHhHNzNsbWlSWmE2R2JxZjhTdkNhWGtnNjRleXNLQzg4b0doMnNLb1Z3ay1YdVpqb19RVnc3bzhINzNibTFCZW5OcThWRmlPWkNibG55RGlDTXZKNlhxZUZF?oc=5",
+   "source": "Dreamjob.ma",
+   "ts": 1795458702,
+   "theme": "alt"
   },
   {
    "title": "Black Friday : économisez 30 % sur les abonnements Tiime pour gérer votre entreprise",
@@ -202,7 +223,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -233,6 +254,13 @@
    "theme": "fact"
   },
   {
+   "title": "Financement des TPE-PME : l'expert-comptable au cœur de nouvelles solutions",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
+   "source": "Compta Online",
+   "ts": 1795422133,
+   "theme": "fisc"
+  },
+  {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVF3eXBEZ3lpR3dlTXJPbTBIeTB5akNfalBtUHRPcndkcmhmU2xpVnFkbm5jcXR5SWtkWE8xWnpvb3dya055cjZUT1NIRnAxYWs5UzBZamRGWF92V2NOcFRwWmQta1BfeHhJRUt1eUc4TDZ2QVlaUlBiSWNrS1AxSENRTWI4Ri16UEFlSVI2dmx3WjBuRks0elVTWHRYaFlvVV9OOWhHbTNab0hzSDhvZHdXcXdZLW5EZHk1YlcxcldkZzdULWZYNjFyS0xZWHdPVm1BUXB4SzRUQkNMSmtTc3ZtN3NIQ1RhdTIyOS1tbEtZVjBvalRz?oc=5",
    "source": "Classe Export",
@@ -245,6 +273,13 @@
    "source": "business-times.fr",
    "ts": 1795416480,
    "theme": "fact"
+  },
+  {
+   "title": "TVA à 5,5% sur votre plein, même en SUV, Marine Le Pen ne veut pas de «déclaration d'impôt à la pompe à essence",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRDBKYlBMV2IwQWlhMXM5a0FqWFpQcFhuT29GTHdMSjI5anV0ZnFKWkNXQUlkRmw1eWJTeDFwaTA0VEJ5MldBcmtENlhjYW9kT3pHSTZjdEpWX3FKRWx5bGUteUlWdVJKVXR3XzZLTHBOdW1KMVpPUHF4Z0s0SFNIYzYyeVhYZ3c1LVo1akFGMGt3OVVJYjYzVjBSdGRXLWt2M3EwR3BjRTdSYUZCSHlsY0FvMzh1ZXhLczNKRDFHS2NPeG1Ka0JGV0xiTnVseEM5OVV5MHpaS0ZrUUE3dFZPZXI5WmtpWnhYSnZaMw?oc=5",
+   "source": "Capital.fr",
+   "ts": 1795414164,
+   "theme": "fisc"
   },
   {
    "title": "Voici les 50 entreprises qui paient le plus d'impôts en Belgique, mais dont le taux effectif varie fortement",
@@ -916,7 +951,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFZUTHNvYmNvZUh0VmhIdk5vcTRZZ0JzVXo4SEhtMnZxcWRGYlFrWThoZXN2Q1M3SmVhU3lmR3kxU0k0QktTS3J3QXhvd3BtZnctVThEbF9hdEVVV004OHU1X0hiYWdhOFJfRzF2d2VHdjgtU25lQXl1Q2Q1dlpfdVJQaWRxN1pMaEU3S0NQZHNpNl9ZTUpnRHF3OGo5LVFvaGg5OE80RGRDWUVNWEhmV3hKZktCaXA2YU5zZUJ0TEs5LW1OT1lLVjA2YmVvOE1hamc?oc=5",
    "source": "L'Union",
    "ts": 1795098063,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
@@ -1077,41 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDNfQVI2LXN4SGZTTGNaemdYUUpUZUtsMzJ0NXZoaVludUY1cmhrdFZNSWJUY3JpbTU0Wm9qMkJ6YUk2Ung1SU5tNVVmQjhWNDNuTHFjbFM2VWVJSk1mQ1VhMEVsZTAtaXpONm5ZdUx2dHdqZkVNM1VtY3NxZDRxRHI3N09VZWxHU3kyendxLXhMVlRVQlF0RWNFQmgzZ1hoSGtubjJxanZZWklJU2piRGt1dGZSbmNJdWZQOHhURGQ3VFNHSldhSmhhb28yRkppZ0t2X3FBdVhmTTRkRjBnb3F0bFlXS2ZKaDlHUHFZaTBQMWgwNHc?oc=5",
    "source": "7sur7.be",
    "ts": 1795070139,
-   "theme": "fisc"
-  },
-  {
-   "title": "Assurance auto : 2027, encore une année de hausse",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0lJYk1zejZBYXBaS2hkbzdLLVlYMWdiTUdKbHJUVnFWbW53dmFYNkN5Vl9sZ2tpTWNQUmRZdUM2NVR6WTR0RkxxM2JFQlJMeU0wQzRCTm1uVmFSWEVNOUpjcjVidjVpWGI5dEVMZEwyeHVTQlRvck9qWFNKY282dHU5YjFNcGF6RUlmWmtMVDNweDhIZHB5bFBfd1FfWHgwSHpTTDRCRHlNYUdO?oc=5",
-   "source": "Le Quotidien des Entreprises",
-   "ts": 1795068360,
-   "theme": "fisc"
-  },
-  {
-   "title": "Le capital est de plus en plus imposé en Suisse",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NaS2J6WGlfUGFmWHdZb2o5Wm1aWWlhNW5aYzAtNHFuajBxUGZ1bk1NY0VtdmdFNWl2b1ZqbmFjMXJHNG1GWWdIZWgtSFRURUNZaG8weEpBX3FXWnJMZGxKbkViVnZpLVl4SFVnNi0yTEc0SVhOYk1leGNxOWFMNEd5WGdycFNZMTRCaC1laE9jN2dYemxF?oc=5",
-   "source": "allnews.ch",
-   "ts": 1795068000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Solution de facturation électronique intégrée au compte pro : la checklist freelances et TPE avant 2027",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanZHS2lWNjM1R2gtNXN0NFMxeldUVEZqNGlid2pRU2Eydk5WSW9zRlFHVzJMVmRTbGsyVFl3Mml6XzVoMHZOQjhFZmtxSUxjbjZSYUZXcl94MTVnNUJuSTQtaEhNOHo3QXN3LW1OcFVXRVFzWGNld0VRaWF3X0V0ampPMEFOeWFPYzkwaTBiOVBTZ0FLbkpGUjlfb2hlZmhDU0F4N2tqaFh2TEJ1d19DRGkwM2czUkxQUlpiYkNCTTNpbDZxdEwwV1JnNGVaNHVzSnkyMzFYMzZMV3ZsS2tV?oc=5",
-   "source": "Leptidigital",
-   "ts": 1795066200,
-   "theme": "fact"
-  },
-  {
-   "title": "CFE et SCI : seuil de 100 000 euros, SCI à l'IS ou familiale, quand la société doit-elle payer ?",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRkNhd3lYa2FCMndlbk95SV8zWFF6NkQwdGtFeU05TlE3YTZIc1R3WGVGczVnR2RlUzlkMXhYTmFaMUdPM2NlWEpWbHozOTkxY0MwdzV3UjVCU241V3YydGVNUG1aWkh2aE1xRWJCZFFmNFdTcEFfMFFEb2l4RkE3MEpxeHJuM3JWUWt6azhETkRneWstY1E?oc=5",
-   "source": "Reda KOHEN",
-   "ts": 1795061400,
-   "theme": "fisc"
-  },
-  {
-   "title": "CIR : les frais de trajet domicile-travail des chercheurs entrent dans l'assiette",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnpiSXlISnQycnRRY25FbV9mNUJYempYWDRhSFAzVlVqeXRSREZGQ0x6YkVWRTE4WUhhTjN0WnI0MTRHaWVTWk4wZVZvck52WHRPWHFhenlQbHkyanFhR0lrdUlYYUNNYW45Nk4ySkFxRU9yX0xkbGtZTi1PTTZONGg1V21SZ2R3U0U3SEt2dF8tVzl2TFhGc3ZFRGtnTlVtdWtvQ0tab3lwcDNCZFNOWTBkc2I4ZWNS?oc=5",
-   "source": "LégiFiscal",
-   "ts": 1795058896,
    "theme": "fisc"
   }
  ]
