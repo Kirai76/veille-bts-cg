@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T18:11:41+00:00",
- "last_success": "2026-11-23T18:11:41+00:00",
+ "updated": "2026-11-23T19:13:53+00:00",
+ "last_success": "2026-11-23T19:13:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 84
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 44
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 29
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Loi de finances 2027 : La commission des finances rejette les articles 49 et 50 sur les équipements solaires",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVW9XVU01aWNNN3lzVE1qQzRudTlkUFE0bjVBYTJsaV9wUmdlam1CaTFFTEJPYjRsel83VHUzdW5qS1d4S3h1OU9NWkpKRzM3WFJ6MXh2RG9BRlVtN1JfdG1nQXpRMHo1ZDZVNldaMGZnUTNMRVZtR09ZUmRqWktZT3R4a3lRb2otUWdOOW9zZ1hhUmJTckIyWUJZZEg1cHJxcG9VTkM2QUZSWDBmenlLNzUyWVR6bGdQcXczWk9qcEtTVjdJcmVWc3ZrcnNCRURkbzRkcmNuYURfMzNGTnRNeDJUdC1ZS1NDQWZKdjdn?oc=5",
+   "source": "webdo",
+   "ts": 1795459320,
+   "theme": "fisc"
+  },
   {
    "title": "Black Friday : économisez 30 % sur les abonnements Tiime pour gérer votre entreprise",
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZE5aZTRLWmc4UldqRy0tMjZVOGJpb3djWmYyaVhrNEw4Ml9aMnU2dDZjcTRYTThQbGpRRlNRc1NDVVVEQVdSZ2RYdmdNM0lRQV9hSmZhVllheEJ5Wm9UTUtWWTBSUVVMTDdaeDVPbGo2aVlDTGU2NEQ4emRZRlhYdEltc1V4Uks5UHdFT2E5V2lKbUR2eEx2aFZMa2puZ3VLSlRSN1VVNEQ0S3ZJODlsSm0wUTl0ZE85NEd3WHNpQkR2VmRPcVBjdmc4cE1XMFZodUNmUldNRHM1SFR5MXF2Wjh2SmVNMXRQTkpfNzYxdDRheUFuRjlrbDU2NGFKQy05aEpVbTZvakU2NHZWX1MxUGNfb0ZDdw?oc=5",
@@ -441,6 +448,13 @@
    "source": "Presse Agence",
    "ts": 1795269600,
    "theme": "alt"
+  },
+  {
+   "title": "Budget de l’UE : Antonio Costa propose 200 milliards de coupes et une taxe numérique",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2FrOW5HT2p1WFJuMkEzMVVSSHdYUWRFaE1FTnFHZ3ZPU0U5c0dKZ0djQk9NbEJpa2M4a25jcmMyY04wMGNlZHpkeXFwbjV5OUVsb2MyNEZ5V1UwWTdiSU9JM1B5N3ZvbnVnRlFuaGtBdEtZUk9qNlpHNGYtVndoQjk3Y2xLQnVLZGwtbmY2bnZHX0FhbUJDVTZfZ2htUGc5ZmV3aEZaX3k3OWxZS09JcDlvb0VXUHc?oc=5",
+   "source": "Euronews.com",
+   "ts": 1795267288,
+   "theme": "fisc"
   },
   {
    "title": "Projet de Loi de Finances 2027 : «Un système fiscal performant finance l'État sans affaiblir les forces productives",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSkhINTZXeTdDUnBYUE1US0RrSV8xUmVVVXVISi13TmRSM2IweWFtWTdaWFVqSXJUMUUtWUlpU0IxUkVUUjRSOHZvdVBEOXdjbFpOMTJNRXM2WnFpa1BlekFNazNpZnpTZURUUDFHWmZSRklWUHN0RTN6MndKeVJmcm9OZUFRYTNlWFp0VHpWUzhTNW80WU1LNm1xODBCOEZEQkRiRjZTQm5rTzBoSGRQVDZSeGQxbVctc0wxZVpwQU5VVmhrSE5LNkg3NldiLUFWS3NEeg?oc=5",
    "source": "Le Figaro",
    "ts": 1795029849,
-   "theme": "fisc"
-  },
-  {
-   "title": "Impôt sur les sociétés: un montant record de 22,32 milliards d'euros en 2025, mais les bénéfices commencent à baisser",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZEJZWEdOMGV0c3RvZk1FaFpwLXJBM3ZscTl3NjFjYVpJTThOQ0l3YXo3MTNUNWg1MVpEWV9lcVdpSmpzdlJsVmxTaWMxc3VUVkhva21UUlNUeGNtTEY4X1pEeFduc0NXeWZWeGVVWC1NblRpMUdRd2o5NFYtWGd5QlVhcHl1SWJfM0IyRkw5bHZibzdhak1IUXhYeU5qT3A3T2d5MTJZbG9mN0RmLTdhU1dHZkdzV3FBMXIzNDAyc2V2NG8?oc=5",
-   "source": "Trends-Tendances",
-   "ts": 1795028684,
-   "theme": "fisc"
-  },
-  {
-   "title": "SCI et location saisonnière : le risque de passage à l’IS",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDFBTEdmSWJJT1JzRUdQSzZQM0IzUlcxbEZMcm1FMWFjQUVxTkdjVlAySWN4UWx0QndYcmdJOW8wX3RTaVE0dndIUHJzMmhQbXJSTFZpalVOMkFQNXpvb0YyeEtkczMwVldKV0pNa2JUV1pqMUJYN2VrV0VucVNLcy1QcHBLYm1LeTNxcXhWWVJpMGoxeW5EZGN3UjRqcENmclBGNXgxYlgySkxYSWVDOA?oc=5",
-   "source": "https://www.leconseilpatrimoine.fr/",
-   "ts": 1795026709,
    "theme": "fisc"
   }
  ]
