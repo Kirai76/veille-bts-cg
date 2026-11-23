@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T08:45:02+00:00",
- "last_success": "2026-11-23T08:45:02+00:00",
+ "updated": "2026-11-23T10:23:38+00:00",
+ "last_success": "2026-11-23T10:23:38+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 68
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,17 +25,17 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 81
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "query": "plan comptable général ANC",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,38 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   }
  ],
  "items": [
+  {
+   "title": "Facture électronique : pour beaucoup de PME, le vrai chantier est le logiciel maison",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
+   "source": "JDN",
+   "ts": 1795427002,
+   "theme": "fact"
+  },
+  {
+   "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWtHcjFkWERhbnl4Qmx0ZUtuM0kyZUZBUk0wLTRfOUlCTGNNZmVxVHhMTEtFTFNPd3ZLLUNyZUt3NkQ1NkoxbWRSREV5cEh2dTRpN0pIeEJPeHE5dThRa0d2eXd6QnM1TDZ1WHUtZVRXNFVJSi1tV21Xa0VlTV9qZjI2YVBndmxSMTEyXzV4VC1ydmdPbzFHQTltZzc0ZGlsRmxxZGlGbHhpTkRLVmYzZnRUQ2JsdzA3c2RKSDZ6bUZHTjA4d3ZLTU9PMWJaSms?oc=5",
+   "source": "Webmanagercenter",
+   "ts": 1795426892,
+   "theme": "fisc"
+  },
+  {
+   "title": "Formation professionnelle, l’avance prise & la formation oubliée",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2JNNnJSWjg0aUg5ZHV0RDhHSDVvblFOeGFVeXpEMWNyMGtoQlpNanpCWFhpVFdiY2xUeVRJZTlDeGx0TFROTzBkODM5SWhyMDFrUmp0cjVvRGx3eE53N3FSbjhWT0FnT05xa29IY0ppcDBpR0U1SnQ1V1FKcDZvSWlVQVU1eGRVYkFWZVZtYVZ5UQ?oc=5",
+   "source": "African Manager",
+   "ts": 1795425352,
+   "theme": "fisc"
+  },
+  {
+   "title": "La cocotte fiscale",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DdmRYdlZyRUlyWVlKS0xMRmt2UkhaUHk0c3JvWUx0bFNfa1psSUJmZ1FoallpT2pwdVZ3VFNlaGZWeUs3Z2xYRl9UUXdFakFqc005T2EwbTFtU2E3NEgwXy1RZkFRSUd0bXRXNXA0WGJSSUcwWmVPWFJR?oc=5",
+   "source": "Les Echos",
+   "ts": 1795424409,
+   "theme": "fisc"
+  },
   {
    "title": "Luc Frieden peut-il encore contrer le projet de taxe européenne sur le tabac?",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEwyVkt3clotMm1zUUJmLXk3YVRhbWUtendtbHBDdjI2X3FSUUxLOUlPR2dJWVJranpLdW5GRjVOZGk4RDdTOEVqQWc5UWR2ZnpzcXB5dVoySXMzaDJGcUNFT1hYT3NUZVdfa09LZjdGTDNrNnRrYkNyTkZUUWF5WTRFMGFRRWJneFJsTlZuQTRKcHZUOF9xVlo5Q05rVVoxelhQQTN0NG12dVJIZXllcS11dDI4ZFEzc0RSSF9GVHh1TjA?oc=5",
@@ -335,6 +363,13 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVCOE9nVU04UGV1QU40S3N2RWJub0luQnlqQUNyMEI0R1JxY1N4MXJfN0RzQTYtQzhkV3JEZXhabG5iblhoMm0zWXZvbFBjNWtSRjdXMEtocXNXQTM4V1A2dFFOSDFaSHV6UTVNdF9vcmk1WHQ4V3d0RnRxRjh5SFgtYlc4cFlHY0Z6TklPbTNJa1k0VFhxZDg3NXRNZ2kxQVNiOVdzOGw2d1BXUG9hVDdlM3FidkhY?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795231695,
+   "theme": "fisc"
+  },
+  {
+   "title": "Nâng ngưỡng chọn cách tính thuế lên 10 tỷ đồng từ năm 2027, gỡ áp lực chứng từ cho hộ kinh doanh",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmMwOGdZRnJXSnNEd0ZJMDRONkp3RGV6eHpyb3JTa2xaTkVIV2lkZkhfQ08tNm9hc045bXM2cC1jeEVZeTNIWHcxT2NJWnVBY1JPcTEtNTgza25BaGttTzdRU1dJd3JoVHJDdkdwd29RSHEzTzFaTDRQaE5tWVBJWERDSFV5Sk9BNmlfWEhIbjQtVmxFRFdPOWxiQU1ldE5OaUcxQ3JweGtYaUtpYUpJbDgxQVBUUW90Q3R6Slhn?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795231498,
    "theme": "fisc"
   },
   {
@@ -1078,41 +1113,6 @@
    "source": "La Gazette des Communes",
    "ts": 1795007448,
    "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique et affacturage : la réforme peine à tenir ses promesses",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWt5TUZYQ1dGQkZ6TV9KaU1KQ2RKeExJWU9LeDZtd0xxOFplSXA3b3MxMWhvcWxNRG1SU0ZRWXFzYXZhTDQ1Z2ppTDVEQ3BaMUtaVjN0REJwU0dOVUo3bXVWQmtlRVJHR2VCekdhTVphZl9hbkdHZkRSbFhUMTdQMWFZdVpFUmRkX0Q4VVd4VE9hdnRhZERCQlNOZkNRTXhHT1cyamkxcjZmUkQ3Tloyd09IQ2FaTW94cGI2d0Q3ejJaUENvQlVaY1NLVHF1ZkFRMHUtQ1o3VTJaUW8?oc=5",
-   "source": "Les Echos",
-   "ts": 1795006858,
-   "theme": "fact"
-  },
-  {
-   "title": "Impôt sur les sociétés progressif, « pack natalité », ISF climatique… la recette des sénateurs écologistes pour le budget 2027",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZFZac3kxekU5RGRSYlJTWm1JVW1ScEctSk43MVNGcWoxOGkxQjA2UVZkbWRYVko4MEI1VXZHLWRidnk4X0ZveXk2b2ZJZFJJTDQ1Q3V0M0RwNndyeFJUYjZrMU0tY0M5T3g0NVVVUTZhUlV2dndUa1R2QkE1UTBZUkFVQ3BaS3huU1RzdUQ4d0lpZmdaTmk3Y3VzOTJNNDBybEJ4azY0cEJCWEJZeFZoWEtoWUNxT3JwendoOWN6ZGtPV0tKMmw3YUx6SUVwSFdZSkdmQ1kyZF9nUTN0dWFSZW9aQnE3WnA0WE0zeUFzdU1neElYc0hibTk2WVlEblEzWTJxa1RtUQ?oc=5",
-   "source": "La Tribune",
-   "ts": 1795006804,
-   "theme": "fisc"
-  },
-  {
-   "title": "Rydge Conseil : quelle stratégie derrière la vague d'acquisitions ?",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YVFZdXFFczBuc1Baak5mMUhSUzJqZk83WG5kdXlIUDUycEl5cHFYeEFZd01wcWo1X1BwNm10LW5OOGZ2V0FOVWxHOFJaQmFlazJWb2xiOVVNQkx3cTJv?oc=5",
-   "source": "Compta Online",
-   "ts": 1795005088,
-   "theme": "compta"
-  },
-  {
-   "title": "Rydge Conseil : la stratégie d'acquisitions de son président",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YVFZdXFFczBuc1Baak5mMUhSUzJqZk83WG5kdXlIUDUycEl5cHFYeEFZd01wcWo1X1BwNm10LW5OOGZ2V0FOVWxHOFJaQmFlazJWb2xiOVVNQkx3cTJv?oc=5",
-   "source": "Compta Online",
-   "ts": 1795005088,
-   "theme": "compta"
-  },
-  {
-   "title": "DÉCRYPTAGE. Présidentielle 2027 : la \"contre-réforme\" des retraites de Marine Le Pen vous pose question ? Âge de départ, décote... 6 réponses simples pour comprendre le projet de la candidate RN",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSWowZ29kQkNLS0J6dnpZaXA4bmd3dU5nT2dSRWF4T204S2xTbGFnZjl5UUw5ZEszYjdCMWZIaXZrWDRvaG90ZXp0VjNOcW1aRUcxN0JJQ3JCR3BfNnhhbFZYbS1raTFYRzluS0ZLR1ZaMHlIZ1BRdmxpb1BuSy1GYzRqZWVyN0dLcFhPUUl3Y1JtZGdXYU5icTNtVDJlZUNzVWk2UGk2MzJaT00tYjk0MmwtR0p3ek5FbEZ2ODZDNGVYTFV5OERRU3BqdHQ4WXc2LVZqT0MyZVFhTEpwMnJzZF93Mkx2UkxINjdWeXo0U2RLcjZpRnFJWWtkUndhbXhMdHJZZ0Y4cFZVeU5UZEhmcjV0SGZJamN3a1ZDdQ?oc=5",
-   "source": "ladepeche.fr",
-   "ts": 1795004760,
-   "theme": "alt"
   }
  ]
 }
