@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-22T23:52:30+00:00",
- "last_success": "2026-11-22T23:52:30+00:00",
+ "updated": "2026-11-23T01:27:08+00:00",
+ "last_success": "2026-11-23T01:27:08+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 54
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Sujet brûlant cette semaine : Les enseignants confrontés aux demandes de réforme de l’éducation et de la formation.",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWNzUE1FVFgyTHBRT0J4emRycThNTkpHS09ZQjRoNVFSSElXT2ZiVWZZVG10NDloeEFDOFc1RDFtMk9rbE1EMzRvUGw2RmZHcjZTcVRTMEVtYkY5ZHM1d3hoUU1YbGZqdzdEQklnYU5HSUk3Tk5aalFxMmlBdFdzRUt5THp2UENuMEtPR0xaMU81WmozdnpYWTdOdmk5OHdqaHg2bGdB?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795397177,
+   "theme": "alt"
+  },
   {
    "title": "Budget 2027 : au Sénat, des amendements pour rétablir 125 millions d’euros aux CCI",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHg0elQxcFZ5REtqRmdVQk9GUzRWVnVySzYwb2tjNzVJdWVpNnpZQmNNREc3S2x2TTZRQldaWUVTZFZVbXN4TE5GcVhudDVLNE9uYU5hU05rZloyVm12ZFlvRVp1QkVxTHdsZThwd3g5VTRrbjlOendOdmRIbnUzUEM5YVJ0RFE?oc=5",
@@ -510,7 +517,7 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdEEwNlMyMzNkZ2tNY19UUDB0MXJPeG1td01RenRiQjZhR3B5UHRHSWFoNUJNTXhZcFllek5PSnFmSFo1Z3JkWWo3UjJzQ1dCQVZ2Mm15dnlUSWJmMDBaZGM1YlpTWFh4SjRGcFdXT0M0NUwt?oc=5",
    "source": "business-times.fr",
    "ts": 1795149720,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "Les petites et moyennes entreprises (PME) reçoivent des bons de soutien, qui seront révoqués en cas d'utilisation abusive.",
@@ -1106,13 +1113,6 @@
    "source": "Hassan KOHEN",
    "ts": 1794982860,
    "theme": "soc"
-  },
-  {
-   "title": "Insécurité, erreurs de médicaments : les inventions bluffantes, du bijou qui sauve la vie au pilulier intelligent, mises au point par ces étudiants varois",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbU1iN1ZMa2dRNlNVajh4WktSUU0yQ2JCc05HSHNyQnRJYk4wVTNnd1c0Qk1tRHI5aWpISUJldGN4ODQ3dVFxcmFVQVpsUllHMHUybElPWU41N1JQQUFOWUJSNG40bVhwUmRyU2dDMTJLRW5jWUR1bWl4N2djUlBMZjFmWlpuRnZGZGJXeE5sbFRfdWE0aGJhblM2WGdHU3VsX05LaDdQLTJScmpBSFZfZHIxUmk2NlhjSUdoUS03UFEyMXlnX3ZtQXZUS2NIcDZfWm82blpRTDRwMmJDdTBpYkNNQWhtVGtGc3FrbDA1S2I4NnBjeDRnQ2xrdkJ5NGktVG1oUWlUUFZpUTdFbzFRT3JmUTFRX0FwUklyaw?oc=5",
-   "source": "Nice-Matin",
-   "ts": 1794979808,
-   "theme": "alt"
   }
  ]
 }
