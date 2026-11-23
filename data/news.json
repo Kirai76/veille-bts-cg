@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-23T01:27:08+00:00",
- "last_success": "2026-11-23T01:27:08+00:00",
+ "updated": "2026-11-23T03:07:29+00:00",
+ "last_success": "2026-11-23T03:07:29+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 54
+   "count": 55
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Bruno Retailleau propose 6 000 euros d’aide à l’apprentissage et un plafond social à 70 % du SMIC",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzhxSE1aUUhuTUJyQm80QjI5bDJlMzE4SzIxRVZBLTlxY2JOZWFtbzJQX3dZQTFJdXdTQVRoa1hUV0JTWXpZOHVid3ZSSXZwcEZwUEZLYjRFZGJjU3gzWS10VklLUzJTa2hTRHpsNXIyWjFkbUdfUG5wMHN4b2FnVExZX3NJNlotekJEY2JXbTlMMUVGa3liQWNDSDdZbnh1eDlIRzljZWctbXFlZGc?oc=5",
+   "source": "Politique Matin",
+   "ts": 1795401291,
+   "theme": "alt"
+  },
+  {
+   "title": "Vietnam : de nouvelles mesures fiscales pour soutenir les PME",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd0xEWXlxWnpBdXdCTVZiOS00NEYxN3VIcFU5R3JfTkZfQ3BzZ21HLXhNeUV1c1VzNmpmVm1Ma0JQbmktalNRdHl2X2ZnZ3ZrVUI1RF9GM01MZksxVlhMUXBZRmswNFRZamRJVnIxR01VT0JJeTkwYTFCMGlMSHc3Y1oyVU9qZ2pYUVBaUkVFcFhKMllIVUFZU3pCUnc5UlRQamQ2V2lPVQ?oc=5",
+   "source": "Lepetitjournal.com",
+   "ts": 1795399491,
+   "theme": "fisc"
+  },
   {
    "title": "Sujet brûlant cette semaine : Les enseignants confrontés aux demandes de réforme de l’éducation et de la formation.",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWNzUE1FVFgyTHBRT0J4emRycThNTkpHS09ZQjRoNVFSSElXT2ZiVWZZVG10NDloeEFDOFc1RDFtMk9rbE1EMzRvUGw2RmZHcjZTcVRTMEVtYkY5ZHM1d3hoUU1YbGZqdzdEQklnYU5HSUk3Tk5aalFxMmlBdFdzRUt5THp2UENuMEtPR0xaMU81WmozdnpYWTdOdmk5OHdqaHg2bGdB?oc=5",
@@ -1099,20 +1113,6 @@
    "source": "Canada.ca",
    "ts": 1794985703,
    "theme": "alt"
-  },
-  {
-   "title": "« Management package » : cette nouvelle bataille fiscale qui se joue en coulisse",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTBWSnVSNnFoRExCY0Y0UXg5TVpLV2FoYm42eWdaN1QxbERGWUVTQzVoVjQwV0RHTlZYM3o4R0VQTjFxNENTVWliN1UwTmU3RFk3ckdYcmRMc3hzWFlBQWlwVE1kYzJqMk02TnBtYmJVdHFJTGR6a25DM296SWxhVV9mQ3BFWmUwU1NsVi1rbzF6cWRkQ3M0QmZUY3ZsQUFMRFRCdDltdEpjb0N0TmN4aF9MQ2otTXE4NUNSWDc3Wk9ETmc?oc=5",
-   "source": "Les Echos",
-   "ts": 1794983408,
-   "theme": "fisc"
-  },
-  {
-   "title": "Auxiliaire de vie auto-entrepreneur à domicile : contrôle URSSAF, requalification et comment contester le redressement",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjBiQVI2eVdSZ2hMdnp5VFFEQTdoaHg1bEhGNVBVT0lqWmN3OGhUbjRISVlVVmtUWHdXVVNfY09iQnpIODY5V2ljZS1DNVJHRWdpX2FZaGNKd01IQ0xZM3BsdjJsSGVDVHlDWnhsSk9UcV9fZWVxOXR2U0xhWVNHSHNHS2U0bUh5UDByMFFfd2JoMzNYei0zaFVCZ3U2Wm9WMWtBaE9tT1JtcC1MWnc?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1794982860,
-   "theme": "soc"
   }
  ]
 }
