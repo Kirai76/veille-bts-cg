@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T12:04:28+00:00",
- "last_success": "2026-11-23T12:04:28+00:00",
+ "updated": "2026-11-23T13:32:19+00:00",
+ "last_success": "2026-11-23T13:32:19+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 68
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -68,8 +68,29 @@
    "title": "Luc Frieden peut-il encore contrer le projet de taxe européenne sur le tabac?",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEwyVkt3clotMm1zUUJmLXk3YVRhbWUtendtbHBDdjI2X3FSUUxLOUlPR2dJWVJranpLdW5GRjVOZGk4RDdTOEVqQWc5UWR2ZnpzcXB5dVoySXMzaDJGcUNFT1hYT3NUZVdfa09LZjdGTDNrNnRrYkNyTkZUUWF5WTRFMGFRRWJneFJsTlZuQTRKcHZUOF9xVlo5Q05rVVoxelhQQTN0NG12dVJIZXllcS11dDI4ZFEzc0RSSF9GVHh1TjA?oc=5",
    "source": "Virgule.lu",
-   "ts": 1795432636,
+   "ts": 1795440117,
    "theme": "fisc"
+  },
+  {
+   "title": "Logiciel de facturation Mac : les meilleurs outils compatibles avec la facture électronique",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPc1lwWlY2ZWVxZjU3RldubjFvMFFRTlFtRWRXV0txZDJQa1BtWENtQmRLbXFUR3ZNeDZvd3NJVTBvQllfVV8xWFJtX0JNaU1WcHdEUjRwV3B1ekh5MEpRNGpGaTg5Z0M5ZTgyZVR4S1hxdGticWtzc2lac3VscHdyYkR0b2c0MXBuTDRHcHFtRlJFSy1JbnBLX0RZb3lnSlFSODlqZm5HSnYtRU9LRFZvRm9kQzhfT1dsV0Q4MTcxaDBNMXNfQ05QcFBzUnBtWk9DeUE2V0ttSTV6Y3RuNUUwM2lOdDlQTzFpc2JBVUxHWDdtZDhiSGJlS0ItN3paTW1sVXVxVjdPcGFvMWVXcXVUeHhuOGIydzNuZm5hZGRhLUI5bWVHU180TQ?oc=5",
+   "source": "Le Parisien",
+   "ts": 1795439880,
+   "theme": "fact"
+  },
+  {
+   "title": "Douane, la prison pour une erreur de forme & un allègement en 2027",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmhLVEhNN04yeGRheEtQakRRT0NtR2R0QVJQMVBhMGk2TE1YNlBsQWppOFU3cWVZU2JEOE13V3RDdDhucWdtQkN2NmRhN0J0MWctN2drSnA0U0dnWmRWM1lnem8zOTFMU25MdU1wWEs3VDFobGVEMURETjdFdndOM1RRQzBlSFI0a0w3YjNVcHYtbmFHOWc?oc=5",
+   "source": "African Manager",
+   "ts": 1795438583,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : après la plateforme, le vrai chantier commence",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmdoM25wc2hVbXVPNC1mdVFQYlpPZ2xydFBKTmxlX3J5aXE3SFBKdi1RUWowb2wzaEtVNGJXWG9Xak5oWFVUZ1liNVZBdm9HSzhsUkxCY0NBMFBDNThza0RMZUk0RTlSYklOTWhlZjlCS2lhRXpaNzdqaTZPSE5CNncwWWlXYjBDUElwYndqSkRVTmRrbjU4WHZfNFMzUTNFa2VUb3JRZDlmbUtsSXZxX0lQNmg0Snc1YUZTcWFNazk4SW03?oc=5",
+   "source": "Le Journal des Entreprises",
+   "ts": 1795437111,
+   "theme": "fact"
   },
   {
    "title": "Apprentissage : les offres sont là, les aides de 2027 restent à confirmer",
@@ -174,6 +195,13 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93QTZQSTZiQ01nX1d5d1ZraHhBLXhhWkNvS3daZXhrc1pDSkF4MXlpUmZISVVJM0NJbktSQlZydUJ5OTAzRksyNG9mSWpWTTJzYlVIS2w4UHFjTG1kR2dWaw?oc=5",
    "source": "재경일보",
    "ts": 1795409719,
+   "theme": "fisc"
+  },
+  {
+   "title": "Exonération des plus-values, dividendes moins taxés, avantages douaniers… : l’offensive fiscale du Tchad pour attirer les investisseurs",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZWpxb1Y5ald0WXVMVmNKNHBoOVUxSnhiQndKYUJrZXpwNFd5bFVMdWcxT1hOMjNqSHlmSnpzMVYzc1FiOG5GRV9zZUdZbk9SRzdHZG93ekx6c3h0VzhwTUJWTzBjb1BkVlJTcHVWUThVUm84ZFRQaVp1ZlhkMXhwVnFRa2RHMGV0cU9md2ltMEZzaUR0M2lRZklCQnkwRmRsSzg5MGU0VlZiVGFoZkFEREYtRVRiZVdHeWlTRlEtVjRDdzd1REg2M0kzUFk5bk4tSlctSmNTWVIwZWVJajAxMFBEVVE?oc=5",
+   "source": "EcoMatin",
+   "ts": 1795406289,
    "theme": "fisc"
   },
   {
@@ -293,6 +321,13 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkRmWXBkVmlRelJPYWtZZEItcVczZHdtZDU4MXNoeHhabGh1THFGbVdnWnZHdEJoYXNoZGFxdVg3SHlkTHdkTTJTcWxxUWJKbk9XTHNBd1FpaFRxTnpYcC1aWllUeGx5dFVqM21JdEREUXREOHpMV1NJNjFLWXVKNEdSUlg0VHZuTk9Oa3MycE1YYVR6a3piZnpRVnRSUQ?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795335130,
+   "theme": "fisc"
+  },
+  {
+   "title": "Budget 2027 : la piste du 49.3 tient la corde",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1NpMzFQRnZRdzNaX3FuXzNQcTgwTlVLT3BQWWhDaEhVdEZDNmRHck5oLWJBbW9NakpYWXZYbGFzUWtMbko3ZEJSOTJPXzBTd25WaURjV042cFI2NjBNYzYtZG5uREtIOHFWcm4xYWRXV1F3dlA5aDRuM201QTBvUFo1ekZkWlV3WUJKUHVjY0o3LWJDM3VyQnQ2clFxNlhXT01fOExZVEJNOXc?oc=5",
+   "source": "Les Echos",
+   "ts": 1795334709,
    "theme": "fisc"
   },
   {
@@ -556,7 +591,7 @@
   },
   {
    "title": "Budget : surtaxe sur les entreprises, retraites... quels sont les points ce qui font débat ?",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGFaY1kxcmVFeGNKZGtuMnBQMldHMC1YQ24zSWdUbGhMMnJSNXg2bS1IOFY4TjRlRnRhV1lYRFJ2RldFTXpjLTVLV2Y3cHVTN3hEa1JpWU4yMERpeHNYVVhWUTJEeGVIVDFLclZrWGVWVGs4bnhVSU42N1RGek0zN01CeDdfNXdhbGVkTXlFenFIdVhaSTQ4bFFUdTNnem44NER4LV9KSXVQY0p0TzNyZTdiR3UzaEUxeG9NVzB3dXRMS1lyVFZoX2lVNjVHemZlbXpVN1luZ0FEd3ZWMmpuQTVoa2dTNU13S0JNY1FoYmVndzdaeUI4Sk9hejBrZEtWMTdXSnlXeHEzRW1p0gGMAkFVX3lxTE50YVpjWTFyZUV4Y0pka24ycFAyV0cwLVhDbjNJZ1RsaEwyclI1eDZtLUg4VjhONGVGdGFXWVhEUnZGV0VNemMtNUtXZjdwdVM3eERrUmlZTjIwRGl4c1hVWFZRMkR4ZUhUMUtyVmtYZVZUazhueFVJTjY3VEZ6TTM3TUJ4N181d2FsZWRNeUV6cUh1WFpJNDhsUVR1M2d6bjg0RHgtX0pJdVBjSnRPM3JlN2JHdTNoRTF4b01XMHd1dExLWXJUVmhfaVU2NUd6ZmVtelU3WW5nQUR3dlYyam5BNWhrZ1M1TXdLQk1jUWhiZWd3N1p5QjhKT2F6MGtkS1YxN1dKeVd4cTNFbWk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeURiRjJtcHM2ZVgzYzZzNDdNcFFZaW84TWpaclg5WGhncVlCbG9QWE1ITWgwZVQ4bXdob3NQRmFvNWk5WWtkUWY2ZXhnbVlZU2J4Z3pMUmY0M0VxME41YjJBRXd1cTE0QTZSbVQ5LVpLMUpnQm9oUnZvRVdaWnhlTThYNDVQb2VDcHRwV3R3aVMtU0JTaGxnNEhZYk95bUZ0NEpZR3BVVGM1OGt5QkhTZ0o1aHdvVEt5eEtTNmI1cDM2ZkF3ODFnbGs1QmhqUHlJNl9HMjRFWU90bGJ5elJSd0pOYzg4TkVEV0J4OUVUVjVsUktkTEdtY3h3bXFjQWtpV2cyMS1KTdIBjAJBVV95cUxOdGFaY1kxcmVFeGNKZGtuMnBQMldHMC1YQ24zSWdUbGhMMnJSNXg2bS1IOFY4TjRlRnRhV1lYRFJ2RldFTXpjLTVLV2Y3cHVTN3hEa1JpWU4yMERpeHNYVVhWUTJEeGVIVDFLclZrWGVWVGs4bnhVSU42N1RGek0zN01CeDdfNXdhbGVkTXlFenFIdVhaSTQ4bFFUdTNnem44NER4LV9KSXVQY0p0TzNyZTdiR3UzaEUxeG9NVzB3dXRMS1lyVFZoX2lVNjVHemZlbXpVN1luZ0FEd3ZWMmpuQTVoa2dTNU13S0JNY1FoYmVndzdaeUI4Sk9hejBrZEtWMTdXSnlXeHEzRW1p?oc=5",
    "source": "Boursorama",
    "ts": 1795170532,
    "theme": "fisc"
@@ -1078,41 +1113,6 @@
    "source": "Paperjam News",
    "ts": 1795020117,
    "theme": "fisc"
-  },
-  {
-   "title": "Le gouvernement portugais prévoit une nouvelle phase de baisse de l’impôt sur les sociétés",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYWFHOXBXa0t2VlplV0RTVDB3WVhGWENzcERjVFoyZ1NmT0U4MjBfTUt3eXB4by1NNHVWQjJWMWZmSU1vRmc5VDRIS1IyNjJvcDdYdUpIZjNJc1BaaFlaOGR4dUVLTnhTeERqaU1nODBKX01sX0RMZVl6dEdqLWZOal80b05JTks4VE5aMHc1aHd3MHB6bmNsX1NBSFFZTXE5Z1p6dDZJWGVOV29jYkVydUNGWlFYcFFSTTRRcFEtRy1lSXdPbEZibWR1ZkZubXlGMDN5WERHQ3F0N1JCRFdmQjNMcmNkQQ?oc=5",
-   "source": "Zonebourse Suisse",
-   "ts": 1795017202,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les TMC face aux défis du premier bilan",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVBaLUNRYnBIZS1lVlF4WVJWTEhmZnBLRmpaNVc4TnZmSkNSWkplLWNaV3ppTFdKZHFucHhlTVhFWGdaYzNpSUpTYVpzZU5iSVZ3WFBBMi00Z1dqZy1uSjltdGV6YVBHclBKU0Y4UnBiQUswQl9fOFpCS1hjTUhRN1o3eXVTRWZOOGQ2cE5ubFdqOHNsUmZwcGxPWEVya0s1enhSUE1nRlVWMWFTTWJNREU5ZzRKQVF2?oc=5",
-   "source": "www.deplacementspros.com",
-   "ts": 1795015558,
-   "theme": "fact"
-  },
-  {
-   "title": "Le RN veut réaffecter la moitié des contributions Formation au financement de sa réforme des retraites",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUZvRDBHRnNKRlY1cEZCOG9YTkFySHI1NWp6ZnE4dlNOSFRha1c2MVF0WlVwUDRxSmZ0ZTRaTlE1aHhHSlc1X1c1bUN4UjZVMmhpdTlvdjc5QUdxcnh5a21Pbks5MW5FTTJNSURLd1B3VDJTZ0hraTNFRDhpNHJyYk5vOWNzWU5JRURvMjV3aDE5MndESlNtVVIxRnMxczZSU3lTc0pIVFFNdjRzaUIwZDBsTHV5dXV1MG9DalpMc3FmanN2ckNVN1ZjbzhCbmUwODE3ajkwSQ?oc=5",
-   "source": "AEF info",
-   "ts": 1795014844,
-   "theme": "alt"
-  },
-  {
-   "title": "Retraite à 60 ans : voici qui pourrait en bénéficier avec le projet de Marine Le Pen",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTZYTGJUUnBoMC0weGcxLTlOWHFGTVdfM2ZLcEZ3aEg3a2J4YnZ1MUZ0NDNoZTdtN0l1eTRST3huTU52N3hSWkpTUTlPeXdhNmxvcXNsWWdsV1NBaS1ydkxFVmZ2amNXRGNRdklhZEtyVmFpUjNsWThVaWlPaG5ldkI0czlkSjJNTHd5M0VGVkVVN0gySExlMFFKYUpmZ2NPQUdLbTNGV1lMUQ?oc=5",
-   "source": "Var Actu",
-   "ts": 1795014480,
-   "theme": "alt"
-  },
-  {
-   "title": "Prime d'activité apprenti : y avez-vous droit en 2026 ?",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5SmhHNUVoNVVfWFV3QUozYW1hazhzTUl6REVtTGxiR1ZldXFjSzVWRDRsNld4djhkNXBTWEJGU2dGSDZQNDVLUDlncldUUU5YOXFZS2V1dWZvQjdGRHg1QnBmb2xfRlU?oc=5",
-   "source": "WIZBII",
-   "ts": 1795013991,
-   "theme": "alt"
   }
  ]
 }
