@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:14:39+00:00",
- "last_success": "2026-11-24T15:14:39+00:00",
+ "updated": "2026-11-24T16:27:23+00:00",
+ "last_success": "2026-11-24T16:27:23+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,12 +15,12 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 68
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
@@ -50,12 +50,12 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 29
+   "count": 25
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 26
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
@@ -65,17 +65,31 @@
  ],
  "items": [
   {
+   "title": "Holding luxembourgeoise : le régime mère-fille peut faire obstacle à l'application de l'article 123 bis du CGI",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTV9MLVYzejBJWV9UaW9OWDR6dXdsNTJheDBqRnI5dWtkZ2FXQXhqcldwUUF0Y05ad3V5eGJBa2h2YjNQaEdUa2dGSHgwUGxTS0tSMmVlenBPSmI2RDhfQndmSVc3VDhxcm9JMU1VWnZNMWQxOHY3ZmJPcXZTdEtrTzF6Y2VzeHNvRlFfVERoWDltUVlSdjEtMzhVQnNWY1ZHY2xJUWxPeURkMy1HdXlpZXJJdHExTWRmbzI3ZkxHSDU3N2U3cHQzcTZpbVcyUDFEYmhpRWxvbHI2cUhYcGhHcG9tY3Y4UQ?oc=5",
+   "source": "Lefebvre Dalloz Compétences",
+   "ts": 1795535606,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027 : une amnistie des pénalités de retard du RNE adoptée en commission",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckdpa1p0Uy1wQUR1WGl4Z1RFamhMNzJtZktlUUNqc2JwMkpyQmV3MUJMbHB3cUc5NnAwZ0NqUWlyemk3anZ1bGZPdGRWUkxvczhWWmhCQWhtcDY4RTh5VHVCS1dSUzRWZGhHVjFJM3FQd0YxeU0xcDJlOE1LNjdNTmNFTzRncTZ2c3JDbkc5X041akRQaUFUOXNaNzNoQ2w0N1JWTTMzUUxwdFZ0RFhWb21pS2FRa29Cd084RjlMRQ?oc=5",
+   "source": "Business News",
+   "ts": 1795534560,
+   "theme": "fisc"
+  },
+  {
    "title": "Électricité : 6,5 milliards de DH pour absorber la hausse de TVA et maintenir les tarifs",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGQ1X0hBcVJoV21ORERSZVNkZDA4R1V1UmlrSWFwS2duak9XZ3JxbnZIY3RJWWtyWnJUc1pNWkZTekFzR2xEdkppY1BJeUh0MDNYcmkwcm9MOTVQMjlYUDg2b29CNUlVX1pVSGFRMllYQ1VNbjFPVzBVRG5lek9xSVlLYVFsTkVPb0ZFUXdfRXBRcy0tN19BVVRzYjFJNFBSYzZZZnZmY23SAa4BQVVfeXFMTm1qQTU3MS1fTHZMZFZtMlBfVHhPNTlZeUp3aVR5a3gtYW8wTFF0TXN0WG1HTGx0SHk5T1d5MXNSU2pyUWJveFhucVIzdGoyX0JITlc5UTF3UEhVbzVuRW4tRUFoNXpYV1UzUjg4YnVqWUQ2VmI0czdYbEpLd0tyeE84R1NHTXFZckZYNzVfM1NLX3RzZDNtM1lYTDZ5emZEQlQ4c0NuMWNtSHV5UjF3?oc=5",
-   "source": "Le Matin.ma",
-   "ts": 1795528200,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXNIeUplS0dYSkI1NlZmdGdfOUVGTFpMR09QM1FYQUdiOXU5SEpMdzVvNmJ6MWhoQUxHeC1ERjRGUy1nYWxEa3YybHB4UWRjTHdxdWJucWpjSHJLUjgzNnF5dFl4dy0tQ1Fab2JvUDdBUk9LNExBaUZoRmpld2wwQVhLaUtlTE14cG9PWDd6YjA4UEpNekowN1c1TmxJeXBDbkdRVExVZnVuMWV3Xzlfb0JyWV93Uk1xMzBKcFVoY0NhMmk3eGdZS0NLd3FobTIxeDBnQQ?oc=5",
+   "source": "Linformation.ma",
+   "ts": 1795533540,
    "theme": "fisc"
   },
   {
    "title": "SAINT-GERVAIS Grisbi fait le point sur l'Urssaf et la facturation électronique",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY05nZENDa0tWRVlYYUYzTjJCS2JXRWFnazRnMnJsMzExdnEtRTh5Z1IxNF9wNExpLUwtcHpPVU5TNm1MMk10Q3VfSFl3Q1JKLUc1MENqREdEbzJtVVJHZExlWXF2RHFoRTJ2bnZXRHFhSzlpaTdFNjhMLTg4azRCcE5ON3IzaWpSLTZfanoxakN5UVZROFc5Qjk0akxZTzcyTjhxa25LYnZHeGhoVkFkMm9PellPVG9EOGF0WDlmbnBRZDBwY2ROTVFtZldRdw?oc=5",
    "source": "Objectif Gard",
-   "ts": 1795527150,
+   "ts": 1795527391,
    "theme": "fact"
   },
   {
@@ -95,7 +109,7 @@
   {
    "title": "Peut-on transférer l'imposition avec une convention de croupier ? Faites vos jeux !",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTFoZTN1N3dLUU1tdnN6SlRfSzhDclh6eUVVRjFkd0lxUVNWc3dJWkJ6RlllZjRLTFZKSkhUczRJcEMwVXVnMllpTDFZUGg1Qlc0YjJybzVoQTQwcnJMeURBa1otWExFRHNZUjBwNllWdEZIOEg5NEhqQW8zNThicmRXc2h5S0lUYnhWajlSUDVoaDNBNTlDS3BuMDdoS0VHeEM2cjVzc1ZsZzhtNTZFYTVsaTJoc1dRTHZGZm9RUDlTVzk1V3VXMFdR?oc=5",
-   "source": "www.revue-fiduciaire.com",
+   "source": "Revue Fiduciaire",
    "ts": 1795518000,
    "theme": "fisc"
   },
@@ -310,6 +324,13 @@
    "theme": "fact"
   },
   {
+   "title": "Les patients en affection longue durée devront-ils bientôt payer plus d'impôts? Les sénateurs durcissent la fiscalité sur ces arrêts maladie",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZ1duSkJlQWF5cGlNU1RQRGxBSkhnaTcwV1dmdFRNbmluTHZXbkhxd2FxTXl0WTlJck9IUUJqTHBoakt6MzROdFdJUU5BTFNGeFF4REs2UVFBX1ZLTmRmelg2QzctN1E5VktfZDFpYjhwaV9obUh0QWxuSk1VdV9JOGhlMWZUbUVEUW5ZcE5OdE9nQ0ZTNXR5RUwwWUlud0UzVVJ3WHFaV3ZQVGlsckw1cEUtQVNhT1c0Y21vc2pYeGhPQjEteGhwaWY3bDU4WHBhejVwa0VVWXpKdTJhREhfQjJablozajNZMFJFZWpzeVJ2R0xpWHNtOUp0TjVKOEpLbFNWMkVBcHpiT25fdkI0ZjlqMEJ1MEtVT3EwTE92WW02TXpnSzYteG13ZGU2LUdMcU5XUHVOeGlBLTFNV0E?oc=5",
+   "source": "BFM",
+   "ts": 1795432732,
+   "theme": "fisc"
+  },
+  {
    "title": "Apprentissage : les offres sont là, les aides de 2027 restent à confirmer",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3FPLUplMGtGRWkyTGJoclh0RnBCMzBZNUtwcXJKX05yMV8yQXM1SVlub0VCSmJCX3kzZ2k5cnNqS1BFbDBwSU1RdE15R2JmWTA0WmYzOUhBX0liVGJyVFhGaEk3ZmJQekFDQ0FWVlVKbV9oUFpjd01MOWxqdGlYUTJhRjU2TnhnSVE?oc=5",
    "source": "Social Mag",
@@ -377,7 +398,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
    "source": "Compta Online",
    "ts": 1795422133,
-   "theme": "fisc"
+   "theme": "compta"
   },
   {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
@@ -1092,27 +1113,6 @@
    "source": "Fortuneo",
    "ts": 1795097280,
    "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : D’éparses exonérations fiscales !",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oVHhCbHlhMkVfVXkxYmx4OVJBLXJtTjVxWlJtZU1FNEljemFMSW1jM3piS01mcXVGdlNyZk1mWlRSNFN3NHBpWDdZLU9feG12c0VvVGpoU0lDakNhcE1uNVBNMHV0YnVPaUo4Umw2emhsTzQwc0E?oc=5",
-   "source": "African Manager",
-   "ts": 1795097040,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation electronique obligatoire : ce que change une GED bien pensée",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2ZRb1Zxd0JtWndTMWNMWjVMNF96TXcyUGI5bXJoZGZsWXhEM0FoZm9hM1NiZkZIeEN6OFJyZURVMkM2WllldFlyMHNsVmlPaFl5RlUzUXo1b1RVTkRiQkpETi1mcVlfaXZYVU5yaEV1OXNETmxSSjJXbTBIUDBCWndPLTIwUHplbjNZT3lwQ0pyeFVZUDFyY2pvMEVxcmM3aW1YYi1UYWhJTHo5cWtFdENaRmpEMzd3dUNoaVhNQ2xKbXc?oc=5",
-   "source": "L'Est éclair",
-   "ts": 1795096903,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : les entreprises prêtes dès maintenant évitent la course de 2027",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYzZQbktVSGw2WHVRUVpzazhpbVphUFNxZ0hlam9rb1JGQzd1NWpaSlpLZGg2bmpST1E0SzFpNktXajVtTDBhY2xoMnllaGJKb2d2elpPX0hrX2FBR0hhbXJ5TDdoNnFXUlNZSW5ZcE90OFhwY1BFcnRhcWo4VkFSLV91VGlIdEZ0WXFMdXl1S2NfRjZNYURHYzBDQTlPQ3RtUVEzX0Nmb0llTFE5eHBmTVpUaEk2X3dhRC1qYzk2M2JwelpLVFplWWFXbkViZm0zNjdKX0xqWGRuUXVEeUlybHBjWQ?oc=5",
-   "source": "Paris Normandie",
-   "ts": 1795096341,
-   "theme": "fact"
   }
  ]
 }
