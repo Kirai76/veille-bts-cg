@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-24T16:27:23+00:00",
- "last_success": "2026-11-24T16:27:23+00:00",
+ "updated": "2026-11-24T18:01:55+00:00",
+ "last_success": "2026-11-24T18:01:55+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 67
   },
   {
    "query": "impôt sur les sociétés",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 44
   }
  ],
  "items": [
+  {
+   "title": "Pour une France de jeunes propriétaires : Favoriser la mobilité, rendre la propriété plus accessible",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SenJfaGJGMTExWURxV2NUVzF0c1Zrdk9qX2l6YVpmcklkRGRtdkNoaG1KOTBkOUZxNUJQV1JCX0RoZ3RFNnNUR0ZjZG9aQ1J6RjF6UUcwZFVHblB0XzBrTnlFdG5GcVdJRlR1cEdFNENvUk1u?oc=5",
+   "source": "IREF - Institut de Recherches Économiques et Fiscales",
+   "ts": 1795540885,
+   "theme": "fisc"
+  },
+  {
+   "title": "Dans le Gard, la CMA veut préparer les artisans aux mutations de leur métier",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS3FvUFV4eFBSQ1A5RlVzVGg1VHVaanh0S25GeXM0Q0FpNXp1VEF5M3V0eDZ3cGx1MVVzYVpfQ3RqeFh1OHlTdUxGdXBqS1Y1N1pyS0c2aTgzUXh2Ul9jRjdtWEN3QW01Qzd4TVBpMzYxUzFpYThTRzJTT3UwdjRTUTVmWDJBbmRNX3lqUWxxWnYxZkFDYVkzMkdBckJ6WUxFNkl3S05TdGJFUGFuY25UaFd3b3pic1M4V3NoUjZMWEdwaGliaUdpUTZKdkNBMlVrZUQ5d2VzVQ?oc=5",
+   "source": "Le réveil de midi",
+   "ts": 1795536991,
+   "theme": "fact"
+  },
   {
    "title": "Holding luxembourgeoise : le régime mère-fille peut faire obstacle à l'application de l'article 123 bis du CGI",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTV9MLVYzejBJWV9UaW9OWDR6dXdsNTJheDBqRnI5dWtkZ2FXQXhqcldwUUF0Y05ad3V5eGJBa2h2YjNQaEdUa2dGSHgwUGxTS0tSMmVlenBPSmI2RDhfQndmSVc3VDhxcm9JMU1VWnZNMWQxOHY3ZmJPcXZTdEtrTzF6Y2VzeHNvRlFfVERoWDltUVlSdjEtMzhVQnNWY1ZHY2xJUWxPeURkMy1HdXlpZXJJdHExTWRmbzI3ZkxHSDU3N2U3cHQzcTZpbVcyUDFEYmhpRWxvbHI2cUhYcGhHcG9tY3Y4UQ?oc=5",
@@ -1098,20 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpZSzVYMjJzanhkUlBFcWlBUnE5WVF2Uno5Q0E5bHE1Zjh6czI0UFdpZ2FNT0k1ZTlGR0IwOE0yN3FURU5SZGd4SXNLd0JucmRTdHdOYnpLQ09nVm9LRzI4aUhPVDBuTEhTMV9TNVo2Q3I0YmcxQ3Frb1JQUDgtS0xlMFVYV2pNbVpwamlhb3N1dmlqYWVRQzZOcFlFQmNsYlZ4T0dkcG94c1B0eWtfNGRkdDloSVl1aWxVeE1oSUlDMmFNemVDdkxoVGRwTVZtN0pLXzY2UXlWWUF5NE90eGZTOXZZcGNxZkhGcHVB?oc=5",
    "source": "Public Sénat",
    "ts": 1795098934,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique obligatoire : ce qui change en 2026, ce qui arrive en 2027",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFZUTHNvYmNvZUh0VmhIdk5vcTRZZ0JzVXo4SEhtMnZxcWRGYlFrWThoZXN2Q1M3SmVhU3lmR3kxU0k0QktTS3J3QXhvd3BtZnctVThEbF9hdEVVV004OHU1X0hiYWdhOFJfRzF2d2VHdjgtU25lQXl1Q2Q1dlpfdVJQaWRxN1pMaEU3S0NQZHNpNl9ZTUpnRHF3OGo5LVFvaGg5OE80RGRDWUVNWEhmV3hKZktCaXA2YU5zZUJ0TEs5LW1OT1lLVjA2YmVvOE1hamc?oc=5",
-   "source": "L'Union",
-   "ts": 1795098063,
-   "theme": "fisc"
-  },
-  {
-   "title": "La gauche sénatoriale s'inquiète face à un budget de \"fin de règne\" et appelle à une \"alternative...",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSkZab1VGcTJ0NG5TWTFlSnlibXk5SFBmRlZhMlRjZTNndXA3akJIN3BFY0xjakVHbHlTTVJhTVpHY2NxcnpPUFd3NkwxUDJpQkRIVFdXeUs2azBrRF95V2RPR1JGRU80aFVGWmRVQ0Y4OEZ2T1lhWHo5YkZrQmtVT1lsbW5UWGxCZ1JQZHVIY09OZG11cTQ0QXlEZThQMnJ0ZW05TWtvNU9zQXRRcktla3ZFZ0RFVVJLN1YzX28tMUVuVnpKSXByY3NDRGlBY0xzcVl0aUM2UdIB3AFBVV95cUxQUWEwZndIMEs0VVR6V1NTbFBSZHJFMUsxQlJKQTFkQ2F4cWhsZXlYOVlaQllydG5KUGhIY2h5T0dTZW1Ub01KbEFwMXU1T2Z2RE00UnNlRlpxM21vXzdUYUVwSDR0ZXVxVGtTUkUxbklER2FCdnJtakZRQmZsZ280UlBuX3ZaLTZCTkM1Q3VHMkxwdEg0Y2lEb2h6UUJkeHlKdFNfMlNyeU1fRVlzaGdFbmV0UnpIeGw3WXE4YnNzNWN1MHpiWjhwTFBrUUtaQnFFRWxzekYyMmVXVE92?oc=5",
-   "source": "Fortuneo",
-   "ts": 1795097280,
    "theme": "fisc"
   }
  ]
