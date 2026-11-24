@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T12:08:51+00:00",
- "last_success": "2026-11-24T12:08:51+00:00",
+ "updated": "2026-11-24T13:28:53+00:00",
+ "last_success": "2026-11-24T13:28:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 65
+   "count": 66
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "query": "DSN employeurs paie",
@@ -45,25 +45,32 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 24
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 45
   }
  ],
  "items": [
+  {
+   "title": "Électricité au Maroc : la TVA passe à 20 %",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ibl92b252ZUd0VnhUd0VLa1JqUldIZ2YwdkVQR1FDZjBHQjVpTFhXdWY3ZWp2QzJkUjR5MXBGTk8yamdDSUw1TVQzYkVERWdGakpaOHhCZ3hZM0F3TFNCMHAzSW5mZ0NLdXc?oc=5",
+   "source": "EcoActu",
+   "ts": 1795526807,
+   "theme": "fisc"
+  },
   {
    "title": "Taxe numérique camerounaise : Apple la répercute sur les développeurs",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUY2RldIN2lMZWVPZ29hQVZnMFZ5cVBCNmhKNEh5d2F2MEI1bHJHd3YtT09lS19RREYwMHFnbnBEcVhlVDhpSTVVc0daRzY1bmZ5bERKTktINWxQdmMycHBTTlp6czYtVWQxX003SjI0WWNweGZoX0hmckFkMWRNNnVIZEpSc0QwN1JtNjRjSkZsTnEyQXJ2TVpSVV9LbkNKc0E?oc=5",
@@ -270,7 +277,7 @@
   {
    "title": "La TVA sur l’électricité relevée à 20%: pas de hausse des tarifs pour les consommateurs",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXdSMkdJeDM1MEJnVG5pS1hUczg5d1plZDRVOTJnQXNaTXhteVZJQzEwdjdyQXE3blpsTXRrdWx6OTVWaG81T2VFRWNSRG1WbTFDQnVRVVFBY3dDaE5FYVJsQWFBVm4xSVNmYUZWWlh0RWVaTTNNMzM3QUxDREN1SnZ1a3FIRVd5a29pN1JtNlM0OXBXaEZERXlZcnBpdG9MVks1Q01saDRpQU9rOTJpblFzN2VPYTlMTTdVNEdNcl9CeXhZQ0d0c3hQUEYzTWY4QTZhcnNfRFE?oc=5",
-   "source": "Le360 - Le média des actualités du Maroc",
+   "source": "Le360",
    "ts": 1795437900,
    "theme": "fisc"
   },
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWNnWUJLV0N6bGdmZGc1N3pYeUtCUTR3bHEzelVnWmFaa3ZSaXZsN01TM1BvakQ1TTZLY1QzR2s3cnlpMEdTdFpEcGxQMnFxcldfNzlNcl9GZnQ3VnNDMWZQX2U2VmhWUnRZR1p6RHFYY1lIRTRuMTJ4ajcxbWRTeFEtQUh5RWE0VXFzYzJZY2hKSEdlRG9jSlB6cjg3ZEhUbVB0Y3o1eW1faDdmRU1FUll4WQ?oc=5",
    "source": "Les Affiches de Grenoble et du Dauphiné",
    "ts": 1795093521,
-   "theme": "fisc"
-  },
-  {
-   "title": "Impôt sur les sociétés: des entreprises accusées de détourner les chèques-cadeaux à des fins fiscales",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNGQ5alNHT21fanFKNVpsWV9jUFBXV25TRndjZGZpSTU4eXgtVFdZd3ljOHJHZDQ1UkV1V09rcVdINXVRR3hhTVozalU0bXlkUDF3NjFzUllkeW5FZ21aNy1CN2NuRFhHM242eDU5dEkzU1lsb2N3Mm0zc2ZEQXZUOWlPM1hIZExPQkpURGtQTlZ0ZzJSU0xXcUVjMVQwdmNvM1hZT2M2empORXVqWGgzbi15RFg2UlV4RlJPVWFWbUgxWm1GSkhWOE05VllqVklNMkg5bEcwMmJON3B1ZVN1RXQzeDRmWmZVSm1QWjVQZw?oc=5",
-   "source": "Le360 - Le média des actualités du Maroc",
-   "ts": 1795092900,
    "theme": "fisc"
   }
  ]
