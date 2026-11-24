@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T05:19:43+00:00",
- "last_success": "2026-11-24T05:19:43+00:00",
+ "updated": "2026-11-24T07:32:42+00:00",
+ "last_success": "2026-11-24T07:32:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,17 +15,17 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 69
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 84
+   "count": 85
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,20 +50,27 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 31
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 23
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 44
+   "count": 33
   }
  ],
  "items": [
+  {
+   "title": "Avec un chiffre d'affaires de 5 milliards de VND, quelle méthode de calcul des impôts est la plus avantageuse pour une entreprise familiale ?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGNENWhKSXNwMEJCR1kxTWdMLUZ4bHNrY3UzTFd4ZWFnT0RuSDBWWXk0NEJRN2JBUzFfLUVoWWNMbmpKc2RmbzBieVpTVnQ2Z3hUZm5uWDVDS2tqRTdISkVHRzRPUFNTajJjUUw1bm5zMGx5NnZjUjhWNmJuUlk0VFpycldDaTJsM3ZrLWx1Rk9IbGdj?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795495693,
+   "theme": "fisc"
+  },
   {
    "title": "Éclaircissement fiscal sur les zones franches aux Émirats : règles applicables à l'impôt sur les sociétés, à la TVA et aux droits d'accise - Actualités et statistiques",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPblR5LXdpX2Z2UEZKRDliTlJjWHJOR1o1QXVDNlJ2akdvZDJQTk0yMFp0b1VjX3kzRnJDc0dqMFpmMnFvMjlvRGFKWVlrNU1JQ0VZWnp6cXFiM2pTdl9mWXRyZ0FTaXVCaFlCYnNDa3Z5SEwxZm1uSFp0MGRFdWxwWTV2cGRaSHV0Rk5SY242TDNYRE1xbWFia2RmczNGNng0UFFrZHJIYy1uMzdvT251d21IUm82V3RCaGxESzVZVS12Mkd0QVA3ajZCNEFDWV9yX0RIYkd3?oc=5",
@@ -272,7 +279,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
    "source": "Compta Online",
    "ts": 1795422133,
-   "theme": "fisc"
+   "theme": "compta"
   },
   {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
@@ -1106,13 +1113,6 @@
    "source": "Lefebvre Dalloz Compétences",
    "ts": 1795077304,
    "theme": "fisc"
-  },
-  {
-   "title": "TESE URSSAF employeur : ce que couvre le titre emploi service entreprise et comment éviter un redressement",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmlQSzZ1eG9Eb2laanFJVXE2YTBWVFVEMGc4V2VpVE5XOWNCVklUWk9QZXhsRFUwUjV6VWJUb3BaT0dmNk1kVzVhUTZDeVMyM2U1Z2hkVVRYUHB0a1lOU2U4clBlcWJrdlpQTm1VdGQybWlHSWFzRlVuSWxwUXNtQTVONVViVUdwVWc?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1795076940,
-   "theme": "soc"
   }
  ]
 }
