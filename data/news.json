@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:58:55+00:00",
- "last_success": "2026-11-23T23:58:55+00:00",
+ "updated": "2026-11-24T01:25:34+00:00",
+ "last_success": "2026-11-24T01:25:34+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 13
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 85
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 62
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 44
+   "count": 33
   }
  ],
  "items": [
@@ -842,6 +842,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Rescrit social URSSAF : comment une filiale peut-elle opposer la réponse obtenue par son groupe",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQc1hjYXIzUFNHVWNFOXMwTlBlbGRmcDlZV3FzVU9PSTVhYnhSZjNVTTd2d0RtOFJ3UFlHU1R3SlJUcVFibU1Takx4MEFRUFRQNFl2RDFTLUYwbjhkNUFJa1F4TWh5RGJwMEJnN3J2VldnVWR0eDNiSHlB?oc=5",
+   "source": "Hassan KOHEN",
+   "ts": 1795133880,
+   "theme": "soc"
+  },
+  {
    "title": "Facturation électronique 2027 : comment Tiime simplifie la transition des TPE",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERud1BtWVB3dTBZWDdIeW5tdTZ6enI0Y3FYV2M1YXNvcGIxeFc5V2dwbjJyZTJtSTNuNzhBUmpjNF91WXBXMDBRdUZCVlFSRFRvWEpSbFM4V3dOWDBEdG1ONXdLenhUZ0tCeFlhVE5MRHpsdG42NkZ2V3ZzTmlYdVBhNGtKbGprQ3EwaWdialRrVHRiV3ByX1dUd0pOWHlMS3M3WHN5ZHBZWVVCYVFENTln?oc=5",
    "source": "Stratégies",
@@ -1106,13 +1113,6 @@
    "source": "RiskAssur",
    "ts": 1795070492,
    "theme": "fact"
-  },
-  {
-   "title": "Villa avec piscine, Porsche à 206.000 euros: comment des managers, médecins et consultants éludent des milliers d’euros d’impôts",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDNfQVI2LXN4SGZTTGNaemdYUUpUZUtsMzJ0NXZoaVludUY1cmhrdFZNSWJUY3JpbTU0Wm9qMkJ6YUk2Ung1SU5tNVVmQjhWNDNuTHFjbFM2VWVJSk1mQ1VhMEVsZTAtaXpONm5ZdUx2dHdqZkVNM1VtY3NxZDRxRHI3N09VZWxHU3kyendxLXhMVlRVQlF0RWNFQmgzZ1hoSGtubjJxanZZWklJU2piRGt1dGZSbmNJdWZQOHhURGQ3VFNHSldhSmhhb28yRkppZ0t2X3FBdVhmTTRkRjBnb3F0bFlXS2ZKaDlHUHFZaTBQMWgwNHc?oc=5",
-   "source": "7sur7.be",
-   "ts": 1795070139,
-   "theme": "fisc"
   }
  ]
 }
