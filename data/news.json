@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:01:55+00:00",
- "last_success": "2026-11-24T18:01:55+00:00",
+ "updated": "2026-11-24T19:12:14+00:00",
+ "last_success": "2026-11-24T19:12:14+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 67
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 25
+   "count": 30
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Budget 2027: Sébastien Lecornu va recevoir les présidents des groupes parlementaires \"la semaine prochaine\"",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcmNRMUszbldlMDZKSDFmV2Rrb1VQZHNSQ0xrT2tKNjA0MHJ3QUJpX25KbnQydkRITmNEaGF5NHpIUk9NWktmdldTQ1RCYVE1V21TUkttbk1lQUFkc1FBWElYWG1JWThYYkhGODNPT3M1UzhUY1dCY0lkVnAtV25pMEttZlVzTnBYWFdJNWxiZ2NKd3FxaHVJWlhQZGNuY0p4MFBkek5yaVBHbGYtVXFrSGt1N1pVeGZPYm1yQmFhMGxIY0xxb0lfNHVfaWgtbHNlUGl0Q29qeHBXb0VZMkJ0U09MWXQ5aXFOaUx2aElyWVZiMmtTMFp0MktaLUlOUQ?oc=5",
+   "source": "BFM",
+   "ts": 1795546945,
+   "theme": "fisc"
+  },
+  {
+   "title": "Prime Macron : une exonération de CSG-CRDS en 2027 pour les salariés des entreprises de 50 salariés et plus ?",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWnRuSTJxcU9idjBFVHZQdDlJQXoyM3BSRDRRX3p2OXU4OXZ3SEVTcl9xQ28zXy14aUx6MG9VWkdwaHhYX3JtQ3RpdUJEcTk1cmtjNlFxWktJaktKN1lETzVCeUhLd3JFM2hLdS11amw2dmYySzVGTnh0cURoT3Z1S3BGRFhQMlprS01fUXplY1JfSzJOZHlHNkM3bF9tRk90VTYxOUNaSDB1TWVWM21yRS1UVVNIejBXcVk4V0JXdDYyUjB2ckVzVUNObExLcjhYeVVBRmw2X01vNDhHdTk4VTdoREJDV0xr?oc=5",
+   "source": "MoneyVox",
+   "ts": 1795543209,
+   "theme": "fisc"
+  },
   {
    "title": "Pour une France de jeunes propriétaires : Favoriser la mobilité, rendre la propriété plus accessible",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SenJfaGJGMTExWURxV2NUVzF0c1Zrdk9qX2l6YVpmcklkRGRtdkNoaG1KOTBkOUZxNUJQV1JCX0RoZ3RFNnNUR0ZjZG9aQ1J6RjF6UUcwZFVHblB0XzBrTnlFdG5GcVdJRlR1cEdFNENvUk1u?oc=5",
@@ -926,6 +940,13 @@
    "theme": "alt"
   },
   {
+   "title": "Prime d’activité étudiant boursier 2026 : conditions, montant, démarches",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2ZSbm9RU0tqeVU2RDlHT0FfLTZFUUFHOFVZNjBBTFVGRFBVWUFZaW16a0F0NDBTZGVvNXgzYWo4YnVOR05ndW9XSTFHd2g0M0N6QzRwSzVMUXZuOUdjNGFUMHlSMy1sOFlFRmxaNHFWRnhoZXZMR2xHdV9heG15NVVkSVVFZDBCZk00X0FKa05GR2hONWdzZ2JTSlJqSENxcjkxbzgtcmFmeVlST0HSAa4BQVVfeXFMTUdmUm5vUVNLanlVNkQ5R09BXy02RVFBRzhVWTYwQUxVRkRQVVlBWWltemtBdDQwU2RlbzV4M2FqOGJ1TkdOZ3VvV0kxR3doNDNDekM0cEs1TFF2bjlHYzRhVDB5UjMtbDhZRUZsWjRxVkZ4aGV2TEdsR3VfYXhteTVVZElVRWQwQmZNNF9BSmtORkdoTjVnc2diU0pSakhDcXI5MW84LXJhZnlZUk9B?oc=5",
+   "source": "Mes Allocs",
+   "ts": 1795161600,
+   "theme": "alt"
+  },
+  {
    "title": "Facturation électronique 2026-2027 : guide pour les TPE",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEk1NjFyRW9Sc0lEc2Rnd0N5c3c4M3JmVXpiLWpFV2xPV3ZwcU5lOC1HTFNiZGViOVZvRTZWakZlQ1huZS1OQ251S1NxdEh5eXBpR2hpM3N6QnNDSWZQXzFrTGhFaUNJZ3l2Y294T0dvOEs2clpHVkxac0ZOZ2FVQngxMm5FT0w0ekhyQkttNDk3VnpLcy1pYQ?oc=5",
    "source": "Business-Cool",
@@ -1092,27 +1113,6 @@
    "source": "L'Etudiant",
    "ts": 1795104000,
    "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : Pierre-Emeric Chabanne conseille les PME",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWS1KUkZlZWtLa0ZKdDYxUHNOb2xiRGN6bHhJOW9mUm1fZkxzT2Q4WVhJaV9vQkYxM20yWWVIaExweHI1WWYwR2I1bTJ1Wmt4MmIzQ19ST1RjR3QwbGFMXzFFbGZiV3l0VUxwMUxrRUFVc21DS0FVQUFnYjI3Z2t5b2ZzcU42Ui00bTdrRVJaRWdQd1YyQXNuR0FvTExRbmo2aGN2dHN2aXZ6MVRaZ3lTaHc3dzNKd3I1Zi1YaUFvbk9INTcy?oc=5",
-   "source": "Presse Agence",
-   "ts": 1795100400,
-   "theme": "fact"
-  },
-  {
-   "title": "Budget 2027 : « La droite veut amplifier les injustices fiscales et sociales », accusent les sénateurs communistes",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaUNIUENZaHdIUXVyNEVUa091OEZkR3dmTDBzQ3lNcUNIRExMT3Bra1VwN3F1clJWamtGTmJGWDBmTWY0QXI2R1hhdWNoYlFwY19MTXRmWE9fRnBhbll1bkpObmRmMXdiSDVUZlk0Zi0xSmtQNVM1VnRfQ2x0aW5ITmplTXNOY3VralRScmJIWjVxdlNGRGt3RTQ2MVdXaldncmVXRGNjVk5DR3lUdkhPN1FvQ3dXTTVkUU9iWVdCYkNHcjhlbG0xOUJJWHJnSnRBOVNRYTZXNm03N2cwNUV5Mi0yUHlZblJFUjZF?oc=5",
-   "source": "Public Sénat",
-   "ts": 1795099540,
-   "theme": "fisc"
-  },
-  {
-   "title": "« Encore un budget sauce LR ! » : les sénateurs écologistes vent debout contre le budget 2027 qui arrive en débat",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnpZSzVYMjJzanhkUlBFcWlBUnE5WVF2Uno5Q0E5bHE1Zjh6czI0UFdpZ2FNT0k1ZTlGR0IwOE0yN3FURU5SZGd4SXNLd0JucmRTdHdOYnpLQ09nVm9LRzI4aUhPVDBuTEhTMV9TNVo2Q3I0YmcxQ3Frb1JQUDgtS0xlMFVYV2pNbVpwamlhb3N1dmlqYWVRQzZOcFlFQmNsYlZ4T0dkcG94c1B0eWtfNGRkdDloSVl1aWxVeE1oSUlDMmFNemVDdkxoVGRwTVZtN0pLXzY2UXlWWUF5NE90eGZTOXZZcGNxZkhGcHVB?oc=5",
-   "source": "Public Sénat",
-   "ts": 1795098934,
-   "theme": "fisc"
   }
  ]
 }
