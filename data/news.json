@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-24T21:06:11+00:00",
- "last_success": "2026-11-24T21:06:11+00:00",
+ "updated": "2026-11-24T22:09:10+00:00",
+ "last_success": "2026-11-24T22:09:10+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 63
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 87
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
@@ -65,6 +65,13 @@
  ],
  "items": [
   {
+   "title": "Facturation électronique : le premier bilan - 24/11",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2U0VlhtS1BLaE1Dd1NsWlJiaUl5UmVxLVYyTV81dDc1ZlVlN2NzSnRFWTVkUGJUcm5aNnVjM3ptUE94RU9EMGlQNERZUG5hX2ZVZFRMRDZyX1ptY1U4Yzd4NVhPZ01JMXpSRmhaQzRzWTlKZDRVUmpyazh3WllRRmJDaVJNNU1GeHpjSnl6eHpya2NuSW9udEZHVTFLbWt3N2ZfTHhpVDBFUQ?oc=5",
+   "source": "Orange Actualités",
+   "ts": 1795553400,
+   "theme": "fact"
+  },
+  {
    "title": "Makutano 2026 : le gouvernement pour la réduction du taux d’impôt sur les sociétés",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXBNLTFVSjhRQnJfT3Vob0lOQmZ6N09sMkdIa0tOTWlTbjJfVHBfR2U4ZXV2Y1lmVEFLSVlKWEpOMWtwNUFZeF95ODRXRUtVVUtkVVhqalhvaG8zTEM2LVAtakdJM0RXczR4Q1ZqMHhuTnRMaTU4T254Z1VzeDM3WDFVMHJhWWJKZkxrai1oOTJqZERuaFhtNm9vdS1wVF9aTzVlUDF6VQ?oc=5",
    "source": "ACP | Agence Congolaise de Presse",
@@ -76,6 +83,13 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1ZLTXdyb0hLX2NVSkV1UkNQZUc1a1o1TmloRHNLcllaaXFZaTM1RTZqbXpxb2NoMXBMUDhzSlVfZXdqa0gyc29kdUJwdjQzV1lOcV9FU0NYLTR4MDVGY2VlUzdFR0h0ekt4b0pUSFd0SVBTaDFONExaaENaNnZoVk9RYUVLSndvZUp5eENyMEkxamxoZmlhUTVGcFpGQ3l0SG9yV2FqN09QN0lsenJxelFpdjZoZEpyeGpmTVJLTUl3akNNY0FkZ2V4djJDa0QzWFpyNW9n?oc=5",
    "source": "Le Dauphiné Libéré",
    "ts": 1795548269,
+   "theme": "fisc"
+  },
+  {
+   "title": "Économie. Budget 2027 : sans compromis en vue, Lecornu va recevoir les présidents de groupe parlementaire",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORHJrNVJGV1EzXzE4a2lPZHUzdUxSaFNJQ2JFYzRzeExJT2FhbDU2LVJDMjNxQTRnMnJCemNSNHpqWkFwdkJZVk5PVG9ibjBaSm5oR2sxeURWb2QtT1RaOUtqVnFKMkVCdnpKSVNLYm1OenZUTkdDV2xpT2szcUk5S1pKUUl1R05iUS1rU1lzR01CR0xScjVzeUNkdlFPY2tQWkxfQzVXb1g3Z3Z0Q3NWTU0taTdkVjg5cC0tUWNYZjhudkFnendNSVpVZXZpdVd2ZlF2V0d3?oc=5",
+   "source": "Le Bien Public",
+   "ts": 1795548182,
    "theme": "fisc"
   },
   {
@@ -111,6 +125,13 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SenJfaGJGMTExWURxV2NUVzF0c1Zrdk9qX2l6YVpmcklkRGRtdkNoaG1KOTBkOUZxNUJQV1JCX0RoZ3RFNnNUR0ZjZG9aQ1J6RjF6UUcwZFVHblB0XzBrTnlFdG5GcVdJRlR1cEdFNENvUk1u?oc=5",
    "source": "IREF - Institut de Recherches Économiques et Fiscales",
    "ts": 1795540885,
+   "theme": "fisc"
+  },
+  {
+   "title": "Fiscalité du patrimoine : les hausses et les baisses d’impôt du PLF 2027",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRIRlI5NnB4Y3RwX3dWdnM1bk1qamdPdlkzME5YYmF1X3ZQdTQwc2dNcURMc191a1VocVEyMzNPRkxZQUp6UXVrd1dwTzM1U09sX0JSMHhrYm5lbjFBOEl2S3pqeV9VenVIMUIzSTVVUUNHRkNCc0FfXzJremw1NkVjejJ1RlpBczNUY2hyYU02clRkb0NV?oc=5",
+   "source": "Tout Sur Mes Finances",
+   "ts": 1795540788,
    "theme": "fisc"
   },
   {
@@ -153,6 +174,13 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ibl92b252ZUd0VnhUd0VLa1JqUldIZ2YwdkVQR1FDZjBHQjVpTFhXdWY3ZWp2QzJkUjR5MXBGTk8yamdDSUw1TVQzYkVERWdGakpaOHhCZ3hZM0F3TFNCMHAzSW5mZ0NLdXc?oc=5",
    "source": "EcoActu",
    "ts": 1795526807,
+   "theme": "fisc"
+  },
+  {
+   "title": "Fiscalité: le 30 novembre en ligne de mire",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtYjVJUkctOFhPZjhwUlVIamFja3V4T1lTc1I3QXhEOUZpbmV3N1p4amZtbXJlemV5NFlwWXk4R2FaSlRYSDRLOWJJdjc0NGg5NVZncVp6U3YtOTRaV184NWJxN0FQM1hhV3BtZDVZYzNBR3VfOEJONnBrRXJaUQ?oc=5",
+   "source": "LesEco.ma",
+   "ts": 1795524582,
    "theme": "fisc"
   },
   {
@@ -419,7 +447,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1085,34 +1113,6 @@
    "source": "Tribuca.net",
    "ts": 1795116574,
    "theme": "compta"
-  },
-  {
-   "title": "PLF 2027 : un amendement veut instaurer un crédit d’impôt de 20 % pour les podcasts natifs",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjhlZE5DbkZ1SFh6WHJFNVBpS0poa3VmWXZ1aWdFa05vaGRMUWk5ZXFRQzFVdEtNUklXWGJrQnJJTXpnVkgtRGtkVmFLb3d0eUgtdC1zaGNTM0ktdEhvTkNGN3ZHNF9fMVFkbDNLdV9CWHc0STJLenlUTUt6bE04elM4UnVVY0dGUW85WXJPY0hPakpid1lpMy1uelVEWEd0?oc=5",
-   "source": "CB News",
-   "ts": 1795114393,
-   "theme": "fisc"
-  },
-  {
-   "title": "Chèque vacances URSSAF 2026 : exonération de l'employeur de moins de 50 salariés et comment contester un redressement",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0tsUzNuU3UtdHN0dkRjTlVJZFpjMUxBbHZTd21pTDJTRjhCNDRGaW9xbUZBLTZJUkVQUmVqY215MHRBYTAxYlhjY0FTSFVkdDNkZkplYkNxeVgyR0lJMVprUkpKUl84U1QzYUwtbFQ4QnhCYVlZVU5OUDVOOVpVOHN2MUYyYlF3bFMydTA2ZUZGa3BXUlN3YndrR1VnQ0E1VjA5c1FNaw?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1795113120,
-   "theme": "soc"
-  },
-  {
-   "title": "France renforce sa mobilisation pour l’apprentissage et l’emploi des jeunes",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHo2NHMyR0JMS01Ubk1oY1ZTVTl6eV9Gb1pnbUVPRndKY3RuVGh4UGdvOHp3a1RNVGxkWm1Cd2pUbXdJbVZmS0NZZmU4eVBHSnBiTG42ZEZfakRTZWRkZk50NlloeEpybkxmblg4ZC1hc2x4NFo5Q3N3UmphQlIxMWtrZXBYZ29xLUdyQl9PZ2xncjIteWZNZ2xhbw?oc=5",
-   "source": "Traders Union",
-   "ts": 1795112662,
-   "theme": "alt"
-  },
-  {
-   "title": "Taxe foncière bail commercial : comment obtenir une minoration du loyer renouvelé (Cass. 3e civ., 19 novembre 2026)",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnpkUkhVZFdyNXkzRVNWZFZtYkVTbUEweDZidGZKMlpZalNrcHpIbGk4RGlFTDY3SGwxYm5RelVxNU9PdlB2ZXVxQkZVRTJoUU1CX045dEdCbnlERXRlOGQyd3l6Mzc0bkZqOUFjeUlGeXVfbEFtdWJGNFRlX1cyOUQ2Qk9WZlZlaHlEdTZoZFNsNlZBdVhXZXpTUFBwY3hzQTV2NDF1SlJnQ0R4YmtjQ1Y4LTg3Qlp5NUlJ?oc=5",
-   "source": "Reda KOHEN",
-   "ts": 1795112340,
-   "theme": "fisc"
   }
  ]
 }
