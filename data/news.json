@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-24T07:32:42+00:00",
- "last_success": "2026-11-24T07:32:42+00:00",
+ "updated": "2026-11-24T09:20:34+00:00",
+ "last_success": "2026-11-24T09:20:34+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 85
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 31
+   "count": 28
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,48 @@
   }
  ],
  "items": [
+  {
+   "title": "La facture électronique prend très progressivement racine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlQtVXZ2VUZBU2hWOUxhMWpKVDJKcjBveFFEVFM2WVpBalV6WVVhWVFObUdrOU9iSEhWUmF2bk9HY29iT1g5enI2VWVUbTlnZ3R3SVdFd3hlRzdES2lHTW1KN1ZWT2xzUUF6ZHU3OVhIbGhrNzEzWUN3VnlfaDBmUFNmTk5Bbk5ia1hzSUgyRVdtU2xkeEdzOFVkcTZhRkJs?oc=5",
+   "source": "L'Agefi",
+   "ts": 1795510992,
+   "theme": "fact"
+  },
+  {
+   "title": "Fiscalité numérique : Apple ajuste les revenus des développeurs pour intégrer l'impôt camerounais de 3",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ0c5RldTQmNhYVZES080TnJEY3VYS0VTYWJJUVJvUFlPZHJiNnlTcVdFdjJOSm5wSDZHWS1Bb3otbEtuTEYwZFNHX2VoenhlZTk5YkFoMHd0eXlBTXQ3emhRTVRBNWM5bDhGd3lBZHZWU3U2ekxyaWlDaWxEeTI1Q08zM3Z1d3czcFN6Ql9LcWhUUE53Ry12VWQ4bkhLM1FodExUNDVQaTV4NV96dW1iT1RMY29jWFN6UlVHN2hXRkxjRnNBbWMzaEtYeWluZ194bHgxTkN5UEJuNkZpUXFrSmxabGxubk1YWWM3T3ZsYklBZ0hW?oc=5",
+   "source": "Investir au Cameroun",
+   "ts": 1795507740,
+   "theme": "fisc"
+  },
+  {
+   "title": "Suède : après la suppression des impôts sur le patrimoine, le PIB par habitant a augmenté de 24%",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDRvdEVIdkl4MV9IUkRhOGZvVkxjZzY3WGhLN2R3ZHg3SVlWTlVGM2tQVE1oWnRPZVRVYnpLcHI2Vlg3N0pDM0tRUzlaVWNXdkg4SkQxdklyeFpKLXJoSGY5aEV6Zjl2ZFhfc3B3a0xiWW5kazZUaVFPVjN0NE9JU2UtUktOb2UteFdMLVFvTERibHNqenVwT1ZqRDJyb1BGeXl3eWF4N21MY05HU0VpUDRJeXNJSndyNmhNYlJxRVhLcnpDSUpZWF9CQQ?oc=5",
+   "source": "www.epochtimes.fr",
+   "ts": 1795502679,
+   "theme": "fisc"
+  },
+  {
+   "title": "Meti : \"Je n'ai jamais vu les chefs d'entreprise à un tel niveau d'inquiétude\"",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2RfWWhNVW9NV0VidHNoWUlQWmFSNWxuV21CVUFvM2VJaF9ONVV1Z0RhRHUyT1BoOU4wcVBadDRDempfNTN6RWhLWW1CNC1jTDRmQklDU0MySWM2czgtd0x0Q2RGVVI5RFp6TlhYVm9IVjRRdVY5Skk4d1diSVFPWV9UU3N2YUZGZ3c0cVIyeXdNX0EwRThMd3dxUkNtQ0xLRUtlSmhOaFVSN1c0cjY3emlkYWpJRGU1LWc?oc=5",
+   "source": "mesinfos",
+   "ts": 1795502220,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facture électronique : comment recevoir ses factures fournisseurs quand on est auto-entrepreneur ?",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWmJJV0pfY1BlbkFRUjZUUGpqR3dycDloUHNnVjJuOGZpTnF3eUUwSmpGLWk2OVpBT19wLTluTWxYOVJJcC1yRGw2Y3FJLWphb1o5d3IxSnI3ekhza0prWGplSE15ejdRaFp6cmNqQW5RNXlPSmQtTTc1bmpiTjNlMHBQTWVTbGlJdjZDTlVCSjVTaWE3cERHR010UnFlb1JCQUlzZ2pxU3lkZEhpT2dJZXNhWFRJa3dGV1BudTg1V0dhOVhXVDlyeWVNX3U3S3dHZ25LNkZLX2puNUw0QXBvazZGNFMwSjlpY3Q1aGVmUDJQZjFqSTV4NEhSZ2hJVkNBWS1xb0NJSHc?oc=5",
+   "source": "Ouest-France",
+   "ts": 1795498322,
+   "theme": "fact"
+  },
+  {
+   "title": "Facturation électronique : de la boîte à chaussures aux tuyaux électroniques, le maître-mot c’est « l’anticipation »",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHJqQjdWbng2RE1oVm1id2ozZTdfcEdvOV9xSjFRY2ROUjhhTDRNX2R0RkV3N2QwUk5lT1IxS29KQ19iQ0hQWEZhQkFCaEtBblNrTVVXWVRtblNMWGxHTnlOYUM4bl8yWnhJZWpwbFRxS3haeWRlZEUwVmpNWUdGZHA2RmF6d3ZJSlREX21JWmR4Q0RWVmt3ZWdHWnhCVXJGYzQ5YzhZWkFMenRNMVZtNFVXblJpTzZFcjJQZ2VBMzVNYW03Uy0tYUlZczB2UTR3Y09QRDFJZ1RtdHhQeEltYUFsMy04RUgyYmc?oc=5",
+   "source": "Le Progrès",
+   "ts": 1795496511,
+   "theme": "fact"
+  },
   {
    "title": "Avec un chiffre d'affaires de 5 milliards de VND, quelle méthode de calcul des impôts est la plus avantageuse pour une entreprise familiale ?",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGNENWhKSXNwMEJCR1kxTWdMLUZ4bHNrY3UzTFd4ZWFnT0RuSDBWWXk0NEJRN2JBUzFfLUVoWWNMbmpKc2RmbzBieVpTVnQ2Z3hUZm5uWDVDS2tqRTdISkVHRzRPUFNTajJjUUw1bm5zMGx5NnZjUjhWNmJuUlk0VFpycldDaTJsM3ZrLWx1Rk9IbGdj?oc=5",
@@ -244,7 +286,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1070,48 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3Y3ZGxPZGwtUzJDSVJ4WTllNnN4Rjd1V08wTjVVZ09wZ1BhWEIxeS0taFYycFVIODVtbGhWNDg3ODZSS1FuS2FaQXNLNkxpaTNXQkg1UFVaSFE2ZWVVNzhhSWRKMDF2ZHBLcmFPdW9TenN1N0FZcHV0eTYwNG9lRGFVOV9QX3QwcGx4bmhsa23SAZYBQVVfeXFMUGZUaFBHM0RYOVlHUXNVQ2p5N3BoMXBhZTNhbE1DY1UzblJkR0l4dVluNkpZQWNVdDJrSnEwU19wMnVOZHAwQU5PcEtPRlVXWC1POUJ4TkFTN1JGS3lad1VwZWtLWUwwR3ZsTDVXNDRhZjVjMkdvRk01VDU4Q3FIUHVHNDRyVHNzNkZtaC1Ga2JSYUZsNVRn?oc=5",
    "source": "Demócrata",
    "ts": 1795088927,
-   "theme": "fisc"
-  },
-  {
-   "title": "Miss France 2027 : étudiantes, cheffes d'entreprise, kinésithérapeutes... qui sont les 31 candidates au concours",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDhDWjVjZE1XUVg4YVF4M1FzVUpIZ0FqNFhpZGRLVzRQVkh3VjlBV0xoU2tLY1lOVjRzRDZJbVJNWWZnZzB3WTZ5ZEd6SUU0ekJHZFBxU1pNdXF0WDBncHB3RFFEMm5RaVdIRGhhdHVsRTlKTEIyNDlvcHl2dEdNMFJR?oc=5",
-   "source": "Yahoo Actualités",
-   "ts": 1795088363,
-   "theme": "alt"
-  },
-  {
-   "title": "Facture électronique : cabinets et clients, que faire du temps gagné sur l'administratif ?",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBweDVZd1AyVEVCcWlsUkhSd3dodS1JSEhkeUpMdmR6dGRpN1F1Zlk3R3U2M0pla2RMMG9xZjZDelJCYVdWX0ZWbWhNSUdPbkhVM3hIN2N4cHJnNTBvb0JnRTlPdC1rVmxa?oc=5",
-   "source": "Compta Online",
-   "ts": 1795083305,
-   "theme": "fact"
-  },
-  {
-   "title": "Facture électronique : que faire du temps gagné en cabinet ?",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBweDVZd1AyVEVCcWlsUkhSd3dodS1JSEhkeUpMdmR6dGRpN1F1Zlk3R3U2M0pla2RMMG9xZjZDelJCYVdWX0ZWbWhNSUdPbkhVM3hIN2N4cHJnNTBvb0JnRTlPdC1rVmxa?oc=5",
-   "source": "Compta Online",
-   "ts": 1795083305,
-   "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : ne détricotons pas une réforme qui fonctionne",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemp0dmlVd3NSVE1rajZfWTNDNVVNSFMwWmhXZ1lfUGNsSUVXckszMkJnbXRZS1VmaEtrenNncFEtSlRfb2N6TDZzR1FFTXpESFh3YVBUdHJtNFg0LVRfX1ZNREJsM3ZMWDQzblJOclVPbE80Wk9SdjdxcWd3VWZfTzdFUXR6TE02WGxaYWV3a1hrUVdVOUVncnBTUGxiYnkwVUY4SWRLV1ZvSUFkTEYtSHFxZF8zR2dHU1RKQ2pnMlRYWE1IX2Q4?oc=5",
-   "source": "Cadre & Dirigeant",
-   "ts": 1795080159,
-   "theme": "fact"
-  },
-  {
-   "title": "La facturation électronique sera appliquée aux entreprises à domicile à compter du 1er juillet 2026, en définissant clairement les cas obligatoires et les cas exemptés.",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUhkZGlaZ01iek1UWXhyaUJBVWYzSmh4Mko2dTNscVpjTUROQU12UzFNazJWN3haWl82bjFUWkxCOWlDU1Z0R2JmZUVOczdVVGtsZGZtdlFWenh3d056bFVRd2ItcWkxazZYZW9UWlhUOGkzaWFoOHZaekZkRmxhVHAwUVBjTnFfZEcxTDEyTFBacjc5RlQ4SFEwZzZiVWlxdWwyVXN5SzZVMzZlVVlRQXFIWkREby00bzFucnhNN0sxYnVoUEJjeA?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795079212,
-   "theme": "fact"
-  },
-  {
-   "title": "Établissement stable et TVA : l'autoliquidation par les clients ne libère pas le prestataire étranger",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3NNMnBMRkYtSEdVdlVkcW8yNDNBTUdJUWlJM0wteVUyMFJVR3RwekJzTFlQUXZxY0JCdThVbnA3WEpiRDdLUV9ka0dVN3hlb2FubTVLdHlqUFRBblh5bHVwVVVMMWVsMXpmMW80d3pZS1puTi0xVXp3N2Zmb08zMEVtdWVKX0FmWUJvd3M0YU5BalE4QlRlWW0wYlpoZHRQcERVUnJMTm1wcUcyZ3RSdnhOSWJibnNXNjJsRHFWTFFkU0lSelRzZG9FM2xJV205QUlHYnlzRTFIamM3Y3c?oc=5",
-   "source": "Lefebvre Dalloz Compétences",
-   "ts": 1795077304,
    "theme": "fisc"
   }
  ]
