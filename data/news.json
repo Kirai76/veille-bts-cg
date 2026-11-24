@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T19:12:14+00:00",
- "last_success": "2026-11-24T19:12:14+00:00",
+ "updated": "2026-11-24T20:12:42+00:00",
+ "last_success": "2026-11-24T20:12:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -45,30 +45,51 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 27
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 44
+   "count": 46
   }
  ],
  "items": [
+  {
+   "title": "Budget 2027 : sans compromis en vue, Sébastien Lecornu va recevoir les présidents de groupe parlementaire",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1ZLTXdyb0hLX2NVSkV1UkNQZUc1a1o1TmloRHNLcllaaXFZaTM1RTZqbXpxb2NoMXBMUDhzSlVfZXdqa0gyc29kdUJwdjQzV1lOcV9FU0NYLTR4MDVGY2VlUzdFR0h0ekt4b0pUSFd0SVBTaDFONExaaENaNnZoVk9RYUVLSndvZUp5eENyMEkxamxoZmlhUTVGcFpGQ3l0SG9yV2FqN09QN0lsenJxelFpdjZoZEpyeGpmTVJLTUl3akNNY0FkZ2V4djJDa0QzWFpyNW9n?oc=5",
+   "source": "Le Dauphiné Libéré",
+   "ts": 1795548269,
+   "theme": "fisc"
+  },
+  {
+   "title": "Présidentielle 2027 : « Baisser la TVA à 5,5 % sur l’énergie, c’est la première des urgences » selon Marine Le Pen",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDluNEtlTXlGeEtkMFg0UHZ3VkFMOFB0ekFHYjBhQnF5ZHVOYlN4bXc4OTM5NXhmYXNLU1ItS2oxMl90eG9tbkVrS0hrcGtERVNvcGhzT3JKWW9EOHNicUc4VlQ1aE4yejhtT3RqVGNZTEVzLVJSekdmWF9jaGZiOXA5dlhZcDBFN1lYaldWWW1HRktqcFl4dGUzZ3BlTF9qYjRqT1h0aV9DTnRpVElaZjFoWnU0dlQ4VFotTU5NSC04UXRBajhFVXRn?oc=5",
+   "source": "L'Union",
+   "ts": 1795547732,
+   "theme": "fisc"
+  },
   {
    "title": "Budget 2027: Sébastien Lecornu va recevoir les présidents des groupes parlementaires \"la semaine prochaine\"",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcmNRMUszbldlMDZKSDFmV2Rrb1VQZHNSQ0xrT2tKNjA0MHJ3QUJpX25KbnQydkRITmNEaGF5NHpIUk9NWktmdldTQ1RCYVE1V21TUkttbk1lQUFkc1FBWElYWG1JWThYYkhGODNPT3M1UzhUY1dCY0lkVnAtV25pMEttZlVzTnBYWFdJNWxiZ2NKd3FxaHVJWlhQZGNuY0p4MFBkek5yaVBHbGYtVXFrSGt1N1pVeGZPYm1yQmFhMGxIY0xxb0lfNHVfaWgtbHNlUGl0Q29qeHBXb0VZMkJ0U09MWXQ5aXFOaUx2aElyWVZiMmtTMFp0MktaLUlOUQ?oc=5",
    "source": "BFM",
    "ts": 1795546945,
+   "theme": "fisc"
+  },
+  {
+   "title": "Portugal: le budget 2027 pourrait faire basculer le pays dans le déficit public après quatre années consécutives d'excédents",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSmNuNmpDSXkwUXhTenU5VlBod3E4LVFoVVBCTFJWMFVGaFA4Z191VE9oVXFLWWFMSjBmVmxWZXpBdmxIcjZhU0ZNWmJFNWZlTWdNeU5GWTUyNlhHa0c2RHhldFI4WVlFdGtOS01FdkktcjRjUUJ1djNxb0dBM0tOZFA1MmlSSHRKclBndy01bFNka3I3UDVZeTR2NmRHUmlCV1pzeTJqazdrdWJUeWNlZWgwUVJxbmtNSUFEN1dXSDk3RlZlNkZ2RHdfbHJTWjltTmIyeHZjTXZJMkR6UkZjc1pVaGd1Z0dKRGdXQ2NPX0w2MmZOaWd3azNnc3cyOFcxNlhSdml0bW5TeUF3cFNqaTB3LWNweGJn?oc=5",
+   "source": "BFM",
+   "ts": 1795546907,
    "theme": "fisc"
   },
   {
@@ -391,7 +412,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -541,18 +562,18 @@
    "theme": "alt"
   },
   {
+   "title": "Ambérieu-en-Bugey. Diplômées du lycée Bérard, elles préparent leur BTS en alternance",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1FPV2h5dFVtbXotNi1nWm1yRjVYYkpLb0g4Umt1elJRMVpjemw1SnpscWUxdVN3cFEyRkh4YnBJckl6RXdTUmMxNkVMX2E5cUgtZjZnOWdMR1BOclJVb3NsWjE2ZUhNNlRoLWYxSVNwZ3hxb2U0U29iXzlrM0ROZHlrUHVfM29UeGlIcXJmWlRpTHlvNU9BM3FDTUw2VWlYbW9jSTlpcTZjQmhKYzM0?oc=5",
+   "source": "Le Progrès",
+   "ts": 1795373220,
+   "theme": "alt"
+  },
+  {
    "title": "Crédit d’impôt formation dirigeant 2026 : que change le décret du 19 novembre pour vos anciennes formations",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXlJSGVFS3dRYllxSWVPZTlHNEh0Tkp4M3hDbVNmcXducGN0OG0zbHEwamhTamNqNmNKZVNMVzRNM1l6LTM1bHVXX1BSbzQ3ZUVndGdpTHZMX05rcDFobzdlWEc3NDhnUU1lLTV5YUp3MF92UG1JOFdydDlqZHQ1cDM3V2x6OUpIaVdKcA?oc=5",
    "source": "Hassan KOHEN",
    "ts": 1795372380,
    "theme": "fisc"
-  },
-  {
-   "title": "Ambérieu-en-Bugey. Diplômées du lycée Bérard, elles préparent leur BTS en alternance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1FPV2h5dFVtbXotNi1nWm1yRjVYYkpLb0g4Umt1elJRMVpjemw1SnpscWUxdVN3cFEyRkh4YnBJckl6RXdTUmMxNkVMX2E5cUgtZjZnOWdMR1BOclJVb3NsWjE2ZUhNNlRoLWYxSVNwZ3hxb2U0U29iXzlrM0ROZHlrUHVfM29UeGlIcXJmWlRpTHlvNU9BM3FDTUw2VWlYbW9jSTlpcTZjQmhKYzM0?oc=5",
-   "source": "Le Progrès",
-   "ts": 1795368976,
-   "theme": "alt"
   },
   {
    "title": "Loi de finances 2027 : L'UTICA propose des mesures pour soutenir l'investissement, la production et l'export",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV0xLMkxNVHBUcmVjcnFOd3FQVUZMUExMMm9fMVhPVWZGRVhDVEhFck1jX3ROcEN6UHp6TU9PQ0FKR0lLbXpISkJOcm1DNnptLXVmNFMxdHBVTlJaMXlkR05MZ2dwcFNlREJ5Wm5KMVJqM0pfZHNOTE9QV2lBRmFQRjg3ZmV5TmNhQWhjeW1hblhiRjhaME9hRUtJRFlYVkd0VmFrWXMxNG1TX19uMEttRXJMU21TQjVQOHpxbzRYNXZEX25jVEhjSTdsOFUwcHliZFZJWmZ3c2t6Y2ZhSFpORU9lQk0?oc=5",
    "source": "AEF info",
    "ts": 1795112300,
-   "theme": "alt"
-  },
-  {
-   "title": "Ce que le projet de réforme du FSE+ devrait changer pour les financements européens",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2xELXVkWEFrM0VIeTdDcTF4QmNTb1RWOGQ1ZnJfN3RhV3hUejgzQU9kRVR6cTNtYW1tUXhLZU9DaHVOcXE2RmlENWlESWFnenZRUHVuaTR0dE5ic1FlczBGcndhVk9KaVc1MU92SHJHZ2EzRVloMUxUZjVHTUdOcG5jTDF1MnBUSlRnWlBoWDhJZkJPcUFtTG1HdU5WOWV5ZkdWdGhvb1dJbjdjS251eHJLVlY0LWRIblRXaA?oc=5",
-   "source": "AEF info",
-   "ts": 1795108380,
-   "theme": "alt"
-  },
-  {
-   "title": "TVA véhicule de fonction : ce que change le PLF 2027",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00bzVlMGRtRlhYQm94Ml94UXFWd0otcFgtaWhkUDhxaElhZkJ2VFZIZVF1R2VCQnZ0WDZVSmw0b2VLcFFhb21FNWlSMjNDTENNam5GUWlMazhNNU5YQ3FSUm5Tb2ZPczNVVjBFV1VIRVZmYUZWZDJUckRxSQ?oc=5",
-   "source": "Leyton",
-   "ts": 1795107737,
-   "theme": "fisc"
-  },
-  {
-   "title": "Alternance : Dyna a osé partir deux mois au Danemark, elle raconte son expérience",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXZTNDNOUmYydVI5MHRycWZQV0JJU05oVGstWlBpZnlPUXZXYkdyZnpjZTFWd1owS2pQS016TnhlLTh2WFViV055RjVnSkdpYTJGX1AtMHFpd3h6R3JfMjB1RzRVMEp1Zm5xT1hMMGgtbVVIcEk0LWtSdG9rOHJ4alZJZ29wYWZHbVN5VWVSZTB2YlNuWkMtYkNnQ0xXXzdpQ1dqdXVWMWEtQTNvTU1ueEpQN3NfdTM5ME96bnpMMm9iWVp3UW96dkgySk1fbzg?oc=5",
-   "source": "L'Etudiant",
-   "ts": 1795104000,
    "theme": "alt"
   }
  ]
