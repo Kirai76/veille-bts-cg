@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T04:12:18+00:00",
- "last_success": "2026-11-24T04:12:18+00:00",
+ "updated": "2026-11-24T05:19:43+00:00",
+ "last_success": "2026-11-24T05:19:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 84
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 33
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 30
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 45
+   "count": 44
   }
  ],
  "items": [
+  {
+   "title": "Éclaircissement fiscal sur les zones franches aux Émirats : règles applicables à l'impôt sur les sociétés, à la TVA et aux droits d'accise - Actualités et statistiques",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPblR5LXdpX2Z2UEZKRDliTlJjWHJOR1o1QXVDNlJ2akdvZDJQTk0yMFp0b1VjX3kzRnJDc0dqMFpmMnFvMjlvRGFKWVlrNU1JQ0VZWnp6cXFiM2pTdl9mWXRyZ0FTaXVCaFlCYnNDa3Z5SEwxZm1uSFp0MGRFdWxwWTV2cGRaSHV0Rk5SY242TDNYRE1xbWFia2RmczNGNng0UFFrZHJIYy1uMzdvT251d21IUm82V3RCaGxESzVZVS12Mkd0QVA3ajZCNEFDWV9yX0RIYkd3?oc=5",
+   "source": "IndexBox",
+   "ts": 1795494021,
+   "theme": "fisc"
+  },
   {
    "title": "Nantes : Julien, 26 ans, cherche un employeur en restauration avant le 3 décembre",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGxvTHdlSWVLOXpLZ1BfeE9qZ2RrU05fNk9ha1BjaTRtaU1UVV90T0dPYWFraFd1V3hSUVZGZ3pETEJDaXMxUFB0aVpLckJUckF1dWI3aUlVYVNleFgzVHd0djBBMGpwQkpOZXBIV0hleXBTaWpBZFhkMkdQUWFoQWc0Q3p0V0RhbGFtZXhmNkk4Q0tIYmlVZnRuSklOLVE?oc=5",
@@ -280,6 +287,13 @@
    "source": "business-times.fr",
    "ts": 1795416480,
    "theme": "fact"
+  },
+  {
+   "title": "Sociétés communautaires : Évaluation de l'expérience dès 2027",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU1rN243MWgzZFl5RElSbTJrbFJocXUxR3BuT0E3NThKWGlJWkFHakFiQ0h4Y3E2OGFzTXRHWExLeG1uR09FWmxlVWJzNWZPeWFWOGlILXpSMjFtbU9HcDNzZlU4QklUSURibHdfanY4ZEl2d1ROeGx3ekdSQnZIS1gtSE5LbmVlcG40aTZpRlRRT1pabXQ0MU05SU1JVTZ5WDk1T1hQNC1ra3JFU2VuQ0VJT2I?oc=5",
+   "source": "Mosaique FM",
+   "ts": 1795416480,
+   "theme": "fisc"
   },
   {
    "title": "TVA à 5,5% sur votre plein, même en SUV, Marine Le Pen ne veut pas de «déclaration d'impôt à la pompe à essence",
@@ -1099,20 +1113,6 @@
    "source": "Hassan KOHEN",
    "ts": 1795076940,
    "theme": "soc"
-  },
-  {
-   "title": "Sujets corrigés BTS CEJM 2025 (Culture économique juridique et managériale)",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUy1sekU1MmdxOFB2ZC1rRTJVcXE0VkswYU5mdkJCdTBCaEtWMVNkWlV6T2Q3bW1ab3FyRkVRVnBFclNuTlpmMGRnUC1XYW5UNzhyNXJzT2pKaUdvVkFXeE55R01PNmoxcTBNTE9kV1Y4cGt6WmVscTBYYXBYWmw0aE1MbnVmeUdwczJWSjFOSkoyNGtCX0hkVlk1dlMxRkg2Yk5mZnNfaWt3OHVGMC04MDFwZFk2QlNH?oc=5",
-   "source": "L'Etudiant",
-   "ts": 1795075200,
-   "theme": "alt"
-  },
-  {
-   "title": "Le cabinet de conseil et d’expertise-comptable Fidsud élargit son offre",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0ZVNExZTkJLNzdybkdzX2NiOVc4eXVDMXZmbURFZThvRC1YZWg0c2lrRURpT0Vxd2M3YzRMeVI0UU1nZ2hvNTBGUV9BMk9sRksxbXRQV2t0QXgtYkNlVzlMN2M4X0dhYkVOWDBneUNBaXh6dnk3VHg4ZTVSU2xrYThMYW5jQnR2QjIxMlc3V0dOMTl0Zk5mVVhIZ1BLdkh3dVlBZHFCWHNqbVIwdUdDSC1qQQ?oc=5",
-   "source": "La Vie Economique",
-   "ts": 1795074120,
-   "theme": "compta"
   }
  ]
 }
