@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-24T09:20:34+00:00",
- "last_success": "2026-11-24T09:20:34+00:00",
+ "updated": "2026-11-24T11:03:44+00:00",
+ "last_success": "2026-11-24T11:03:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 32
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 44
   }
  ],
  "items": [
+  {
+   "title": "Lisnard mise sur la Suède, baisser les impôts plutôt que subventionner les entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1FSS2xZU3FFWnRyTEpBUlJya3FqYkJkY0dnczJSRXNid21NUkJINWJqQWRqODVrNFRRdUFHVG1SZ2ZReHQyLUhfejVUSDg1ZDh5OXFaOE9zcnRJMkxUNk9uMkZtQVRhdFpMQ3otZHJTVW85b2poQ3lYMk5SMmtSUTBnbHRZek1OZ0phWklCRnB1QUNIVEdUcHhrVV9fa3p5QndvN2pSdmhxenNQTnZjM05Ha2pOMVBnSTAtRVFxbk54WWRWTGZuLVB0VQ?oc=5",
+   "source": "Atlantico",
+   "ts": 1795517396,
+   "theme": "fisc"
+  },
   {
    "title": "La facture électronique prend très progressivement racine",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlQtVXZ2VUZBU2hWOUxhMWpKVDJKcjBveFFEVFM2WVpBalV6WVVhWVFObUdrOU9iSEhWUmF2bk9HY29iT1g5enI2VWVUbTlnZ3R3SVdFd3hlRzdES2lHTW1KN1ZWT2xzUUF6ZHU3OVhIbGhrNzEzWUN3VnlfaDBmUFNmTk5Bbk5ia1hzSUgyRVdtU2xkeEdzOFVkcTZhRkJs?oc=5",
@@ -1106,13 +1113,6 @@
    "source": "Ministère du Travail et des Solidarités",
    "ts": 1795089600,
    "theme": "alt"
-  },
-  {
-   "title": "Calendrier fiscal de décembre 2026 : quels impôts arrivent à échéance avant la fin de l’année",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3Y3ZGxPZGwtUzJDSVJ4WTllNnN4Rjd1V08wTjVVZ09wZ1BhWEIxeS0taFYycFVIODVtbGhWNDg3ODZSS1FuS2FaQXNLNkxpaTNXQkg1UFVaSFE2ZWVVNzhhSWRKMDF2ZHBLcmFPdW9TenN1N0FZcHV0eTYwNG9lRGFVOV9QX3QwcGx4bmhsa23SAZYBQVVfeXFMUGZUaFBHM0RYOVlHUXNVQ2p5N3BoMXBhZTNhbE1DY1UzblJkR0l4dVluNkpZQWNVdDJrSnEwU19wMnVOZHAwQU5PcEtPRlVXWC1POUJ4TkFTN1JGS3lad1VwZWtLWUwwR3ZsTDVXNDRhZjVjMkdvRk01VDU4Q3FIUHVHNDRyVHNzNkZtaC1Ga2JSYUZsNVRn?oc=5",
-   "source": "Demócrata",
-   "ts": 1795088927,
-   "theme": "fisc"
   }
  ]
 }
