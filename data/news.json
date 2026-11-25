@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T23:57:29+00:00",
- "last_success": "2026-11-24T23:57:29+00:00",
+ "updated": "2026-11-25T01:29:37+00:00",
+ "last_success": "2026-11-25T01:29:37+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,17 +25,17 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 87
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -50,17 +50,17 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 27
+   "count": 11
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 43
+   "count": 33
   }
  ],
  "items": [
@@ -126,6 +126,13 @@
    "source": "BFM",
    "ts": 1795546907,
    "theme": "fisc"
+  },
+  {
+   "title": "Édouard Philippe et la formation pro : l’interview de Franck Morel",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1FWVjQyMXhMVjNYSHBNN1djYlhlS3hJc2tGVC1QV1BrSHJHQzdLTDY3MEl5MlpXTVpJQ1FqWi1aYzVHWGx1aEtFcnZOY3B5bktaZHFfZWdENGR0N051NlByN0NFSF9LN0JNZEJZcXFpeDlrdEt5b1VKQ2l2ZmZudVhfR2pJWUFBVHlHOUFwNzNKQQ?oc=5",
+   "source": "CPFORMATION",
+   "ts": 1795543993,
+   "theme": "alt"
   },
   {
    "title": "Prime Macron : une exonération de CSG-CRDS en 2027 pour les salariés des entreprises de 50 salariés et plus ?",
@@ -1106,13 +1113,6 @@
    "source": "Stratégies",
    "ts": 1795129199,
    "theme": "fact"
-  },
-  {
-   "title": "Bonus et primes exceptionnelles face au contrôle URSSAF : assujettissement, redressement et comment contester",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSG55VklHYi1QbmtPc1JueVgwRXhETlBfYjhaQ0J3cllHUGU1dzlaV0hsZFpQaTJTenBnejRkeGs2dzlLazBROFR4YTNNbzhhTFhKWUl1a1lxR29xdkYyV29JeFJ6UFMzUEkxbmxFOWVEa0pyTk45cjdkeW9BcXBOX1p0Y0RWTm1hckU2cEg5SXMtTUMzZ295QkRYd1hHWkVJZTc5NnBtX0JfT1JHSEM0?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1795127040,
-   "theme": "soc"
   }
  ]
 }
