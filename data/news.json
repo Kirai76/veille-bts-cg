@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-25T12:15:09+00:00",
- "last_success": "2026-11-25T12:15:09+00:00",
+ "updated": "2026-11-25T13:40:49+00:00",
+ "last_success": "2026-11-25T13:40:49+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 57
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,22 +20,22 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 64
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 85
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 32
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 30
+   "count": 14
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,13 +60,27 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 46
   }
  ],
  "items": [
   {
+   "title": "Justice fiscale au Maroc : l’exécutif sur le grill",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0VRZlRFYmI3bzJrSEVHRmMtaGZFN3ktVHhnaklQenNiNVRjWlZMYVZmOExsMjhzVGRGcHpUYmkwYmRnd1VqVG96dFNpN19BNnZibHZwX3RvVElsRHNhWXFjLVBaZVo4MVBmYTQxa19KdmpETWtEbUM0TDNPQnRjWTNHVmhtRXdQRlQ4?oc=5",
+   "source": "Le Courrier de l'Atlas",
+   "ts": 1795612183,
+   "theme": "fisc"
+  },
+  {
+   "title": "Contrats fictifs, formations bidon… Comment les aides à l'apprentissage, payées par nos impôts, peuvent être détournées",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNejZvMEV5VEVIRm1lZTZOdGhxb3A1eWtuV3M2OWlKRHBBZDNYVC1iWGw1YjN5dXZpeFNITlQ0VURBa05nMVpwbV9BSk1YWXV1Y0wta1N5UUJfVHdXa0NBQ2U4emJKS0NFTUYzVEtPazJSR1B2UnJHekU2SWJWYnVMSTBGTUNLcmVQVEVTR3FXM0x0VVdjQ2NWWl9DXzAza1FFTmNhUV8tcklxNy1zRFU4endRbzZpcFp1ZWluUno3ZExLZnpIcHpjdTd3d1hiUHRrWGdpUzlxMUFqSWtGU2w3Y0JrQWQyZGZD?oc=5",
+   "source": "Actu.fr",
+   "ts": 1795608481,
+   "theme": "alt"
+  },
+  {
    "title": "Le projet de loi de finances 2027 adopté en Commission",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEFOeWxkLTRFeloxa0sxTG9Wb3U2bDlCWDFUMVJ6YnFEaHhDMGQ4RXNtMGNWM3pGZlRVMnFtQTRaWlRwMURoX3dYMUhuQXFOdUZXVFVvd0JleTVnTEMyLXpubHF3X0lSclZuR1BIOUE0ZTdnWmFVU1h2RWR5QktkNDluTVZBLVFXS3NtYU1tWFdTZXpJN1Vr?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uSUNjclZ6ZlpqQXNGOWwtSXFDdmhGaVM5MTlSYndDUDBfcE9iSF9LTHBwTU14SjRrYzhYSFctYkZUc2ZRRVo1VkJR?oc=5",
    "source": "La Presse de Tunisie",
    "ts": 1795603320,
    "theme": "fisc"
@@ -244,6 +258,13 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXBNLTFVSjhRQnJfT3Vob0lOQmZ6N09sMkdIa0tOTWlTbjJfVHBfR2U4ZXV2Y1lmVEFLSVlKWEpOMWtwNUFZeF95ODRXRUtVVUtkVVhqalhvaG8zTEM2LVAtakdJM0RXczR4Q1ZqMHhuTnRMaTU4T254Z1VzeDM3WDFVMHJhWWJKZkxrai1oOTJqZERuaFhtNm9vdS1wVF9aTzVlUDF6VQ?oc=5",
    "source": "ACP | Agence Congolaise de Presse",
    "ts": 1795553212,
+   "theme": "fisc"
+  },
+  {
+   "title": "Examen du budget 2027 du ministère de l’Emploi : Les sociétés communautaires au cœur du débat",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDNYZm1qR2NyLVZtR3h1b2t3OWw0Rk1NSS0yUjk5aDdlZngtWElOZEdTUUpYQm9YWnhRMkd0MnFpVnBTeGhCb3dDVmE4WmFqNjVUQzBDOHVkMWU5aFc2SXpCUzlXdWxrQkRVNDFyaUZIa3BvWTdXd3JOam5DakFWS2JlejlMa2lkRmJrSm9nemJabXRZekNQSDZ5Ukw2ZFh0WFpBQm1aMXVRODhiS0FVUmFiM0dxUXpIVmtqZlRqNHNSUlJhNlE?oc=5",
+   "source": "La Presse de Tunisie",
+   "ts": 1795550650,
    "theme": "fisc"
   },
   {
@@ -650,7 +671,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -685,7 +706,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
    "source": "Compta Online",
    "ts": 1795422133,
-   "theme": "fisc"
+   "theme": "compta"
   },
   {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
@@ -1091,27 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGtpajVJeG5UUmxfVURnSHZ0LVEwZ0dtSFlvMGlIQlJlSGp5cHpDU3p2S3QzMU9nLXZhX0V6dGFibXBsSjFiN0ZXdjFkVExZRWRtWG14NjVSM3VPNE9JcDBmSlBNdDdrdUR0eHJmQXpjLUl0Y3c1SVNDcXBvblVvMDkzbDZkMGVrRmFOeUx1VE9aQi01ZTdGU01wVHl4TjRGSjUwejI4bmdiVWgtdmVIakFFaWEwUzFESmhBNFFpS21LNFlpNkdONUZKTF9hcHZxT1MtZG44dVNFOWZ2N09WTVY0c1hGbDNsZGl3alNVQQ?oc=5",
    "source": "Webmanagercenter",
    "ts": 1795182764,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les sénateurs devront s’exprimer sur la suspension de la facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMlYyYTFWRklQT1BlM1BFb1BrZTdEMnJHRUhiRVNDS0RNSGdxZTl2QklJMFJCdzhSVk9QUUQya2NrX3J0bmIxRXdOMHgtUDNKV2xuNDFEYVpDaEdfTUZ0d1Q2cFZqUzd3bmZYTm00UFpUYS10eTZVY1VGS2d0b0NVMkU5OHpmRzFfaDFYNzcxeGoteTJTT1hla1pwM0FXT0w2VW84Ym16Njh1ODdRb21od1VkenZtNzM2N2NHekt5Y2s4RDhDa2VqZzdEMGxpTk9kdVJweTdjdUQxaWPSAeABQVVfeXFMTm1ZbW1Wa0hTdHA4WTV2U0xmQWJsRF9pMG96VHlTMmVES3BGblNtRng1dWJGSnBPZE85RV82QjdYeXM1ZlhTSVpjMXFkR0gxcG9OeTVLdEVjYy1FMGVNeW56TW8wVHh3WEJNWG9aWlRsN2VsLUw2UllZU3lHNzFnZE9DbmFMSzhDdXRqdzVjUjNKRkp2ZkFkb1c5bTJCSkgwT18xTUhLSEpFSFExX184NDF2YVlSVGY1Y282Njc4YzJCZ3A5MmJ5OWJSeGxXemdKdVhjYlRoajk1QVo4VnZmNkI?oc=5",
-   "source": "La France Agricole",
-   "ts": 1795180680,
-   "theme": "fact"
-  },
-  {
-   "title": "Modifications et ajouts à certains articles des lois relatives à l'impôt sur les sociétés, à la taxe sur l'utilisation des terres non agricoles et à l'impôt sur le revenu des personnes physiques.",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVW53UmlpMHQxYmlKd1hyVFlPeW9RQklsbXBYamlyVDZELTlfQXVTdUJQSjVKeWJhTWpmdjZqVF9LUUpkNWMyY0h1SV9iSTVfSy1TbzhtS0FVcEF2UjFCbkFsNTFXUkFHMmJiMFlCM1lEbFBoTHUycklsUHJjNmhUQVREczFsSHZiTjJTRkVjNVplMHd2bEtnRE5DS1U5Z3p1bmRtaVZLblltRnNmdVlKNlI2bVZpTml4R2RheklaeFMzVmgySW5OeUJ4Rm9TU21kVy12S0YtVXExTGVWUVdMVmlGMk8tZw?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795179873,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les petites et moyennes entreprises sont exonérées d'impôt sur les sociétés pendant 3 ans.",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjRMallHb0U3dUxrLVZkcy1nUC1aUWJxSFBPamM0Tlk4aUFYSEhsWXNhODBDeVNnNzhQN1NYUWY1eUtMc1U0MDZzd2RsWHJJc1FUZ3k4X3NxSlZBZ0ZrU1BGY3VXMGpUWGpPVXplYk1haGNmQXhwQlZfSU5Dem5TdFpqd0N2Q2g1NkFFTWFQdGUyMXpvRFhN?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795178407,
    "theme": "fisc"
   }
  ]
