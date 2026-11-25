@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-25T11:09:04+00:00",
- "last_success": "2026-11-25T11:09:04+00:00",
+ "updated": "2026-11-25T12:15:09+00:00",
+ "last_success": "2026-11-25T12:15:09+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 60
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 62
+   "count": 64
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 85
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 65
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 15
+   "count": 30
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 27
+   "count": 11
   },
   {
    "query": "apprentissage alternance réforme",
@@ -90,6 +90,13 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MUVpRcV9uTnhWdzhhMlhGSkNhblNkalkzNWFVQTk4QVNlN1pFZTdWdGpyVDZHQXlzbGpfUVRzRXc5OW1DZDJUQXpRbS1RYzJreGIzaGRidTlaa2doYWFjU1VGdjRMNldxeGZ3bXM5LThJTFFBd2dVLWpQVlJlQQ?oc=5",
    "source": "MCE TV",
    "ts": 1795600962,
+   "theme": "alt"
+  },
+  {
+   "title": "Apprentissage : pourquoi l’État n’a pas vu venir les fraudes massives",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTdnOFluRVhiVHhlaDI1QzF3SkpIaHNjZ1M3UzJJLV9vaWJWem5FZ3FzZnpsRklMOGxiT0JNOXEzY0x1VDhoQ1ZCVXI2SXQta1o0RnZCVGs4LXRCX1dtOVVOQVdWblRsSGFGLXNNbHRQNXFONTEwajd5X0ZaeTJTZmZfLUdyNDh4NEE?oc=5",
+   "source": "Politique Matin",
+   "ts": 1795599075,
    "theme": "alt"
   },
   {
@@ -170,6 +177,13 @@
    "theme": "alt"
   },
   {
+   "title": "1,5 milliard d’euros : le montant exorbitant de la fraude aux aides à l’apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlhhc3h2VTFjSnhGVjBJMmVCNEhXSjJQUHAwNjFoemJ0NkNtVHhkci05LW1nb1BDM1RibGVWQkowTUdDRWd5aFJPRVFXUTk0YlZzVkdCbG9zOXIyc2tfaXEzMmVUckhQYWFXZmFheXNTQnNOaEFQbEhnU1FnNDd3c0RJY0FfTWxPUWxtU3NhRWppbGE3SC1wdXdobkoxSEtBMElIeTVZSWNzaUNZcTdvQVhVMTB5ZURlYW1Vd2lHOEYtOG5vTTVTd1JQR1lDdDA1QlZRc2hoUW4ybU44MXhWZkw3dw?oc=5",
+   "source": "Le Figaro",
+   "ts": 1795589496,
+   "theme": "alt"
+  },
+  {
    "title": "Jusqu’à 3 milliards par an : l'essor de l'apprentissage aurait généré fraudes et abus, selon la Cour des comptes",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlhhc3h2VTFjSnhGVjBJMmVCNEhXSjJQUHAwNjFoemJ0NkNtVHhkci05LW1nb1BDM1RibGVWQkowTUdDRWd5aFJPRVFXUTk0YlZzVkdCbG9zOXIyc2tfaXEzMmVUckhQYWFXZmFheXNTQnNOaEFQbEhnU1FnNDd3c0RJY0FfTWxPUWxtU3NhRWppbGE3SC1wdXdobkoxSEtBMElIeTVZSWNzaUNZcTdvQVhVMTB5ZURlYW1Vd2lHOEYtOG5vTTVTd1JQR1lDdDA1QlZRc2hoUW4ybU44MXhWZkw3dw?oc=5",
    "source": "Le Figaro",
@@ -188,6 +202,13 @@
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSXJPcmVCcU9iZ3NxNkJ0eDhFc1p3SXRuUnRjZ01RcFZpVHhjLW8xZEZUMEtIQzY1MmU2VmlhQjEwWGJ1cmFELXFyOEZkNDZSN09WclBNbkJBSkJ5SnF2NWVOVlBXVlBYS3BKWEhkNTlNS2dPQXJpUkhWbDc3eEdhRmdKa01zOGZmWHhyNVVQbHo5VklkN2xDMEg4SnJQNWJXRXhVMEpNbDNfbVd1dDl5MncydkhOQ0JDQVFKczI0V1puOFNnS2tnUkdGYXBVNGMwUkxUN1hNdHFmTnB3Vm1WZ3pvbkFZdUV4Yjk5VHhSdWh1OHJjNHVwUVdR?oc=5",
    "source": "Le Journal du Centre",
    "ts": 1795583160,
+   "theme": "alt"
+  },
+  {
+   "title": "Jusqu’à 3 milliards d’euros détournés : comment des escrocs profitent des failles colossales des aides à l’apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONlJEU2M3eWFrWjU0dm9rX3NWekNIVzZUOGprdUNKQmc2Rk9DaGstRHZ4RDhCWDNKM2NZelFkd0xrY1FPcnZYaEhjbG8yLVVFNk1ydVluRUNmRlJTOFphVUpWLTBHSmVwMU5fV2VkMnZBcDZhWFJsSGIxU1FtQmJMN2JETmZUa3lCNlR4ajBOUEtES0VVNHhDU2d6Yks1dFFBdXVfMmJmbjM0WFlIdW82WHRwODVMWmdGSlVwQTBoblFjcl9jZGZYMlpSX19CZUZHLXBQOWdMUkI0RUhZWkJLU29JbnJzVl9mM3N3dTk2V05rOXJJVjUteXR5Y2tzZkx5X0dSOHZzeGM?oc=5",
+   "source": "Le Parisien",
+   "ts": 1795582800,
    "theme": "alt"
   },
   {
@@ -356,6 +377,13 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUY2RldIN2lMZWVPZ29hQVZnMFZ5cVBCNmhKNEh5d2F2MEI1bHJHd3YtT09lS19RREYwMHFnbnBEcVhlVDhpSTVVc0daRzY1bmZ5bERKTktINWxQdmMycHBTTlp6czYtVWQxX003SjI0WWNweGZoX0hmckFkMWRNNnVIZEpSc0QwN1JtNjRjSkZsTnEyQXJ2TVpSVV9LbkNKc0E?oc=5",
    "source": "Africtelegraph",
    "ts": 1795518865,
+   "theme": "fisc"
+  },
+  {
+   "title": "Électricité : la TVA passe à 20%, sans hausse annoncée des factures",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGM3NTZMNWQtby1rcVQ0UzFTdVV5bFVtaDVHX3VLallPSXlyZlNMMjIyMzFOQmFsVUFLUWRMODliSm1vaGpuZnNXU3BIN0hGSUhNZnl2Y0lGOGF5NWpBX0pNVjUzTENBdVlhdjY0ZDdseFY5NGdfOG5USDAyX0R1NUdpSUcxVkR6T1R3a0NudE1VTmgtV1NZaWhENzJwZXo4YzlIdUV2VjBqOUp0UGfSAa4BQVVfeXFMTmRjNzU2TDVkLW8ta3FUNFMxU3VVeWxVbWg1R191S2pZT0l5cmZTTDIyMjMxTkJhbFVBS1FkTDg5Ykptb2hqbmZzV1NwSDdIRklITWZ5dmNJRjhheTVqQV9KTVY1M0xDQXVZYXY2NGQ3bHhWOTRnXzhuVEgwMl9EdTVHaUlHMVZEek9Ud2tDbnRNVU5oLVdTWWloRDcycGV6OGM5SHVFdlYwajlKdFBn?oc=5",
+   "source": "Consonews",
+   "ts": 1795518122,
    "theme": "fisc"
   },
   {
@@ -622,7 +650,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -657,7 +685,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
    "source": "Compta Online",
    "ts": 1795422133,
-   "theme": "compta"
+   "theme": "fisc"
   },
   {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
@@ -1085,34 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1795178407,
    "theme": "fisc"
-  },
-  {
-   "title": "La CGEM défend devant le ministre Mehdi Bensaïd l’alternance et un code du travail rénové",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTC1CeTl3Z2FEMWFlelU1SW1rVXBvNzh6bEs0c3ZURTE3Tk91TDY2a0Vmc3A3M3d3RzAzQndVMmw0LXY3M0JfS2lRWUJBYkd6dGRoNkx2dzdPMS04cFJRZUFtY0VxaFEtSmpYXzdDWU5kYV9qZnlVVDlYUmJ3OEExUjctZXZYb096QlpWbnJIc2NkUV91NWNNc1Q2MnFyZ1RZQzFCYzQ2bzdKR1ZvUEtkanM3T1c?oc=5",
-   "source": "برلمان.كوم",
-   "ts": 1795177920,
-   "theme": "alt"
-  },
-  {
-   "title": "Emploi des jeunes : la CGEM pousse ses réformes auprès de Bensaïd",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGJYUDk0UzN2RnJ5Z1JHU2s0TWNDUllfNEpVX09sS0tqZUVwNExWdGJOcTNHU29qQVJpMVh6MjcyRkJHT3NWaG1wX3pyajZXRjN2ejFia1lucHhzOTEtTEVNYXJfWUlPLWNOYzhDQ0ZjS2t3aFV5cTZlZTQtR0VzUXE4SldMeVRQYTQta0JoTkctQk82dm9Z?oc=5",
-   "source": "Le Desk",
-   "ts": 1795177440,
-   "theme": "alt"
-  },
-  {
-   "title": "Emploi des jeunes : la CGEM appelle à moderniser le Code du travail et la formation",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamhXRkpLMzBoa2Z4V0w3VmhDZEIzeDM2d18tQVh4VlFoTzRfWWVhOUE4eTduTE0yYmNwQ3R3ZE5zallzNmFuWWozeXo4SG8xTVcxQi1vR0I0TG93aGFHLV9KMldxSGN5a04walVHMG1yOGdrMlhtaHFPUU1SUF9OenQ0ZHlIZWh5N3NSallLOExTcDF6aXhDM1Jzd05DSW9FMEcwM3FfSlFDeHNwNHZzQUluWWVPdw?oc=5",
-   "source": "Lebrief",
-   "ts": 1795177080,
-   "theme": "alt"
-  },
-  {
-   "title": "Emploi des jeunes : la CGEM pousse ses réformes auprès de Bensaid",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0tpQ0dpZjBJLXRtbktwUVpYWm8wZkpfZW90OHRVeksxUkpTeThIN3hLVGFXRXpucWFtRTRpRlRuUHpGNE9RcTl3UGFEQnlxbVdQVFpMSkg0MTVBVWt5OTJOclUtYlNHV2p2OGM1RlAyb3ozdGJfRzc5bS1SLXprV1RWNE1HZnN3ZVNoVUZNR2N0Q1JuYXc?oc=5",
-   "source": "Le Desk",
-   "ts": 1795175520,
-   "theme": "alt"
   }
  ]
 }
