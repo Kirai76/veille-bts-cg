@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-25T07:37:13+00:00",
- "last_success": "2026-11-25T07:37:13+00:00",
+ "updated": "2026-11-25T09:24:51+00:00",
+ "last_success": "2026-11-25T09:24:51+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 63
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 65
+   "count": 32
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 87
+   "count": 86
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 63
+   "count": 39
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 22
+   "count": 29
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,52 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 45
   }
  ],
  "items": [
+  {
+   "title": "Fraude à l’apprentissage : 20% des aides publiques détournées",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFRHbGxaY0pEcHl3bzJwYXpscklPN250b0xPWkRaN1huMUVmQXlUdDhRNndfb0xfb0psR01NN1dmekhpYkg2bkludGhBd2tKQlpSZ0Vncl9KejJLWWRvRXhsWC1ZVjhNSHYyenllanVPQnpZekg1NzFjNzUzRUlIWmRjeDJNMGxs?oc=5",
+   "source": "Economie Matin",
+   "ts": 1795595968,
+   "theme": "alt"
+  },
+  {
+   "title": "Les boulangers paient pour les start-up",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SWklKUlc5UEh0eGJ0QXE2TUpKd2J1ZENpbzR6TW5CbDZMdE9zbnNPVnVPNElDcGpQdm9NdEw3M1FnLTU1Q3FFa0ZlYTBKUjVqcXozdkhkWmJCaS1nOEpob1M3MFZtVjdUdG81Vk5rZlVQSm14Tzlz?oc=5",
+   "source": "Economie Matin",
+   "ts": 1795595700,
+   "theme": "fisc"
+  },
+  {
+   "title": "Faux apprentis, employeurs douteux, organismes de formation fantômes… le bilan cinglant de la Cour des comptes sur l'apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQd04yNDJjUkhLdVZUYUdQV3V6bmhlUHpGTmo3dHM5MDJBWHNKZEF0MWRiVlROMUJCV2FjMm12dllMSWlBVGhoSmJLYzdUZ1E3eUxhdGx5NW0yT1U0QW94Tjh3UlJla2FYTEltMFVuTnRuQ2lZcG0yODdpRGJIWmFhUnQzT3UwdFhkb2Fqc2xlelczNXg4TV84eGk3cEVBbGlmZmtPY3F4cDBqNDJpdTlRTjJudTVoSjhlY1Y0b0JqNU5QZXFtY3JzbG5oam1VWjdmOXE5aWIxbTNSY0E0ZFhJSEdUMGJWQUpEMXZkQjNtZFp4R1l2VlZfOTY4bXdjYThnOWctNXd1NERYU2xVR0E?oc=5",
+   "source": "Les Echos",
+   "ts": 1795593904,
+   "theme": "alt"
+  },
+  {
+   "title": "Expert-comptable : 96% des dirigeants satisfaits, l'IA les divise",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmFGSUxvb0thdkFPTklZQl8xZEpTOVhyZkVWTVpOamJmVjNDeEJGZG5RaHpVQWF1V3VUSC1mSjl1Rk1RbnZpMm5zVmkzZDVrbDRVRUhOb2JkbEFFd2NxTjNHYUFHcXFmWU9oXzZJeFlWY20ySGk5LWo0WGJIeEdrZmNxVk5kMFNmRTlB?oc=5",
+   "source": "Compta Online",
+   "ts": 1795593142,
+   "theme": "compta"
+  },
+  {
+   "title": "Contrats fictifs, surfacturation… : jusqu’à 3 milliards d’euros d’abus et de fraudes dans l’apprentissage épinglés par la Cour des comptes",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0wzSkgwRDE3V2dRQmVmYW9IM2U4ZXRxNXRwWnZDdGk4UXl0NjJIV3QzcTFEQ2w5T0ZzLUJWSlhEYmM2Vzk0QW1BYTNwakh6RWlZZTlsa05CUjlJLVNKWVl0OVZnWFkzRGVCSTI5dUJIcXIyU0djWEpfcklmTHNhT19uRWsyQ21zZ0tpLWNKMU1MUFZOblZ4UnB0NzM1d2hwVlRHS3hsLUlCYWU3YWNrdE1ySHEtX28wUXpLVzlLSmZHMDdVN3lndnJHdENuTEpQeC1KT3pGWFc0emJfUEh0UVFlSC1Wa09IRDBtR2NkNXVKRHlRdVd6ZU5KanBCc013VV9kQ1dZTFA?oc=5",
+   "source": "Nice-Matin",
+   "ts": 1795592828,
+   "theme": "alt"
+  },
+  {
+   "title": "PLF 2027 : vers l'abandon des pénalités de retard au RNE pour faciliter la régularisation des entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWhaU2N3ajhBZUhWLWZyWUhGR3ZKWVR6SmZ4SVhpOTFWVzhBdHNwUnJEVTFWWlVFRlRrVWZMR2kyMGZSNkdaMG9fZ1R4NWs5RDVvRGJKeWI3VFdfc1lDU25rSHlTSk9fSFVKRklVb2dZb2ZLelNFM2pSbUVtOHdnM3dZcEQ2dE9aV0Fid3FxNDJvVzNNZkpwY1FIN0kxblQzM2Q4dXFoS0ZuSEtuS19NSzFCYmhJU1ExRGJMdEJET3EtMGhPbWlIUDZWWlJWMFhDaWF1N2RQOWtSMnZqelNTeVlGM2VmUQ?oc=5",
+   "source": "Leconomiste Maghrebin",
+   "ts": 1795592769,
+   "theme": "fisc"
+  },
   {
    "title": "Faux apprentis, entreprises fictives, aides versées après la rupture du contrat... Les gabegies à 3 milliards d'euros des aides à l'apprentissage (sur 16 milliards dépensés)",
    "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPSkJOMTRLWi1yNktPUEhvb2NXeWcyTzJKRUx6Vkt4cHAzeEIzMDdreF9jZkJqUGgxVmtabWZYNDhzVldqa29TQlM5bk83RzFmVXIxb0NxR3pEQXZzTkk0ekpzOFJhc0h5WTVsaWF1bm96Y3VEaUIwc0ZUNEItSHdpVjNPN0x6d3RZUFROZlUyMXotUXhUcUxUU1VTSFJFb0lpQ2ZUQlhCR0ZlbGZ2Nm1LUnNLcHpRcjJETW1oQUZJWWYyQk8zTGo1RjBmWDNMOGlRSVBPMEJRVlFENXQ1eHcwd2NmMVVIbGRwNXlMQ3VaT0hJYVFodDZuTXFWNXkzZVhvWDREcmZrX1ZFWTdvcjVBbUFBODVmOU05aDNTU1ZtM0tpekc1M3FMeUtTNXJ3M0xNdDJGWWFKWmw0TDEwUk1SaEFZUVdzQ0laUXdEYTdYcjhXc0ZiX1dBei1FUHRfSWNCM0pRMVFwWm05cDBXYmc?oc=5",
@@ -83,6 +125,13 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlhhc3h2VTFjSnhGVjBJMmVCNEhXSjJQUHAwNjFoemJ0NkNtVHhkci05LW1nb1BDM1RibGVWQkowTUdDRWd5aFJPRVFXUTk0YlZzVkdCbG9zOXIyc2tfaXEzMmVUckhQYWFXZmFheXNTQnNOaEFQbEhnU1FnNDd3c0RJY0FfTWxPUWxtU3NhRWppbGE3SC1wdXdobkoxSEtBMElIeTVZSWNzaUNZcTdvQVhVMTB5ZURlYW1Vd2lHOEYtOG5vTTVTd1JQR1lDdDA1QlZRc2hoUW4ybU44MXhWZkw3dw?oc=5",
    "source": "Le Figaro",
    "ts": 1795589496,
+   "theme": "alt"
+  },
+  {
+   "title": "5 femmes de l’industrie nivernaise racontent leur quotidien : “des métiers diversifiés, des opportunités et une fierté”",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSXJPcmVCcU9iZ3NxNkJ0eDhFc1p3SXRuUnRjZ01RcFZpVHhjLW8xZEZUMEtIQzY1MmU2VmlhQjEwWGJ1cmFELXFyOEZkNDZSN09WclBNbkJBSkJ5SnF2NWVOVlBXVlBYS3BKWEhkNTlNS2dPQXJpUkhWbDc3eEdhRmdKa01zOGZmWHhyNVVQbHo5VklkN2xDMEg4SnJQNWJXRXhVMEpNbDNfbVd1dDl5MncydkhOQ0JDQVFKczI0V1puOFNnS2tnUkdGYXBVNGMwUkxUN1hNdHFmTnB3Vm1WZ3pvbkFZdUV4Yjk5VHhSdWh1OHJjNHVwUVdR?oc=5",
+   "source": "Le Journal du Centre",
+   "ts": 1795583160,
    "theme": "alt"
   },
   {
@@ -517,7 +566,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1064,55 +1113,6 @@
    "source": "Mes Allocs",
    "ts": 1795161600,
    "theme": "alt"
-  },
-  {
-   "title": "Prime d’activité étudiant boursier 2026 : conditions, montant, démarches",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2ZSbm9RU0tqeVU2RDlHT0FfLTZFUUFHOFVZNjBBTFVGRFBVWUFZaW16a0F0NDBTZGVvNXgzYWo4YnVOR05ndW9XSTFHd2g0M0N6QzRwSzVMUXZuOUdjNGFUMHlSMy1sOFlFRmxaNHFWRnhoZXZMR2xHdV9heG15NVVkSVVFZDBCZk00X0FKa05GR2hONWdzZ2JTSlJqSENxcjkxbzgtcmFmeVlST0HSAa4BQVVfeXFMTUdmUm5vUVNLanlVNkQ5R09BXy02RVFBRzhVWTYwQUxVRkRQVVlBWWltemtBdDQwU2RlbzV4M2FqOGJ1TkdOZ3VvV0kxR3doNDNDekM0cEs1TFF2bjlHYzRhVDB5UjMtbDhZRUZsWjRxVkZ4aGV2TEdsR3VfYXhteTVVZElVRWQwQmZNNF9BSmtORkdoTjVnc2diU0pSakhDcXI5MW84LXJhZnlZUk9B?oc=5",
-   "source": "Mes Allocs",
-   "ts": 1795161600,
-   "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique 2026-2027 : guide pour les TPE",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEk1NjFyRW9Sc0lEc2Rnd0N5c3c4M3JmVXpiLWpFV2xPV3ZwcU5lOC1HTFNiZGViOVZvRTZWakZlQ1huZS1OQ251S1NxdEh5eXBpR2hpM3N6QnNDSWZQXzFrTGhFaUNJZ3l2Y294T0dvOEs2clpHVkxac0ZOZ2FVQngxMm5FT0w0ekhyQkttNDk3VnpLcy1pYQ?oc=5",
-   "source": "Business-Cool",
-   "ts": 1795161436,
-   "theme": "fact"
-  },
-  {
-   "title": "La facturation électronique renforce le rôle de l’affacturage dans le pilotage de la trésorerie",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzFwNkwwMFBPYy1RMlpfbmRvLUVBdVZtQXRkSjlENXNoUE5aZEhOMkc4RHFJODEyZnl4V0lUVW02ektiR0RuSG9JQVNJVGl4bzl0Ty1VUTQ1RWN2X0ZEOGpMUDF1cUd1NGRRcC12QjQ4aXZlWjlZbFpzb3BTWUhFcFdzV2RRS3Nsemc2TGVlTXFaY2RzVG1UbGxvd21HOUdTbzZndm0wWW1IdkNlMVRWMldIakdDQ2YxV2ZPV2RGQ1AzNFRMQkItUVVPNlk1bl9aY3F4cURiZm1PNGtDVE1PZw?oc=5",
-   "source": "Option Finance",
-   "ts": 1795159800,
-   "theme": "fact"
-  },
-  {
-   "title": "Les incitations fiscales – une source de « capital d’amorçage » pour la Fintech et l’innovation.",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzdKVE5RVmRBeWFHX2pVVVU5RF9KY3ZmX0ExdXVtUW5UcjJJR0xzeF9JUTlNSEgzZEpNRjNhcEd6T2FtMGRmTTF3cWpxQUpjNVhrOG9tOF85RC1hMWp2Y1dXTFZzLUdKeERrTE56M2haN0FhOW1CZUhvTE4xeFZGVWkyUkFHMjJ1Wk9j?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795158580,
-   "theme": "fisc"
-  },
-  {
-   "title": "Prime d’activité 2027, ce que le budget pourrait changer vraiment",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOU04aHhZWEhGNWtYWTltdDRyUUdXaEVaREN0NFloeHh5TTQzbjFGbGhEczF4NGYzWEN6TlEwZ3FRYlRFa1FvVUZYc2pRLTB3b0tPcS0tYlV2N0sxV3J5azhZUzN6VDl6M2JmLXB1Q09iOXlWUllXYmtjc2FjYVJWMFd1MVZPNmVyQTh0NVk4Yi1IbEVmMmdLWFpPMA?oc=5",
-   "source": "24matins",
-   "ts": 1795158013,
-   "theme": "fisc"
-  },
-  {
-   "title": "« Sans la production, il n’y a pas de tournage ! » : entretien avec Anaïs, étudiante en BTS gestion de production à l’EMC",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1Z6bmV6RngwZmhfX0JJNlZNVzNaN1VLRkk4eEs0YXV2RmhXRHU4MFdVR1RHRzlqYVpNdDRHWVpYNVJweXotV2xqQ1UyVlEyWVg4bU02d3dwUkh2OXJFUmxtTHM1TGtvd0lFVDdWLTBkb3UzbHFKa2dVOERiTFFMVTc4Q2tZM0FNZ2piTlVTdnpiRnFaMWJvM0IyVXhKVTl1YUxiZ2pNTENPNHdHQmdSTDNnekE2VDJlemlTQXZMUmVOelhVMWZGSk5n?oc=5",
-   "source": "Studyrama.com",
-   "ts": 1795158001,
-   "theme": "alt"
-  },
-  {
-   "title": "Crowe Altexia accélère sa croissance en Paca avec un fonds d’investissement",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGFuRk9OYlZRUHV5QnBNbzdOR0VHalpfYnJ1eE0tUjlwS193ZWlMS1JPNnpMVTJoWEpGX0R6bno3Y25jYkN4TFBFaDdWS3JfWjMxbDdyTUJyOGE1aHlyT24wT3FjZDBoQkFBa1ZFd2lua1VhclY0MEJmOHdVVmlLakM0b0NHS0Y1Y2FtVE5vTk9wSENYMm5yM2I1d0EzNFhydGc0S3NRYTRNR0VmM3Vja2dfWFhJb2I5dzE3NHNYdGc?oc=5",
-   "source": "mesinfos",
-   "ts": 1795156200,
-   "theme": "compta"
   }
  ]
 }
