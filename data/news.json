@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T04:20:42+00:00",
- "last_success": "2026-11-25T04:20:42+00:00",
+ "updated": "2026-11-25T06:09:05+00:00",
+ "last_success": "2026-11-25T06:09:05+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 64
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 88
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "query": "plan comptable général ANC",
@@ -45,25 +45,32 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 44
+   "count": 45
   }
  ],
  "items": [
+  {
+   "title": "Fraude à l’apprentissage : la Cour des comptes dénonce une « faille systémique dans le contrôle des aides",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONlJEU2M3eWFrWjU0dm9rX3NWekNIVzZUOGprdUNKQmc2Rk9DaGstRHZ4RDhCWDNKM2NZelFkd0xrY1FPcnZYaEhjbG8yLVVFNk1ydVluRUNmRlJTOFphVUpWLTBHSmVwMU5fV2VkMnZBcDZhWFJsSGIxU1FtQmJMN2JETmZUa3lCNlR4ajBOUEtES0VVNHhDU2d6Yks1dFFBdXVfMmJmbjM0WFlIdW82WHRwODVMWmdGSlVwQTBoblFjcl9jZGZYMlpSX19CZUZHLXBQOWdMUkI0RUhZWkJLU29JbnJzVl9mM3N3dTk2V05rOXJJVjUteXR5Y2tzZkx5X0dSOHZzeGM?oc=5",
+   "source": "Le Parisien",
+   "ts": 1795582800,
+   "theme": "alt"
+  },
   {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
@@ -804,7 +811,7 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRTlfendYY3Nwd0otYmM0WUF4WlpjRHB6R1hpOXFoXzRELVViY2ZxRW1NNDREZ0hOTk43MkFhNjZuRXRnQmpPVzNTWVBwcXprRmlzQ0ZpdHhEV0Q0clVVYkxTUy12b2ZnX1ZmOURyV3JoRXlB?oc=5",
    "source": "Compta Online",
    "ts": 1795248000,
-   "theme": "compta"
+   "theme": "fisc"
   },
   {
    "title": "Des incitations accrues et des procédures fiscales simplifiées faciliteront la transformation des entreprises familiales en entreprises.",
@@ -1106,13 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1795144893,
    "theme": "fisc"
-  },
-  {
-   "title": "Rescrit social URSSAF : comment une filiale peut-elle opposer la réponse obtenue par son groupe",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQc1hjYXIzUFNHVWNFOXMwTlBlbGRmcDlZV3FzVU9PSTVhYnhSZjNVTTd2d0RtOFJ3UFlHU1R3SlJUcVFibU1Takx4MEFRUFRQNFl2RDFTLUYwbjhkNUFJa1F4TWh5RGJwMEJnN3J2VldnVWR0eDNiSHlB?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1795133880,
-   "theme": "soc"
   }
  ]
 }
