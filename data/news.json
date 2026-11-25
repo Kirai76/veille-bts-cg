@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-25T01:29:37+00:00",
- "last_success": "2026-11-25T01:29:37+00:00",
+ "updated": "2026-11-25T03:09:12+00:00",
+ "last_success": "2026-11-25T03:09:12+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,42 +15,42 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 65
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 89
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 33
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 62
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 26
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 43
   }
  ],
  "items": [
@@ -468,7 +468,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -800,6 +800,13 @@
    "theme": "soc"
   },
   {
+   "title": "Comptabilité des fonds de dotation : obligations et fiscalité",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRTlfendYY3Nwd0otYmM0WUF4WlpjRHB6R1hpOXFoXzRELVViY2ZxRW1NNDREZ0hOTk43MkFhNjZuRXRnQmpPVzNTWVBwcXprRmlzQ0ZpdHhEV0Q0clVVYkxTUy12b2ZnX1ZmOURyV3JoRXlB?oc=5",
+   "source": "Compta Online",
+   "ts": 1795248000,
+   "theme": "fisc"
+  },
+  {
    "title": "Des incitations accrues et des procédures fiscales simplifiées faciliteront la transformation des entreprises familiales en entreprises.",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMURxTmR0QzJxLTFGcTdGRmt0QjJrLUZFYUNZNGJQTF9CeU5RRjVhYmt0YmZNZG9TczNPdmJ4d1ZWNmpuRE9yN3QtYXUxOEFVUHROLXJFTDIwdXFBUlFqQlJTWEdwYzNSWUNkaVQ0Ukd2czFOM25kZWdHeXRYOU40eUl4alJfUXVJQmFveDUxRnpmRVJSNE5VTWJNUHlHbXExWDlNX1ByVFhRU0tiUlR1RG5JbnVpbzBoVHRaRnVEZFZGcGpi?oc=5",
    "source": "Vietnam.vn",
@@ -1106,13 +1113,6 @@
    "source": "Hassan KOHEN",
    "ts": 1795133880,
    "theme": "soc"
-  },
-  {
-   "title": "Facturation électronique 2027 : comment Tiime simplifie la transition des TPE",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERud1BtWVB3dTBZWDdIeW5tdTZ6enI0Y3FYV2M1YXNvcGIxeFc5V2dwbjJyZTJtSTNuNzhBUmpjNF91WXBXMDBRdUZCVlFSRFRvWEpSbFM4V3dOWDBEdG1ONXdLenhUZ0tCeFlhVE5MRHpsdG42NkZ2V3ZzTmlYdVBhNGtKbGprQ3EwaWdialRrVHRiV3ByX1dUd0pOWHlMS3M3WHN5ZHBZWVVCYVFENTln?oc=5",
-   "source": "Stratégies",
-   "ts": 1795129199,
-   "theme": "fact"
   }
  ]
 }
