@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-25T03:09:12+00:00",
- "last_success": "2026-11-25T03:09:12+00:00",
+ "updated": "2026-11-25T04:20:42+00:00",
+ "last_success": "2026-11-25T04:20:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 64
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 65
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 89
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -50,20 +50,27 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 11
+   "count": 27
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 43
+   "count": 44
   }
  ],
  "items": [
+  {
+   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
+   "source": "https://horticulture-abadie-pyrenees.com/",
+   "ts": 1795572377,
+   "theme": "alt"
+  },
   {
    "title": "Acompte d'IS du 15 décembre 2026",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3dVeEs3WU9JcV9BajFnc1BVSjRYZDJ5dlMyUlc1alZPTkg4ZnlrZzdkWHpvRlpkUVYzeThIWW1ZbzNKakJOTE9UZlR3aHY4SmxEQlBMbWFGUTZTRU9HYjVpYkJqeWJyZGxpRm9vQmd4THZZak9tRVZFNjA4ZWNHaThRenZWSjBUb2sw?oc=5",
@@ -468,7 +475,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -744,13 +751,6 @@
    "theme": "fisc"
   },
   {
-   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
-   "source": "https://horticulture-abadie-pyrenees.com/",
-   "ts": 1795329383,
-   "theme": "alt"
-  },
-  {
    "title": "Loi Malraux : conditions, calcul de la réduction d'impôt et recours si l'avantage fiscal est perdu",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHV0NS14a256SFF2MjYwMWhzLVE0T21xdUlvQ0hoX095QnVESC1JNk9OQWlDSWJGUEg2RFp6U1haeEdoeDFjM05HWG44YWxhcUxyUURCaTJoUG8xSFBIMWpoVXVDcXFvZ2Z3NVRkYXZkdjRITE9VYTFlc0xVWXU2T19LaTdwcGYwM2pyZmw0UjRpaDdMREhLdXBfRVFxUlNoUkFoSGVWT1FWS3BFSmpUbw?oc=5",
    "source": "Reda KOHEN",
@@ -804,7 +804,7 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRTlfendYY3Nwd0otYmM0WUF4WlpjRHB6R1hpOXFoXzRELVViY2ZxRW1NNDREZ0hOTk43MkFhNjZuRXRnQmpPVzNTWVBwcXprRmlzQ0ZpdHhEV0Q0clVVYkxTUy12b2ZnX1ZmOURyV3JoRXlB?oc=5",
    "source": "Compta Online",
    "ts": 1795248000,
-   "theme": "fisc"
+   "theme": "compta"
   },
   {
    "title": "Des incitations accrues et des procédures fiscales simplifiées faciliteront la transformation des entreprises familiales en entreprises.",
