@@ -1,69 +1,97 @@
 {
- "updated": "2026-11-25T15:20:01+00:00",
- "last_success": "2026-11-25T13:40:49+00:00",
+ "updated": "2026-11-25T17:14:18+00:00",
+ "last_success": "2026-11-25T17:14:18+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
-   "ok": false,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 64
   },
   {
    "query": "impôt sur les sociétés",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 87
   },
   {
    "query": "paie cotisations sociales Urssaf",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 32
   },
   {
    "query": "DSN employeurs paie",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 0
   },
   {
    "query": "expert-comptable profession comptable",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 64
   },
   {
    "query": "aide embauche apprenti",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 30
   },
   {
    "query": "BTS comptabilité gestion",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 28
   },
   {
    "query": "apprentissage alternance réforme",
-   "ok": false,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 45
   }
  ],
  "items": [
+  {
+   "title": "Contrats fictifs, aides versées deux fois, entreprises qui n'emploient que des apprentis… La Cour des comptes alerte sur les dérives de l'apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQdGpmQzlWcnhfelVFcjhxckpMSnFsT1lHcDc3a1poSDRqRG5xVnBrWUpUTExmVkxaUEs4UkVzdlYyZzY0Z0NnMUdFdkhITktfMmoyU3ktVERNSUVVYVJyZFY0NW54RHFBQW92eHBZSG11SFJHZ2lwVmhORXRZeXFhNUlRMkNPOWU5Z1kwaG1aRjgxRmJwVGxMa0NadE9Hc0tJSHJZM0cyMEZPanAtWnZZOWVkeV9NQ25CM1JCd2RxeURVWG8zMHlFdWFDMzB4dFlOYXlSVUQ4Sng1eWhZZ09CVVdMZUJXd20welNXbVRseWlTUGJZVXVwc0tJZ05aQjN1QTh5VnBielhCa1ZvckxienQtVWtRZERrdVhpb01JOWoxN3dGcEo4QWlxS2pIQQ?oc=5",
+   "source": "RTL",
+   "ts": 1795626232,
+   "theme": "alt"
+  },
+  {
+   "title": "Aides à l’apprentissage : la Cour des comptes pointe des fraudes et abus importants",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZy16a19NZkkweE5sS1pQdFRJbnNfcTNoWk5XQ1Z0X3hIVHNNdExscDlzUVRKQlBtOG5OaU1WcG5NaU5GTVBsX29KRnFRLU0ycnYwX01rOHFwbm1NYURjZnZJZndFVjFMQmZDMjVNMXlfWGkteHhtaDFVSVRUbjRBU296dE1mSjRDSm9fNUwxYXo0eGtTd01UcmU1aVJfeXhCYS1fTVM4N01WM255cWRFZzAzOF9XcVlLLWZSX3RXeTBLbThXVDNsMjV3?oc=5",
+   "source": "L'Etudiant",
+   "ts": 1795626000,
+   "theme": "alt"
+  },
+  {
+   "title": "Gersycoop et deux cabinets d’expertise comptable proposent aux agriculteurs d’apprendre à maîtriser leurs coûts de revient et leurs marges",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNWdrWTVJN1JBYjRWWjZYejQtR0VuWUhxVklPeVFDQVQ2ZHdHVXdZSWcxeVNHV2lBMHd0SklNMHNlV0RDVWlObjVyNjJvVGtPM09fc29neTJ1eW8wRkl5dkdrOVlINlhZN0QzMkcwb1hhbDFTenMwc3A3U2ZIdzJyTC1sdHc3WVc3OXdQalBaR1ExNWtFTWZGWkh2S2h4ZVVWb3VkOWNtMnphRzAxVVByNjFTT01rajhBa1FkbWtBbEZnSnF2OFlaRmU0d0V3VU5OMWRZQzRMM0NsLXQwTUhLXy1CNzdrbV9lRkh5WmpiOHBna2tyUk1ycUdrQlhZV2NUWTJpTlNBdVQzRHRrVTNGRk5TQQ?oc=5",
+   "source": "ladepeche.fr",
+   "ts": 1795621740,
+   "theme": "compta"
+  },
+  {
+   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
+   "source": "https://horticulture-abadie-pyrenees.com/",
+   "ts": 1795613256,
+   "theme": "alt"
+  },
   {
    "title": "Justice fiscale au Maroc : l’exécutif sur le grill",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0VRZlRFYmI3bzJrSEVHRmMtaGZFN3ktVHhnaklQenNiNVRjWlZMYVZmOExsMjhzVGRGcHpUYmkwYmRnd1VqVG96dFNpN19BNnZibHZwX3RvVElsRHNhWXFjLVBaZVo4MVBmYTQxa19KdmpETWtEbUM0TDNPQnRjWTNHVmhtRXdQRlQ4?oc=5",
@@ -72,10 +100,24 @@
    "theme": "fisc"
   },
   {
+   "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1RLeFgtZTUzTDgzdWRfcVRmUmZsSThORi04WHRncWFrUGFJZzY0dUNxUHUtelp3bDZRU3lYbGdEWGozY2JleFV5c0hWaHFNUWxUYXdyY1JzTEhfc2RyNFIzc3k2TU9vSDJ0UW10YzQwMER3ZTRlamhVdnRnMmJSSlZKQUMzR19qTWtMbHdtZVAyYWxEa0U3NXFHcG5YX0JOTGFheEZvdzF3MG5qQWdHZkVKTHh4WmtBcWVuWW5hbDMzWE96YWVrLXFMdnFLZXlXbkhGMV9hYW5XN2s?oc=5",
+   "source": "franceinfo",
+   "ts": 1795609253,
+   "theme": "alt"
+  },
+  {
    "title": "Contrats fictifs, formations bidon… Comment les aides à l'apprentissage, payées par nos impôts, peuvent être détournées",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNejZvMEV5VEVIRm1lZTZOdGhxb3A1eWtuV3M2OWlKRHBBZDNYVC1iWGw1YjN5dXZpeFNITlQ0VURBa05nMVpwbV9BSk1YWXV1Y0wta1N5UUJfVHdXa0NBQ2U4emJKS0NFTUYzVEtPazJSR1B2UnJHekU2SWJWYnVMSTBGTUNLcmVQVEVTR3FXM0x0VVdjQ2NWWl9DXzAza1FFTmNhUV8tcklxNy1zRFU4endRbzZpcFp1ZWluUno3ZExLZnpIcHpjdTd3d1hiUHRrWGdpUzlxMUFqSWtGU2w3Y0JrQWQyZGZD?oc=5",
    "source": "Actu.fr",
    "ts": 1795608481,
+   "theme": "alt"
+  },
+  {
+   "title": "3 milliards d’euros détournés : la Cour des comptes épingle le manque de contrôle des fraudes liées aux contrats d’apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSjl2d1dmMU01elAxeHFtbGdyMWoxYVZpSk1pSGVpLU1wRDRwUnAyWVZLRWtFSWIyR21GaThRTUIxQzdHQ3FXaDRqNW9SbGlhUTZJV3V0bUpCdUlGYmNYQjUwbWVPemFmaXY1QUw4dkJqUzltcEtneTJZdHZOSktjWW9jN1h2Sll0ZUJiTkNfUmM3dTZJT1VXdlJ4UWV1aThmellZTk1MU3lCdk5tQW4zcG9tNGtSTG1CeXpsYkZzc1JfazEwUGlWQkt3S3RLSTFhYU1FNlNrbjVZMnBHRjB3dEhZMXlWRDJrMFdMVWE5cGNyMWlOYzVDMnRNVXI0VWtlUVZ3UFVWYjMzQnlzVXZ1bw?oc=5",
+   "source": "L'Humanité",
+   "ts": 1795608000,
    "theme": "alt"
   },
   {
@@ -128,6 +170,13 @@
    "theme": "fisc"
   },
   {
+   "title": "PLF 2027 : vers l’abandon des pénalités de retard au RNE pour faciliter la régularisation des entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWhaU2N3ajhBZUhWLWZyWUhGR3ZKWVR6SmZ4SVhpOTFWVzhBdHNwUnJEVTFWWlVFRlRrVWZMR2kyMGZSNkdaMG9fZ1R4NWs5RDVvRGJKeWI3VFdfc1lDU25rSHlTSk9fSFVKRklVb2dZb2ZLelNFM2pSbUVtOHdnM3dZcEQ2dE9aV0Fid3FxNDJvVzNNZkpwY1FIN0kxblQzM2Q4dXFoS0ZuSEtuS19NSzFCYmhJU1ExRGJMdEJET3EtMGhPbWlIUDZWWlJWMFhDaWF1N2RQOWtSMnZqelNTeVlGM2VmUQ?oc=5",
+   "source": "Leconomiste Maghrebin",
+   "ts": 1795596326,
+   "theme": "fisc"
+  },
+  {
    "title": "Fraude à l’apprentissage : 20% des aides publiques détournées",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFRHbGxaY0pEcHl3bzJwYXpscklPN250b0xPWkRaN1huMUVmQXlUdDhRNndfb0xfb0psR01NN1dmekhpYkg2bkludGhBd2tKQlpSZ0Vncl9KejJLWWRvRXhsWC1ZVjhNSHYyenllanVPQnpZekg1NzFjNzUzRUlIWmRjeDJNMGxs?oc=5",
    "source": "Economie Matin",
@@ -156,6 +205,13 @@
    "theme": "alt"
   },
   {
+   "title": "Étude Cegid, Silae et Shine : les dirigeants saluent leur expert-comptable mais sont divisés sur l'IA",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmFGSUxvb0thdkFPTklZQl8xZEpTOVhyZkVWTVpOamJmVjNDeEJGZG5RaHpVQWF1V3VUSC1mSjl1Rk1RbnZpMm5zVmkzZDVrbDRVRUhOb2JkbEFFd2NxTjNHYUFHcXFmWU9oXzZJeFlWY20ySGk5LWo0WGJIeEdrZmNxVk5kMFNmRTlB?oc=5",
+   "source": "Compta Online",
+   "ts": 1795593142,
+   "theme": "compta"
+  },
+  {
    "title": "Expert-comptable : 96% des dirigeants satisfaits, l'IA les divise",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmFGSUxvb0thdkFPTklZQl8xZEpTOVhyZkVWTVpOamJmVjNDeEJGZG5RaHpVQWF1V3VUSC1mSjl1Rk1RbnZpMm5zVmkzZDVrbDRVRUhOb2JkbEFFd2NxTjNHYUFHcXFmWU9oXzZJeFlWY20ySGk5LWo0WGJIeEdrZmNxVk5kMFNmRTlB?oc=5",
    "source": "Compta Online",
@@ -168,13 +224,6 @@
    "source": "Nice-Matin",
    "ts": 1795592828,
    "theme": "alt"
-  },
-  {
-   "title": "PLF 2027 : vers l'abandon des pénalités de retard au RNE pour faciliter la régularisation des entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTWhaU2N3ajhBZUhWLWZyWUhGR3ZKWVR6SmZ4SVhpOTFWVzhBdHNwUnJEVTFWWlVFRlRrVWZMR2kyMGZSNkdaMG9fZ1R4NWs5RDVvRGJKeWI3VFdfc1lDU25rSHlTSk9fSFVKRklVb2dZb2ZLelNFM2pSbUVtOHdnM3dZcEQ2dE9aV0Fid3FxNDJvVzNNZkpwY1FIN0kxblQzM2Q4dXFoS0ZuSEtuS19NSzFCYmhJU1ExRGJMdEJET3EtMGhPbWlIUDZWWlJWMFhDaWF1N2RQOWtSMnZqelNTeVlGM2VmUQ?oc=5",
-   "source": "Leconomiste Maghrebin",
-   "ts": 1795592769,
-   "theme": "fisc"
   },
   {
    "title": "Faux apprentis, entreprises fictives, aides versées après la rupture du contrat... Les gabegies à 3 milliards d'euros des aides à l'apprentissage (sur 16 milliards dépensés)",
@@ -230,13 +279,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONlJEU2M3eWFrWjU0dm9rX3NWekNIVzZUOGprdUNKQmc2Rk9DaGstRHZ4RDhCWDNKM2NZelFkd0xrY1FPcnZYaEhjbG8yLVVFNk1ydVluRUNmRlJTOFphVUpWLTBHSmVwMU5fV2VkMnZBcDZhWFJsSGIxU1FtQmJMN2JETmZUa3lCNlR4ajBOUEtES0VVNHhDU2d6Yks1dFFBdXVfMmJmbjM0WFlIdW82WHRwODVMWmdGSlVwQTBoblFjcl9jZGZYMlpSX19CZUZHLXBQOWdMUkI0RUhZWkJLU29JbnJzVl9mM3N3dTk2V05rOXJJVjUteXR5Y2tzZkx5X0dSOHZzeGM?oc=5",
    "source": "Le Parisien",
    "ts": 1795582800,
-   "theme": "alt"
-  },
-  {
-   "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
-   "source": "https://horticulture-abadie-pyrenees.com/",
-   "ts": 1795572377,
    "theme": "alt"
   },
   {
@@ -349,6 +391,13 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTV9MLVYzejBJWV9UaW9OWDR6dXdsNTJheDBqRnI5dWtkZ2FXQXhqcldwUUF0Y05ad3V5eGJBa2h2YjNQaEdUa2dGSHgwUGxTS0tSMmVlenBPSmI2RDhfQndmSVc3VDhxcm9JMU1VWnZNMWQxOHY3ZmJPcXZTdEtrTzF6Y2VzeHNvRlFfVERoWDltUVlSdjEtMzhVQnNWY1ZHY2xJUWxPeURkMy1HdXlpZXJJdHExTWRmbzI3ZkxHSDU3N2U3cHQzcTZpbVcyUDFEYmhpRWxvbHI2cUhYcGhHcG9tY3Y4UQ?oc=5",
    "source": "Lefebvre Dalloz Compétences",
    "ts": 1795535606,
+   "theme": "fisc"
+  },
+  {
+   "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "source": "L'observateur",
+   "ts": 1795535460,
    "theme": "fisc"
   },
   {
@@ -671,7 +720,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -706,7 +755,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
    "source": "Compta Online",
    "ts": 1795422133,
-   "theme": "compta"
+   "theme": "fisc"
   },
   {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
@@ -714,6 +763,20 @@
    "source": "Classe Export",
    "ts": 1795421345,
    "theme": "fisc"
+  },
+  {
+   "title": "Incendies, intempéries, inondations : les aides pour les entreprises sinistrées",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT3NFTXR0UFBZU01SQm55Q3h0N2tobHpWVXdxM1dkTXBzUVloMGRVYjJpd01NakpKQW5SVTFkNmRBZm15aWVXS04wOUh1UVRGYVhVRl9uVTh6ZVhkRHp6dk1uMjE5SVYtX1hQWGRMLWJxXzlqcDNibXY3b0lHOWdHTm1JcFdUQm02S0NaN3d3OU9wODJZWEJoSElsVlVvTkxrdEJRSWZhWHd6bUpPaWZlSDJRNkpfOURfd2xYblFGLWd6RWpLSXJqNC1PMDBnM3c1RUZ4c1ZFZXJUQQ?oc=5",
+   "source": "Juritravail",
+   "ts": 1795420800,
+   "theme": "soc"
+  },
+  {
+   "title": "Logiciel Fiche de Paie : les 16 Meilleures Solutions de Paie en 2026",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93RnBHbmVmSVVIWnUzeDRPczhmdFdEblNnZ3Q2b25XYTBfbkp2bHBHT3ZCd1ZlQ3N1ZC1LcG1wUTJBZzFZbTFzRlo3bUdUNkJIeDY3YnVIdFNpV1lCNU5RYmFEZ3A0dw?oc=5",
+   "source": "Culture RH",
+   "ts": 1795420800,
+   "theme": "soc"
   },
   {
    "title": "Facturation électronique : obligations et coûts pour les TPE",
@@ -1050,69 +1113,6 @@
    "source": "Batiweb",
    "ts": 1795198411,
    "theme": "fact"
-  },
-  {
-   "title": "La FFB appelle à préserver les financements de l'apprentissage et la gestion des contrats par les Opco",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2YwRXZDQ25PbWdodFRZWWNwYVlyZjJweDdWX3loSTByRU00SXN5VlJwWk1kR29PRjF0WkRwMXdPNlZtci1ZanBYQ09nQTg5VG8yRUZWVDVZUnZCZ0FPc2oyYXFkejVJU21pc1d5cXowMGVEU1BzWk4tYXg0elROMFJwM3N1MkR0UzNaeG5SSFE0NFRSMXdSQ09vUHZuUTF2dEtqa3ctcUtTdlVGaHJsdG5HYzFMTVVEOXhGdjFOY2dTengzZVZrUWh6Y1FndnVZSmNfT193?oc=5",
-   "source": "AEF info",
-   "ts": 1795193355,
-   "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : cheptel, huile d’olive et énergie au cœur des propositions de la CONECT",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGZUa3dTUTR2SnltMHk4NTdFanE4M19ZQ25SM0RGOG1YMW9lX0lkYTZMLXZ4cG5pbmVaR1dWelJlVnVsT1h0dzVBZWQ2Z0ZKcHRoS0ZOWnczTzZaaGxFdVBOUmg2UTctOHN3YldrSjlYaXluS01LZkJrVjJuLUtKQ3ZkTFZiOWVBc0FlTy1VU0RUdUd2RWl6Z0NVTFhVVnp4Xzd6UDJtY3VYTWJiWHV1Xy1iS2tidzg?oc=5",
-   "source": "Tunisie Numerique",
-   "ts": 1795191405,
-   "theme": "fisc"
-  },
-  {
-   "title": "SARL devenue EURL : comment conserver l'imposition à l'IS ?",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbk0xSnktVFdUSFYwUmZkbVVxZFB1RG1vMWNfLTFNWDJlWmJBa1BNVTFNVXgweExiU0RtWF9tTTlHR3ZvSkZxaXhCRkFVN1RDOEo1NFc0Q3JkVDAtdkZxMmVCUy1oZ3kwNmRXYWIwOHRaQUd0ZmtPUXJUT3ZON1JqY2JDZUtrR09sTlNzeEl5eHlUbk90ZGlNOUtWYm5pOHFXWDMzZjVYRTR2VHM?oc=5",
-   "source": "Bpifrance Création",
-   "ts": 1795189886,
-   "theme": "fisc"
-  },
-  {
-   "title": "Un référendum pour augmenter la TVA: les retraités suisses vont toucher pour la première fois un 13ème mois mais la mesure à 4,3 milliards d'euros n'est pas financée",
-   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQd2VOUmtITU9SYS1QYU9lMDNUcDhEU1lXMjNscUpBcWVCQ0FxRUIzRFBZc1p6cmJvbE4wbDVWREltQ2htYXl4SWhGdUFrTHprVTRqRTVhSGVjeldyNkRCWjY5dTVXLVlOYzNtMjJFNXpuVTk1UjI5cXBUUHY4S1ZzaDF5TFEyVGJzejJldWU4eWw4YlZ0WXBiNk1QcC1USC05ZHdXTTl3ejIwdktrYlE1NG9nTGg1RGd2cnhDUzd3cnFYdUxFak9kMUlhb1VhNHpzVHJ0Ri1RTGJ4ZnRCazN5dkJ2VDhMZTB4V1hYTVoyQmNFczlPVUFxa29SV3ZjcURvSnV6cl94Y3JGUXkxX3VPN29ieFlKaEtJZ3NnUWhNRGE4aTZ1NFFtWHEzTjRVM1VGZTJUYWZIUHViaHhWc1M2aV9ZLXU3UnhYWWYtRHhTUQ?oc=5",
-   "source": "BFM",
-   "ts": 1795187648,
-   "theme": "fisc"
-  },
-  {
-   "title": "\"Le RNCP, nouveau bouc émissaire de la crise confiance dans les diplômes\" (Joël Ruiz, France compétences)",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQanlvYXNtWmJuc01YeTVuNkN0eThIYmhtMi11eWxQY0ZtcE1BaGwxNFZ4WDNDdjJTWkRPdGhMQ1plQTByVl9aeGd1ZGd5Ri1vSjNYNFNzZU82RzVuMTBBRVFGbldWRVhFZDN6T3ZzZHgtOVUwelN1ZUowYVdWSm0zdjFiSzRLbjdBelNkdTNTcGU0bVA4VGpIUXQ2cHZlUDRpRl9uWlVJUWhrUDBYenpBeHM0eVVLZURZZi05VzdkUzZXd0JTaG1EVDhzSkVmYXplekJB?oc=5",
-   "source": "AEF info",
-   "ts": 1795187308,
-   "theme": "alt"
-  },
-  {
-   "title": "Facturation électronique : le fisc fait un premier rappel pour les retardataires.",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTJnMVUyVjBHQkpVRTZwTUlGSzlSVDdZZkhieDAyNld0cm0wQm5ybmZfYmNtMDJ5Zl9WeVhZdVpNcVdOaUV6TW1xNnBsQ2RjSUFIR2l2U3pIZmVhT0FYeHdndTFNUks1Z3diQk56bHoxZDNZVGJVVXJQdkNsbXo4bzdSa2VEcXlORExoRU5BWTI2aHlyUFUxVW9TU0FDTnJVMDlGSEdrU3FSVzE0LXhj?oc=5",
-   "source": "Corrige ton impôt",
-   "ts": 1795187100,
-   "theme": "fact"
-  },
-  {
-   "title": "La CGEM plaide pour de nouvelles mesures en faveur de l’emploi des jeunes",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNW5OZmpXT3BFYWJ3b25HSEJ1NlVDMlktNDB0VkxkVlhjODFkVnczY1U4bXB4X0pUbzJjN0phX2RmUU93eTZqTktKOUdEdUkx?oc=5",
-   "source": "panorapost",
-   "ts": 1795186800,
-   "theme": "alt"
-  },
-  {
-   "title": "Cadeaux et bons d'achat de Noël 2026 : règles URSSAF",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVRnM01aa0dRaG5iUFQ1UnBiNEluMW5RT1AzYjdCZ1NlV0cyRWZWVG91Mngxd3p4X0F1dDIyRkVNMjFtWUswaHl1YktBb0wwQWJUWGkwRXBrRlZrT0dmQy1tQ3U0Z3FBQ21zNDR0Y2w0MVI4dWVoYkZGMFdhTHpyWFktNFBraVpsZmpLZFpYLXhQV2JReGMwQTdQQ0txQVE?oc=5",
-   "source": "groupe SVP",
-   "ts": 1795186800,
-   "theme": "soc"
-  },
-  {
-   "title": "Loi de finances 2027 : quatre articles fiscaux reportés, entre soutien à l’industrie et transition énergétique",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGtpajVJeG5UUmxfVURnSHZ0LVEwZ0dtSFlvMGlIQlJlSGp5cHpDU3p2S3QzMU9nLXZhX0V6dGFibXBsSjFiN0ZXdjFkVExZRWRtWG14NjVSM3VPNE9JcDBmSlBNdDdrdUR0eHJmQXpjLUl0Y3c1SVNDcXBvblVvMDkzbDZkMGVrRmFOeUx1VE9aQi01ZTdGU01wVHl4TjRGSjUwejI4bmdiVWgtdmVIakFFaWEwUzFESmhBNFFpS21LNFlpNkdONUZKTF9hcHZxT1MtZG44dVNFOWZ2N09WTVY0c1hGbDNsZGl3alNVQQ?oc=5",
-   "source": "Webmanagercenter",
-   "ts": 1795182764,
-   "theme": "fisc"
   }
  ]
 }
