@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-25T17:59:42+00:00",
- "last_success": "2026-11-25T17:59:42+00:00",
+ "updated": "2026-11-25T19:06:09+00:00",
+ "last_success": "2026-11-25T19:06:09+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 56
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 64
+   "count": 32
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 32
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 65
+   "count": 41
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,20 @@
   }
  ],
  "items": [
+  {
+   "title": "Apprentissage : la Cour des comptes pointe une \"faille systémique\" des contrôles et jusqu'à 3 Md€ de risque de fraude",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DM3UxSkl0QWRpWGEzY3JJS192dXlRS3hSbjl3R3RtWmlia1N1ZmpnTHMtX3VxRzdXV1JOSmJOdWxqQnJEVGF3YVRrR0tZUQ?oc=5",
+   "source": "AEF info",
+   "ts": 1795632720,
+   "theme": "alt"
+  },
+  {
+   "title": "Urssaf de Bourgogne : un faux courrier DOETH réclame 2 376 € aux employeurs",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUk9xZl9adFJraFd6ZTZNQzg3ZGRpYmhUV2lydHpOVHJEbFVNYkFCWmZPLXItOTdEbk1hcTVjWGc1NjJLUUViVGI5R3FGNWJYYUJXUkNMLXBlR2ZVdEpvdDFpNjZsaGtlOC1tY0ZFMWdIQ3FoLTY3WFdzNG1fYnM5VDBzOEFoNHhUOGFnQnRMUTIzSDlTV0VSVkstRjZsdDE5WGc?oc=5",
+   "source": "Stéphane Larue News",
+   "ts": 1795629543,
+   "theme": "soc"
+  },
   {
    "title": "Comment réduire son impôt sur le revenu en soutenant des entreprises solidaires",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVQwb0pnRjVtUFo4QV9xajVKVXNTdWQyeThseWpNYjZObTVwbnE3bTg4UTVpMDhoN3NoOHVqQXc1Wng4MnU3ellCNlQtMWs2bDBfaW5IYWNuWG4wNmRhc2RJMU41T2hjTVpaMDlCSURzYTZkeW81cmtyY1FUVDJBRnRPcHlKb1pmUDdmd2hFNS1RQlViUEhaQkwxVU1ZaWJORmltbW1ZRm5xYm14RlpjNXJMdnpJbGllb1M1ak5IU1hPc1dFUk9FRjBpRVR5Y18yZ3Z3?oc=5",
@@ -409,7 +423,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -734,7 +748,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -769,7 +783,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
    "source": "Compta Online",
    "ts": 1795422133,
-   "theme": "fisc"
+   "theme": "compta"
   },
   {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
@@ -1099,20 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1795231498,
    "theme": "fisc"
-  },
-  {
-   "title": "Histoire de la fiscalité andorrane, de l’IMI à l’IRPF",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5YXgxdlVoU1ktWWxXTWxqZktKakR1RjZhdFhYazNyQklNNGQ1Mi1oVnBzOWFnSlh4SmsxSTlVZXdlSloyT1NHWXliMTVoSk5kY2dpdTBQSVhqNkZaR3ZneWpJQ25ZY1h0Zm5IMEJ3?oc=5",
-   "source": "Andlil",
-   "ts": 1795230783,
-   "theme": "fisc"
-  },
-  {
-   "title": "EXPERTISE - Le nombre d’experts comptables augmente",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX296dm9icmt5VWcwWnctN1NrakE3aUI1Z0NvX2pLNk52bWd1S1BXMTBNblNxUkwyMWxVWjBEZkZnb3FrbkY5YU1UdmJIUzJwLVlJUVByZ1FsYVNLOE4wMkJ1VkdoQUNiSmpOM3VYWHFFSFZkcTNyYXlqMlRfT0hsVjhR?oc=5",
-   "source": "L'Express de Madagascar",
-   "ts": 1795228500,
-   "theme": "compta"
   }
  ]
 }
