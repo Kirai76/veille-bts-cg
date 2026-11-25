@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-25T17:14:18+00:00",
- "last_success": "2026-11-25T17:14:18+00:00",
+ "updated": "2026-11-25T17:59:42+00:00",
+ "last_success": "2026-11-25T17:59:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 56
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 87
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 32
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 64
+   "count": 65
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 45
+   "count": 33
   }
  ],
  "items": [
+  {
+   "title": "Comment réduire son impôt sur le revenu en soutenant des entreprises solidaires",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVQwb0pnRjVtUFo4QV9xajVKVXNTdWQyeThseWpNYjZObTVwbnE3bTg4UTVpMDhoN3NoOHVqQXc1Wng4MnU3ellCNlQtMWs2bDBfaW5IYWNuWG4wNmRhc2RJMU41T2hjTVpaMDlCSURzYTZkeW81cmtyY1FUVDJBRnRPcHlKb1pmUDdmd2hFNS1RQlViUEhaQkwxVU1ZaWJORmltbW1ZRm5xYm14RlpjNXJMdnpJbGllb1M1ak5IU1hPc1dFUk9FRjBpRVR5Y18yZ3Z3?oc=5",
+   "source": "Le Point",
+   "ts": 1795627800,
+   "theme": "fisc"
+  },
   {
    "title": "Contrats fictifs, aides versées deux fois, entreprises qui n'emploient que des apprentis… La Cour des comptes alerte sur les dérives de l'apprentissage",
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQdGpmQzlWcnhfelVFcjhxckpMSnFsT1lHcDc3a1poSDRqRG5xVnBrWUpUTExmVkxaUEs4UkVzdlYyZzY0Z0NnMUdFdkhITktfMmoyU3ktVERNSUVVYVJyZFY0NW54RHFBQW92eHBZSG11SFJHZ2lwVmhORXRZeXFhNUlRMkNPOWU5Z1kwaG1aRjgxRmJwVGxMa0NadE9Hc0tJSHJZM0cyMEZPanAtWnZZOWVkeV9NQ25CM1JCd2RxeURVWG8zMHlFdWFDMzB4dFlOYXlSVUQ4Sng1eWhZZ09CVVdMZUJXd20welNXbVRseWlTUGJZVXVwc0tJZ05aQjN1QTh5VnBielhCa1ZvckxienQtVWtRZERrdVhpb01JOWoxN3dGcEo4QWlxS2pIQQ?oc=5",
@@ -261,6 +268,13 @@
    "theme": "soc"
   },
   {
+   "title": "La société rennaise Candela productions bientôt transmise à un producteur québécois",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSVVLMkV3LVB1c0dPdjNLVmp1aDB6dVZiVTA2dEtLRFhkZFd0Mm9XVlhpa2Q2a0gxWWNxMWJyQXVRY01jZGt3ejBBU2Y2SmdJZS1xM1NYdjBFZ2s4UzNHcVk2dUg1N2k5aFJ0a3ozb28zSzBhM0dKMlljTUpnSEZINEhpQVk4UWZPNVc2STFUd0hDWnJ1RG90VjVpS1B5NnBZaEVLMVdaVGtVSlhFU2dpd0lFYk5SWUVSRHFxZ2lyUEYxeFI3MUhaNjBhWjVLZHEzQldCMnc4TzFILWFEQ2pLSVdFUzFrREVxRkFjUzA3OW50eEFmSkJGVEpzUW1aM1dEVDhRbWVlWQ?oc=5",
+   "source": "Ouest-France",
+   "ts": 1795584642,
+   "theme": "fisc"
+  },
+  {
    "title": "5 femmes de l’industrie nivernaise racontent leur quotidien : “des métiers diversifiés, des opportunités et une fierté”",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSXJPcmVCcU9iZ3NxNkJ0eDhFc1p3SXRuUnRjZ01RcFZpVHhjLW8xZEZUMEtIQzY1MmU2VmlhQjEwWGJ1cmFELXFyOEZkNDZSN09WclBNbkJBSkJ5SnF2NWVOVlBXVlBYS3BKWEhkNTlNS2dPQXJpUkhWbDc3eEdhRmdKa01zOGZmWHhyNVVQbHo5VklkN2xDMEg4SnJQNWJXRXhVMEpNbDNfbVd1dDl5MncydkhOQ0JDQVFKczI0V1puOFNnS2tnUkdGYXBVNGMwUkxUN1hNdHFmTnB3Vm1WZ3pvbkFZdUV4Yjk5VHhSdWh1OHJjNHVwUVdR?oc=5",
    "source": "Le Journal du Centre",
@@ -395,7 +409,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -720,7 +734,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1099,20 +1113,6 @@
    "source": "L'Express de Madagascar",
    "ts": 1795228500,
    "theme": "compta"
-  },
-  {
-   "title": "L'Assemblée nationale a accepté d'imposer une taxe de 0,2 % sur les terrains abandonnés.",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnRSQ2FhQ0YzejRkd3NBY1FpVjdYdjVGT2ZBMFg2TEJieUZGNlBncW80UmFDbVZxa21ldnR6SFF0U1VIeTdjUnNrMEozYU9YbHQ4SmdkTDNfWDZ2WEVFQzJZSVM5eGU5QkY0ZThnZ0NmLVY5bUc5REE0MFItRlVjTE1KZkdHTW5laXc?oc=5",
-   "source": "Báo Nghệ An",
-   "ts": 1795228081,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique et GMAO : un duo utile aux entreprises de maintenance",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVhVa3JyYVE1SEZwRnlxbTVLLXlnVGpYTWtCRFgzMmdPaUVpQnBnc0RqbGtycTVHcmNfZ0xZSUpmekxmUjJtN0xxUVQwZnZCSlg3TUZDbi16SkFYSXpZeW5TdGJRS0RMOHA2NTJXeV9VWE1QVkRSWlJSeV9mX2xpOWRUc1JXMDFiT1phZURpVnRVanRIVWE2UTdWbjBGVW1pWU0tS0cwMkJmYmludFNIZDlkVUc?oc=5",
-   "source": "Batiweb",
-   "ts": 1795198411,
-   "theme": "fact"
   }
  ]
 }
