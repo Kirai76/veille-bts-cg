@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-25T06:09:05+00:00",
- "last_success": "2026-11-25T06:09:05+00:00",
+ "updated": "2026-11-25T07:37:13+00:00",
+ "last_success": "2026-11-25T07:37:13+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 63
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 64
+   "count": 65
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 88
+   "count": 87
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 33
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "query": "plan comptable général ANC",
@@ -45,31 +45,59 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 41
+   "count": 63
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 45
+   "count": 33
   }
  ],
  "items": [
+  {
+   "title": "Faux apprentis, entreprises fictives, aides versées après la rupture du contrat... Les gabegies à 3 milliards d'euros des aides à l'apprentissage (sur 16 milliards dépensés)",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPSkJOMTRLWi1yNktPUEhvb2NXeWcyTzJKRUx6Vkt4cHAzeEIzMDdreF9jZkJqUGgxVmtabWZYNDhzVldqa29TQlM5bk83RzFmVXIxb0NxR3pEQXZzTkk0ekpzOFJhc0h5WTVsaWF1bm96Y3VEaUIwc0ZUNEItSHdpVjNPN0x6d3RZUFROZlUyMXotUXhUcUxUU1VTSFJFb0lpQ2ZUQlhCR0ZlbGZ2Nm1LUnNLcHpRcjJETW1oQUZJWWYyQk8zTGo1RjBmWDNMOGlRSVBPMEJRVlFENXQ1eHcwd2NmMVVIbGRwNXlMQ3VaT0hJYVFodDZuTXFWNXkzZVhvWDREcmZrX1ZFWTdvcjVBbUFBODVmOU05aDNTU1ZtM0tpekc1M3FMeUtTNXJ3M0xNdDJGWWFKWmw0TDEwUk1SaEFZUVdzQ0laUXdEYTdYcjhXc0ZiX1dBei1FUHRfSWNCM0pRMVFwWm05cDBXYmc?oc=5",
+   "source": "BFM",
+   "ts": 1795591792,
+   "theme": "alt"
+  },
+  {
+   "title": "Apprentissage : le soutien des pouvoirs publics a généré « 1,5 milliard d’euros » de fraudes et « jusqu’à 3 milliards d’euros en incluant les abus », estime la Cour des comptes",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPeTRmbVBwZGlteHB0Vi1VX29kb1JzSTR6TlgwcDFsQzFiSU1HdGN4THVsMFV1djd3VWRqQk9oVHN5QzZGd1RXZlJQQ1ctOXdYNWVLYlRlczVqQ0VkNU1qcng0Y0RXVS14a3RYVWZmaVhSTjJBdWRfTlJScGR5eThhSDR6ZXNpZHBiaEJoX3dTdXBEeFdrMF9KMEhDdlZ3VTlpbjFmbVE3djlyaFpjZFZOQXNYbllFaVgtYkJiM2VvYWFPM1ZSbUxxREVpbFducHhycWdnSFM2bC1VdGtBRDVaNlBZaFJCUHRKU1gxeE8tZXp3NXl2R01sVVM2dGo5VENOcjdReDRYOGQydFYta25yNy02YXdyRjU2OUtvR0VMdm9FWDNyU1QyWkNUOE01UnRxd3FvV1dxX2x4NzdPSGc?oc=5",
+   "source": "Sud Ouest",
+   "ts": 1795589599,
+   "theme": "alt"
+  },
+  {
+   "title": "Jusqu’à 3 milliards par an : l'essor de l'apprentissage aurait généré fraudes et abus, selon la Cour des comptes",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlhhc3h2VTFjSnhGVjBJMmVCNEhXSjJQUHAwNjFoemJ0NkNtVHhkci05LW1nb1BDM1RibGVWQkowTUdDRWd5aFJPRVFXUTk0YlZzVkdCbG9zOXIyc2tfaXEzMmVUckhQYWFXZmFheXNTQnNOaEFQbEhnU1FnNDd3c0RJY0FfTWxPUWxtU3NhRWppbGE3SC1wdXdobkoxSEtBMElIeTVZSWNzaUNZcTdvQVhVMTB5ZURlYW1Vd2lHOEYtOG5vTTVTd1JQR1lDdDA1QlZRc2hoUW4ybU44MXhWZkw3dw?oc=5",
+   "source": "Le Figaro",
+   "ts": 1795589496,
+   "theme": "alt"
+  },
   {
    "title": "Fraude à l’apprentissage : la Cour des comptes dénonce une « faille systémique dans le contrôle des aides",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONlJEU2M3eWFrWjU0dm9rX3NWekNIVzZUOGprdUNKQmc2Rk9DaGstRHZ4RDhCWDNKM2NZelFkd0xrY1FPcnZYaEhjbG8yLVVFNk1ydVluRUNmRlJTOFphVUpWLTBHSmVwMU5fV2VkMnZBcDZhWFJsSGIxU1FtQmJMN2JETmZUa3lCNlR4ajBOUEtES0VVNHhDU2d6Yks1dFFBdXVfMmJmbjM0WFlIdW82WHRwODVMWmdGSlVwQTBoblFjcl9jZGZYMlpSX19CZUZHLXBQOWdMUkI0RUhZWkJLU29JbnJzVl9mM3N3dTk2V05rOXJJVjUteXR5Y2tzZkx5X0dSOHZzeGM?oc=5",
    "source": "Le Parisien",
    "ts": 1795582800,
    "theme": "alt"
+  },
+  {
+   "title": "Cotisations : l’Agirc-Arrco communique les paramètres 2027",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPai1qaXhuU1dSWk12N3g0Z0hCMDJROUlnZlZucEtxU2l4azVWQTlHcFE2bEpmTFBST21QcUJZaV90QWxrWUx5c0lTd3k3YUVmbnBQa3NjdXlwYVpjNzVrRE5tbFFobUZHYnVzYXlrd3lzUnY4VHhVdFA4OTRidGJjcS1sNkRiQnVMNk5LQU5SZjVoalRZa2hBbzFZUjRYQkdnaE9aTWFJZ3RnQnZU?oc=5",
+   "source": "Éditions Tissot",
+   "ts": 1795582767,
+   "theme": "soc"
   },
   {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
@@ -289,6 +317,13 @@
    "theme": "fact"
   },
   {
+   "title": "Villeurbanne Facturation électronique : de la boîte à chaussures aux tuyaux électroniques, le maître-mot c’est « l’anticipation »",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHJqQjdWbng2RE1oVm1id2ozZTdfcEdvOV9xSjFRY2ROUjhhTDRNX2R0RkV3N2QwUk5lT1IxS29KQ19iQ0hQWEZhQkFCaEtBblNrTVVXWVRtblNMWGxHTnlOYUM4bl8yWnhJZWpwbFRxS3haeWRlZEUwVmpNWUdGZHA2RmF6d3ZJSlREX21JWmR4Q0RWVmt3ZWdHWnhCVXJGYzQ5YzhZWkFMenRNMVZtNFVXblJpTzZFcjJQZ2VBMzVNYW03Uy0tYUlZczB2UTR3Y09QRDFJZ1RtdHhQeEltYUFsMy04RUgyYmc?oc=5",
+   "source": "Le Progrès",
+   "ts": 1795496542,
+   "theme": "fact"
+  },
+  {
    "title": "Facturation électronique : de la boîte à chaussures aux tuyaux électroniques, le maître-mot c’est « l’anticipation »",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHJqQjdWbng2RE1oVm1id2ozZTdfcEdvOV9xSjFRY2ROUjhhTDRNX2R0RkV3N2QwUk5lT1IxS29KQ19iQ0hQWEZhQkFCaEtBblNrTVVXWVRtblNMWGxHTnlOYUM4bl8yWnhJZWpwbFRxS3haeWRlZEUwVmpNWUdGZHA2RmF6d3ZJSlREX21JWmR4Q0RWVmt3ZWdHWnhCVXJGYzQ5YzhZWkFMenRNMVZtNFVXblJpTzZFcjJQZ2VBMzVNYW03Uy0tYUlZczB2UTR3Y09QRDFJZ1RtdHhQeEltYUFsMy04RUgyYmc?oc=5",
    "source": "Le Progrès",
@@ -482,7 +517,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1078,41 +1113,6 @@
    "source": "mesinfos",
    "ts": 1795156200,
    "theme": "compta"
-  },
-  {
-   "title": "Facturation électronique : le piège de la simplicité pour les PME",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2FEa3BGNzdHdFFMYV9HMFdTYW1XNnJOc21fQ2hHU1RDX2RrdFNZYmJEaW9nQWtqM3VVc2RkdjdrMWQ3cF9VN1ZOLVNsa2h0eHdKanFKQ0h5U19FV05pWkRuQ2lNMDhUNWpONF8zQ3JhU0xzdXFmOFJmQTFxNWZWLWpZSEVHcmo1bGVud1ZCYVMzcklOWmY3WTByYzEtQXV6TVZEWmpVcm1QNUI1ZHdFaWYxONIBuAFBVV95cUxPblp4WElTaS1vTHRXanR3LTNURmYyQ1RLR05tT2lVZWl4Y2J4OXdfamFaQ282RWVndDlLUVA5VFFjTHRrdDM0TV9lZkc5OFFaM2pSYjQzU1gwUVNnN2JMOFZGam5GWS1XMmVuRzRhLTQ3ZFJzdW44dDFNcjh3WjczTHFCenQ1Y3BQdDFBTnlBaXBUUEVVSnlsMkdrRkVYMFQ2UU1Wdm1ocmxtR2RiQ01KV0pGTjI0UTlC?oc=5",
-   "source": "Beaboss.fr le site des dirigeants de petites et moyennes entreprises",
-   "ts": 1795154747,
-   "theme": "fact"
-  },
-  {
-   "title": "Des directives prévoient une réduction de 30 % de l’impôt sur les sociétés pour la période 2026-2027, et des conditions plus strictes s’appliquent aux scissions d’entreprises.",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk5DQ2FYVzY2dldiWTlkNWdCRFgxNGNEc2xJT2gzUHZHSzBrUzRlZXVvQ0V6RS1hUHJPYzE1WkdYZFg4VGlRdm9sM1ZJcHBPemNaSVdFeHU3cC05Mkd3WTdtSjdCeHpwRVVuMzZfVmlVR1F6TkJhaGhTT2pKYzZkUWlzeVQtd0s3SjBRNEdPTTJPcEdjY2Nub3Jxb3hJa1cyYkp1R3NMX0NJU2lMRXBKTmF5UmcxU3NpV0VKTWhNY3RNdWRmYUNyREk4UQ?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795153142,
-   "theme": "fisc"
-  },
-  {
-   "title": "Surtaxe sur les bénéfices, retraites, prime d'activité… les grands enjeux du débat sur le budget au Sénat",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTUc4M0x2ZWc4dzEtZEI5X3N6amY3bkcwQ2JMNFJrX2JTa01aUDd1eVRVeGdWdWQ5ZWRfZ1BCMktuZktIWmtPa3dlRmpNR1ZDdUtXelJJQi1wdUVfeUliVUJqTkhfTHIxZC1ydFlRU2czaTl4NkF3cy1ScGg5ZEJkSXhiV28tSjE5ZXpPVVNsNHVtZGVReUF4WmVkeVpqQ09DUm4xdDZEeHNhdzdCZlpMTHZRRk9WcUxGZFpjQTdVU3BwbGU1WmYwN2stUXpMOU5YZzBnNWY2b3E0Ti05dndfTV9EekhCWlp3NTI0STZKd25sc1BwRS1ZNVlB?oc=5",
-   "source": "Les Echos",
-   "ts": 1795151708,
-   "theme": "fisc"
-  },
-  {
-   "title": "Cyber Week 2026 : TVA et e-reporting sous pression",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdEEwNlMyMzNkZ2tNY19UUDB0MXJPeG1td01RenRiQjZhR3B5UHRHSWFoNUJNTXhZcFllek5PSnFmSFo1Z3JkWWo3UjJzQ1dCQVZ2Mm15dnlUSWJmMDBaZGM1YlpTWFh4SjRGcFdXT0M0NUwt?oc=5",
-   "source": "business-times.fr",
-   "ts": 1795149720,
-   "theme": "fisc"
-  },
-  {
-   "title": "Les petites et moyennes entreprises (PME) reçoivent des bons de soutien, qui seront révoqués en cas d'utilisation abusive.",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3NIbnNnTnFiTHpvMGlOZjhEMDNUM0lxdnpTWFVTbC04TDZ2UEM5eGhQcGllUGEyQlhxS2RzQUF2ckxCT0pNX2JPbGlVSnNneUNac0pGUkM1TzItUnlIcW1uVktZYlB0Z2FjNzhPVDI0RjEydWZxamtSVm1BUGdhZm1kVTVUN2Z2MUZGVi0ySEhVYjJzcGdzS2RFazI?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795144893,
-   "theme": "fisc"
   }
  ]
 }
