@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T22:07:53+00:00",
- "last_success": "2026-11-25T22:07:53+00:00",
+ "updated": "2026-11-25T23:05:37+00:00",
+ "last_success": "2026-11-25T23:05:37+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,27 +10,27 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 63
+   "count": 62
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 84
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 34
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 32
+   "count": 16
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 43
   }
  ],
  "items": [
@@ -128,6 +128,13 @@
    "theme": "alt"
   },
   {
+   "title": "Facture électronique : un rodage freiné par l’interopérabilité des systèmes IT",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFlfYzRHeENfSzhVM2F5Z0FPRFVLbEVkQ0lJWllsUlIzYVptaWljZEZQdmRXN2NrdzRic2o5MTVRYTJmUW9ia1BFQ0tac3RrRHdjdzdyMTNvWXR1RVNyZno1Q29KbEIyU1VDMDFSMHIyRlhyOENCM1Mxdkp0RzBwdjF3bmxBbVpEeGNWTHNKSm1SSXRkME52aEhuMmIzbjFLbk5WWm5sSzh4NkVCZ1FEeTZKdlNUSHFmY3hZ?oc=5",
+   "source": "Le Mag IT",
+   "ts": 1795625546,
+   "theme": "fact"
+  },
+  {
    "title": "Gersycoop et deux cabinets d’expertise comptable proposent aux agriculteurs d’apprendre à maîtriser leurs coûts de revient et leurs marges",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNWdrWTVJN1JBYjRWWjZYejQtR0VuWUhxVklPeVFDQVQ2ZHdHVXdZSWcxeVNHV2lBMHd0SklNMHNlV0RDVWlObjVyNjJvVGtPM09fc29neTJ1eW8wRkl5dkdrOVlINlhZN0QzMkcwb1hhbDFTenMwc3A3U2ZIdzJyTC1sdHc3WVc3OXdQalBaR1ExNWtFTWZGWkh2S2h4ZVVWb3VkOWNtMnphRzAxVVByNjFTT01rajhBa1FkbWtBbEZnSnF2OFlaRmU0d0V3VU5OMWRZQzRMM0NsLXQwTUhLXy1CNzdrbV9lRkh5WmpiOHBna2tyUk1ycUdrQlhZV2NUWTJpTlNBdVQzRHRrVTNGRk5TQQ?oc=5",
    "source": "ladepeche.fr",
@@ -146,6 +153,13 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0VRZlRFYmI3bzJrSEVHRmMtaGZFN3ktVHhnaklQenNiNVRjWlZMYVZmOExsMjhzVGRGcHpUYmkwYmRnd1VqVG96dFNpN19BNnZibHZwX3RvVElsRHNhWXFjLVBaZVo4MVBmYTQxa19KdmpETWtEbUM0TDNPQnRjWTNHVmhtRXdQRlQ4?oc=5",
    "source": "Le Courrier de l'Atlas",
    "ts": 1795612183,
+   "theme": "fisc"
+  },
+  {
+   "title": "Cameroun : entre le fisc et les brasseurs, d’âpres négociations autour d’une hausse du prix de la bière en 2027",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQmlVOHQwSlNublBjU2czRGpLdUhJUDJpeGNlcGFTWHA2ZGhXVFJ2aFJ4U3FVdXVPQ0lEd3ZSN2JoRDk1dnNYQXhrZGVwMUZLeTM4Q0xMUW5fYzNfdTZhc0ZvYWpjYklKOG0yY25GQ0ZpRnVsNG9UNTNKSW1kanczcW1PdzlGTk5CWnRaUXYwYzFKZW1TQTlYMldaUURpdGdfSkVNMkgtWmxoQWFlb3dSMFdtVG5fd0d6WUVsa0ZFLUZvUXBMRnc?oc=5",
+   "source": "EcoMatin",
+   "ts": 1795610107,
    "theme": "fisc"
   },
   {
@@ -874,7 +888,7 @@
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNU1d0NVVxTGg2aWNpQlAzNy1Gb0xuT3pFQk4tcHoyaUptOXItei1Da2NTTmhLcUxPMUFsaHRBekxSa2ZXbnlNaXNVcFVLb3IweF9TU2h0LUtZVi1Ub0dBSGJ5aWk5UDRlcG85ZnNxSUJveWF1ZkUzX25BNF9Hc2p2RXE2VGRYR2F3em1jMnRyeWlwaHdCSjFoS3FGSjZCR0o1Zy1aYVkwUGZFYzdRdVpneW5qSk03aloxQ2RxanUxLTVjUmFWU2FIVG5jaXFjY254bWo4bWN6SmhDSTlxVV9qUkFwN29lWjNsYk94VzRaTmRxM0Z2R014akdyV0Uwcjd6dUhTMVVWS2F3ZnRleWF0WjBRZzFZaTRPRl9EcXFB?oc=5",
    "source": "Ouest-France",
    "ts": 1795411820,
-   "theme": "compta"
+   "theme": "fisc"
   },
   {
    "title": "Taxe de 20 % sur les holdings patrimoniales : votre SCI familiale est-elle concernée ?",
@@ -1099,20 +1113,6 @@
    "source": "Finances News Hebdo",
    "ts": 1795266000,
    "theme": "fisc"
-  },
-  {
-   "title": "Les petites et moyennes entreprises nouvellement créées sont exonérées d'impôts pendant 3 ans, et une taxe de 0,2 % est appliquée aux terrains abandonnés.",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlveUVMUzJBMUQ3am1uWHBRdXRWdlBtWHJRenJmVVZDaHdQWXphdTc0VVZUS0J0b2gxamZzWFVrU1NyM2lxMVR2ZjFXdmQzR0Q0dzh2M0pkTzZXZzBEZXRRMmdTcVZQUzZQbDFEV05yLU93M3k2TnlqOUxWa3RnaVlMOUNqSFZsWmZoVGVoR0RZMGEyb2hUYktFVUQ1aGtLS2JCOVh6b0lfTUJwZkZTcHUyNDZmdXc?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795261012,
-   "theme": "fisc"
-  },
-  {
-   "title": "[PODCAST] L’employeur peut-il faire ce qu’il veut de l’image de son salarié ?",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2dqWUV5VFBxdm9FckJ0RUl3YkZobHpOM2xhbmYxaHZpTmpLalNMNjUwWnVJbHFFUkJsQUhUbU9ubVZURnI2eEdsLUFaVFFaRFRVZkNEUUplUW96Z2JxQWxXY0RzUk9ERkpKUGdoVHVFeHM1eFNUN2NMVmIwSy00YjByemtHTTVVTnFEclhMVS1faG52RmZJOXYtNmJvY1cyWURlZFFBXzFlaWJhekwxX1dB?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1795259137,
-   "theme": "soc"
   }
  ]
 }
