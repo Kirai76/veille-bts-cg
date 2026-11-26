@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T22:06:23+00:00",
- "last_success": "2026-11-26T22:06:23+00:00",
+ "updated": "2026-11-26T23:08:41+00:00",
+ "last_success": "2026-11-26T23:08:41+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,27 +15,27 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 62
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 93
+   "count": 35
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 35
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 60
+   "count": 45
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 17
+   "count": 35
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 42
+   "count": 32
   }
  ],
  "items": [
+  {
+   "title": "Proposition du RN : un barème progressif d'IS de 5 tranches favorable aux PME",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXFGMWl3U3QtcU42TjJmWEhzeHp1SzJ4WGxOZi1yNlpUX2hKZ3ppSzZIT1pxSmxFcWdNN3VBRFMyLXVaeXRMbGFiWUgxNTFjQUVoRU5wSGI4RTlRc041ejVTX2Q3TjIzTDNBbnZxWlQ3T2FDY2hwX1pwazBaYWJ3MDdXcjVjNjctQWhpTTEwS2hxd2Z0RWxBeFBnaC1IcllvU05hVTdidzM3S3Y5ZEpwV1NKR1FNbHc?oc=5",
+   "source": "LégiFiscal",
+   "ts": 1795734154,
+   "theme": "fisc"
+  },
   {
    "title": "La réforme de l'AVS 2030 risque d'avoir beaucoup de retard",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmtSMkQ1ZjZLY3NXZS1ROEIyV0k5RlFYWFhvYVZ2Q2YwTDNLckZndTZqMkpNQmxWMzNpRkw4NUV2eTh6TkJoU3JMOW5JaC12Z2hmVVJfWWwwTWczS3BRYWlwcGxZOGxuZlFnU1RVbk1lRU9QTkJIWWJSS1FVdVBYQlhoZVBrUWg0ODVXZlpR?oc=5",
@@ -102,7 +109,7 @@
   {
    "title": "Projet de Loi de finances 2027: Les nouvelles mesures adoptées en commission",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2JFMTZURExBTnhxSGlNRnRSYUZFdEtOZWwtWVhkU0JRbXZBdTlxaEhNSlR4dnNZQV8xdTc3bmh6X29DTWlhTXE2NGROaUdqUm8yMzFMTEpWUk9EX1gtY0I4ZFFzc2Uwc0pFRFM5eGd5Nkp3X0o5MXFTV0cxRVJCMHVnajZXcjI5WGxCdDVyZFdzaXMwMG1sSVFjTzVpX1FXVlYzV2JXWFJDdUdrcGc?oc=5",
-   "source": "Tunisie Numérique",
+   "source": "Tunisie Numerique",
    "ts": 1795707000,
    "theme": "fisc"
   },
@@ -445,7 +452,7 @@
   {
    "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1RLeFgtZTUzTDgzdWRfcVRmUmZsSThORi04WHRncWFrUGFJZzY0dUNxUHUtelp3bDZRU3lYbGdEWGozY2JleFV5c0hWaHFNUWxUYXdyY1JzTEhfc2RyNFIzc3k2TU9vSDJ0UW10YzQwMER3ZTRlamhVdnRnMmJSSlZKQUMzR19qTWtMbHdtZVAyYWxEa0U3NXFHcG5YX0JOTGFheEZvdzF3MG5qQWdHZkVKTHh4WmtBcWVuWW5hbDMzWE96YWVrLXFMdnFLZXlXbkhGMV9hYW5XN2s?oc=5",
-   "source": "Franceinfo",
+   "source": "franceinfo",
    "ts": 1795609253,
    "theme": "alt"
   },
@@ -766,7 +773,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGVUZWRLSkpKaUI3ZWtqTEp0eFloSFdRVEk1TkJWSTU4dmtWRkJOaWJLQ2hPWHpKMTUxQ01kbFNTa1FtMUtXY3UtZ0U0MHdLZENpdXJCdFpGWGItanV3UWxXTW9wZEpERkZoV3dmeEpxWG94dG01azJvdlVjQUlOOXZvLVNnWnBmd2Rva3lLYnhGOURTcjFHajR2MnphbXRaOW5nQXFWTEZGUmhLZ0NYazBsTWFmQWtTbzFmSg?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795429621,
-   "theme": "fisc"
-  },
-  {
-   "title": "En raison de nombreuses violations, la société Thu Duc Water Supply (TDW) a reçu l'ordre de rembourser et a été condamnée à une amende de plus de 1,4 milliard de VND en taxes.",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazNmRkpvb3BJRXZybDBBNlNxVWI2UkoyR1VRWVhVeHJKdHdVcG43RW02ckxkY0hteEtCR0o4SjVlSHl5OHVYUG1BTGtaRmpmTTYtVFdTNmxvaElUZUdkZXFsR0FfUVJvNkcwNFJRWERPamNjVE95Z2V5N3dpV2hPNFlPZS1nQ0dMMTl5dWc0S3F5bnJReWRlTTBVb190Yk51NGt1dG9OVm1tUFZa?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795429620,
    "theme": "fisc"
   }
  ]
