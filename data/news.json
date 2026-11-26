@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-26T05:27:44+00:00",
- "last_success": "2026-11-26T05:27:44+00:00",
+ "updated": "2026-11-26T07:35:35+00:00",
+ "last_success": "2026-11-26T07:35:35+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 58
+   "count": 55
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 62
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 88
+   "count": 91
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "query": "plan comptable général ANC",
@@ -45,25 +45,60 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 44
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 28
+   "count": 10
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 42
   }
  ],
  "items": [
+  {
+   "title": "Grâce à des politiques structurantes, les entreprises doivent « croître » en s'appuyant sur de véritables compétences.",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFNQRW9mLU1zZXhlRE8yYmkycV9QNTJWY1NyNDY3OVo1T3R0ZVVua3E2NF91YjdOdl9YYU5kWmlYN2tqTGVZYlVDcEVfeWtRNk9iZmhUc01pQzAyalJhRjhPN25NbmNMTHFuSjUybzhFdDhNcDhrODdmYUZyVVhQYUpZOVVPRXJ4NHZjbHhaaTY3R2NCazRkRmNIaw?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795676726,
+   "theme": "fisc"
+  },
+  {
+   "title": "ARP – CNRD : Le Projet de Loi de finances 2027 adopté en commission",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFEVEdwcTRPS3REQWw4UWJQMk9BTUx4ZDZUT1dRTWViaHpUQVZhc3VlbFJGSnRhQkcyVFRWYnZpX1hKWFZJZXBSUndkTGIxdFhxdV9QeEQwMWRuXzB4eEo2T3JiNmVUWk1XdHVZTk5wVzN2MGtiYW16TVgtWFBHNzNBeVZsRjR3Y1B6bjR5MXlZNlZhQVc0VEpueDdsMW0wdmhyWV83NF9ndTFodlV2MTdQNldhdEZFd3c?oc=5",
+   "source": "Mosaique FM",
+   "ts": 1795674000,
+   "theme": "fisc"
+  },
+  {
+   "title": "L’essentiel de l’actu — 26 novembre 2026",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NRzRaZl9ycG83Y0xuR0xkQk9MNklvNlU0SU9oa2hXVS1va2pObmlsaF82VnpBeF92M3lYRmI1Sk9HeFotLUtmWFZlVnY1ZjNiNWpiejFxSTh0RG1HWS1VV0pCaWlOeDJsNUxDZnF3?oc=5",
+   "source": "Presse Évasion",
+   "ts": 1795673105,
+   "theme": "fisc"
+  },
+  {
+   "title": "Le Pen propose un impôt sur les sociétés progressif à cinq tranches",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWJqVml1UGhsVGdMRWhwVm1ZamFWNE56MzVrLUVNcGUtbjMzUG9mcWhraTIxbkNBSDZ5aVNfMTVMM0JQZFAtUG1ZZWZQTWNFWmJWTnRZbmVYSW1sRy03WmJMSmtaR2RhV3I3d1RwSUJ3Q0VFQzJTZUR0RlE5VlN6ZFA4UE1RZmpnLWZiTm9uYnpIbGE2LWM0?oc=5",
+   "source": "Le Journal des Français",
+   "ts": 1795673001,
+   "theme": "fisc"
+  },
+  {
+   "title": "Marine Le Pen promet un \"ballon d'oxygène de 6 milliards d'euros\" aux très petites entreprises: la candidate du RN à la présidentielle veut réformer l’impôt sur les sociétés en instaurant un barème progressif",
+   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQNDF0V2xnMnZMbXRPcVBpcjM0OUxwTTBwNmVuX2pydkhSeGt4UGxScFNCalJtaHFYSjQxck83U1NRMFpLMGZ5UzZpd01Qdk42X2dwMy10VHNMUDlWbDE2T3E3LVBaUTliakdQbV9LenpabGY4LVJEcFNUQmcyUUJLM2ctLVJDWDhWLTZ4Z1MxeDI1NHdZRmlYY2s5akN5R1ZYcU1BSm44QXJ2ZFNZNmVmQTJjaXU1dENab2xwQ2liWWd0YUc2NFhkZm1tLXRBYWNVcDMyakFxbXZKTHhoOEJOaXl0dWw4OTdCZHNQNWFILVkwa0xCb2dQQjlQZ1FQVGtpQ2pLZi00WlpxS2ZSbFEzalROdW9yMXhiRnZtLVZzbEtKeGNMWklvbTJlQmZJZEhhNXVqZmk2RWU5clRCcDlVc2JZbUo5U25wNTczR2FleC10TEg5Yl85dXRjRmpJX3BVMEJwdUN3cWRZQkpDc0o5QVJXX2FmVlZkNWFFcEo5Zkc4cEk?oc=5",
+   "source": "BFM",
+   "ts": 1795671540,
+   "theme": "fisc"
+  },
   {
    "title": "PARIS : Facturation électronique - FIDUCIAL lance Facilia pour les TPE et indépendants",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbklTYnVCckNhQ3UyYXM1OHRqc2daaVJ3R2hXNmVIVW9jY3hHRTRPMFhZTzc3U0c1b0RQNU5mblpKRjVlWFJvZ2MxT1NTczVFZFljdWs2dkIxeDhDZjlRSEd4WDVoTTdheWEzLVM4TGk2R1QwajZ0d2NiQ0JjNlc3akRMQThNdU54Y3g5WGM3TVpHLVhqNGdZQVNtMUZBRW45TDQ5Nmt1NlJBZmc?oc=5",
@@ -83,6 +118,13 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1ZzRzNLUVlHX3FLOWdodUxqUG1tdy05MnF3MWJ5V0diLVdiRFVnTlZzUmc2eTNWMHRUQklieEUxX21kSk9sZTFGMk1BN2xFUHhsZklLXzFoZW90U3FEanF1eWdqOWIwa3p3amljZVBSbkFuT1VJMk4wajM3Zy1XbTFSX1hZNC1QX19VaEZRU3FqUmhGZTI0WTQ3S1c0SVVzSEd0d0RoMmMwd2JiRkVYemdvZGN0akhBZGZCd09OY0RzYXV0T094bFk1MVFtY1J3MmdUU1BQeGVmdw?oc=5",
    "source": "Public Sénat",
    "ts": 1795653229,
+   "theme": "fisc"
+  },
+  {
+   "title": "Le bénéficiaire du remboursement d'impôt doit connaître les seuils de 1, 3, 5 ans que l'administration fiscale peut vérifier à nouveau",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlNvSzhJQ0oweXhfTUdsbWRLM1M0RGgtR1BfTDg5cmUxeVRjZUdMTzM0aC1KSEx3MF9VQlB5YlE1OEl4ZnhRQnB1SGg0dUx1NUNEMjBBcGFMYjh2NGdhVVVBRHF4QklWRy1DVjBLZk5ReUx4VWlWUG9CYno1TnNsOU5MMlNvTE51M0NEeS1kYnVIVy05U3NpYW0zX1Q0ZElXZzVjemtiMXhIOTlQcHdFZENtMUZ1bkZNLXc?oc=5",
+   "source": "Laodong.vn",
+   "ts": 1795651684,
    "theme": "fisc"
   },
   {
@@ -107,6 +149,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Exercice illégal de la profession d’expert-comptable à Guémené-sur-Scorff : un septuagénaire et sa femme jugés",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVW83bHdDRElaMVlxbHlWUXQ5LTY4TkY5MlFXZnAwMnZjMjFWT19ZU2NIcVdPOTJSTGliUV9pWHdFSTVFMV9JZ2JBMmtlR1BWZXh5c3dpSGhIbC10LXgtUnNEUldJVjVwbVBpNlFkZExPLXk5cVVJVlM3NGNnRWFPZk1IRGJIU2MtTzhlV3cwanZWOFhUNDhQNmhhN3NUYmQwVlhXT3dyV19TcFRZSWxzc1NNaDkxZzdKblhmc2dpRTltbnVpRUIwZFYxVTdtS0VaNE95bnlOUTRBVE9ad2IxNW9HbHlramdwanpIbzNDVkxFdHFBUzJQR1NLR2s?oc=5",
+   "source": "maville.com",
+   "ts": 1795636980,
+   "theme": "compta"
+  },
+  {
    "title": "Jusqu'à trois milliards d'euros de fraude : la Cour des comptes dresse un bilan cinglant de l'apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcU9wNUhuZURzQWwyWDZNZEdOOWg0YVo5MWZSeUpQUnVyckNHXzdmb3dfMlRWUzVBUjNnOFZQZktBQXFrSWJmNjRFVTV4R1N2akVJTEplWDdvSjNuVDgtd2xDMzNSc3QxZ1hWVnRUWUxhb2xmNE92QlhQYlh4Qm9KNUo4MFM2c0dXdXl5OWY2WEZqZVZ4ZDRlM0FtdUFlQzU0bFhrODYxankxTlpvODB0bElFcGtFNGt3c2tFUHQwelJSSndQUW9yWHZHOVNsZGJ5Wk9NdXVIcGx3UdIB3wFBVV95cUxOaVppQnFmczVLdDdPNnhKUTc5bFhTVW9OamRkVTkzX0JlWDJVdDJtbWszazlqRlJtZzJQUzY5TDRSZGdVNTJFTTU5UWxFTzg4YUotMHNnZE9pZlNXWjZ1Q3E4QWZOV1JWZjJjUlY0NmVOcFh6V0U5MlpoYTZTek5OVnNHcDl3NVNKYlRpZ2JqWWV5Z2ppTHdjS1U1a2ZoSEdtclRiNjFBa29QYUs2Nm9wbU9fNFdXQ29EeDRMYWhmTnNRQWZIYldmcVJIWUxxMGpjekdjZmJnNnFhUElzdk5Z?oc=5",
    "source": "Europe 1",
@@ -114,17 +163,10 @@
    "theme": "alt"
   },
   {
-   "title": "Exercice illégal de la profession d’expert-comptable à Guémené-sur-Scorff : un septuagénaire et sa femme jugés",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeHUtaDVBQlNncjQ1QVdFR3EzNFV0QTZkUkl5dTZLR2NNM1lWbHY0Vy1vVVg5dEtqODU1eGVXYmg5YnNHa2t6RlQ2NXlsX1ozemgybDEzampKQ093eEhOZnEycWVETU5jTHZ3cnJzb0o1aDJTWmhUaXNvaXFYclZvcGpPOTFJVHRSbjN6NkVfQ1hHQlFuTVhHM2poUE5oZ1hOLUNXdkl3T2NKRlNfWjlBMUQ1V3BXb3o1ZEdnMFdmUHFsTUxRVlhHbnd3cmtpQmZiMlF0N3B0eTBTU2U4ckRERmhvdThoX2FuRDBmMDJXRW9nMkNZOWtHazJNTWhHdU9maXgxcWZCOFFtNVdZbFYybjJ5SmRPaVU?oc=5",
-   "source": "Ouest-France",
-   "ts": 1795633406,
-   "theme": "compta"
-  },
-  {
    "title": "Apprentissage : la Cour des comptes pointe une \"faille systémique\" des contrôles et jusqu'à 3 Md€ de risque de fraude",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUFlEOFlDU1NDZTllYnRyVm9Ebjl2TGdYNnFRUzM1bjdMbGQwemVHbFVfYnFoclpvQ1FOcVZTWEhJcHYzSnhoc3ZXOE9acVlWaFJweWtpcnp5R3ZiQ25BOE82TmUxVllyOU1IRDNDck1VNFBjYkFpSlA4TXVsLVdlOUVfWlhPXzhFWEJXODNSX2JmcE5QcFlBeFBvWkZoSnJfb3NQZnYxcE9EWm5MS1dyenhqUHc3Y3JMSi0yaWx0YzJjd05MdElNemNhX21UbEdJSm5FbHh5UHlEZUhKZzRNdzhR?oc=5",
    "source": "AEF info",
-   "ts": 1795632720,
+   "ts": 1795632978,
    "theme": "alt"
   },
   {
@@ -507,7 +549,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -930,7 +972,7 @@
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNU1d0NVVxTGg2aWNpQlAzNy1Gb0xuT3pFQk4tcHoyaUptOXItei1Da2NTTmhLcUxPMUFsaHRBekxSa2ZXbnlNaXNVcFVLb3IweF9TU2h0LUtZVi1Ub0dBSGJ5aWk5UDRlcG85ZnNxSUJveWF1ZkUzX25BNF9Hc2p2RXE2VGRYR2F3em1jMnRyeWlwaHdCSjFoS3FGSjZCR0o1Zy1aYVkwUGZFYzdRdVpneW5qSk03aloxQ2RxanUxLTVjUmFWU2FIVG5jaXFjY254bWo4bWN6SmhDSTlxVV9qUkFwN29lWjNsYk94VzRaTmRxM0Z2R014akdyV0Uwcjd6dUhTMVVWS2F3ZnRleWF0WjBRZzFZaTRPRl9EcXFB?oc=5",
    "source": "Ouest-France",
    "ts": 1795411820,
-   "theme": "fisc"
+   "theme": "compta"
   },
   {
    "title": "Taxe de 20 % sur les holdings patrimoniales : votre SCI familiale est-elle concernée ?",
@@ -1071,48 +1113,6 @@
    "source": "lanouvellerepublique.fr",
    "ts": 1795338000,
    "theme": "alt"
-  },
-  {
-   "title": "Taxer les riches pour réduire les inégalités : quand la gauche s’appuie sur une étude économique multi démentie",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUdQSFA4NUlsX0NJR3FUSkFRZV9WTW5adkZuUWphT0VKbGhlWWZnVDVRenp1Y0sxemtiN2JTNmRMMUxuSWQyMnlaWF9OUE5QNFZodjZpRkItSk5SLTFYY0RRckdHOEg0TFNLWERNZmdNS2pOWVRWTWFNb0QtdTd0dEE3T0w1R3VCR2YySDZ4dWtKQjVKUlVOZ0xKRGYycDdtSUJEVkZERQ?oc=5",
-   "source": "Atlantico",
-   "ts": 1795336585,
-   "theme": "fisc"
-  },
-  {
-   "title": "Transformer les exonérations fiscales en productivité et en emplois.",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkRmWXBkVmlRelJPYWtZZEItcVczZHdtZDU4MXNoeHhabGh1THFGbVdnWnZHdEJoYXNoZGFxdVg3SHlkTHdkTTJTcWxxUWJKbk9XTHNBd1FpaFRxTnpYcC1aWllUeGx5dFVqM21JdEREUXREOHpMV1NJNjFLWXVKNEdSUlg0VHZuTk9Oa3MycE1YYVR6a3piZnpRVnRSUQ?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795335130,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : la piste du 49.3 tient la corde",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1NpMzFQRnZRdzNaX3FuXzNQcTgwTlVLT3BQWWhDaEhVdEZDNmRHck5oLWJBbW9NakpYWXZYbGFzUWtMbko3ZEJSOTJPXzBTd25WaURjV042cFI2NjBNYzYtZG5uREtIOHFWcm4xYWRXV1F3dlA5aDRuM201QTBvUFo1ekZkWlV3WUJKUHVjY0o3LWJDM3VyQnQ2clFxNlhXT01fOExZVEJNOXc?oc=5",
-   "source": "Les Echos",
-   "ts": 1795334709,
-   "theme": "fisc"
-  },
-  {
-   "title": "Plus-value terrain constructible : calcul, impôt, prélèvements sociaux et taxes du particulier vendeur",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2s4MmcySjVYeWk5YTI2N0JiS2ZzTk9PdTdUV3A4X3labVYxeGdWQWI3bjlnNGhEMkg2UjNMXzBhQW4wYWoyVjZiUWZDbXF0TkFGb01BN3BiZTY3eEEwaG4tWVRyUDlZZkpIaDl3cm9KSmxtcjh3MTQ1a2hjUE9DdHFYRG5ITGpfUzZWZDlQdVByS29jcHdGenJQNW1Sb3pNREdlbU52UVNoMGs?oc=5",
-   "source": "Reda KOHEN",
-   "ts": 1795332780,
-   "theme": "fisc"
-  },
-  {
-   "title": "L’UTICA veut des soutiens, de l’investissement à l’export",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnlXemRZay1kWmdyMTVoTlQ4SU9rTkJ6LTk1WGtzdVVvYXZ5WVMwcE9BSFN5ZElpMTdhMlFHNVVZZkdQTGZ2UWRBb1NNbnNVV2NOWnZYU1FPWTRpbldkbXlhNWFVVVU0bVhRajlKSmpPcmhadjI4ZktKZ3oxR1AtdTlNLU1YUU1rM0V1LVZWdzJjUkNnbjk0dFE0VVlCYWhiR0d3Z2Z0RV85YlJPWFE?oc=5",
-   "source": "African Manager",
-   "ts": 1795330920,
-   "theme": "fisc"
-  },
-  {
-   "title": "L’UTICA propose des mesures pour soutenir l’investissement, la production et l’export",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnlXemRZay1kWmdyMTVoTlQ4SU9rTkJ6LTk1WGtzdVVvYXZ5WVMwcE9BSFN5ZElpMTdhMlFHNVVZZkdQTGZ2UWRBb1NNbnNVV2NOWnZYU1FPWTRpbldkbXlhNWFVVVU0bVhRajlKSmpPcmhadjI4ZktKZ3oxR1AtdTlNLU1YUU1rM0V1LVZWdzJjUkNnbjk0dFE0VVlCYWhiR0d3Z2Z0RV85YlJPWFE?oc=5",
-   "source": "African Manager",
-   "ts": 1795330920,
-   "theme": "fisc"
   }
  ]
 }
