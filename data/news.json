@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-26T04:16:04+00:00",
- "last_success": "2026-11-26T04:16:04+00:00",
+ "updated": "2026-11-26T05:27:44+00:00",
+ "last_success": "2026-11-26T05:27:44+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 57
+   "count": 58
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 63
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 88
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 44
   },
   {
    "query": "aide embauche apprenti",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 43
+   "count": 33
   }
  ],
  "items": [
+  {
+   "title": "PARIS : Facturation électronique - FIDUCIAL lance Facilia pour les TPE et indépendants",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbklTYnVCckNhQ3UyYXM1OHRqc2daaVJ3R2hXNmVIVW9jY3hHRTRPMFhZTzc3U0c1b0RQNU5mblpKRjVlWFJvZ2MxT1NTczVFZFljdWs2dkIxeDhDZjlRSEd4WDVoTTdheWEzLVM4TGk2R1QwajZ0d2NiQ0JjNlc3akRMQThNdU54Y3g5WGM3TVpHLVhqNGdZQVNtMUZBRW45TDQ5Nmt1NlJBZmc?oc=5",
+   "source": "Presse Agence",
+   "ts": 1795669200,
+   "theme": "fact"
+  },
   {
    "title": "Trop-perçu de salaire : calcul, délai et remboursement",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TTWM0eVg0d2xwZzlSaEpGNVZxVW9FQ2dlY3Fya0lUeHBtTG04cUxGZmdxY3NFNXkwS3JxYTJ2WXZDZWF4U1lpWGhENDk5bDgtMktqYmpVbEFMZUtHQUxYQ3dsRmVLaG43WHhj?oc=5",
@@ -500,7 +507,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -860,7 +867,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJramZ2TXpZcElmbTI4UUlNOElZekpMM3dIS1FMenFfYWVxRnhwNHY1YUxpQ1lxQUJDWXJGazNuVWptTUE3NkJnWTB6bnV5X05pYmgtNm16bU5tWFg2eEVtODZFcUV5UUhxQzR6QkZfWVNqUGJEVWthdjlzcHI0ZnVhWQ?oc=5",
    "source": "Compta Online",
    "ts": 1795422133,
-   "theme": "fisc"
+   "theme": "compta"
   },
   {
    "title": "Les zones économiques spéciales en Afrique, un potentiel encore sous-exploité par les entreprises étrangères",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnlXemRZay1kWmdyMTVoTlQ4SU9rTkJ6LTk1WGtzdVVvYXZ5WVMwcE9BSFN5ZElpMTdhMlFHNVVZZkdQTGZ2UWRBb1NNbnNVV2NOWnZYU1FPWTRpbldkbXlhNWFVVVU0bVhRajlKSmpPcmhadjI4ZktKZ3oxR1AtdTlNLU1YUU1rM0V1LVZWdzJjUkNnbjk0dFE0VVlCYWhiR0d3Z2Z0RV85YlJPWFE?oc=5",
    "source": "African Manager",
    "ts": 1795330920,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi de finances 2027 : l’UTICA propose une TVA à 0 % sur les équipements solaires et de nouvelles mesures pour les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEJvcXhjX2tZRlJGNU1qZzVXTU5kc1d6dWxhTGJEaVE5RHB2cVR4dlJnbkcxdWJESTRDU25DbEZoZ0ZBZU1Xdk85Y3dKQTJoUFlmV0tjUE53Q3FsSlRKUG5PMElhY3d0TEhidUZFX0lwd3M4ZEo3Tk5pLTJXSVRaNkZjdlJNQkwtNGd5MUFmckd0U0JWWHRxYVFrM2hJem94OXRZeXVqS0U0bnU3dTYycHdaZjhyLVRIcnVXRHFmeE93YnRGeXViUk5DbXVoQzY2X0J2SVh3WVJBRl9DMVR5a01NYnVVZUNxUllteXZ3?oc=5",
-   "source": "La Presse de Tunisie",
-   "ts": 1795330339,
    "theme": "fisc"
   }
  ]
