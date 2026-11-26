@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:16:02+00:00",
- "last_success": "2026-11-26T20:16:02+00:00",
+ "updated": "2026-11-26T21:11:27+00:00",
+ "last_success": "2026-11-26T21:11:27+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -20,17 +20,17 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 61
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 92
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 36
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 35
+   "count": 17
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 44
+   "count": 43
   }
  ],
  "items": [
+  {
+   "title": "La réforme de l'AVS 2030 risque d'avoir beaucoup de retard",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmtSMkQ1ZjZLY3NXZS1ROEIyV0k5RlFYWFhvYVZ2Q2YwTDNLckZndTZqMkpNQmxWMzNpRkw4NUV2eTh6TkJoU3JMOW5JaC12Z2hmVVJfWWwwTWczS3BRYWlwcGxZOGxuZlFnU1RVbk1lRU9QTkJIWWJSS1FVdVBYQlhoZVBrUWg0ODVXZlpR?oc=5",
+   "source": "Blick",
+   "ts": 1795723814,
+   "theme": "fisc"
+  },
   {
    "title": "Pour les petites entreprises, la baisse d’impôt promise par Le Pen soulève une question : qui en paiera le coût ?",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeml4NVFwQ3J4RGNQYU5TQUY3ZTlrbEpocExKVC00M00weDRGQXlmbHZWMll2SnYxMng0UXFjUWotMFJRSURYZm8yUUJuNnF0eG9Oby1oVVNnR0hDWVZpMzJnMFY4NVZpNW9MWmp0cnF0VzNyMWF5ejQzdjZHaEJUa2JWclhXMEF0bHpjMS1ZN0ItNlo0dzJsZ0pzUld4bGY0WWxITWxxTkZYZ3NFcHJaODFRbGVHaEpxaktNVWk5VEpiNWh0VXZUY0J6Q1dVaGV0MTFOQWtVRkRKRlZxTUFZdFBFOERObENmWHRwdHRlQWVlbW10S1o0?oc=5",
@@ -79,17 +86,17 @@
    "theme": "fisc"
   },
   {
+   "title": "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTWJnbWVlVV8tVzB0ejEwMVBWS2FnNVhnWG1LVmsyWE96czZ6SXpJLXBKZUlabEFkd2I1U0NIa2ZMWG13VGNLcTNTaUhXOERLVXlrWUhSM09UOElHUzlLaWZsYlA4SlBRN0pIcFBEbTNYLWo1cVBJSmZ3SHF4aTdaLWswbHh5VXBReVowZm9jR1BnbktJUTFMR3JVbjJVaElIZGt1cDhKaEo1NlhRR1lSWjBBcUFXczFDelV2SXNXYWVBV0lYZWpJM0UxRlpMWWZKTmRLRWU3VGJGZjh3Slp3Q3FlbkhoRVRMTXhOLVowc3pIUENETEpV?oc=5",
+   "source": "Le Monde.fr",
+   "ts": 1795712409,
+   "theme": "fisc"
+  },
+  {
    "title": "Présidentielle 2027 : comment Marine Le Pen veut réformer l'impôt sur les sociétés au profit des PME",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV0dDTjdqN3FqM2JpZC1xamlPM0dqcnIwcVB2aUczN202ZUg3M1NvY2Vtblg4dG1sZ1FtQmZWc0E3QkszUENKbFNIU0g0Y0dvcTdvaC02cy1ONnBNQ3ZLSXJwcVRjRDQzaHFUbjh1Wm05TFN1SUxfM2w5WDVmNVZEMFJWcVZjQTdkTDBDaVRkZjZvVHBDcnVUaTBPV1o5Vkh0SUdROVM4eG5ONVV4TFF5U3lxNlN6R3ZHM1RkRW96OXR4T0czZ3I5c2g0M1FwakpFTW1ESHNBc3duTzdobWJPbUtESURZaV9udDk1U2pHV1VDN0k?oc=5",
    "source": "Les Echos",
    "ts": 1795711997,
-   "theme": "fisc"
-  },
-  {
-   "title": "La réforme de l'AVS 2030 risque d'avoir beaucoup de retard",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmtSMkQ1ZjZLY3NXZS1ROEIyV0k5RlFYWFhvYVZ2Q2YwTDNLckZndTZqMkpNQmxWMzNpRkw4NUV2eTh6TkJoU3JMOW5JaC12Z2hmVVJfWWwwTWczS3BRYWlwcGxZOGxuZlFnU1RVbk1lRU9QTkJIWWJSS1FVdVBYQlhoZVBrUWg0ODVXZlpR?oc=5",
-   "source": "Blick",
-   "ts": 1795710580,
    "theme": "fisc"
   },
   {
@@ -759,7 +766,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazNmRkpvb3BJRXZybDBBNlNxVWI2UkoyR1VRWVhVeHJKdHdVcG43RW02ckxkY0hteEtCR0o4SjVlSHl5OHVYUG1BTGtaRmpmTTYtVFdTNmxvaElUZUdkZXFsR0FfUVJvNkcwNFJRWERPamNjVE95Z2V5N3dpV2hPNFlPZS1nQ0dMMTl5dWc0S3F5bnJReWRlTTBVb190Yk51NGt1dG9OVm1tUFZa?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795429620,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique : pour beaucoup de PME, le vrai chantier est le logiciel maison",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
-   "source": "JDN",
-   "ts": 1795427002,
    "theme": "fisc"
   }
  ]
