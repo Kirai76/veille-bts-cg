@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-26T03:07:32+00:00",
- "last_success": "2026-11-26T03:07:32+00:00",
+ "updated": "2026-11-26T04:16:04+00:00",
+ "last_success": "2026-11-26T04:16:04+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 57
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 62
+   "count": 63
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 89
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 35
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 15
+   "count": 34
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 42
+   "count": 43
   }
  ],
  "items": [
+  {
+   "title": "Trop-perçu de salaire : calcul, délai et remboursement",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TTWM0eVg0d2xwZzlSaEpGNVZxVW9FQ2dlY3Fya0lUeHBtTG04cUxGZmdxY3NFNXkwS3JxYTJ2WXZDZWF4U1lpWGhENDk5bDgtMktqYmpVbEFMZUtHQUxYQ3dsRmVLaG43WHhj?oc=5",
+   "source": "Culture RH",
+   "ts": 1795665663,
+   "theme": "soc"
+  },
   {
    "title": "Budget : le Sénat reconduit la surtaxe sur les grandes entreprises, allégée de 2 milliards d’euros",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1ZzRzNLUVlHX3FLOWdodUxqUG1tdy05MnF3MWJ5V0diLVdiRFVnTlZzUmc2eTNWMHRUQklieEUxX21kSk9sZTFGMk1BN2xFUHhsZklLXzFoZW90U3FEanF1eWdqOWIwa3p3amljZVBSbkFuT1VJMk4wajM3Zy1XbTFSX1hZNC1QX19VaEZRU3FqUmhGZTI0WTQ3S1c0SVVzSEd0d0RoMmMwd2JiRkVYemdvZGN0akhBZGZCd09OY0RzYXV0T094bFk1MVFtY1J3MmdUU1BQeGVmdw?oc=5",
@@ -186,7 +193,7 @@
   {
    "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1RLeFgtZTUzTDgzdWRfcVRmUmZsSThORi04WHRncWFrUGFJZzY0dUNxUHUtelp3bDZRU3lYbGdEWGozY2JleFV5c0hWaHFNUWxUYXdyY1JzTEhfc2RyNFIzc3k2TU9vSDJ0UW10YzQwMER3ZTRlamhVdnRnMmJSSlZKQUMzR19qTWtMbHdtZVAyYWxEa0U3NXFHcG5YX0JOTGFheEZvdzF3MG5qQWdHZkVKTHh4WmtBcWVuWW5hbDMzWE96YWVrLXFMdnFLZXlXbkhGMV9hYW5XN2s?oc=5",
-   "source": "Franceinfo",
+   "source": "franceinfo",
    "ts": 1795609253,
    "theme": "alt"
   },
@@ -818,7 +825,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEJvcXhjX2tZRlJGNU1qZzVXTU5kc1d6dWxhTGJEaVE5RHB2cVR4dlJnbkcxdWJESTRDU25DbEZoZ0ZBZU1Xdk85Y3dKQTJoUFlmV0tjUE53Q3FsSlRKUG5PMElhY3d0TEhidUZFX0lwd3M4ZEo3Tk5pLTJXSVRaNkZjdlJNQkwtNGd5MUFmckd0U0JWWHRxYVFrM2hJem94OXRZeXVqS0U0bnU3dTYycHdaZjhyLVRIcnVXRHFmeE93YnRGeXViUk5DbXVoQzY2X0J2SVh3WVJBRl9DMVR5a01NYnVVZUNxUllteXZ3?oc=5",
    "source": "La Presse de Tunisie",
    "ts": 1795330339,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi Malraux : conditions, calcul de la réduction d'impôt et recours si l'avantage fiscal est perdu",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHV0NS14a256SFF2MjYwMWhzLVE0T21xdUlvQ0hoX095QnVESC1JNk9OQWlDSWJGUEg2RFp6U1haeEdoeDFjM05HWG44YWxhcUxyUURCaTJoUG8xSFBIMWpoVXVDcXFvZ2Z3NVRkYXZkdjRITE9VYTFlc0xVWXU2T19LaTdwcGYwM2pyZmw0UjRpaDdMREhLdXBfRVFxUlNoUkFoSGVWT1FWS3BFSmpUbw?oc=5",
-   "source": "Reda KOHEN",
-   "ts": 1795321800,
    "theme": "fisc"
   }
  ]
