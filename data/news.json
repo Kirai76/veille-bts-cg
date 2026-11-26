@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-26T09:21:53+00:00",
- "last_success": "2026-11-26T09:21:53+00:00",
+ "updated": "2026-11-26T11:08:03+00:00",
+ "last_success": "2026-11-26T11:08:03+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 53
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 91
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 35
   },
   {
    "query": "DSN employeurs paie",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 62
+   "count": 63
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,66 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 33
+   "count": 39
   }
  ],
  "items": [
+  {
+   "title": "Autónomos en Espagne : TVA annuelle, IRPF, Verifactu… ce qui change",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3AwMkxOZGwtSFFqakNteTZnc2VGeW1SVjJnQUdmTU5KZnBSVlk1TWJFLWNrR21GWXhjRW9hbHVwZGtNemxwdGQ5M205NXREWjVhbXFSUTRjOUdPVEZIS3VQa19mUm4xQ0NGOWp2VkFDQVZyck1LNEFlOUw2VEI0LTRiUXZUTG82SHR2Q2p3OFJGREdiQ0RsWDNkUXNPWHZCLVBZVGVJSUUzc0tyV3BRM05qaXVTdw?oc=5",
+   "source": "Lepetitjournal.com",
+   "ts": 1795690513,
+   "theme": "fisc"
+  },
+  {
+   "title": "La Cour des comptes alerte sur la fraude aux aides à l’apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzMm5oYi05dWUxQnRhUUFjZjZYbVRNUFc2OF9EOGRJVkVjUUtqTGlXdm9ENEdyNHV1ZUNNLVN2bmZUU1RRVnJ2VGFROWRLMXpTOFQwUWduZU1STzBEWG9tNUxGbFEwdURPUG5qLVVtamFNdWFO?oc=5",
+   "source": "l'Avant-Garde.fr",
+   "ts": 1795688575,
+   "theme": "alt"
+  },
+  {
+   "title": "PLF 2027: Les industries créatives en quête de financements",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNndpMF9UWWYwUEFpSHhLMWRyOER1dTY5OFg1NVVkNmJZUmY5MFlWQlMtZkpHeTlyNm0tRk9rU19PeXItY1N4bEJCUEp3Z2hrMFkyZUt5T1F0NnhncTlyUUhxaEdVd2VROUdBcm5GbGtmczVycVlhNGY3enFzUmNUdGl5YlhMN0lIcW5NN3FCeWpZYm11TEZBeGpUb1NZOUZa?oc=5",
+   "source": "L'Economiste",
+   "ts": 1795687680,
+   "theme": "fisc"
+  },
+  {
+   "title": "Expertise comptable : implid se rapproche du cabinet CEGB à Vincennes",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEhwcXZIa2FGc3JwMmJUbG16cFhGNEE0UlFqbjFnZnNEanU0X1RkT0QwRzZwMzV1YV9xQjBMYXAwdjd1bmZPSWRRMVhNR2V0bm0wZW5KQmw5OGhqZmtQTHZsdGtETXZwdEowOURRcVBQZmtYUXNxdVU3YkZaSnhNeGxRQ0t0QUVRejBmenhsaGF5MThYWDVGdjNYZERWOHd6Ynp0cVF3X2tKaV93aVVUV0lZSW5aZw?oc=5",
+   "source": "mesinfos",
+   "ts": 1795687260,
+   "theme": "compta"
+  },
+  {
+   "title": "Impôt sur les sociétés à 15 % pour les petites entreprises : ce que propose Laurent Jacobelli",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1Y3U2ZjcUE3QWdJczBYejRhNEt2WnBNVUNWR3hPR19JcmtDWi1HaF9XTktldFhUS09RUDk2dEFlNG4wNW43VUVhYWs2SWJJWThKbjIya2lhbjhiYkI4YnNpQXpaM0tOYkFsYmNUcGlIR2lHaHZnMERQdnhKT1Z4UXNUQWc4VmpkWFJGRFNGZFlrT2h3NWJVT0Q0ZUhVTGs?oc=5",
+   "source": "Economie Matin",
+   "ts": 1795686694,
+   "theme": "fisc"
+  },
+  {
+   "title": "Les experts-comptables en congrès régional",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWNWdV9WQ2lrVF9zakJjVzFVeTlHVklTSE51SGxqNENDM2ZMOU1kTXlsRWdhaEhKSDBSOTl0aFlJemhFenUtcE5SVXJfeWtsS1BHMGZZRWx2ajdUZjRHbzE4MzlvenNyUVRCcHR2V1l3bVhnZ0ZXVDM3TV9yaUJnNXlyTFVITVJkOFE?oc=5",
+   "source": "La Vie Nouvelle",
+   "ts": 1795686245,
+   "theme": "compta"
+  },
+  {
+   "title": "Budget 2027 : le Sénat approuve l’effort de 5 milliards demandé aux grandes entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEdFdUJxWTBwQjJacG9kcnFqb1JQaUwtMkJvSTdsZlJaTWRZVUNmQXB0ajhWb24yamNZVzY1MDRpcW5hcFBPQXhDdFN1SDZrak52TktrR2pqcGRUMVhicTduRWpZd3lvZGtneGVZVzhkN2dtZ1k3RHBJMWpXNnpnMmFkRFJjSkU0NWd0d3NmYUNueGlPeVZoWjJUTHZFUENLd1U5UVRIRXdaaS1WMndmYzJwWUsxU1ZFN2c?oc=5",
+   "source": "Toulouse7.com",
+   "ts": 1795685443,
+   "theme": "fisc"
+  },
+  {
+   "title": "Chefs d'entreprise : les échéances fiscales et sociales à retenir en décembre 2026",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUE92MjFPbjNmOVlZZW14cTVuS1c5aFFGa05Nd1pQZXJQSkhHaHFrRmNESUxCZXRQUDhHd25fVGZDT2F2aE9RSUI0T1BUVkt3bjZBSXh6eVYxVDgtdUZ4Yk45aTVvTENhRXVWSXB3VjQxRzB1aUZqUUMwWFpJcTNZRWRGdUJmU3VpemNtdjB5QjlJc3hpX0UwMlhkeW9Hd0RwYVE?oc=5",
+   "source": "Tribuca.net",
+   "ts": 1795685442,
+   "theme": "fisc"
+  },
   {
    "title": "Loi de finances 2027 : des députés proposent un rôle accru de la BCT et des mécanismes de soutien aux entreprises créancières de l'État",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZEhvRmRkNC1zUFgxSWtCZlA5c2tjTEFkZFhlSy04aGNtQ2wtQUFLekVUT0pCLWpEQ3k4VnpDSlVkUjA2V0ltUW02Slp6YS1GTmR1Qy1RWXIwVWpCNmxDM09lcy1Cd0JxRl8yMXd5QTRCc1ctU09VY3ZDQktsRFhOUXFkMTNXLThaWF9QQU1mZFlMNzRlaW9vcGxGX3FMcHFUMTVzd3RrZkRWNGhUcHkwaGZKTGVjX2w3Ty1KWmJxZ004am9TRFFJc3JSOXpueHVvaDZLOFd6QlZyVlNfak0yLXEwQ0dsSEJBbFprS0tyRlZ0a2ZDbU5mWVptWXZMY1AxS1pNTnE5OXVYalQyUVpmRU13?oc=5",
@@ -160,13 +216,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3NLVG5VaWdpb2JwT0VIVGU5TUlqTWxGZEk4Qi1qRHMzLXIxaDY3d3FVQlNGREdDNXpDUjJPVUxQN08yWWxGWmtzTXh5ZWQtRFpEaGxmUXI3ZURzdlgzZFJ0WUY5M1NxOTFET3Y1TXExeEVzR1dkTUg4bG9ialotU2Z1b3dsSGZBT3luM20xcUhTSkdESGxoOFdDS2FZbDA4emRzejFjTTdtRWM?oc=5",
    "source": "Fiscalonline",
    "ts": 1795650000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Budget 2027 : le Sénat approuve l’effort de 5 milliards demandé aux grandes entreprises",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUjcyZ1BCY1Q1SVhOcVdpYmdaeXItVG5TUlZhYzA0MGpYWk1xNE55TUtkRGliUVI5UVYza240QVA4T2JhU3VRRHc4QzIwWGp5bWNDTDZtTlF4RXVnY1g0SlFKM180SUg4SExfTUJRbTVTMzk4U1FVSUFqbE8xZXJqbTZhU3dKalNmMm5QNlJpc0lTNVJEalkxbkxUdE1HaHlYWVBXd1NySExNZGRqTXlleVBfOXRfNlEwOEVoR3ZEV05ybVpiY01ILWprVGxJejVJUXd0bnVtUWMwVi1xYk5ZempRaUFyM2RMTkRubVRlZkx5UDJMSFU0MEtXc2dyWnFBSlg0S1VpM0lwNllieUxDVThB?oc=5",
-   "source": "Ouest-France",
-   "ts": 1795648227,
    "theme": "fisc"
   },
   {
@@ -618,6 +667,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Congé supplémentaire de naissance : l'employeur doit-il maintenir la mutuelle ?",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFMeXNOZTdpaTlUMVFOUnBHTl9aMHAtM1VrdkdTUk15dzMtazJ4ajVjek8wcmxiZ0JUc2o2U2RQdlpwazh6Wnh3dW5LRDloMHVHSlJoQVRKWDdCNkIxX0hSdG8wYkx5UU9VbDlJVzdhOURYWTU0QkQ5QlBEczBwejJDUVYzc3JVbDVxY1dsaDBacjc3bGJkcEtvLXhuS0FPRms4LVRUS3RIWS1sa0o5Y2FqRDU5cWMzMU1kNkRn?oc=5",
+   "source": "Lefebvre Dalloz Compétences",
+   "ts": 1795526292,
+   "theme": "soc"
+  },
+  {
    "title": "Fiscalité: le 30 novembre en ligne de mire",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtYjVJUkctOFhPZjhwUlVIamFja3V4T1lTc1I3QXhEOUZpbmV3N1p4amZtbXJlemV5NFlwWXk4R2FaSlRYSDRLOWJJdjc0NGg5NVZncVp6U3YtOTRaV184NWJxN0FQM1hhV3BtZDVZYzNBR3VfOEJONnBrRXJaUQ?oc=5",
    "source": "LesEco.ma",
@@ -909,7 +965,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fact"
+   "theme": "fisc"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1057,62 +1113,6 @@
    "source": "Vietnam.vn",
    "ts": 1795397177,
    "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : au Sénat, des amendements pour rétablir 125 millions d’euros aux CCI",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHg0elQxcFZ5REtqRmdVQk9GUzRWVnVySzYwb2tjNzVJdWVpNnpZQmNNREc3S2x2TTZRQldaWUVTZFZVbXN4TE5GcVhudDVLNE9uYU5hU05rZloyVm12ZFlvRVp1QkVxTHdsZThwd3g5VTRrbjlOendOdmRIbnUzUEM5YVJ0RFE?oc=5",
-   "source": "Economie Matin",
-   "ts": 1795387015,
-   "theme": "fisc"
-  },
-  {
-   "title": "\"Un policier, ce n'est pas un animateur socio-culturel\" : Bruno Retailleau prend la route avec Anne-Claire Coudray",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQajZXVk5idW9lTENVbmEwaVpFbWFFMzc1aWpMZkp0VkNXRnRSVC1mbFN6bmJQNVZsay1sRFhqMU5oZFM0Z1ptWjdybzl4TFdJRUxLbExnSERlX2U0RldiVnQ0MmczS2xhTlpEVFBDdldCWWNjcnJUSWtrSUYtc0VmcEcwU2hXTjk2WXBscnBndnMwcnNIb2RyRVZoejBFWm1DbDdRQzE2RzhMNnNIZEFjR3VQUi1GVjBHTmZoTXdNc0wzMjBsdGpHT01fMXdlU3lGdDZuUUJsQjFSMTFjcC1CeF8tekpWOWhpdzRLZ051aTFRZFRSMk1IR3lMd1E1U3VBdEJ5TkltVE5yckYw?oc=5",
-   "source": "TF1 Info",
-   "ts": 1795377841,
-   "theme": "alt"
-  },
-  {
-   "title": "Ambérieu-en-Bugey. Diplômées du lycée Bérard, elles préparent leur BTS en alternance",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1FPV2h5dFVtbXotNi1nWm1yRjVYYkpLb0g4Umt1elJRMVpjemw1SnpscWUxdVN3cFEyRkh4YnBJckl6RXdTUmMxNkVMX2E5cUgtZjZnOWdMR1BOclJVb3NsWjE2ZUhNNlRoLWYxSVNwZ3hxb2U0U29iXzlrM0ROZHlrUHVfM29UeGlIcXJmWlRpTHlvNU9BM3FDTUw2VWlYbW9jSTlpcTZjQmhKYzM0?oc=5",
-   "source": "Le Progrès",
-   "ts": 1795373220,
-   "theme": "alt"
-  },
-  {
-   "title": "Crédit d’impôt formation dirigeant 2026 : que change le décret du 19 novembre pour vos anciennes formations",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXlJSGVFS3dRYllxSWVPZTlHNEh0Tkp4M3hDbVNmcXducGN0OG0zbHEwamhTamNqNmNKZVNMVzRNM1l6LTM1bHVXX1BSbzQ3ZUVndGdpTHZMX05rcDFobzdlWEc3NDhnUU1lLTV5YUp3MF92UG1JOFdydDlqZHQ1cDM3V2x6OUpIaVdKcA?oc=5",
-   "source": "Hassan KOHEN",
-   "ts": 1795372380,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi de finances 2027 : L'UTICA propose des mesures pour soutenir l'investissement, la production et l'export",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0h6NnhEejNZWWZieGxRZ25WNVMyUnZFUnVJa2RwcHFjdlZBbUZwUFpoWnNSaDZDN29JYnU0b056UHJiVzZOWjRFMk1NcEtsd05RX2xINDJ5OExXd1lKMTNqUzIxcGZnTmFTN2otdnhlUk9CYm9DOFFLR2RJOUtYdEZWS1FFMHdTeEN2cmVwZkNCT0NQNDR4RXJvMVRkNWdqREhtNkp5cWRQUHB2YjVWS05xOGNxM2EtdDdYcmV6eGFuQ3VaZ1ltYg?oc=5",
-   "source": "Espacemanager",
-   "ts": 1795367992,
-   "theme": "fisc"
-  },
-  {
-   "title": "Retraites: ce que le plan de Marine Le Pen changerait vraiment pour les travailleurs précaires",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYU1WcXRFdGZROWtCVHVfdlN1V28wZGQ0SkY1WTNiVFRmcmpKRHJxaE5UZ1Q1bFoxVVprNmVyOW5nRTdlQmJPLXZadmY1S0ctaTc2b0ZqRC1Ub0RXRHNJYkxaQmZXTXJVb0RhVjVGdVdPSmVMU1AtbjI4TFJIVUhadEtkWDFFdmNwdUJpLWJ5cnJOQnc5M2lidFJQanByd01YZkRJZV9MS1k5STlGR0tzMVBKUjkxdTVJeS1SRnZobnB1LUdkQ002Vk5rdF9Kdm9XSjJJVGpjZXVHSkZSdTBrd3hOcTZJVFlfanB6LVFn?oc=5",
-   "source": "RMC",
-   "ts": 1795365504,
-   "theme": "alt"
-  },
-  {
-   "title": "Arabie saoudite : impôt minimum de 15 % sur les multinationales, champ d'application, calcul et exonérations - Actualités et statistiques",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmhCdkZTZnkzVUtXZzdySXBjcVYycElkek5vWUc5RmRRZjVqSHctUm1kV0ZiUFlWcUFnWFgyOHZib1YzWWxUNnJyRzdPeGxsWkpkWVhQbUhoTmpaYlJ3XzhzNnp6Wlpab1drS0tLT1VqNXZUN1BqNFF4aWRad2NCVGpzN1o3VVlnV1B0Y3NPNi14YzZlWGtfMklOTEphQkRyQVJGR2tPUjI1QVhST181bzM0a2hndFJ1QlNVR2FR?oc=5",
-   "source": "IndexBox",
-   "ts": 1795363825,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loyer sous-évalué dans une SCI : comment contester un redressement pour acte anormal de gestion ? (Conseil d'État, 18 novembre 2026)",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGtGRmVod2gwWmROaTRGVnJKR0xJUmN6X0lRN3pTNWdBQk51c1Z5d3ZBSlRTNXhkRktIbm1zamxGSnVld0xJakJIb2JxazV1NFRUZXh6RHhVUnI1QUtaWUx6cVRUWkpnSW83S2J6WlJ0blF2LVd5REkyUGxuUWFxbnNXMWx0VGVfTkU0bTkwQXV4cFdSZlpZX2VhQUxNT19PMWNsREwyMmdTcFQzWmZOQ3p4VXhCRjlnZ3RrMFF4TzRiaDFjSTk1aVYzMVRlU1k?oc=5",
-   "source": "Reda KOHEN",
-   "ts": 1795349880,
-   "theme": "fisc"
   }
  ]
 }
