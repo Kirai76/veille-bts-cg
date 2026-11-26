@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T15:15:37+00:00",
- "last_success": "2026-11-26T15:15:37+00:00",
+ "updated": "2026-11-26T16:22:37+00:00",
+ "last_success": "2026-11-26T16:22:37+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 57
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 36
   },
   {
    "query": "TVA entreprises réforme",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 59
+   "count": 61
   },
   {
    "query": "aide embauche apprenti",
@@ -55,15 +55,29 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 28
+   "count": 11
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 41
+   "count": 32
   }
  ],
  "items": [
+  {
+   "title": "Projet de Loi de finances 2027: Les nouvelles mesures adoptées en commission",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2JFMTZURExBTnhxSGlNRnRSYUZFdEtOZWwtWVhkU0JRbXZBdTlxaEhNSlR4dnNZQV8xdTc3bmh6X29DTWlhTXE2NGROaUdqUm8yMzFMTEpWUk9EX1gtY0I4ZFFzc2Uwc0pFRFM5eGd5Nkp3X0o5MXFTV0cxRVJCMHVnajZXcjI5WGxCdDVyZFdzaXMwMG1sSVFjTzVpX1FXVlYzV2JXWFJDdUdrcGc?oc=5",
+   "source": "Tunisie Numérique",
+   "ts": 1795707000,
+   "theme": "fisc"
+  },
+  {
+   "title": "Fraude à l'apprentissage : votre CFA est-il vraiment fiable ? Les signaux qui doivent vous alerter",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDZ3VUI2clhFSTlkUW5xMVoyazBGWGxvUzhmRFBlWU52cGZISW5uaGo2aVczb0hjdHdBaVJrT0ljMzEyYm5ldFRNdURaaUJJNzZ0LW1Xd283dmRBamFtU0lUWEpyWWdwN1Rsc2N2OXJlYUg1NnNkbFJNUWx3Y0xWQWtIeHEwTTdLaTJYb2laUDk1aEZsYktYN2pkREl1Q2F4c2c5Nzl2R3FRTXlRNnBQS2tjdGQySU4ySGhNa2NuZXhSRjY0VVVlbg?oc=5",
+   "source": "Studyrama.com",
+   "ts": 1795702162,
+   "theme": "alt"
+  },
   {
    "title": "PLF 2027 : Les députés remanient le projet, quatre articles gouvernementaux rejetés",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjVYSjNZVThCbUVOVUFEN3NwR2hKM3psTVBvUWFQNlpSa0M3NENjd2RESGZ3aEhRdk1SdlJMQXRhZm5NNXRaN3F6NDFlenZPSlJLWDUzZ0ltTGoxc2xVek85Ny05aVN0UUVzYnVkQUF6aWh2S18zNkZCaHRzWjFOVURNa0NEdWpqdlIzaFBNUVlMdlJ3UVlXbGpGOUJXc2NjWjBVTWhZdlJtWHMzUzVETXlfQXNZcHp4cHdHV1V6T2kweVFQVTdFWWFidw?oc=5",
@@ -77,6 +91,13 @@
    "source": "La Vie Nouvelle",
    "ts": 1795698244,
    "theme": "fact"
+  },
+  {
+   "title": "Fraude à l'apprentissage : Jean-Pierre Farandou annonce la fermeture de 30 établissements en 2026",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFFSMjR1di1nTjZYTmtaV3RwZk5vRkdPSklZVFB1OXlZVVhVc040bk9yMUtEOUpERThVRlEyMjRXaW5XaDRkNUlvU25JOGtpdVVSU0t5N2d0a0NpWktqM1l2em1SM1BVNjJHemVQZHFhd1Y5N1NCQXhEWW9HSjRYQVlXVF9QTkpWdFV5eklLRnVSZ0J4MEh2U3BKQUp5blJ3Z2JPY1MtZmJrVkNtUWlvYUhRVFZ5akxfV2hWREszZ0VLZktDLTFjS25aTzU?oc=5",
+   "source": "AEF info",
+   "ts": 1795695540,
+   "theme": "alt"
   },
   {
    "title": "Le rapport de la Cour des comptes sur les risques de fraude et d'abus ravive le débat sur le pilotage de l'apprentissage",
@@ -128,6 +149,13 @@
    "theme": "compta"
   },
   {
+   "title": "Les experts-comptables en congrès régional",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWNWdV9WQ2lrVF9zakJjVzFVeTlHVklTSE51SGxqNENDM2ZMOU1kTXlsRWdhaEhKSDBSOTl0aFlJemhFenUtcE5SVXJfeWtsS1BHMGZZRWx2ajdUZjRHbzE4MzlvenNyUVRCcHR2V1l3bVhnZ0ZXVDM3TV9yaUJnNXlyTFVITVJkOFE?oc=5",
+   "source": "La Vie Nouvelle",
+   "ts": 1795687138,
+   "theme": "compta"
+  },
+  {
    "title": "Impôt sur les sociétés à 15 % pour les petites entreprises : ce que propose Laurent Jacobelli",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1Y3U2ZjcUE3QWdJczBYejRhNEt2WnBNVUNWR3hPR19JcmtDWi1HaF9XTktldFhUS09RUDk2dEFlNG4wNW43VUVhYWs2SWJJWThKbjIya2lhbjhiYkI4YnNpQXpaM0tOYkFsYmNUcGlIR2lHaHZnMERQdnhKT1Z4UXNUQWc4VmpkWFJGRFNGZFlrT2h3NWJVT0Q0ZUhVTGs?oc=5",
    "source": "Economie Matin",
@@ -140,13 +168,6 @@
    "source": "Boursorama",
    "ts": 1795686350,
    "theme": "fisc"
-  },
-  {
-   "title": "Les experts-comptables en congrès régional",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWNWdV9WQ2lrVF9zakJjVzFVeTlHVklTSE51SGxqNENDM2ZMOU1kTXlsRWdhaEhKSDBSOTl0aFlJemhFenUtcE5SVXJfeWtsS1BHMGZZRWx2ajdUZjRHbzE4MzlvenNyUVRCcHR2V1l3bVhnZ0ZXVDM3TV9yaUJnNXlyTFVITVJkOFE?oc=5",
-   "source": "La Vie Nouvelle",
-   "ts": 1795686245,
-   "theme": "compta"
   },
   {
    "title": "Budget 2027 : le Sénat approuve l’effort de 5 milliards demandé aux grandes entreprises",
@@ -177,6 +198,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Loi de finances 2027 : 14 nouveaux articles acceptés avant le vote en plénière",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ19VcmVjR3BFcUowVmVmb1BKM0xOeXpQakF4MjZiM3FEdnFqMnF6THo5X2ZHR3ZsZmFVRjdxWFgza194MXd6cm10T2dIekY1V21kMnprTEdsSk1RdGlsQzQ5Y05mT1gtc3JfaW1xdFdRRWF6QzlEdkdxMTkyenZUUV8weXVIaWk5UnBZZlRfVWtUTFV5VjZETnJYdEZhRGkxenU3eUZoSklMQ0VQRXRz?oc=5",
+   "source": "Tunisie Numérique",
+   "ts": 1795678740,
+   "theme": "fisc"
+  },
+  {
    "title": "Présidentielle 2027 : Marine Le Pen propose un barème progressif à cinq tranches pour l’impôt sur les sociétés",
    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcnF5LS1YNVFSVTRxZC1zbDdQcEF6R250aFJkT0d0bkY3ZHNEZDBrZWpaZTgxTEYzc2ZkM3RxN0Q0ZVZ4ZnR2QUZTZDhxd2xWU2N4RTEwc1RhOHhjTkg0Q3U1Yy15aG1Na0U0UTVOQ1h2d3VJYms2M2VpZURKb1k2OGhIZG9CYVJkMHdobFBmSUJHeDhoby1EMjJnQlhIS3BQVGR2UjRHSEdaY0VMenB5bUJETUlmTmhSVDRsVndKc1l0UGxyUHhWVWhUV2E2UXdReWNoaXNZMVFTQ1JVc01VbFRCWkU5YkY3UWF6T3ZWRVpHZ28wUnhZQmZOWEhQQXVKRjBQUmVSb09sbE5Ma01FY01QNEVmcDRxWlQyV09QRHNuelIzUEF3?oc=5",
    "source": "Le Parisien",
@@ -195,6 +223,13 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUThnVUcwYTBkN1ZwNWN1U0R2QzlRcTZ1VEEyR0xkWUJLZ1NkbVVZSE1aeGpmVGtxR0VXU0IyeV90enFlZVRwRUtiYVVpaGRkS09waFJoTXBOU2dkbEdQZ002V01NWGs1X3BZQThUQ0QzN1V5dFpheWRUaE1fTlIzYlVoMDBiUmE2V3RPeFBmU1RHZEx2MnNQZm9JdnhJbk1SWWdfSTZndWVTOGVaTGJ1NmNYdGxKSkdoUFHSAb8BQVVfeXFMTmttU1VZZXJKelBPS2pCNlI2U0ZrZTdyN1dfQnJFOUs4Vm80X2xvcWlyaTZzSjJzTlM5cW1xS05uUzRkTC1hZGNJekJJWUpsaEFMbFZhLS1DQjlweDJwNW1UUTU2VFJNRFlPMEpiQzZER2JtTUNLbndwSzhyMEdhZTFYT3hJQUZWSWxaZmU2OXBCVG1xZmpjb2cxV25HYWlSM1hra2V3b0xfc01jYklvMWpnTjB2OG5MYlVTb2xiQUk?oc=5",
    "source": "Nessma TV",
    "ts": 1795676340,
+   "theme": "fisc"
+  },
+  {
+   "title": "Loi de finances 2027 : voiture familiale, amnistie douanière, fiscalité… ce que les commissions ont retenu",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR21LcU83c2VRYlZHUHdpeDlpLTdqUlpvam93ZDdWeUg5ZlpYQmdJYVRJQzJNT0F0dzdYRDhITHh2YTRzWjR4ejdzMjhDSTNBcHhFOVBvY0NCeHZuZkNFN3VNUFdURjYwOHAzQkVPdUlMVGdCckVJbGFVNFZNMUVaWHpKUzEwaXpCNHRsU25HM0FXcEhwd0tZMXRNY2p4ZnVWT2pfQU1yNA?oc=5",
+   "source": "Tunisie Numérique",
+   "ts": 1795675740,
    "theme": "fisc"
   },
   {
@@ -474,13 +509,6 @@
    "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
    "source": "Compta Online",
-   "ts": 1795593600,
-   "theme": "alt"
-  },
-  {
-   "title": "Fraude à l'apprentissage : Jean-Pierre Farandou annonce la fermeture de 30 établissements en 2026",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yamxNdjgzaGtnTTZmd045QlJISGVfMXpjelNGMnZEMV9BUHZuVFE5U19NNUs2MlhLT2publdTa1BnZFdVcTRoY09vS0czQQ?oc=5",
-   "source": "AEF info",
    "ts": 1795593600,
    "theme": "alt"
   },
@@ -1028,7 +1056,7 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
+   "theme": "fact"
   },
   {
    "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
@@ -1085,34 +1113,6 @@
    "source": "Culture RH",
    "ts": 1795420800,
    "theme": "soc"
-  },
-  {
-   "title": "Facturation électronique : obligations et coûts pour les TPE",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHdyOFVpa09NRE9qNzR2UVZmRmFCMGRhS1h5V3N6VEtKYnExRTdMclVzYUt0dGJFd1pUWExCQlF1ODhmRU9MSlNERmZsenkzTjI1ZkxHVFFTS212Ti01c0p1a2piVm5LT0FVWDNsSlJieENBc2JGVS0zcEk0YTlnVFNrSzM?oc=5",
-   "source": "business-times.fr",
-   "ts": 1795416480,
-   "theme": "fact"
-  },
-  {
-   "title": "Sociétés communautaires : Évaluation de l'expérience dès 2027",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU1rN243MWgzZFl5RElSbTJrbFJocXUxR3BuT0E3NThKWGlJWkFHakFiQ0h4Y3E2OGFzTXRHWExLeG1uR09FWmxlVWJzNWZPeWFWOGlILXpSMjFtbU9HcDNzZlU4QklUSURibHdfanY4ZEl2d1ROeGx3ekdSQnZIS1gtSE5LbmVlcG40aTZpRlRRT1pabXQ0MU05SU1JVTZ5WDk1T1hQNC1ra3JFU2VuQ0VJT2I?oc=5",
-   "source": "Mosaique FM",
-   "ts": 1795416480,
-   "theme": "fisc"
-  },
-  {
-   "title": "TVA à 5,5% sur votre plein, même en SUV, Marine Le Pen ne veut pas de «déclaration d'impôt à la pompe à essence",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRDBKYlBMV2IwQWlhMXM5a0FqWFpQcFhuT29GTHdMSjI5anV0ZnFKWkNXQUlkRmw1eWJTeDFwaTA0VEJ5MldBcmtENlhjYW9kT3pHSTZjdEpWX3FKRWx5bGUteUlWdVJKVXR3XzZLTHBOdW1KMVpPUHF4Z0s0SFNIYzYyeVhYZ3c1LVo1akFGMGt3OVVJYjYzVjBSdGRXLWt2M3EwR3BjRTdSYUZCSHlsY0FvMzh1ZXhLczNKRDFHS2NPeG1Ka0JGV0xiTnVseEM5OVV5MHpaS0ZrUUE3dFZPZXI5WmtpWnhYSnZaMw?oc=5",
-   "source": "Capital.fr",
-   "ts": 1795414164,
-   "theme": "fisc"
-  },
-  {
-   "title": "Voici les 50 entreprises qui paient le plus d'impôts en Belgique, mais dont le taux effectif varie fortement",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUhMT2lfcWVzSXJ2ejBiRWJvX3E4MFlHY284Tkk4RHl0c2ZuNTRmNE9GTnZBMXJCVWhHRm9LcUFWRVVRanpLM0txcXRaOWFSMEF4U2t0QWViREFfbHdqZDAwNU5TNGlrYjJ1RFFxa2pkdDdIcjFWMUZPdkZxQzBlTkkxQ1NGaExSeW5nUnd4VFNWMm4w?oc=5",
-   "source": "Trends-Tendances",
-   "ts": 1795414125,
-   "theme": "fisc"
   }
  ]
 }
