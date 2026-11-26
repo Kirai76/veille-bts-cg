@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T12:12:43+00:00",
- "last_success": "2026-11-26T12:12:43+00:00",
+ "updated": "2026-11-26T13:35:23+00:00",
+ "last_success": "2026-11-26T13:35:23+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,22 +20,22 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 59
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 89
+   "count": 90
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 35
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,25 +45,39 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 62
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 19
+   "count": 35
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 10
+   "count": 28
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 40
+   "count": 41
   }
  ],
  "items": [
+  {
+   "title": "PLF 2027 : Les députés remanient le projet, quatre articles gouvernementaux rejetés",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjVYSjNZVThCbUVOVUFEN3NwR2hKM3psTVBvUWFQNlpSa0M3NENjd2RESGZ3aEhRdk1SdlJMQXRhZm5NNXRaN3F6NDFlenZPSlJLWDUzZ0ltTGoxc2xVek85Ny05aVN0UUVzYnVkQUF6aWh2S18zNkZCaHRzWjFOVURNa0NEdWpqdlIzaFBNUVlMdlJ3UVlXbGpGOUJXc2NjWjBVTWhZdlJtWHMzUzVETXlfQXNZcHp4cHdHV1V6T2kweVFQVTdFWWFidw?oc=5",
+   "source": "webdo",
+   "ts": 1795698720,
+   "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : le grand saut de l'automne 2026, entre flou juridique et urgence opérationnelle",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVc1VWQyQnU1Wm9BTHc3SDZVb2otSzJGbUxQNXpHcEhuVlBpY2pqUGMyZktmT1diYmdKeTFlR2doUlRhY2QtQ1R1TkNGZU5naEVQaGNHVjRjS3MxYWhzZXRFZ2hRcjc3QjJQdU1IOTVyYVJ4UWdWRTJqZmlLQ25QNjBUNnlhamRQejU5Q3Q3dUFFTVNpSGRVVGgxTk5zMHN3R0ZUWVhFY202UjBrcUN5YjZGMFFyUi1OMmdseExOX19pcFFFVUlwbHhYUmRwckFyYkREaXloYjJSZ3M?oc=5",
+   "source": "La Vie Nouvelle",
+   "ts": 1795698244,
+   "theme": "fact"
+  },
   {
    "title": "Le rapport de la Cour des comptes sur les risques de fraude et d'abus ravive le débat sur le pilotage de l'apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY3BNZThUemdfVmxxcFhtbFh0NjR2Q2tUMmxqTU9yamVlMmpkbkNvbmI1Znk4U2dYRFVzMml4SjVFYjlpYUphUkppY3lPWnJZOUpPQmNzRUZZYWJnbTJLZzctRG5TNEhydmJZX2FqaXN2M3lLUHZxbzJTNW8wWDdFUU5UMXVtR25PeWxlVGJqem96U0hrLTdGQmJ4dEpmWTZhUmRrbWtWeEsxc2NDekd0ajdtTnloY3h1WGZlTW11WENxV1RSLWstWmVLM0FvWDRlbzBqaHk2NGhnMkNGNTh1dTVCMXV5ektJMzdlbw?oc=5",
@@ -136,9 +150,9 @@
   },
   {
    "title": "Budget 2027 : le Sénat approuve l’effort de 5 milliards demandé aux grandes entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEdFdUJxWTBwQjJacG9kcnFqb1JQaUwtMkJvSTdsZlJaTWRZVUNmQXB0ajhWb24yamNZVzY1MDRpcW5hcFBPQXhDdFN1SDZrak52TktrR2pqcGRUMVhicTduRWpZd3lvZGtneGVZVzhkN2dtZ1k3RHBJMWpXNnpnMmFkRFJjSkU0NWd0d3NmYUNueGlPeVZoWjJUTHZFUENLd1U5UVRIRXdaaS1WMndmYzJwWUsxU1ZFN2c?oc=5",
-   "source": "Toulouse7.com",
-   "ts": 1795685443,
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFZIYkd5eUQwY3pWUVpEbFJXUUVkNHAwODNCMVU2WmtiRUZpb1hvSHR0dTMzNDMzU0lValVidGlmYlVzQmx1bHdaYUtTR3RkN3QyNUZOTl9fVUZuYkJnSzkyR25zcmNjWXVLRFk0UzA4VF9QSDdpVTR0d0VZOEFEQ29RRWRWbEl5Ylk0cFRfZlV1Z1d2V1RTQnlFTGJ3TTFrZVFwZHF1UQ?oc=5",
+   "source": "Tarbes7.fr",
+   "ts": 1795685503,
    "theme": "fisc"
   },
   {
@@ -457,6 +471,20 @@
    "theme": "alt"
   },
   {
+   "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
+   "source": "Compta Online",
+   "ts": 1795593600,
+   "theme": "alt"
+  },
+  {
+   "title": "Fraude à l'apprentissage : Jean-Pierre Farandou annonce la fermeture de 30 établissements en 2026",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yamxNdjgzaGtnTTZmd045QlJISGVfMXpjelNGMnZEMV9BUHZuVFE5U19NNUs2MlhLT2publdTa1BnZFdVcTRoY09vS0czQQ?oc=5",
+   "source": "AEF info",
+   "ts": 1795593600,
+   "theme": "alt"
+  },
+  {
    "title": "Étude Cegid, Silae et Shine : les dirigeants saluent leur expert-comptable mais sont divisés sur l'IA",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmFGSUxvb0thdkFPTklZQl8xZEpTOVhyZkVWTVpOamJmVjNDeEJGZG5RaHpVQWF1V3VUSC1mSjl1Rk1RbnZpMm5zVmkzZDVrbDRVRUhOb2JkbEFFd2NxTjNHYUFHcXFmWU9oXzZJeFlWY20ySGk5LWo0WGJIeEdrZmNxVk5kMFNmRTlB?oc=5",
    "source": "Compta Online",
@@ -654,7 +682,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1084,34 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQjNfNHE5V1dWd3NwQUc3YUVIZDFkQ2liXzl0OE9zTE9TOWFaNTQwd05GSE5oX0wtMzNDMV8tVU02aHVINGJhbDZGY2FuVGdtcG5fOVJtYUxlN09vQ0V4MVJnSHVXblo1U0JDUnhSQWM5QWFyZ3ZLbzRuSGR0akxiRGxjVkF2QW9aRkZNVnd0YlExeldhLXBiUXd3S2g0Zy15cmZneHRXVkViQlJtMGphczcxb1p2cFZIczR2dVZvQnlyUFYwYUFLSC1taHlzMDNaNEExVDJxZFoycWM0ZkRzREpfQmhpcjFsdXo3OWRZRmJWQld0RlBid2pYQQ?oc=5",
    "source": "La Tribune",
    "ts": 1795413606,
-   "theme": "fisc"
-  },
-  {
-   "title": "Expertise comptable. Le nantais Ker ouvre un bureau à Bordeaux et renforce ses effectifs",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNU1d0NVVxTGg2aWNpQlAzNy1Gb0xuT3pFQk4tcHoyaUptOXItei1Da2NTTmhLcUxPMUFsaHRBekxSa2ZXbnlNaXNVcFVLb3IweF9TU2h0LUtZVi1Ub0dBSGJ5aWk5UDRlcG85ZnNxSUJveWF1ZkUzX25BNF9Hc2p2RXE2VGRYR2F3em1jMnRyeWlwaHdCSjFoS3FGSjZCR0o1Zy1aYVkwUGZFYzdRdVpneW5qSk03aloxQ2RxanUxLTVjUmFWU2FIVG5jaXFjY254bWo4bWN6SmhDSTlxVV9qUkFwN29lWjNsYk94VzRaTmRxM0Z2R014akdyV0Uwcjd6dUhTMVVWS2F3ZnRleWF0WjBRZzFZaTRPRl9EcXFB?oc=5",
-   "source": "Ouest-France",
-   "ts": 1795411820,
-   "theme": "compta"
-  },
-  {
-   "title": "Taxe de 20 % sur les holdings patrimoniales : votre SCI familiale est-elle concernée ?",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdUZDYmxXZ2lJUVA1YjdSelNaanIwNVpwNWlBSW9BczFKcWJKWkNBZlVaV21ITXZnaVNrWHQtMFV6T3ExX1JXd3hRZ1IxZWhlM29aMTNQLWZwSVBJb3FXSEpIVlNKdmk3STM5UGlZN3loU2ZBamFJazBydC05ZVpqbTkyTVllZDNsNG1rZXZSajVlZlhSWHM5Qkk4RHJIXzRwY0ZBeUh0eXFic3YtWGEtaXlMdVM0NkdVY1haendjTk9tUjlFLW1wR2UzQ2F4aDc4SmcyR3dybVdabEhLTEZGUEtn?oc=5",
-   "source": "Meilleurtaux Placement",
-   "ts": 1795410600,
-   "theme": "fisc"
-  },
-  {
-   "title": "Vélo de fonction : votre employeur peut le faire sans payer un centime de charges",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3Rtb3UtREowNXliRVREQU1ZZFphTUlSMkZyMWk1UnJJVWR5Rm03MjctMG5LVmxEX1F4WmRZYjNjVWhmTU1IN0l6ZnBPVmtkQzhRTVBqX3NfeTM4Mnk0d3d5MlJmRnBpdDlQWGF6c2ROZnNrR2lPRTd4MWpoMHBMeXhwVnMyYkg1ek1scU53YmY1MFFvNUdLZk9ydG1qa0EtaGFJSzd2Umh0UWF4bVVDQnFKTVlUNGlNYnJaZmhTZEVuUQ?oc=5",
-   "source": "Weelz!",
-   "ts": 1795409951,
-   "theme": "soc"
-  },
-  {
-   "title": "Lee Hyung-il : \"Le crédit d'impôt pour véhicules électriques sera décidé en combinant compétitivité et coexistence\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93QTZQSTZiQ01nX1d5d1ZraHhBLXhhWkNvS3daZXhrc1pDSkF4MXlpUmZISVVJM0NJbktSQlZydUJ5OTAzRksyNG9mSWpWTTJzYlVIS2w4UHFjTG1kR2dWaw?oc=5",
-   "source": "재경일보",
-   "ts": 1795409719,
    "theme": "fisc"
   }
  ]
