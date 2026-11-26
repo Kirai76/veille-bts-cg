@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T11:08:03+00:00",
- "last_success": "2026-11-26T11:08:03+00:00",
+ "updated": "2026-11-26T12:12:43+00:00",
+ "last_success": "2026-11-26T12:12:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,22 +20,22 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 59
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 91
+   "count": 89
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 35
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 63
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 32
+   "count": 19
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,31 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 39
+   "count": 40
   }
  ],
  "items": [
+  {
+   "title": "Le rapport de la Cour des comptes sur les risques de fraude et d'abus ravive le débat sur le pilotage de l'apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY3BNZThUemdfVmxxcFhtbFh0NjR2Q2tUMmxqTU9yamVlMmpkbkNvbmI1Znk4U2dYRFVzMml4SjVFYjlpYUphUkppY3lPWnJZOUpPQmNzRUZZYWJnbTJLZzctRG5TNEhydmJZX2FqaXN2M3lLUHZxbzJTNW8wWDdFUU5UMXVtR25PeWxlVGJqem96U0hrLTdGQmJ4dEpmWTZhUmRrbWtWeEsxc2NDekd0ajdtTnloY3h1WGZlTW11WENxV1RSLWstWmVLM0FvWDRlbzBqaHk2NGhnMkNGNTh1dTVCMXV5ektJMzdlbw?oc=5",
+   "source": "AEF info",
+   "ts": 1795694941,
+   "theme": "alt"
+  },
+  {
+   "title": "Quadient : les vrais enjeux de la facturation électronique",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQjREa29VSkZ2Nm1CblhzOU16MWxNNkREaThXdGtXSGd4TzQ1d1czSWxlRXI2M2NPaFhEamtCLWNLSEFKN2pmM2QwQ2FJTTVaRGZKVlJ6dTVmQ3NxUnpnajlKVktkUm1JRkNEUmdzQUlKZUcySlhvWkpCeUpzTlBTUGwxS2Z2SnY5d1U0ZG8wbFRwWGtnRjZFQlJWeFBqcF9IY1p3T1U2S1VzV0oxa3VTbnB0U0ppdw?oc=5",
+   "source": "Le Point",
+   "ts": 1795692285,
+   "theme": "fact"
+  },
+  {
+   "title": "Loi de finances 2027 : feu vert des commissions de l’ARP et du CNRD au texte remanié",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGQ3aEpGUU1UYmFESF9zMVZOMnBPc25PN2diT29PWnNFVk9PSHVUT2FrUWxzUXpFdXh6SGh3dFRCc1lYOXBUWmF6RkRRY29uMEZfclI0aERNdkY0c01VMUhYOVNfZmFnXy1kcFZxMWFNb0Y5UXY0d19UaDVEMU1XRVFqNkZHUm4xREQ0b2NoS0xWRTNWajh0ZXJCV184R3l5ek9aWFdEN3NLeHI4QXBtMkNPTzR2b3NSTVE?oc=5",
+   "source": "Challenges TN",
+   "ts": 1795692276,
+   "theme": "fisc"
+  },
   {
    "title": "Autónomos en Espagne : TVA annuelle, IRPF, Verifactu… ce qui change",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3AwMkxOZGwtSFFqakNteTZnc2VGeW1SVjJnQUdmTU5KZnBSVlk1TWJFLWNrR21GWXhjRW9hbHVwZGtNemxwdGQ5M205NXREWjVhbXFSUTRjOUdPVEZIS3VQa19mUm4xQ0NGOWp2VkFDQVZyck1LNEFlOUw2VEI0LTRiUXZUTG82SHR2Q2p3OFJGREdiQ0RsWDNkUXNPWHZCLVBZVGVJSUUzc0tyV3BRM05qaXVTdw?oc=5",
@@ -97,6 +118,13 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1Y3U2ZjcUE3QWdJczBYejRhNEt2WnBNVUNWR3hPR19JcmtDWi1HaF9XTktldFhUS09RUDk2dEFlNG4wNW43VUVhYWs2SWJJWThKbjIya2lhbjhiYkI4YnNpQXpaM0tOYkFsYmNUcGlIR2lHaHZnMERQdnhKT1Z4UXNUQWc4VmpkWFJGRFNGZFlrT2h3NWJVT0Q0ZUhVTGs?oc=5",
    "source": "Economie Matin",
    "ts": 1795686694,
+   "theme": "fisc"
+  },
+  {
+   "title": "Surtaxe sur les grandes entreprises : le Sénat valide un effort de 5 milliards d'euros dans le budget 2027",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMnpESTNDWlJnUmQtTlVoSUZPcDF6R0FFM0Q2Ty1nT0toc3lvNnFMUlV4ZHZFOGQ5Uk12bUwtbWsybnB6bmtoN1MzajZGbmt1bFowbXpSR1Z2ckJJT1hVak5yaTdmUEo4U3BRTXY5dG16alVKVWE3WHExSWxEblhoY3dBbUZwUmdlVGFaUy1Ka1Fpc0w2TWt5eFVLX0JkSEdqX3Z6WHRRSlo5Q0JSQ09vUGtxeFZGSk50dXlLQ0xFUmV5ZEhIY3FyX0JaRDdpR2ZiSkhrTmRUeGtBT0N1OE16cnJVTGpXMEZ0MVpabE1YUFpBZHExRERXYXhBZWYwanhEaFAxdTQwbE80TjBzbEpHUmxDdXJ6b1MwT1lLTFZQXzd2NV90YkZ30gGnAkFVX3lxTFAyekRJM0NaUmdSZC1OVWhJRk9wMXpHQUUzRDZPLWdPS2hzeW82cUxSVXhkdkU4ZDlSTXZtTC1tazJucHpua2g3UzNqNkZua3VsWjBtelJHVnZyQklPWFVqTnJpN2ZQSjhTcFFNdjl0bXpqVUpVYTdYcTFJbERuWGhjd0FtRnBSZ2VUYVpTLUprUWlzTDZNa3l4VUtfQmRIR2pfdnpYdFFKWjlDQlJDT29Qa3F4VkZKTnR1eUtDTEVSZXlkSEhjcXJfQlpEN2lHZmJKSGtOZFR4a0FPQ3U4TXpyclVMalcwRnQxWlpsTVhQWkFkcTFERFdheEFlZjBqeERoUDF1NDBsTzROMHNsSkdSbEN1cnpvUzBPWUtMVlBfN3Y1X3RiRnc?oc=5",
+   "source": "Boursorama",
+   "ts": 1795686350,
    "theme": "fisc"
   },
   {
@@ -626,7 +654,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1085,34 +1113,6 @@
    "source": "재경일보",
    "ts": 1795409719,
    "theme": "fisc"
-  },
-  {
-   "title": "Exonération des plus-values, dividendes moins taxés, avantages douaniers… : l’offensive fiscale du Tchad pour attirer les investisseurs",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZWpxb1Y5ald0WXVMVmNKNHBoOVUxSnhiQndKYUJrZXpwNFd5bFVMdWcxT1hOMjNqSHlmSnpzMVYzc1FiOG5GRV9zZUdZbk9SRzdHZG93ekx6c3h0VzhwTUJWTzBjb1BkVlJTcHVWUThVUm84ZFRQaVp1ZlhkMXhwVnFRa2RHMGV0cU9md2ltMEZzaUR0M2lRZklCQnkwRmRsSzg5MGU0VlZiVGFoZkFEREYtRVRiZVdHeWlTRlEtVjRDdzd1REg2M0kzUFk5bk4tSlctSmNTWVIwZWVJajAxMFBEVVE?oc=5",
-   "source": "EcoMatin",
-   "ts": 1795406289,
-   "theme": "fisc"
-  },
-  {
-   "title": "Bruno Retailleau propose 6 000 euros d’aide à l’apprentissage et un plafond social à 70 % du SMIC",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzhxSE1aUUhuTUJyQm80QjI5bDJlMzE4SzIxRVZBLTlxY2JOZWFtbzJQX3dZQTFJdXdTQVRoa1hUV0JTWXpZOHVid3ZSSXZwcEZwUEZLYjRFZGJjU3gzWS10VklLUzJTa2hTRHpsNXIyWjFkbUdfUG5wMHN4b2FnVExZX3NJNlotekJEY2JXbTlMMUVGa3liQWNDSDdZbnh1eDlIRzljZWctbXFlZGc?oc=5",
-   "source": "Politique Matin",
-   "ts": 1795401291,
-   "theme": "alt"
-  },
-  {
-   "title": "Vietnam : de nouvelles mesures fiscales pour soutenir les PME",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd0xEWXlxWnpBdXdCTVZiOS00NEYxN3VIcFU5R3JfTkZfQ3BzZ21HLXhNeUV1c1VzNmpmVm1Ma0JQbmktalNRdHl2X2ZnZ3ZrVUI1RF9GM01MZksxVlhMUXBZRmswNFRZamRJVnIxR01VT0JJeTkwYTFCMGlMSHc3Y1oyVU9qZ2pYUVBaUkVFcFhKMllIVUFZU3pCUnc5UlRQamQ2V2lPVQ?oc=5",
-   "source": "Lepetitjournal.com",
-   "ts": 1795399491,
-   "theme": "fisc"
-  },
-  {
-   "title": "Sujet brûlant cette semaine : Les enseignants confrontés aux demandes de réforme de l’éducation et de la formation.",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWNzUE1FVFgyTHBRT0J4emRycThNTkpHS09ZQjRoNVFSSElXT2ZiVWZZVG10NDloeEFDOFc1RDFtMk9rbE1EMzRvUGw2RmZHcjZTcVRTMEVtYkY5ZHM1d3hoUU1YbGZqdzdEQklnYU5HSUk3Tk5aalFxMmlBdFdzRUt5THp2UENuMEtPR0xaMU81WmozdnpYWTdOdmk5OHdqaHg2bGdB?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795397177,
-   "theme": "alt"
   }
  ]
 }
