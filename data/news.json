@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T18:01:23+00:00",
- "last_success": "2026-11-26T18:01:23+00:00",
+ "updated": "2026-11-26T19:13:03+00:00",
+ "last_success": "2026-11-26T19:13:03+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,12 +10,12 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,17 +25,17 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 91
+   "count": 92
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 36
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "query": "plan comptable général ANC",
@@ -50,20 +50,27 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 36
+   "count": 17
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 11
+   "count": 28
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 43
   }
  ],
  "items": [
+  {
+   "title": "« Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa2tPdlJKRVF0ZHR6VFBzbDBMVERVdWd2YUNSV3BHdFREWFp1QlJpU3ZucGROUElOZ0FJMFRnb3k3b2hoQWJqUF8yemlSUGhIMlRYNW5qZkVsOGhLWjUwRXhfNnZTNkxPX3VhUnBrclBOV3M4QS1ZNWVja2R6Sno4N2NESEtQeXhHR1p2aV9sUWJ5eW5BblluYUUzRTZjcEk2X29pREdldXE2LTN4cFVQSnp2djNxZGF3Q2RXSTExQUMyaGt1UVFja0RrVWpKTGhFbDktUjU4TWVNbDBSWXI3alNwWkw2ZThoNnlncVVLRDNvOEgxak0tT2V5NVk1b2l5OV9qaQ?oc=5",
+   "source": "Le Figaro",
+   "ts": 1795718681,
+   "theme": "fisc"
+  },
   {
    "title": "Présidentielle 2027 : comment Marine Le Pen veut réformer l'impôt sur les sociétés au profit des PME",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV0dDTjdqN3FqM2JpZC1xamlPM0dqcnIwcVB2aUczN202ZUg3M1NvY2Vtblg4dG1sZ1FtQmZWc0E3QkszUENKbFNIU0g0Y0dvcTdvaC02cy1ONnBNQ3ZLSXJwcVRjRDQzaHFUbjh1Wm05TFN1SUxfM2w5WDVmNVZEMFJWcVZjQTdkTDBDaVRkZjZvVHBDcnVUaTBPV1o5Vkh0SUdROVM4eG5ONVV4TFF5U3lxNlN6R3ZHM1RkRW96OXR4T0czZ3I5c2g0M1FwakpFTW1ESHNBc3duTzdobWJPbUtESURZaV9udDk1U2pHV1VDN0k?oc=5",
@@ -105,6 +112,13 @@
    "source": "La Vie Nouvelle",
    "ts": 1795698244,
    "theme": "fact"
+  },
+  {
+   "title": "Amarris rachète Inea Expertise et s'installe aux portes de Rennes",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BMkpmc0YzRUNwclUxaVE4QWZUYUNzdGFHenY4ME9WcnRVWnNhNk9wV2N2YWtxUWNuWGhiUkNreXlIU19XT1BJZDlOOGR4RWZhQ3hsLXlPVHlHbFJYdHhXSlprRmxmMUFubFZV?oc=5",
+   "source": "Compta Online",
+   "ts": 1795698214,
+   "theme": "compta"
   },
   {
    "title": "Fraude à l'apprentissage : Jean-Pierre Farandou annonce la fermeture de 30 établissements en 2026",
@@ -249,7 +263,7 @@
   {
    "title": "Loi de finances 2027 : voiture familiale, amnistie douanière, fiscalité… ce que les commissions ont retenu",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR21LcU83c2VRYlZHUHdpeDlpLTdqUlpvam93ZDdWeUg5ZlpYQmdJYVRJQzJNT0F0dzdYRDhITHh2YTRzWjR4ejdzMjhDSTNBcHhFOVBvY0NCeHZuZkNFN3VNUFdURjYwOHAzQkVPdUlMVGdCckVJbGFVNFZNMUVaWHpKUzEwaXpCNHRsU25HM0FXcEhwd0tZMXRNY2p4ZnVWT2pfQU1yNA?oc=5",
-   "source": "Tunisie Numérique",
+   "source": "Tunisie Numerique",
    "ts": 1795675740,
    "theme": "fisc"
   },
@@ -842,6 +856,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Régimes social et fiscal de la rupture conventionnelle en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX3NmbHdhbE5YTHZGUWR0Unl2dnV3LTh1aUZVYkZFVmtIWXNlM2hwWVBwYUNtd0JqZV9hUUhkYkRtcE1pZmMxRzJQbU84VFJrUmhUVmh2a2syUUdkWjJtX2E5VVl5eDhXYmZOSmFvbU9ZNkZoOUM3U0JJOTZDUEVOZEtKM01YU3dmX1h4TE9IRGloZ1ZFSF9yRUZydkVMdnMzVlF6cHp4TXpsZjg?oc=5",
+   "source": "Juritravail",
+   "ts": 1795507200,
+   "theme": "soc"
+  },
+  {
    "title": "Management fees : comptabilisation, fiscalité et risque URSSAF",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82bHFjYXJnRzBuNTNONzAzN2FGVzRySUhTcHpIdHVieUQ0R2djNnZhV1BuWkp4N29SdGVqaXZhOTJfRWZQdjF3RExTTm5zREZfODZhRW5GWks3d21nemp1bnRDYjQwTEZNU3NlaEM4blQ?oc=5",
    "source": "Compta Online",
@@ -1092,27 +1113,6 @@
    "source": "Webmanagercenter",
    "ts": 1795426892,
    "theme": "fisc"
-  },
-  {
-   "title": "Formation professionnelle, l’avance prise & la formation oubliée",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2JNNnJSWjg0aUg5ZHV0RDhHSDVvblFOeGFVeXpEMWNyMGtoQlpNanpCWFhpVFdiY2xUeVRJZTlDeGx0TFROTzBkODM5SWhyMDFrUmp0cjVvRGx3eE53N3FSbjhWT0FnT05xa29IY0ppcDBpR0U1SnQ1V1FKcDZvSWlVQVU1eGRVYkFWZVZtYVZ5UQ?oc=5",
-   "source": "African Manager",
-   "ts": 1795425352,
-   "theme": "fisc"
-  },
-  {
-   "title": "La cocotte fiscale",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DdmRYdlZyRUlyWVlKS0xMRmt2UkhaUHk0c3JvWUx0bFNfa1psSUJmZ1FoallpT2pwdVZ3VFNlaGZWeUs3Z2xYRl9UUXdFakFqc005T2EwbTFtU2E3NEgwXy1RZkFRSUd0bXRXNXA0WGJSSUcwWmVPWFJR?oc=5",
-   "source": "Les Echos",
-   "ts": 1795424409,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : le succès de la réforme se joue aussi lors de l’encaissement [Tribune]",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTk4xX3ZWSTBld3BodG5rZmhLWU5yYkxfWXBzRHpycnktMVRodF8xLXdqNGV0eDNSRkN0VGpXWXpOejFlRkNMaWhzdUw4ZGNZdmV4dUdiaE9fdGVsQ054VjNEV3cwTEJGQnJaV1FQbVY4U1R6bHJ6NGNjZFNIM25KajctaEVCMWdIMmVPSGxWekVhajZja1Y3Yml0d0pJbzhTYmtsZ2toUGdRbHpGaDkwRGczS1ZJVmc2ZVl4RzNneUF1OWxZZlI2V3RocWpqT0doLWxUYWpVcXRodzVKckp4SjBGV0t0b2IwRUlzR0gxTFl0Nmc2TkFvVS1ZdzVhUlBDSnQ5VmZuSmpkLVZ0c1FV?oc=5",
-   "source": "LSA conso",
-   "ts": 1795422519,
-   "theme": "fact"
   }
  ]
 }
