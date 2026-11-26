@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T19:13:03+00:00",
- "last_success": "2026-11-26T19:13:03+00:00",
+ "updated": "2026-11-26T20:16:02+00:00",
+ "last_success": "2026-11-26T20:16:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -15,12 +15,12 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 61
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 36
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 44
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 17
+   "count": 35
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 43
+   "count": 44
   }
  ],
  "items": [
+  {
+   "title": "Pour les petites entreprises, la baisse d’impôt promise par Le Pen soulève une question : qui en paiera le coût ?",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeml4NVFwQ3J4RGNQYU5TQUY3ZTlrbEpocExKVC00M00weDRGQXlmbHZWMll2SnYxMng0UXFjUWotMFJRSURYZm8yUUJuNnF0eG9Oby1oVVNnR0hDWVZpMzJnMFY4NVZpNW9MWmp0cnF0VzNyMWF5ejQzdjZHaEJUa2JWclhXMEF0bHpjMS1ZN0ItNlo0dzJsZ0pzUld4bGY0WWxITWxxTkZYZ3NFcHJaODFRbGVHaEpxaktNVWk5VEpiNWh0VXZUY0J6Q1dVaGV0MTFOQWtVRkRKRlZxTUFZdFBFOERObENmWHRwdHRlQWVlbW10S1o0?oc=5",
+   "source": "https://www.parlons-politique.fr/",
+   "ts": 1795720149,
+   "theme": "fisc"
+  },
   {
    "title": "« Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa2tPdlJKRVF0ZHR6VFBzbDBMVERVdWd2YUNSV3BHdFREWFp1QlJpU3ZucGROUElOZ0FJMFRnb3k3b2hoQWJqUF8yemlSUGhIMlRYNW5qZkVsOGhLWjUwRXhfNnZTNkxPX3VhUnBrclBOV3M4QS1ZNWVja2R6Sno4N2NESEtQeXhHR1p2aV9sUWJ5eW5BblluYUUzRTZjcEk2X29pREdldXE2LTN4cFVQSnp2djNxZGF3Q2RXSTExQUMyaGt1UVFja0RrVWpKTGhFbDktUjU4TWVNbDBSWXI3alNwWkw2ZThoNnlncVVLRDNvOEgxak0tT2V5NVk1b2l5OV9qaQ?oc=5",
@@ -752,7 +759,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazBzWTdvS3B2Yzdfcm1mVXZLRnMxOW94TXQ4NUR3eExDZEcwQWg4dDhVUWk0QTdsV1FpRzVZUThJSEl5QWtNeHc3dmV4cDZSSWJKYTVPbzRXM0ZFQUthLWpkR2Z4T1poMl9CT0ZUMkh4ckFGX3BBdnpnRlAzcVFXcmhHRnVFY19EeWhaT2Ftbm54ekFTUnZXNzJlT3NGdlcwZzdYbURGVEM3d0swc19lMEVjQUVYaURsVE5zWGxLRy1lRE4wMUlHM0hPQ0VRdw?oc=5",
    "source": "JDN",
    "ts": 1795427002,
-   "theme": "fisc"
-  },
-  {
-   "title": "PLF 2027 : les entreprises face à de nouvelles règles de financement de la formation",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWtHcjFkWERhbnl4Qmx0ZUtuM0kyZUZBUk0wLTRfOUlCTGNNZmVxVHhMTEtFTFNPd3ZLLUNyZUt3NkQ1NkoxbWRSREV5cEh2dTRpN0pIeEJPeHE5dThRa0d2eXd6QnM1TDZ1WHUtZVRXNFVJSi1tV21Xa0VlTV9qZjI2YVBndmxSMTEyXzV4VC1ydmdPbzFHQTltZzc0ZGlsRmxxZGlGbHhpTkRLVmYzZnRUQ2JsdzA3c2RKSDZ6bUZHTjA4d3ZLTU9PMWJaSms?oc=5",
-   "source": "Webmanagercenter",
-   "ts": 1795426892,
    "theme": "fisc"
   }
  ]
