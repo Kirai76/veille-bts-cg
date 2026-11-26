@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T07:35:35+00:00",
- "last_success": "2026-11-26T07:35:35+00:00",
+ "updated": "2026-11-26T09:21:53+00:00",
+ "last_success": "2026-11-26T09:21:53+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 55
+   "count": 53
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,22 +20,22 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 62
+   "count": 33
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 91
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 36
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 61
+   "count": 62
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,15 +60,43 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 42
+   "count": 33
   }
  ],
  "items": [
+  {
+   "title": "Loi de finances 2027 : des députés proposent un rôle accru de la BCT et des mécanismes de soutien aux entreprises créancières de l'État",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZEhvRmRkNC1zUFgxSWtCZlA5c2tjTEFkZFhlSy04aGNtQ2wtQUFLekVUT0pCLWpEQ3k4VnpDSlVkUjA2V0ltUW02Slp6YS1GTmR1Qy1RWXIwVWpCNmxDM09lcy1Cd0JxRl8yMXd5QTRCc1ctU09VY3ZDQktsRFhOUXFkMTNXLThaWF9QQU1mZFlMNzRlaW9vcGxGX3FMcHFUMTVzd3RrZkRWNGhUcHkwaGZKTGVjX2w3Ty1KWmJxZ004am9TRFFJc3JSOXpueHVvaDZLOFd6QlZyVlNfak0yLXEwQ0dsSEJBbFprS0tyRlZ0a2ZDbU5mWVptWXZMY1AxS1pNTnE5OXVYalQyUVpmRU13?oc=5",
+   "source": "Webmanagercenter",
+   "ts": 1795682155,
+   "theme": "fisc"
+  },
+  {
+   "title": "PLF 2027 : amnistie douanière, avantages fiscaux et soutien aux entreprises, les principales mesures adoptées en commission",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObkVEM0xKd2FLbFNLNHZfb25tdVJwbVoyVkltUjhSZS1teGlQdWxwWUEyelpUR1ZPNUJnR01ZeGpDTC1zTlhWbTVqdzJGbHZVNVZVakdlWVVwSGhnT2VXeklMSGVOSmFzekZLV3doWkZ2RlY5QzJ3Y0sxN05yaHJkSFU5c1BuaS0zenlfSFJVVEhnNVRXemxYU0txZkVUamlNcVFpQmxyRVdGYTdsVXZLNms0QXUtWFRoeVk0cHplNGdDTjNXdzk3QkxxQzhpbWhLM3lTZENlNUV2QlNkLThCZE1CTGVHWGxkNkNnN1Y5a3hBNkpLbi1WUk1Edw?oc=5",
+   "source": "Business News",
+   "ts": 1795679220,
+   "theme": "fisc"
+  },
+  {
+   "title": "Présidentielle 2027 : Marine Le Pen propose un barème progressif à cinq tranches pour l’impôt sur les sociétés",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcnF5LS1YNVFSVTRxZC1zbDdQcEF6R250aFJkT0d0bkY3ZHNEZDBrZWpaZTgxTEYzc2ZkM3RxN0Q0ZVZ4ZnR2QUZTZDhxd2xWU2N4RTEwc1RhOHhjTkg0Q3U1Yy15aG1Na0U0UTVOQ1h2d3VJYms2M2VpZURKb1k2OGhIZG9CYVJkMHdobFBmSUJHeDhoby1EMjJnQlhIS3BQVGR2UjRHSEdaY0VMenB5bUJETUlmTmhSVDRsVndKc1l0UGxyUHhWVWhUV2E2UXdReWNoaXNZMVFTQ1JVc01VbFRCWkU5YkY3UWF6T3ZWRVpHZ28wUnhZQmZOWEhQQXVKRjBQUmVSb09sbE5Ma01FY01QNEVmcDRxWlQyV09QRHNuelIzUEF3?oc=5",
+   "source": "Le Parisien",
+   "ts": 1795678605,
+   "theme": "fisc"
+  },
   {
    "title": "Grâce à des politiques structurantes, les entreprises doivent « croître » en s'appuyant sur de véritables compétences.",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFNQRW9mLU1zZXhlRE8yYmkycV9QNTJWY1NyNDY3OVo1T3R0ZVVua3E2NF91YjdOdl9YYU5kWmlYN2tqTGVZYlVDcEVfeWtRNk9iZmhUc01pQzAyalJhRjhPN25NbmNMTHFuSjUybzhFdDhNcDhrODdmYUZyVVhQYUpZOVVPRXJ4NHZjbHhaaTY3R2NCazRkRmNIaw?oc=5",
    "source": "Vietnam.vn",
    "ts": 1795676726,
+   "theme": "fisc"
+  },
+  {
+   "title": "Les commissions des finances adoptent le projet de loi de finances 2027",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUThnVUcwYTBkN1ZwNWN1U0R2QzlRcTZ1VEEyR0xkWUJLZ1NkbVVZSE1aeGpmVGtxR0VXU0IyeV90enFlZVRwRUtiYVVpaGRkS09waFJoTXBOU2dkbEdQZ002V01NWGs1X3BZQThUQ0QzN1V5dFpheWRUaE1fTlIzYlVoMDBiUmE2V3RPeFBmU1RHZEx2MnNQZm9JdnhJbk1SWWdfSTZndWVTOGVaTGJ1NmNYdGxKSkdoUFHSAb8BQVVfeXFMTmttU1VZZXJKelBPS2pCNlI2U0ZrZTdyN1dfQnJFOUs4Vm80X2xvcWlyaTZzSjJzTlM5cW1xS05uUzRkTC1hZGNJekJJWUpsaEFMbFZhLS1DQjlweDJwNW1UUTU2VFJNRFlPMEpiQzZER2JtTUNLbndwSzhyMEdhZTFYT3hJQUZWSWxaZmU2OXBCVG1xZmpjb2cxV25HYWlSM1hra2V3b0xfc01jYklvMWpnTjB2OG5MYlVTb2xiQUk?oc=5",
+   "source": "Nessma TV",
+   "ts": 1795676340,
    "theme": "fisc"
   },
   {
@@ -549,7 +577,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -849,6 +877,13 @@
    "theme": "alt"
   },
   {
+   "title": "Budget 2027 : le Sénat vote la fiscalisation intégrale des indemnités pour affections de longue durée",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaE0wd3JUalVoRXBvMlR0TXVpamNqd1g1UlkyOGRWTlh5TjVocEZCY19NRkd3R3NzemMtMFhLbzE0N0U4c3k5VWdjMHpES1cxWEd0WG5GVG1sN3YydzNRNGZ4QnlGNWowdURlalFNaEg3dTllTGc1aTlfRW9CV0UtTUJwZDEwcDNSTmJfYnJjOEVSOXNhNllTRFRNZkltLVRxdmJ1ZjZXSGN1NkRKZU5qdEdSME9YYUZ6NWp3Z1huVXV2RmhiWVVEYTljeDVWQjBVZ0wzblczQmlrN0FmT29aUw?oc=5",
+   "source": "Public Sénat",
+   "ts": 1795430745,
+   "theme": "fisc"
+  },
+  {
    "title": "E-commerce en Europe : stocker à l'étranger, est-ce aussi une décision fiscale ?",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHprWjhobkVKTFpRdXNJZGw5U1JJTExNODh1ZVItUE16OW1sdDJ1SVJpZEl3ZmxKWGxTVWg2eVo3bGdSRm1VUDVwOVg3eUU3bWEwNkNRRkJiVW0xWkFaaTBJdW5IS1hOLWdBb0R4d3BVMm9PUVRCc1BhOGZ0aXZjUDZuZ2RSQ3NOcWx2ekZwOXNBWElUc2FaNGc3T2VDRDFQX2g0d0JwSGF6OXpVcGUyaEd1NHpBTWNKS2I3WQ?oc=5",
    "source": "JDN",
@@ -1078,41 +1113,6 @@
    "source": "Reda KOHEN",
    "ts": 1795349880,
    "theme": "fisc"
-  },
-  {
-   "title": "Exonération des nouvelles entreprises : +32 %",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DZU51S0ZNbm5nT1FXTzFhVUF5QUVyOHpLd0U4ZzVYN0Uzc1VfcUJoOWFmcHdHSm1OLV9iY2JGM0VFRENTYVJrNzRnaVJaMldzaEhnUklYRjAtZ2w4MXRTT1h4SHljZWtlQUxCd2RzcG9PVERiMzk0?oc=5",
-   "source": "African Manager",
-   "ts": 1795343016,
-   "theme": "fisc"
-  },
-  {
-   "title": "Supprimer les obstacles et créer des incitations au développement des petites et moyennes entreprises.",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0NPbGlvcnhGSWVrdGVZQVdET282b1dlNXVOSkFmaEpEOWgzNnRaY0NGQk1wOWhTbGRvNEV3RGszX09oZFpLLW1PaXJhMm8zR1NuSlJNYXdCbk9OMFY0WkZGVWZ4MGxLM084QmVOajF5SHlSYmVhemxfTWJyUzFIdE9qb3pLMXpHWGJIc2Q1WHZKZw?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795341858,
-   "theme": "fisc"
-  },
-  {
-   "title": "Devenir experte-comptable à 32 ans : le parcours de Céline Amyot",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSEE0R0lyQllHaHUzcTMzX2Ftd3pwWHNLV0NBX2xlUHJNZXBqSW1SUXpLOW1sM1h2UU9xc0VSN2dhOTRMSkZhZHRCeVpnUWNnazBJT2lXX19aNlpuUzB0M1AydzNkOVhWNDdSLUZFT2xra2NLOVpFYWxRWWF6Mzg?oc=5",
-   "source": "Compta Online",
-   "ts": 1795341287,
-   "theme": "compta"
-  },
-  {
-   "title": "Le regroupement du premier exercice fiscal a-t-il une incidence sur la période d'exonération d'impôt sur les sociétés ?",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFRsRThKNDZpd3gwa0pSMEJxcGI4YS1lTE5KQlZlOGhSRWpQbjFmSVNjb0l4M3VtcnB2eFlxTzlHM0U5aTRWT0h1V2stQ29tRkJrV0k1bEtuaVJjaktOcllsYkY2MXlVWFVyZ01CYzNycFBWQTlYQUtpWEo0enRTcXRwODVCV2o3Nm9ST0gwdnVHQQ?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795338675,
-   "theme": "fisc"
-  },
-  {
-   "title": "En situation de handicap mais pas d’échec : le parcours de Nicolas lors de son DuoDay avec la NR en Brenne",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdEVCZ3ZJVFRKc1drbDc0eEpqRWkwM29TRFhmR2dIRUltbUp2eWFIUVE2blRnMzNDbmdJVENXZW9Pb05Wem5pYWdFTzdtV3dCVzB0OWdERlBNMVREN0FZd05qa3ZlWFUwV3hwdjh6VHF2VmxGREl3LXludjZ6dENfbzdTY2dhSlozUVpzbUtOWk83Q1lldkppZlZQOUNMZFRVMHVQY3NFNjhXei1IYXlpY1hoNWRJYjdNTDh0SzVLMmp0XzNWLTZpb0pHQzROYkw4TTRqaV9sQ2V3M2xEd01hbWtlLWZmMUdQMUZYMFQzaUxYQQ?oc=5",
-   "source": "lanouvellerepublique.fr",
-   "ts": 1795338000,
-   "theme": "alt"
   }
  ]
 }
