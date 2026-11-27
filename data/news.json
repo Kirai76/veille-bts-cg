@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T16:17:21+00:00",
- "last_success": "2026-11-27T16:17:21+00:00",
+ "updated": "2026-11-27T18:00:06+00:00",
+ "last_success": "2026-11-27T18:00:06+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 93
+   "count": 95
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 31
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 60
+   "count": 62
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 20
+   "count": 34
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 44
+   "count": 31
   }
  ],
  "items": [
+  {
+   "title": "Pour alléger l’impôt sur les sociétés des PME, Marine Le Pen veut alourdir celui des grandes entreprises",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLU5fQXlwZV9PUDN1X0JaaVBtYWR5VUlzbEpZZnNMdGdTdVZ5VkZfb0xYcE8zMnRjbWREdzhrcTVDM0UtTldZVml5aWJNT1kyem1WQk5oNEktajI1Y1g2Q2xjZ0plZ3c2WnduNHlndDlHZE5QTEk5QXdEaEFJbnVtOVV4cnlpel9KSVU0YTBvZ3VLRHV6NlJTOW5QX2pVQno0XzdFVkowM3JpNWtVbUVUV216RlNxQ25pVkNwLXpoU3Z4YVZpVk9JYllJRXk5aEIyZmV3VTZjYlNIX2FSZFE?oc=5",
+   "source": "Le Figaro",
+   "ts": 1795800600,
+   "theme": "fisc"
+  },
   {
    "title": "Le groupe Matmut se dote d’une société de réassurance pour diversifier ses revenus à l’international",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUmVTVlZFWWd0anZ4UTMyRnFUcFR4ZDR2S3J1eWgybEJlTWFyV1E0ZEdid01Pc25QdWFpM2NqZjVpVGRMcmJLUERURVVTdElxQzF0bGFZdWdEUXNJOTJ3YndIWnFjQkdkSHk5dW1kRmRUSUpLTjYzYzBIYTM5cFhZVUQwU0U0Y0NPTjNrZjRDLVFqNWk1bGp4Vm5hcFlFdVQxcGpSYzVCa2JYWEh0dmZla1o3YnliNDJheUNFcVdrS1JpOWl2VjVVYUJWNFd5T3dhNHJ0ZHpqZ0JhZ2dUT1VMSGNnbWZidHZqLW9zdUlBS0lOWGVYb0g3aFJuSEJYem1QNnZCRVdOU1AzXzg5dFhJX3hWeXpHOEpYLWlIbDY0b3RWUQ?oc=5",
@@ -114,6 +121,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Le gouvernement charge l'Igas de préfigurer un GIP qui réalisera certains contrôles de l'apprentissage",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZTJldWpIaHp6V09ITlNSSUd2b0UwWXE5TW9tRjhDb0RkempZUTVfWmJKdi1teU9UeXdZWG84cmRRWEt5YXNUTjY0X1lMcE13eHlOZkhYN2Q2TGlpbmZMNFFuV1ZsQ2NRXzF3STFBSGplZE40WlZIUVA0Z243WWh4Sm5WOGFwWF9ReVlMWlhreE1feGFrZE5SenRyZTU2dE05dXhiZ2w5eXdGVG5EbWhLcF82ZzRNY25xeHd6ZTVXQUpwQV9GQk1INHFqM3JyZ0FtaU04ZQ?oc=5",
+   "source": "AEF info",
+   "ts": 1795775040,
+   "theme": "alt"
+  },
+  {
    "title": "France. Fausse contribution handicap : quand les escrocs se déguisent en Urssaf",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTb2VHb190bUlud2dxOWpCcHhkWnMwYUhucVlSM3lwYzRITTJ3SWJTVVJHZDNGd2pzTS1CMmpuVXdfbUljaUg3eVV5MmhSeVZxcnNsM3Q3cWt0aHNvdzZJeW14QzZpbTYxbkhha2xKaWphVEtvOVFqbXUwUQ?oc=5",
    "source": "Unidivers",
@@ -143,9 +157,9 @@
   },
   {
    "title": "Après 18 ans dans la gestion de la paie, Jessy Manivel crée à Maizières sa propre entreprise pour travailler autrement",
-   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxObnc1MHpBQlFscWo3TVpoWlRrb3MtNzE4Y2xfRW4zbjhGN0RkUzNnMFNaOG1OT1FzVEJxOEU3YXl4Y3p3dVdCczlEQWl6Ui1HZkNqdGJRcUlZZVRyZVJDV243WW0tMzR0U25xWDFUd0tFbGNEelVmYkl5TXBoU2IyTTVuQWllYkllTDdYOWwxeFROTHpUandCc19RNmo0Rl93NnNjV3pBTUxMX1hNNl9pcHVmRmNmZ09qZ1FtWlFQdy1xQjJpa2ZPWkt4U1M2ZjIwSnpkS21QNDJVT1k0YkJudEpGUTV4VVJNUnZhQldPNFhuYWdsemxEV0h3WFo0VkhrajVmTEgya09PbU9FQjd6N0h6YnllWXVBX1J6dFc0OFRValhUa1REY21xWG1UUEtBOFE?oc=5",
-   "source": "Ouest-France",
-   "ts": 1795765803,
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTkVVQk9CTUZfNHotVUo0VTdWRzBMYzdReHlna2lNa1BWdnVBUnM2V2pNa01EY3hhWllIVkdIWUx1eFBfNUJZazdhWG5GR2s3V0hUek0wdmhYaWVjaGNNc2l4WC1yV1V1Ui1OMXR6Q0V1eE43Szl6QW92eF81UzNKekJqRGtqLWVoTjI5VEd1dXg4VmwxOVo2Sjhac2JCY0VIR0tDdms0QTJKclhETkhiY01FTERORWJMUTJCOEtydWU0bE5vWWRId1k5M281WGhfbnVVR1Vzc0NqTVZZakFNMkNoZFRCNTZpTzg4cWpCQUhROHAyWU1MUmlZZExKTEJHMzJQSzVMM29lSnRJTDVMRWx3LWN3dUg5bmVHTA?oc=5",
+   "source": "maville.com",
+   "ts": 1795769400,
    "theme": "alt"
   },
   {
@@ -258,6 +272,13 @@
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV0dDTjdqN3FqM2JpZC1xamlPM0dqcnIwcVB2aUczN202ZUg3M1NvY2Vtblg4dG1sZ1FtQmZWc0E3QkszUENKbFNIU0g0Y0dvcTdvaC02cy1ONnBNQ3ZLSXJwcVRjRDQzaHFUbjh1Wm05TFN1SUxfM2w5WDVmNVZEMFJWcVZjQTdkTDBDaVRkZjZvVHBDcnVUaTBPV1o5Vkh0SUdROVM4eG5ONVV4TFF5U3lxNlN6R3ZHM1RkRW96OXR4T0czZ3I5c2g0M1FwakpFTW1ESHNBc3duTzdobWJPbUtESURZaV9udDk1U2pHV1VDN0k?oc=5",
    "source": "Les Echos",
    "ts": 1795711997,
+   "theme": "fisc"
+  },
+  {
+   "title": "Sans réforme des droits de succession, « vous allez produire une société d'héritiers et de rentiers",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU3hPVDB6alZfNDZnMWNKOEl1Zkl0eGxQYlQ3Yk41V2lhYUtVUEtCbVZNSXdnaXhOMHdpUlh5THYtWVUtMnl1UENuVlRKc1BQZzdKOFhNdFRlZGdSa3VDTnBuYnZQZzM3Q2ZTUGJvVE9zYzFKNkFRTHRuSEdwbm5zRm83d19PSy1lcEhoUjZRa0lwY1pXRG1oYXBYdlFrOEJzSmFtVWxWTG40UkJTSU4xXy10ZWQteW5UR0FmaEdyd0hpeWxYc25rRENjRmlLMWVaS3hCZ1FZOFNSR1k5RVQyMG56eG1Bbm81dnpLaE85dFRNQQ?oc=5",
+   "source": "Les Echos",
+   "ts": 1795711279,
    "theme": "fisc"
   },
   {
@@ -641,7 +662,7 @@
   {
    "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1RLeFgtZTUzTDgzdWRfcVRmUmZsSThORi04WHRncWFrUGFJZzY0dUNxUHUtelp3bDZRU3lYbGdEWGozY2JleFV5c0hWaHFNUWxUYXdyY1JzTEhfc2RyNFIzc3k2TU9vSDJ0UW10YzQwMER3ZTRlamhVdnRnMmJSSlZKQUMzR19qTWtMbHdtZVAyYWxEa0U3NXFHcG5YX0JOTGFheEZvdzF3MG5qQWdHZkVKTHh4WmtBcWVuWW5hbDMzWE96YWVrLXFMdnFLZXlXbkhGMV9hYW5XN2s?oc=5",
-   "source": "Franceinfo",
+   "source": "franceinfo",
    "ts": 1795609253,
    "theme": "alt"
   },
@@ -755,7 +776,7 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
    "source": "Compta Online",
    "ts": 1795593600,
-   "theme": "alt"
+   "theme": "compta"
   },
   {
    "title": "Étude Cegid, Silae et Shine : les dirigeants saluent leur expert-comptable mais sont divisés sur l'IA",
@@ -1092,27 +1113,6 @@
    "source": "Juritravail",
    "ts": 1795507200,
    "theme": "soc"
-  },
-  {
-   "title": "Management fees : comptabilisation, fiscalité et risque URSSAF",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82bHFjYXJnRzBuNTNONzAzN2FGVzRySUhTcHpIdHVieUQ0R2djNnZhV1BuWkp4N29SdGVqaXZhOTJfRWZQdjF3RExTTm5zREZfODZhRW5GWks3d21nemp1bnRDYjQwTEZNU3NlaEM4blQ?oc=5",
-   "source": "Compta Online",
-   "ts": 1795507200,
-   "theme": "soc"
-  },
-  {
-   "title": "Suède : après la suppression des impôts sur le patrimoine, le PIB par habitant a augmenté de 24%",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDRvdEVIdkl4MV9IUkRhOGZvVkxjZzY3WGhLN2R3ZHg3SVlWTlVGM2tQVE1oWnRPZVRVYnpLcHI2Vlg3N0pDM0tRUzlaVWNXdkg4SkQxdklyeFpKLXJoSGY5aEV6Zjl2ZFhfc3B3a0xiWW5kazZUaVFPVjN0NE9JU2UtUktOb2UteFdMLVFvTERibHNqenVwT1ZqRDJyb1BGeXl3eWF4N21MY05HU0VpUDRJeXNJSndyNmhNYlJxRVhLcnpDSUpZWF9CQQ?oc=5",
-   "source": "www.epochtimes.fr",
-   "ts": 1795502679,
-   "theme": "fisc"
-  },
-  {
-   "title": "Meti : \"Je n'ai jamais vu les chefs d'entreprise à un tel niveau d'inquiétude\"",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2RfWWhNVW9NV0VidHNoWUlQWmFSNWxuV21CVUFvM2VJaF9ONVV1Z0RhRHUyT1BoOU4wcVBadDRDempfNTN6RWhLWW1CNC1jTDRmQklDU0MySWM2czgtd0x0Q2RGVVI5RFp6TlhYVm9IVjRRdVY5Skk4d1diSVFPWV9UU3N2YUZGZ3c0cVIyeXdNX0EwRThMd3dxUkNtQ0xLRUtlSmhOaFVSN1c0cjY3emlkYWpJRGU1LWc?oc=5",
-   "source": "mesinfos",
-   "ts": 1795502220,
-   "theme": "fisc"
   }
  ]
 }
