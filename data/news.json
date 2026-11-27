@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T11:03:55+00:00",
- "last_success": "2026-11-27T11:03:55+00:00",
+ "updated": "2026-11-27T12:07:47+00:00",
+ "last_success": "2026-11-27T12:07:47+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,27 +15,27 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 59
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 94
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 31
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 44
+   "count": 60
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 17
+   "count": 34
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,17 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 43
+   "count": 31
   }
  ],
  "items": [
+  {
+   "title": "Supprimer les obstacles pour garantir des remboursements d'impôt en temps opportun.",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUkVvTFk1TFV6YWVrQ25lV3ZJc3ZQMi1EY1ppUU51Tk9PMW5QSG5kZExyaFhVVU5xZ0tLdmptdGtQdl9ZUndCWXVsVzhlQlg0amFyS3VvNXN5LTJfTktWbEEtMjllZHM?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795775248,
+   "theme": "fisc"
+  },
   {
    "title": "France. Fausse contribution handicap : quand les escrocs se déguisent en Urssaf",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTb2VHb190bUlud2dxOWpCcHhkWnMwYUhucVlSM3lwYzRITTJ3SWJTVVJHZDNGd2pzTS1CMmpuVXdfbUljaUg3eVV5MmhSeVZxcnNsM3Q3cWt0aHNvdzZJeW14QzZpbTYxbkhha2xKaWphVEtvOVFqbXUwUQ?oc=5",
@@ -135,6 +142,13 @@
    "theme": "fisc"
   },
   {
+   "title": "À Reims, Marine Le Pen veut réduire l'impôt des petites entreprises",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUwyRVU1U3FUTEUwRXhiUTRZS1B3bXFMWlNxM3ROci1PNDBKNElhRjh6TEJTZElvUm9jajBteDJ5RHhHYWNVcVF6ejVpbkJYRkFzSVM1a0hmcjVTWVk5cE5sRTRDWURHcFdqMS1sQTRQTVItaVlrdXBtRXZvSm54Q08xdnZTeXhXM09kLWNOV3BSMmVzTFFPX3JjSHM0WTBDekQ3VGhjR2xBa2VMLUE?oc=5",
+   "source": "Dosya Haber",
+   "ts": 1795730445,
+   "theme": "fisc"
+  },
+  {
    "title": "Les 11 opérateurs de compétences (Opco) en France : rôles, secteurs et périmètres d’intervention",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQnVDQ1pYTTVzY2tGblo2U09IVUVrWlJ6aEpVMXlRVWhZMzhrbXBmMXRDR1NUWTdNNjFlRGpnMVBSN0VtSU04dndBb2Y5YUg2aFJOVUxVY2hzOF91UzExM2hkWlVBd0xwZ2M4VmprRmM?oc=5",
    "source": "https://horticulture-abadie-pyrenees.com/",
@@ -184,6 +198,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Flottes automobiles : l’équation impossible des entreprises face au tour de vis fiscal en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSl9TZTlZY3BaRVNUdkhjSVJYdENlbkhOMnlGOTM3cW1Jc09PdTJqN3M4UXBVeUdlU0REOF83Q1hmZ1NlZmpRZkFEREZDZEZxZlRuUFp5WW5IaktaemZQeVktZUpsOW54WnduakNlVmJDSG5PVWRmejFhYUpoWVF6ZUYzUmN3Q1RXa01HN3RKNl9wbzY3R3VfLXlEV2QxdllEa2VWaUloZk5KMTQwdzhoanlFNHQxUGszeHJZTGMtdVA?oc=5",
+   "source": "Caradisiac",
+   "ts": 1795712097,
+   "theme": "fisc"
+  },
+  {
    "title": "Présidentielle 2027 : comment Marine Le Pen veut réformer l'impôt sur les sociétés au profit des PME",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV0dDTjdqN3FqM2JpZC1xamlPM0dqcnIwcVB2aUczN202ZUg3M1NvY2Vtblg4dG1sZ1FtQmZWc0E3QkszUENKbFNIU0g0Y0dvcTdvaC02cy1ONnBNQ3ZLSXJwcVRjRDQzaHFUbjh1Wm05TFN1SUxfM2w5WDVmNVZEMFJWcVZjQTdkTDBDaVRkZjZvVHBDcnVUaTBPV1o5Vkh0SUdROVM4eG5ONVV4TFF5U3lxNlN6R3ZHM1RkRW96OXR4T0czZ3I5c2g0M1FwakpFTW1ESHNBc3duTzdobWJPbUtESURZaV9udDk1U2pHV1VDN0k?oc=5",
    "source": "Les Echos",
@@ -195,6 +216,13 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2JFMTZURExBTnhxSGlNRnRSYUZFdEtOZWwtWVhkU0JRbXZBdTlxaEhNSlR4dnNZQV8xdTc3bmh6X29DTWlhTXE2NGROaUdqUm8yMzFMTEpWUk9EX1gtY0I4ZFFzc2Uwc0pFRFM5eGd5Nkp3X0o5MXFTV0cxRVJCMHVnajZXcjI5WGxCdDVyZFdzaXMwMG1sSVFjTzVpX1FXVlYzV2JXWFJDdUdrcGc?oc=5",
    "source": "Tunisie Numerique",
    "ts": 1795707000,
+   "theme": "fisc"
+  },
+  {
+   "title": "Le CMQE Industries de la mer Bretagne obtient 272 k€ d’Erasmus+ pour poursuivre ses actions dans la formation maritime",
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNblJpVDRvSjdmTTJkdHpNbko3eFFzYklTbk53VE5XUDdiUk5tMFZnRlU5MnNkVzVUVm5xNHd3WUo3QUFmX1hKTzdjVkY3M2RvUjVDR0pLQV9DQzFLa3Y4cDhOM2RKdWxCbjZLaVhqWWFyUEJGRkczakN6N0dmejR4WHAtVUpaNUh3ZktkY2huM2xNNnh1LXNqT2dDRG02T3o2OFg4TnFhS0RSdHFGZTZMSkwwZy1XOUhiQ2h0aFNrRE1vbWFvNUV6ODBqWDdZQVZmV2gtbUl6VHE2RzA4M255cWQ2ZFI2MTVnYmhhRFZJVl8tUkxpeXk4eHRhXzk4QVBUMDllLWtIbUh2VXhRY0xydXN6WHNJeGZMVFlGS0E2TU1nS3czYTdhVjBha0I5d3B4bEtWWWE3NFNFTGR2T0VBc2xhTGU2cndYVGc?oc=5",
+   "source": "Ouest-France",
+   "ts": 1795702782,
    "theme": "fisc"
   },
   {
@@ -335,6 +363,13 @@
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZEhvRmRkNC1zUFgxSWtCZlA5c2tjTEFkZFhlSy04aGNtQ2wtQUFLekVUT0pCLWpEQ3k4VnpDSlVkUjA2V0ltUW02Slp6YS1GTmR1Qy1RWXIwVWpCNmxDM09lcy1Cd0JxRl8yMXd5QTRCc1ctU09VY3ZDQktsRFhOUXFkMTNXLThaWF9QQU1mZFlMNzRlaW9vcGxGX3FMcHFUMTVzd3RrZkRWNGhUcHkwaGZKTGVjX2w3Ty1KWmJxZ004am9TRFFJc3JSOXpueHVvaDZLOFd6QlZyVlNfak0yLXEwQ0dsSEJBbFprS0tyRlZ0a2ZDbU5mWVptWXZMY1AxS1pNTnE5OXVYalQyUVpmRU13?oc=5",
    "source": "Webmanagercenter",
    "ts": 1795682155,
+   "theme": "fisc"
+  },
+  {
+   "title": "Budget 2027 : Sébastien Lecornu veut éviter un passage en force",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1h1cmdDTnRRMVB0M3hBNzhPZUZNRXdia0V3Z2NCZFk0NURISXJodGlicFM5NGtNWjJ0MHpaempkR0pzQTBNbVdiaWdtUnExaVhVWHBlNHd6bFJTSi1fby1OSGg2bzBGM0tCUlpsN21OejltS0FXVE5kTXR1QlZhTThRU3F5dVdWUTk4UXlRSHZsR0Q1by1VZ1hMNFBPQVZrM19yS29HTU4?oc=5",
+   "source": "mesinfos",
+   "ts": 1795680180,
    "theme": "fisc"
   },
   {
@@ -550,7 +585,7 @@
   {
    "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1RLeFgtZTUzTDgzdWRfcVRmUmZsSThORi04WHRncWFrUGFJZzY0dUNxUHUtelp3bDZRU3lYbGdEWGozY2JleFV5c0hWaHFNUWxUYXdyY1JzTEhfc2RyNFIzc3k2TU9vSDJ0UW10YzQwMER3ZTRlamhVdnRnMmJSSlZKQUMzR19qTWtMbHdtZVAyYWxEa0U3NXFHcG5YX0JOTGFheEZvdzF3MG5qQWdHZkVKTHh4WmtBcWVuWW5hbDMzWE96YWVrLXFMdnFLZXlXbkhGMV9hYW5XN2s?oc=5",
-   "source": "Franceinfo",
+   "source": "franceinfo",
    "ts": 1795609253,
    "theme": "alt"
   },
@@ -982,6 +1017,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Le DCG : diplôme de comptabilité et de gestion",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXBOeDVaY0ZvMW1wNHdVZ3N4OTZBWVFuWmJYYXpIaFdiRzhXRTJEd2thaTNJSFBrWEJGVF9wWHZHa3hVMXROcGViNF85SW84ZkRseWRRc1Y0elFkTFVBalB5d3pIRF9tajl2S05TS3ZPTVRhcUhCVzVGUjQyNWdJY3dDLUFrQ3h1VHVxTENWaUlZbU14RXR3bV91NE9JMjBE?oc=5",
+   "source": "enseignementsup-recherche.gouv.fr",
+   "ts": 1795514274,
+   "theme": "compta"
+  },
+  {
    "title": "La facture électronique prend très progressivement racine",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlQtVXZ2VUZBU2hWOUxhMWpKVDJKcjBveFFEVFM2WVpBalV6WVVhWVFObUdrOU9iSEhWUmF2bk9HY29iT1g5enI2VWVUbTlnZ3R3SVdFd3hlRzdES2lHTW1KN1ZWT2xzUUF6ZHU3OVhIbGhrNzEzWUN3VnlfaDBmUFNmTk5Bbk5ia1hzSUgyRVdtU2xkeEdzOFVkcTZhRkJs?oc=5",
    "source": "L'Agefi",
@@ -1071,48 +1113,6 @@
    "source": "Éditions Francis Lefebvre",
    "ts": 1795471990,
    "theme": "soc"
-  },
-  {
-   "title": "Budget européen : Bruxelles veut sa taxe numérique, les Français paieront deux fois",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzFOLVdyZ2stRjl6cl8zNl9Idk9JT1JDY2tpdkJiSGRydTdDbjJPdzBSSXRpTUtlWkVKQnZfZzAyT2RlYTIwTGlBUDJvLXhDU0h4Rm9sT0RsdVYxV0hVc2pqOWVrOWs0VFUtZ1RGN2dSemtjUGFqcWZyZm1jMWV0dTBqczJYY18ybjEySm9CdVhITGIyekQ3ZHI4LVlOLXJfbUtjN24zam50QQ?oc=5",
-   "source": "Contrepoints",
-   "ts": 1795467555,
-   "theme": "fisc"
-  },
-  {
-   "title": "Jean-Marc Conrad premier directeur du Développement International de Bertrand Franchise",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2dITkR4SnNZQkNROVhwUndQQzJpNHlvNVZ0RWJETVFaNkw3MzVkYXJsamE0MGlNMUp3VXdjT0ZjbC1JbEd4QmtINXBOWnl5UUtrbDh5Smt3aFJNMXNRUDdfemlET1NvVnVQWm5NNW9Od2dMa1BpWGlvTXVDVXNkYUhjUThQb2V4MzRzaUs5R1pkQV82MnZNYlI5a1hEdFF2TmV5UEg5ZjMzTENl?oc=5",
-   "source": "HR-Infos",
-   "ts": 1795465112,
-   "theme": "alt"
-  },
-  {
-   "title": "Cinq décisions que l’on peut encore prendre pour payer moins d’impôts en 2026",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZENzcjh5TnpjbTRVWDNtTXFMTGxMdnRONDR4QmNEOWkwUFlWQzgtcWMxNWM2SEczSEtLX0gtZ2ZVMHNiRHNfcUllTGtITzNtX1JmME82ZUdER1dtUUVpR09DMTh0MndIVVpyd0tDemZ2Z3BXS2VxbzNNRzBsOWlBb19NYkdKVXBWUWRiOUczN2VUaExjY2F5TU5yZ2RWeHkzc0tLSWw1MklKUENFZHE4M25HV3NHb25McGUyUjNqN0U0Y205WmFKWTdlVVRwNWhJOVHSAdIBQVVfeXFMT2RDc3I4eU56Y200VVgzbU1xTExsTHZ0TjQ0eEJjRDlpMFBZVkM4LXFjMTVjNkhHM0hLS19ILWdmVTBzYkRzX3FJZUxrSE8zbV9SZjBPNmVHREdXbVFFaUdPQzE4dDJ3SFVacndLQ3pmdmdwV0tlcW8zTUcwbDlpQW9fTWJHSlVwVlFkYjlHMzdlVGhMY2NheU1OcmdkVnh5M3NLS0lsNTJJSlBDRWRxODNuR1dzR29uTHBlMlIzajdFNGNtOVphSlk3ZVVUcDVoSTlR?oc=5",
-   "source": "Demócrata",
-   "ts": 1795459600,
-   "theme": "fisc"
-  },
-  {
-   "title": "« Ce sont nos derniers actifs » : toujours sans budget, France Télévisions à la recherche d’économies et d’argent frais",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMUY4Ynp1YkdhOGdwUlduczRMRGJ5bDViV29yc1YzUzBITm5kc3M3UXcwcWFXZWlEV1Y0NlFtMFlxcUVmUUd5YWhuUzhmU3B4cV9WaDFJZWdoTnJmS0haNlNyVEdORHpTVXVtN01GeTc4ekkySC1hWUdPZkpjeTNnbXNhRHBTLW92OXF4WlZ4dVZ3QkZCV3BzXzdBSThLVHJpU3dHUHV6ZTEyb3BxSzZIN0ZMcU5qYS13U0tRS09UZDB1bzlmSDNRVHdQX1ZmUzVnMUVjOUV3VWw1Z19OajVlYTk1ZVc3dWM?oc=5",
-   "source": "Le Figaro",
-   "ts": 1795459503,
-   "theme": "fisc"
-  },
-  {
-   "title": "Loi de finances 2027 : La commission des finances rejette les articles 49 et 50 sur les équipements solaires",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVW9XVU01aWNNN3lzVE1qQzRudTlkUFE0bjVBYTJsaV9wUmdlam1CaTFFTEJPYjRsel83VHUzdW5qS1d4S3h1OU9NWkpKRzM3WFJ6MXh2RG9BRlVtN1JfdG1nQXpRMHo1ZDZVNldaMGZnUTNMRVZtR09ZUmRqWktZT3R4a3lRb2otUWdOOW9zZ1hhUmJTckIyWUJZZEg1cHJxcG9VTkM2QUZSWDBmenlLNzUyWVR6bGdQcXczWk9qcEtTVjdJcmVWc3ZrcnNCRURkbzRkcmNuYURfMzNGTnRNeDJUdC1ZS1NDQWZKdjdn?oc=5",
-   "source": "webdo",
-   "ts": 1795459320,
-   "theme": "fisc"
-  },
-  {
-   "title": "Concours de Recrutement LPEE Casablanca 2026 (5 Postes)",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWtMVkVuSGw5Vi1KZkxGb2NzVkEwNURWM09CUTVCOWt4bEQ1YmstdnRia2NPS0drZ3p3UjhMZHhHNzNsbWlSWmE2R2JxZjhTdkNhWGtnNjRleXNLQzg4b0doMnNLb1Z3ay1YdVpqb19RVnc3bzhINzNibTFCZW5OcThWRmlPWkNibG55RGlDTXZKNlhxZUZF?oc=5",
-   "source": "Dreamjob.ma",
-   "ts": 1795458702,
-   "theme": "alt"
   }
  ]
 }
