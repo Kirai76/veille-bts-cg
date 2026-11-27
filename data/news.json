@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T22:07:24+00:00",
- "last_success": "2026-11-27T22:07:24+00:00",
+ "updated": "2026-11-27T23:07:43+00:00",
+ "last_success": "2026-11-27T23:07:43+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 64
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -20,7 +20,7 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 59
+   "count": 34
   },
   {
    "query": "impôt sur les sociétés",
@@ -30,7 +30,7 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 30
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 42
+   "count": 62
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 48
+   "count": 46
   }
  ],
  "items": [
@@ -70,6 +70,13 @@
    "source": "Actualite.cd",
    "ts": 1795815088,
    "theme": "alt"
+  },
+  {
+   "title": "Présidentielle 2027 : Marine Le Pen en opération séduction auprès des PME",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1lhVjZPSHAwZnI4THp6VWtWQzY3OE9WX2xlbTRoa1NKeXJ2bTRmX01rV08tYWNSRHF4dkJqNnItU21oTnpQeUNxWTJpampyMXhHZy04NnpUZVBJV0szbmswOXZLek5KeEdoUnh4WDNxRkVVZWhMTEtBbzEtR0dEUXVleUdydnJ5OTFOQTlMcmN4VHdGRTdBRHZYclVEZjJFcDdIMmt3NkJxX0FLZ25wUUtFVWRNUGhP?oc=5",
+   "source": "Valeurs actuelles",
+   "ts": 1795806026,
+   "theme": "fisc"
   },
   {
    "title": "Présidentielle 2027 : Marine Le Pen veut soulager la fiscalité des TPE et PME",
@@ -731,8 +738,8 @@
   },
   {
    "title": "La Cour des comptes épingle fraudes et abus dans l'essor non contrôlé de l'apprentissage",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHo4aTlxNkR1YkRzeWJSMVVqak15ZFBzRHFQdGtzTmFiTWdOYThNdFdtODNHUm1hbXlFZmVKVWpfNjJiN3dtVE1NYWxHYW1kVG4xV0NUdHIwMWJsYjUxbmxJMXRuWEdaYnVPenN4R1ZEMmdrejJZRXJ1em5qSkU1SVRfd2RQYTJLZm1YSTVXVlB6algtLVVQTXYtUktGM0wzSnBURWdvZHR1a1dscm5aWWpsbWFuM0JhTkNhYzdBWVNNLVFBRlhSc1pUYmVnMWlzS0xNdVNaOA?oc=5",
-   "source": "Orange Actualités",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVFdHSXpCZzE1ekVJYlNrTHdES3hMS2dqclp2R0tIMXVheUFock5VOUFsa2lCR0ZYSkdQYWRzM1N4eG1VMElaUVdfdjFRbi1xWU5kN1VZM0JrN1JUajUwLWt0bUVKaVFPbVZjRUZIZVlsbzIxcDRmV1JzTFY0VDFjVklUanQtS0ZaeXhOMng1S19tUjZuS3lOMzJiRXk0RjdPRm1QZUJ0Zm80VWs0ODBkNUwzYU5wLU5CNUdEQjNkdHByNDhScXQ3WGhHeFJ5ZmpuZ0RvSlN0TFFtenJJekREM0xtTWVFVUtCNnFsSGd3bjRCelhINXAwV2RuTm9sMk9HQUZoQkx0LVRSVDYtTm5Dc1VR0gGSAkFVX3lxTE9UV0dJekJnMTV6RUliU2tMd0RLeExLZ2pyWnZHS0gxdWF5QWhyTlU5QWxraUJHRlhKR1BhZHMzU3h4bVUwSVpRV192MVFuLXFZTmQ3VVkzQms3UlRqNTAta3RtRUppUU9tVmNFRkhlWWxvMjFwNGZXUnNMVjRUMWNWSVRqdC1LRlp5eE4yeDVLX21SNm5LeU4zMmJFeTRGN09GbVBlQnRmbzRVazQ4MGQ1TDNhTnAtTkI1R0RCM2R0cHI0OFJxdDdYaEd4Unlmam5nRG9KU3RMUW16ckl6REQzTG1NZUVVS0I2cWxIZ3duNEJ6WEg1cDBXZG5Ob2wyT0dBRmhCTHQtVFJUNi1ObkNzVVE?oc=5",
+   "source": "Boursorama",
    "ts": 1795602761,
    "theme": "alt"
   },
@@ -811,7 +818,7 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
    "source": "Compta Online",
    "ts": 1795593600,
-   "theme": "alt"
+   "theme": "compta"
   },
   {
    "title": "Étude Cegid, Silae et Shine : les dirigeants saluent leur expert-comptable mais sont divisés sur l'IA",
@@ -1025,7 +1032,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTFoZTN1N3dLUU1tdnN6SlRfSzhDclh6eUVVRjFkd0lxUVNWc3dJWkJ6RlllZjRLTFZKSkhUczRJcEMwVXVnMllpTDFZUGg1Qlc0YjJybzVoQTQwcnJMeURBa1otWExFRHNZUjBwNllWdEZIOEg5NEhqQW8zNThicmRXc2h5S0lUYnhWajlSUDVoaDNBNTlDS3BuMDdoS0VHeEM2cjVzc1ZsZzhtNTZFYTVsaTJoc1dRTHZGZm9RUDlTVzk1V3VXMFdR?oc=5",
    "source": "Revue Fiduciaire",
    "ts": 1795518000,
-   "theme": "fisc"
-  },
-  {
-   "title": "Fiscalité numérique : Apple ajuste les revenus des développeurs pour intégrer l'impôt camerounais de 3 %",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTzZ1T2E1REs4eGRDRk84YUZDZklXcmRfLTVhOERIbXhoMVNOQno4NFBNeXJ6M0czeGZVSUU1cnd3eER4aHZhVEVrQ1ZTNHdNWEVzeEd1NjZ0M2V6b2tMaG1OLTlTdW1KTmhlXzFraXFnM2pXaThaWTZDdXB3Ums3VjE2NWQxQ0ZXaVZlLWxLZC1JYURQalpqSVVRU3FCcnZ1YzVQamQ2NHNVc1RRQXdRU1VzM2kyb0EtbkUwWGtzNXhTMzJUX0JjTEtwMDdJTGpobzZ4cW55Zk5pY3JacTU1aXVWVnlJQdIB6wFBVV95cUxNZjBsMGVJX2hFcUVlcjc1ZWRfU1hSbm94dW1sNjBCdWtqRHFjSE9QM3NPUktjN1EtZnFwMkYxR2daVzVFNW04Mm9Zd2w5Y010cm9ocEoyQmZKUHlQX1ZPczYxYjBtQ3pRM2NheGhrZTl1NkIxMUVNTG9jeVY0WTRVQ2dqMDlxeERJWHZybzJDYmpFb3dZc2h3NlhqN0pwUXQ5R0VoaV9CR29BTTFHQ3FCbDZZVlNzb2VlbGZFYjUtRUd1XzdKeVhOZ3FNT1VDU0l2ZkdRRURTRVRDUnlVdGxZRkl1UDBHMzFEVWlz?oc=5",
-   "source": "Investir au Cameroun",
-   "ts": 1795517954,
    "theme": "fisc"
   }
  ]
