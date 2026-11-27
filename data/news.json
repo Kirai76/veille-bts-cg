@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-27T20:10:00+00:00",
- "last_success": "2026-11-27T20:10:00+00:00",
+ "updated": "2026-11-27T21:07:55+00:00",
+ "last_success": "2026-11-27T21:07:55+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 98
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 96
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 30
   },
   {
    "query": "DSN employeurs paie",
@@ -50,7 +50,7 @@
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "query": "BTS comptabilité gestion",
@@ -64,6 +64,13 @@
   }
  ],
  "items": [
+  {
+   "title": "Présidentielle 2027 : Marine Le Pen veut soulager la fiscalité des TPE et PME",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1lhVjZPSHAwZnI4THp6VWtWQzY3OE9WX2xlbTRoa1NKeXJ2bTRmX01rV08tYWNSRHF4dkJqNnItU21oTnpQeUNxWTJpampyMXhHZy04NnpUZVBJV0szbmswOXZLek5KeEdoUnh4WDNxRkVVZWhMTEtBbzEtR0dEUXVleUdydnJ5OTFOQTlMcmN4VHdGRTdBRHZYclVEZjJFcDdIMmt3NkJxX0FLZ25wUUtFVWRNUGhP?oc=5",
+   "source": "Valeurs actuelles",
+   "ts": 1795806026,
+   "theme": "fisc"
+  },
   {
    "title": "Présidentielle 2027 : Marine Le Pen veut soulager les TPE et PME",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1lhVjZPSHAwZnI4THp6VWtWQzY3OE9WX2xlbTRoa1NKeXJ2bTRmX01rV08tYWNSRHF4dkJqNnItU21oTnpQeUNxWTJpampyMXhHZy04NnpUZVBJV0szbmswOXZLek5KeEdoUnh4WDNxRkVVZWhMTEtBbzEtR0dEUXVleUdydnJ5OTFOQTlMcmN4VHdGRTdBRHZYclVEZjJFcDdIMmt3NkJxX0FLZ25wUUtFVWRNUGhP?oc=5",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1FSS2xZU3FFWnRyTEpBUlJya3FqYkJkY0dnczJSRXNid21NUkJINWJqQWRqODVrNFRRdUFHVG1SZ2ZReHQyLUhfejVUSDg1ZDh5OXFaOE9zcnRJMkxUNk9uMkZtQVRhdFpMQ3otZHJTVW85b2poQ3lYMk5SMmtSUTBnbHRZek1OZ0phWklCRnB1QUNIVEdUcHhrVV9fa3p5QndvN2pSdmhxenNQTnZjM05Ha2pOMVBnSTAtRVFxbk54WWRWTGZuLVB0VQ?oc=5",
    "source": "Atlantico",
    "ts": 1795517396,
-   "theme": "fisc"
-  },
-  {
-   "title": "Capital-investissement au Maroc : une croissance à deux chiffres qui profite aussi au Trésor",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXZNa2t5ZVA1RTVWWjB3SExxWEMtMWoxRF9YS0ttdnB2dklJTEdZa2NVek1xZ2UwX0ZNa1J1MEtBT2E5ZW5PbFpaS2xiM2ttZlpwV2xkcjlqaFFjdlhwZVJwLWhNMTBJejJ6aU5pc1BjX1pfMHBaa2l1WklaRFNWc201QjU3anRPOU5ENnRzcHkzT3ltYndBVjlPZ21hVFY4Yzh6dnNsSG1LVm84c3R3YVI3NWFrWFZ3LVVCX3o1R3Qyd1o0dl82RnZ3aw?oc=5",
-   "source": "Medias24",
-   "ts": 1795516500,
    "theme": "fisc"
   }
  ]
