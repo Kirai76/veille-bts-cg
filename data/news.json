@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T21:07:55+00:00",
- "last_success": "2026-11-27T21:07:55+00:00",
+ "updated": "2026-11-27T22:07:24+00:00",
+ "last_success": "2026-11-27T22:07:24+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 65
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,17 +15,17 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 98
+   "count": 99
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 59
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 96
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "plan comptable général ANC",
@@ -55,15 +55,22 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 11
+   "count": 27
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 31
+   "count": 48
   }
  ],
  "items": [
+  {
+   "title": "Assemblée nationale : Mechack Mandefu Muela appelle à un consensus autour de la réforme de la CENI et de la loi électorale",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHlMcGFrdkVaZE83X1hldm1fUTlldTdqSWtHOUpiTFlmLUlZNlE2VGRNOFJqMjduTzdQbHlYQ2U0blRwSThXdlhTR2tST1owT1BCeENKNjNraFZ5UGltZG1GT1IxbzRzOFc3RFllbjJNTWFzRFYyWmFYUkhSdUVTdVMxVUJKczFQUlhCTjV2bnl2UWpRRW5HZ2ZmbzcwMmtLMnMteXJIUFVHcDZCYUZwOWd4aGJhVkR0SlE?oc=5",
+   "source": "Actualite.cd",
+   "ts": 1795815088,
+   "theme": "alt"
+  },
   {
    "title": "Présidentielle 2027 : Marine Le Pen veut soulager la fiscalité des TPE et PME",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1lhVjZPSHAwZnI4THp6VWtWQzY3OE9WX2xlbTRoa1NKeXJ2bTRmX01rV08tYWNSRHF4dkJqNnItU21oTnpQeUNxWTJpampyMXhHZy04NnpUZVBJV0szbmswOXZLek5KeEdoUnh4WDNxRkVVZWhMTEtBbzEtR0dEUXVleUdydnJ5OTFOQTlMcmN4VHdGRTdBRHZYclVEZjJFcDdIMmt3NkJxX0FLZ25wUUtFVWRNUGhP?oc=5",
@@ -1018,7 +1025,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTzZ1T2E1REs4eGRDRk84YUZDZklXcmRfLTVhOERIbXhoMVNOQno4NFBNeXJ6M0czeGZVSUU1cnd3eER4aHZhVEVrQ1ZTNHdNWEVzeEd1NjZ0M2V6b2tMaG1OLTlTdW1KTmhlXzFraXFnM2pXaThaWTZDdXB3Ums3VjE2NWQxQ0ZXaVZlLWxLZC1JYURQalpqSVVRU3FCcnZ1YzVQamQ2NHNVc1RRQXdRU1VzM2kyb0EtbkUwWGtzNXhTMzJUX0JjTEtwMDdJTGpobzZ4cW55Zk5pY3JacTU1aXVWVnlJQdIB6wFBVV95cUxNZjBsMGVJX2hFcUVlcjc1ZWRfU1hSbm94dW1sNjBCdWtqRHFjSE9QM3NPUktjN1EtZnFwMkYxR2daVzVFNW04Mm9Zd2w5Y010cm9ocEoyQmZKUHlQX1ZPczYxYjBtQ3pRM2NheGhrZTl1NkIxMUVNTG9jeVY0WTRVQ2dqMDlxeERJWHZybzJDYmpFb3dZc2h3NlhqN0pwUXQ5R0VoaV9CR29BTTFHQ3FCbDZZVlNzb2VlbGZFYjUtRUd1XzdKeVhOZ3FNT1VDU0l2ZkdRRURTRVRDUnlVdGxZRkl1UDBHMzFEVWlz?oc=5",
    "source": "Investir au Cameroun",
    "ts": 1795517954,
-   "theme": "fisc"
-  },
-  {
-   "title": "Lisnard mise sur la Suède, baisser les impôts plutôt que subventionner les entreprises",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1FSS2xZU3FFWnRyTEpBUlJya3FqYkJkY0dnczJSRXNid21NUkJINWJqQWRqODVrNFRRdUFHVG1SZ2ZReHQyLUhfejVUSDg1ZDh5OXFaOE9zcnRJMkxUNk9uMkZtQVRhdFpMQ3otZHJTVW85b2poQ3lYMk5SMmtSUTBnbHRZek1OZ0phWklCRnB1QUNIVEdUcHhrVV9fa3p5QndvN2pSdmhxenNQTnZjM05Ha2pOMVBnSTAtRVFxbk54WWRWTGZuLVB0VQ?oc=5",
-   "source": "Atlantico",
-   "ts": 1795517396,
    "theme": "fisc"
   }
  ]
