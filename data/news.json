@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T06:13:06+00:00",
- "last_success": "2026-11-27T06:13:06+00:00",
+ "updated": "2026-11-27T07:36:56+00:00",
+ "last_success": "2026-11-27T07:36:56+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 69
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 36
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -30,12 +30,12 @@
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 34
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 60
+   "count": 46
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 18
+   "count": 33
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,7 +60,7 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 42
+   "count": 32
   }
  ],
  "items": [
@@ -408,6 +408,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Fraude à l'apprentissage : suspension des aides, contrôle du CFA et sanctions, ce que risquent l'entreprise et l'organisme de formation",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkhJckM1VjJxN3lsNk9jYTUtSjNtZDlHUlg5YlZxMDVETjgzMENCTTdzNmtuSzhqbjlDbm5aUGItNXlPaExIZmd1Z0FmOGZwOFVpb19PVGs5cS1WZldreXJySi1HdFVBYlBENkNFWXRaa09xT2h3d3VsLWJrVW54MTdTMU5CeFZoSkItQVdFSktRVTRVUTJBc0l3TVJwUGtBbjZMbTJWcnRzYUhwbzN2cDRVdm1GYnNCbUhMOWtrSERlR2doeVE?oc=5",
+   "source": "Reda KOHEN",
+   "ts": 1795639080,
+   "theme": "alt"
+  },
+  {
    "title": "Exercice illégal de la profession d’expert-comptable à Guémené-sur-Scorff : un septuagénaire et sa femme jugés",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRUhZaXdSd2xXZFN5RTI3SkNzZG03amN3UXpBS295dGczTzdKbFRkSm1HYWVfTGh2M0xkNWJrcms3dUYwOS1kQ0RlZXd0LUFCY0FJRTNMLWZ4cGNKWEw3UVdzbUFKQXlBdmVTWEpnY1NDT3d5RDJLXzhWWTJBUnIzY3k1OXhqeVJNckYwVDBhMTdPeTJNR0lJMVlGcm9WTFBjNlJucHNOcE0wX2NmaEpUTDBlZkplUFhlcEdqUDlTQlJFV3Y2TFRHUWxscFYtaThnWDc2VktpTXlCU3V2U1hhUXZLeWJEQ25pVGI3MkFxRThZaVZSa3NndDdlQWhhNTVT?oc=5",
    "source": "maville.com",
@@ -494,7 +501,7 @@
   {
    "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1RLeFgtZTUzTDgzdWRfcVRmUmZsSThORi04WHRncWFrUGFJZzY0dUNxUHUtelp3bDZRU3lYbGdEWGozY2JleFV5c0hWaHFNUWxUYXdyY1JzTEhfc2RyNFIzc3k2TU9vSDJ0UW10YzQwMER3ZTRlamhVdnRnMmJSSlZKQUMzR19qTWtMbHdtZVAyYWxEa0U3NXFHcG5YX0JOTGFheEZvdzF3MG5qQWdHZkVKTHh4WmtBcWVuWW5hbDMzWE96YWVrLXFMdnFLZXlXbkhGMV9hYW5XN2s?oc=5",
-   "source": "franceinfo",
+   "source": "Franceinfo",
    "ts": 1795609253,
    "theme": "alt"
   },
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVI1MlB3anJUUnhPdFdGRURtWTNOZXN5Z0JNQ3NwZVBIQ3R6MzdkdVcyQ3Rqay1sc3ZTdExCTDhBeGJIUm1CUE5nRmhHTTZaUk11MlBUbGhqTnRrTUlxTFdWTERZT2JRSEozUHNyQS15R1VIcTlERXJReVJuZmJTZnRiTTIweEJGakNLWklfZ2xQek82blVQTExNYU5kMlN0YXgtSC02T0JubURpNkhycWtZQy1oNC00QS1BY0RjZUw5NkZMMXliVUxJYXJEZw?oc=5",
    "source": "La Presse de Tunisie",
    "ts": 1795439551,
-   "theme": "fisc"
-  },
-  {
-   "title": "Douane, la prison pour une erreur de forme & un allègement en 2027",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmhLVEhNN04yeGRheEtQakRRT0NtR2R0QVJQMVBhMGk2TE1YNlBsQWppOFU3cWVZU2JEOE13V3RDdDhucWdtQkN2NmRhN0J0MWctN2drSnA0U0dnWmRWM1lnem8zOTFMU25MdU1wWEs3VDFobGVEMURETjdFdndOM1RRQzBlSFI0a0w3YjNVcHYtbmFHOWc?oc=5",
-   "source": "African Manager",
-   "ts": 1795438583,
    "theme": "fisc"
   }
  ]
