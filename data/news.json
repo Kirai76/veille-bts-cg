@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T03:10:54+00:00",
- "last_success": "2026-11-27T03:10:54+00:00",
+ "updated": "2026-11-27T04:19:42+00:00",
+ "last_success": "2026-11-27T04:19:42+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 62
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,22 +15,22 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 35
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 33
+   "count": 62
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 95
+   "count": 36
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 34
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 59
+   "count": 44
   },
   {
    "query": "aide embauche apprenti",
@@ -55,20 +55,27 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 27
+   "count": 11
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 42
   }
  ],
  "items": [
   {
+   "title": "La réforme de l'AVS 2030 risque d'avoir beaucoup de retard",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmtSMkQ1ZjZLY3NXZS1ROEIyV0k5RlFYWFhvYVZ2Q2YwTDNLckZndTZqMkpNQmxWMzNpRkw4NUV2eTh6TkJoU3JMOW5JaC12Z2hmVVJfWWwwTWczS3BRYWlwcGxZOGxuZlFnU1RVbk1lRU9QTkJIWWJSS1FVdVBYQlhoZVBrUWg0ODVXZlpR?oc=5",
+   "source": "Blick",
+   "ts": 1795744550,
+   "theme": "fisc"
+  },
+  {
    "title": "Proposition du RN : un barème progressif d'IS de 5 tranches favorable aux PME",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXFGMWl3U3QtcU42TjJmWEhzeHp1SzJ4WGxOZi1yNlpUX2hKZ3ppSzZIT1pxSmxFcWdNN3VBRFMyLXVaeXRMbGFiWUgxNTFjQUVoRU5wSGI4RTlRc041ejVTX2Q3TjIzTDNBbnZxWlQ3T2FDY2hwX1pwazBaYWJ3MDdXcjVjNjctQWhpTTEwS2hxd2Z0RWxBeFBnaC1IcllvU05hVTdidzM3S3Y5ZEpwV1NKR1FNbHc?oc=5",
    "source": "LégiFiscal",
-   "ts": 1795734154,
+   "ts": 1795734493,
    "theme": "fisc"
   },
   {
@@ -77,13 +84,6 @@
    "source": "https://horticulture-abadie-pyrenees.com/",
    "ts": 1795730153,
    "theme": "alt"
-  },
-  {
-   "title": "La réforme de l'AVS 2030 risque d'avoir beaucoup de retard",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmtSMkQ1ZjZLY3NXZS1ROEIyV0k5RlFYWFhvYVZ2Q2YwTDNLckZndTZqMkpNQmxWMzNpRkw4NUV2eTh6TkJoU3JMOW5JaC12Z2hmVVJfWWwwTWczS3BRYWlwcGxZOGxuZlFnU1RVbk1lRU9QTkJIWWJSS1FVdVBYQlhoZVBrUWg0ODVXZlpR?oc=5",
-   "source": "Blick",
-   "ts": 1795723814,
-   "theme": "fisc"
   },
   {
    "title": "Pour les petites entreprises, la baisse d’impôt promise par Le Pen soulève une question : qui en paiera le coût ?",
@@ -98,6 +98,13 @@
    "source": "Le Figaro",
    "ts": 1795718681,
    "theme": "fisc"
+  },
+  {
+   "title": "Le budget 2027 de France compétences va être fixé pour la première fois par le gouvernement par arrêté",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEc3eUdaQTRNdUZ0QXREVmVqVUt4Q3VjMkxCa01QbUN5YWZGWmdCU3hHcThibG5BVGFkMGJnRnByRVRPcm1GN29BQzlIUlR2RldKSlVRSUlOMHh3TURCQmZLSUVfcHE3bUk4dEpJUW9qUndXUUFCUzdUd2JJUzhJVV9HTmRWWEM0cDdqUVpnWHoxb3JzRHNJZTFoalotZWM?oc=5",
+   "source": "AEF info",
+   "ts": 1795717560,
+   "theme": "alt"
   },
   {
    "title": "Marine Le Pen propose de rendre l'impôt sur les sociétés progressif pour les PME en France",
@@ -374,7 +381,7 @@
   },
   {
    "title": "Exercice illégal de la profession d’expert-comptable à Guémené-sur-Scorff : un septuagénaire et sa femme jugés",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVW83bHdDRElaMVlxbHlWUXQ5LTY4TkY5MlFXZnAwMnZjMjFWT19ZU2NIcVdPOTJSTGliUV9pWHdFSTVFMV9JZ2JBMmtlR1BWZXh5c3dpSGhIbC10LXgtUnNEUldJVjVwbVBpNlFkZExPLXk5cVVJVlM3NGNnRWFPZk1IRGJIU2MtTzhlV3cwanZWOFhUNDhQNmhhN3NUYmQwVlhXT3dyV19TcFRZSWxzc1NNaDkxZzdKblhmc2dpRTltbnVpRUIwZFYxVTdtS0VaNE95bnlOUTRBVE9ad2IxNW9HbHlramdwanpIbzNDVkxFdHFBUzJQR1NLR2s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRUhZaXdSd2xXZFN5RTI3SkNzZG03amN3UXpBS295dGczTzdKbFRkSm1HYWVfTGh2M0xkNWJrcms3dUYwOS1kQ0RlZXd0LUFCY0FJRTNMLWZ4cGNKWEw3UVdzbUFKQXlBdmVTWEpnY1NDT3d5RDJLXzhWWTJBUnIzY3k1OXhqeVJNckYwVDBhMTdPeTJNR0lJMVlGcm9WTFBjNlJucHNOcE0wX2NmaEpUTDBlZkplUFhlcEdqUDlTQlJFV3Y2TFRHUWxscFYtaThnWDc2VktpTXlCU3V2U1hhUXZLeWJEQ25pVGI3MkFxRThZaVZSa3NndDdlQWhhNTVT?oc=5",
    "source": "maville.com",
    "ts": 1795636980,
    "theme": "compta"
@@ -653,6 +660,13 @@
    "theme": "alt"
   },
   {
+   "title": "« La tech doit s'imposer dans la campagne présidentielle » : les 24 propositions de France Digitale",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFRNUjRBbWZ2OXk4TDhmWFQzTUxwWjRMd213MVdmaEtGc19BeWJXeTRMQ2ZjMk0xWjhhVHVxM19qOENoMEQ0TTZHd3dJanFoUGx6RkFheVk2YkZTMkZCWjJfT19zd2h2cElEaGpOT3lMME1yeGpuMl9venBINjJESHhoeUtuSTVFdmk1eDhmNjEzTkhnM25LS2RGXy1RVnhzelBpa192VEJWUmxLYmFocXJNNEQtLW9ESEpER2VOcFNGSHczMDhlZ3BFeVNPZmYyVlN1M2VFYmMtM29S?oc=5",
+   "source": "Les Echos",
+   "ts": 1795582808,
+   "theme": "fisc"
+  },
+  {
    "title": "Jusqu’à 3 milliards d’euros détournés : comment des escrocs profitent des failles colossales des aides à l’apprentissage",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONlJEU2M3eWFrWjU0dm9rX3NWekNIVzZUOGprdUNKQmc2Rk9DaGstRHZ4RDhCWDNKM2NZelFkd0xrY1FPcnZYaEhjbG8yLVVFNk1ydVluRUNmRlJTOFphVUpWLTBHSmVwMU5fV2VkMnZBcDZhWFJsSGIxU1FtQmJMN2JETmZUa3lCNlR4ajBOUEtES0VVNHhDU2d6Yks1dFFBdXVfMmJmbjM0WFlIdW82WHRwODVMWmdGSlVwQTBoblFjcl9jZGZYMlpSX19CZUZHLXBQOWdMUkI0RUhZWkJLU29JbnJzVl9mM3N3dTk2V05rOXJJVjUteXR5Y2tzZkx5X0dSOHZzeGM?oc=5",
    "source": "Le Parisien",
@@ -780,7 +794,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1099,20 +1113,6 @@
    "source": "Social Mag",
    "ts": 1795431614,
    "theme": "alt"
-  },
-  {
-   "title": "Budget 2027 : le Sénat vote la fiscalisation intégrale des indemnités pour affections de longue durée",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaE0wd3JUalVoRXBvMlR0TXVpamNqd1g1UlkyOGRWTlh5TjVocEZCY19NRkd3R3NzemMtMFhLbzE0N0U4c3k5VWdjMHpES1cxWEd0WG5GVG1sN3YydzNRNGZ4QnlGNWowdURlalFNaEg3dTllTGc1aTlfRW9CV0UtTUJwZDEwcDNSTmJfYnJjOEVSOXNhNllTRFRNZkltLVRxdmJ1ZjZXSGN1NkRKZU5qdEdSME9YYUZ6NWp3Z1huVXV2RmhiWVVEYTljeDVWQjBVZ0wzblczQmlrN0FmT29aUw?oc=5",
-   "source": "Public Sénat",
-   "ts": 1795430745,
-   "theme": "fisc"
-  },
-  {
-   "title": "E-commerce en Europe : stocker à l'étranger, est-ce aussi une décision fiscale ?",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHprWjhobkVKTFpRdXNJZGw5U1JJTExNODh1ZVItUE16OW1sdDJ1SVJpZEl3ZmxKWGxTVWg2eVo3bGdSRm1VUDVwOVg3eUU3bWEwNkNRRkJiVW0xWkFaaTBJdW5IS1hOLWdBb0R4d3BVMm9PUVRCc1BhOGZ0aXZjUDZuZ2RSQ3NOcWx2ekZwOXNBWElUc2FaNGc3T2VDRDFQX2g0d0JwSGF6OXpVcGUyaEd1NHpBTWNKS2I3WQ?oc=5",
-   "source": "JDN",
-   "ts": 1795430699,
-   "theme": "fisc"
   }
  ]
 }
