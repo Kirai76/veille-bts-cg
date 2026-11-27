@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T15:09:45+00:00",
- "last_success": "2026-11-27T15:09:45+00:00",
+ "updated": "2026-11-27T16:17:21+00:00",
+ "last_success": "2026-11-27T16:17:21+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 67
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 34
+   "count": 93
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 31
   },
   {
    "query": "DSN employeurs paie",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 43
+   "count": 60
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 35
+   "count": 20
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 11
+   "count": 27
   },
   {
    "query": "apprentissage alternance réforme",
@@ -73,7 +73,7 @@
   },
   {
    "title": "Marine Le Pen va-t-elle réussir à mettre les patrons dans sa poche ?",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU21WTTRveWF0MDE3UGFKeVVrVFhiTl9xWldrOU1xMDlXQzFBblphSlBMbGk1WkhBWlBMeE1ibkhrS3FXLW5jR1NtbFdTbUdZY1IzNmNMYmlKaU1YSUdGYzdUbGtYcEtoU1RxNlFZbndYSFFucEs1QTFicU4xZklkSV9QVWRoV3NlZG1IMVJlZkh1b0lQMS1rSW1lVm9VX3ZiU0NyQi1WYlg4WnFzampJNW5OUzNvYjJZaEpxR3Q1bHBydTZ4MnRzd2FOLWtNTmFUdW04bW9HNFgtWWt40gHiAUFVX3lxTFB5MU83S1JBOURZX0NzQWk2Y19xelFRekhHTmYyNkg5S2kyZTVCWHRvZmNVUVlfVXhxTDZpdGZnUmJJajBLWl96UU1EbFp3OUxIYnozWndVZWg3dmkzekZLZGJjdmExb1VaUUM3QUdNcjk3YmZ1a0VyaDhEVVJkOXQtTGI2QVA0dFhyMkF2Wi1Xb2FsUVEwQl9iUmR4UEdKWE1KWjIxeTlBZkJMeFAxYXdLaWsxajRfZGd2V1VINml4QURLRnFVNEZBeU9lcTBVRDNuWk1zX1pxbGI2eUJGRExyU1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeTFPN0tSQTlEWV9Dc0FpNmNfcXpRUXpIR05mMjZIOUtpMmU1Qlh0b2ZjVVFZX1V4cUw2aXRmZ1JiSWowS1pfelFNRGxadzlMSGJ6M1p3VWVoN3ZpM3pGS2RiY3ZhMW9VWlFDN0FHTXI5N2JmdWtFcmg4RFVSZDl0LUxiNkFQNHRYcjJBdlotV29hbFFRMEJfYlJkeFBHSlhNSloyMXk5QWZCTHhQMWF3S2lrMWo0X2RndldVSDZpeEFES0ZxVTRGQXlPZXEwVUQzblpNc19acWxiNnlCRkRMclNR0gHiAUFVX3lxTFB5MU83S1JBOURZX0NzQWk2Y19xelFRekhHTmYyNkg5S2kyZTVCWHRvZmNVUVlfVXhxTDZpdGZnUmJJajBLWl96UU1EbFp3OUxIYnozWndVZWg3dmkzekZLZGJjdmExb1VaUUM3QUdNcjk3YmZ1a0VyaDhEVVJkOXQtTGI2QVA0dFhyMkF2Wi1Xb2FsUVEwQl9iUmR4UEdKWE1KWjIxeTlBZkJMeFAxYXdLaWsxajRfZGd2V1VINml4QURLRnFVNEZBeU9lcTBVRDNuWk1zX1pxbGI2eUJGRExyU1E?oc=5",
    "source": "Boursorama",
    "ts": 1795784700,
    "theme": "fisc"
