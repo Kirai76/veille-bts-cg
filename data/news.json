@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T13:28:56+00:00",
- "last_success": "2026-11-27T13:28:56+00:00",
+ "updated": "2026-11-27T15:09:45+00:00",
+ "last_success": "2026-11-27T15:09:45+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 67
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,7 +15,7 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 100
   },
   {
    "query": "TVA entreprises réforme",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "query": "plan comptable général ANC",
@@ -55,15 +55,22 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 27
+   "count": 11
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 32
+   "count": 44
   }
  ],
  "items": [
+  {
+   "title": "Le groupe Matmut se dote d’une société de réassurance pour diversifier ses revenus à l’international",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUmVTVlZFWWd0anZ4UTMyRnFUcFR4ZDR2S3J1eWgybEJlTWFyV1E0ZEdid01Pc25QdWFpM2NqZjVpVGRMcmJLUERURVVTdElxQzF0bGFZdWdEUXNJOTJ3YndIWnFjQkdkSHk5dW1kRmRUSUpLTjYzYzBIYTM5cFhZVUQwU0U0Y0NPTjNrZjRDLVFqNWk1bGp4Vm5hcFlFdVQxcGpSYzVCa2JYWEh0dmZla1o3YnliNDJheUNFcVdrS1JpOWl2VjVVYUJWNFd5T3dhNHJ0ZHpqZ0JhZ2dUT1VMSGNnbWZidHZqLW9zdUlBS0lOWGVYb0g3aFJuSEJYem1QNnZCRVdOU1AzXzg5dFhJX3hWeXpHOEpYLWlIbDY0b3RWUQ?oc=5",
+   "source": "Ouest-France",
+   "ts": 1795785477,
+   "theme": "fisc"
+  },
   {
    "title": "Marine Le Pen va-t-elle réussir à mettre les patrons dans sa poche ?",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU21WTTRveWF0MDE3UGFKeVVrVFhiTl9xWldrOU1xMDlXQzFBblphSlBMbGk1WkhBWlBMeE1ibkhrS3FXLW5jR1NtbFdTbUdZY1IzNmNMYmlKaU1YSUdGYzdUbGtYcEtoU1RxNlFZbndYSFFucEs1QTFicU4xZklkSV9QVWRoV3NlZG1IMVJlZkh1b0lQMS1rSW1lVm9VX3ZiU0NyQi1WYlg4WnFzampJNW5OUzNvYjJZaEpxR3Q1bHBydTZ4MnRzd2FOLWtNTmFUdW04bW9HNFgtWWt40gHiAUFVX3lxTFB5MU83S1JBOURZX0NzQWk2Y19xelFRekhHTmYyNkg5S2kyZTVCWHRvZmNVUVlfVXhxTDZpdGZnUmJJajBLWl96UU1EbFp3OUxIYnozWndVZWg3dmkzekZLZGJjdmExb1VaUUM3QUdNcjk3YmZ1a0VyaDhEVVJkOXQtTGI2QVA0dFhyMkF2Wi1Xb2FsUVEwQl9iUmR4UEdKWE1KWjIxeTlBZkJMeFAxYXdLaWsxajRfZGd2V1VINml4QURLRnFVNEZBeU9lcTBVRDNuWk1zX1pxbGI2eUJGRExyU1E?oc=5",
@@ -83,6 +90,13 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRS3ZhUDZBMWRsQ1JycURRSjdpemR4NmVrd0U2YWFoVFBhS2ptQmEzUDF0NkRGVWJISW9OTHF6c3d6S2Z5cTZVVGltNmllZw?oc=5",
    "source": "AEF info",
    "ts": 1795782480,
+   "theme": "alt"
+  },
+  {
+   "title": "PLF 2027 : les sénateurs confirment en séance publique le durcissement du régime fiscal des apprentis",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOTNOTEwtQ2xwVFp6Unl4ZXhIQ2d4WGFDcDQ0RXpvWEJDa2FKMkFLcVNQS1dXLVlTUDlxUkJiY2VzZEZna0tLTFBlVnFoM24tZjIwUHZNNDJWRlNua0NLMFg2M0lnOU1IYVlsbTVYVmtIOHNnTlZVUDk1ZUFqRktKdUc2ZDFtODdjQ1NIVG1uNlFhb3RMQ21uanJGU1NqSzdEN3R3d2FlMVBTNGhDYm90ZFRval9iSUZTaDU3cUp0eFlIaTVUYktHSGJnVEJ4YkFYMjdR?oc=5",
+   "source": "AEF info",
+   "ts": 1795781160,
    "theme": "alt"
   },
   {
@@ -118,6 +132,13 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNekJlSUFEM1ZfUFk4RXRSLW1IR01qWXZmN09oNTJzVmFueHR2MGxLeDFSY0J2RjQ1Z0JkbE5aNHZfQkZqMVFad3JZSlhHcThkVVIwS2ZMQTBweXZjS00wWU5aanJYb25la19EZjludzJ2dmppMG10amlXeVR2c0tsbXhWRTd6eUFhZ0N3U1hpVnRDTXJObndsSVpqQm1uLWx0RUkwOXkyTnFhWTcwSll6RVppdE43d0ZwRVlsbUdQNG4tMHMxenFDcTRSZ0xsVmNYWVE?oc=5",
    "source": "Actu-Juridique",
    "ts": 1795770317,
+   "theme": "fisc"
+  },
+  {
+   "title": "Projet de Loi de finances 2027 : nouvelles mesures adoptées en commission (Par United Advisers)",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLUd4YjlIck1ER250TnJWQmNUb2VhQ1VZMXI5UHBoZkd2Z0tUTWV3b2o0VVlTYTZldHBqa1g0M2w2R3hTREdGclFkeTNUTDUxRHdsVXJ4N1lTTjBNQ3JjQjF1T01kd3hBUUQ2aThNNFM1b3ppWHZLajk3WEVoX09VVXdkcmNhTkZkZUJlY29LbEx0azMyX1czRzJReThaVlJCQUphZncxNHh2d0xqSVFUNUI0b0F0MXR2QUZZYXZNMlF1WUNhM3JyWlQ0ZDV2OTZhVHozYkFmLXlPZV8xYU9F?oc=5",
+   "source": "Tustex",
+   "ts": 1795770180,
    "theme": "fisc"
   },
   {
@@ -1092,27 +1113,6 @@
    "source": "mesinfos",
    "ts": 1795502220,
    "theme": "fisc"
-  },
-  {
-   "title": "SCI à l'impôt sur le revenu : 36,2 % sur la plus-value, et 3 leviers pour en payer moins",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVQ25nelV6NldiTUlJSl9seUJFdXBRX3gwb1Q3NWwzTmFRQlVNNWpWZmlhMWRhczB3clM2MVE1SDUtZC1IeEJ6T3BqUEcya1ZIWVBRVU15dVI?oc=5",
-   "source": "Actual Immo",
-   "ts": 1795499100,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facture électronique : comment recevoir ses factures fournisseurs quand on est auto-entrepreneur ?",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWmJJV0pfY1BlbkFRUjZUUGpqR3dycDloUHNnVjJuOGZpTnF3eUUwSmpGLWk2OVpBT19wLTluTWxYOVJJcC1yRGw2Y3FJLWphb1o5d3IxSnI3ekhza0prWGplSE15ejdRaFp6cmNqQW5RNXlPSmQtTTc1bmpiTjNlMHBQTWVTbGlJdjZDTlVCSjVTaWE3cERHR010UnFlb1JCQUlzZ2pxU3lkZEhpT2dJZXNhWFRJa3dGV1BudTg1V0dhOVhXVDlyeWVNX3U3S3dHZ25LNkZLX2puNUw0QXBvazZGNFMwSjlpY3Q1aGVmUDJQZjFqSTV4NEhSZ2hJVkNBWS1xb0NJSHc?oc=5",
-   "source": "Ouest-France",
-   "ts": 1795498322,
-   "theme": "fact"
-  },
-  {
-   "title": "Villeurbanne Facturation électronique : de la boîte à chaussures aux tuyaux électroniques, le maître-mot c’est « l’anticipation »",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHJqQjdWbng2RE1oVm1id2ozZTdfcEdvOV9xSjFRY2ROUjhhTDRNX2R0RkV3N2QwUk5lT1IxS29KQ19iQ0hQWEZhQkFCaEtBblNrTVVXWVRtblNMWGxHTnlOYUM4bl8yWnhJZWpwbFRxS3haeWRlZEUwVmpNWUdGZHA2RmF6d3ZJSlREX21JWmR4Q0RWVmt3ZWdHWnhCVXJGYzQ5YzhZWkFMenRNMVZtNFVXblJpTzZFcjJQZ2VBMzVNYW03Uy0tYUlZczB2UTR3Y09QRDFJZ1RtdHhQeEltYUFsMy04RUgyYmc?oc=5",
-   "source": "Le Progrès",
-   "ts": 1795496542,
-   "theme": "fact"
   }
  ]
 }
