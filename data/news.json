@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T12:07:47+00:00",
- "last_success": "2026-11-27T12:07:47+00:00",
+ "updated": "2026-11-27T13:28:56+00:00",
+ "last_success": "2026-11-27T13:28:56+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -25,17 +25,17 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 94
+   "count": 34
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 31
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 7
+   "count": 10
   },
   {
    "query": "plan comptable général ANC",
@@ -45,25 +45,53 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 60
+   "count": 43
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 11
+   "count": 27
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 31
+   "count": 32
   }
  ],
  "items": [
+  {
+   "title": "Marine Le Pen va-t-elle réussir à mettre les patrons dans sa poche ?",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU21WTTRveWF0MDE3UGFKeVVrVFhiTl9xWldrOU1xMDlXQzFBblphSlBMbGk1WkhBWlBMeE1ibkhrS3FXLW5jR1NtbFdTbUdZY1IzNmNMYmlKaU1YSUdGYzdUbGtYcEtoU1RxNlFZbndYSFFucEs1QTFicU4xZklkSV9QVWRoV3NlZG1IMVJlZkh1b0lQMS1rSW1lVm9VX3ZiU0NyQi1WYlg4WnFzampJNW5OUzNvYjJZaEpxR3Q1bHBydTZ4MnRzd2FOLWtNTmFUdW04bW9HNFgtWWt40gHiAUFVX3lxTFB5MU83S1JBOURZX0NzQWk2Y19xelFRekhHTmYyNkg5S2kyZTVCWHRvZmNVUVlfVXhxTDZpdGZnUmJJajBLWl96UU1EbFp3OUxIYnozWndVZWg3dmkzekZLZGJjdmExb1VaUUM3QUdNcjk3YmZ1a0VyaDhEVVJkOXQtTGI2QVA0dFhyMkF2Wi1Xb2FsUVEwQl9iUmR4UEdKWE1KWjIxeTlBZkJMeFAxYXdLaWsxajRfZGd2V1VINml4QURLRnFVNEZBeU9lcTBVRDNuWk1zX1pxbGI2eUJGRExyU1E?oc=5",
+   "source": "Boursorama",
+   "ts": 1795784700,
+   "theme": "fisc"
+  },
+  {
+   "title": "Apprentissage : la dynamique se retourne.",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fbUdtaFhoakZxVjhwQkJ0cF9xU2dEallicGllam1PUURaaFdSX3FnSm5Jd2RzN2ZNeTB3VUtCTEdSM2RSblIzQ3pBSWZhNml6ZFNtMzR5aHdObnA5TE1RYmo3VDFmU1J4WGd1dEVVb3JOVERZdVJF?oc=5",
+   "source": "groupe SVP",
+   "ts": 1795784400,
+   "theme": "alt"
+  },
+  {
+   "title": "La certification relative aux compétences de maître d'apprentissage et de tuteur est renouvelée par arrêté pour cinq ans",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRS3ZhUDZBMWRsQ1JycURRSjdpemR4NmVrd0U2YWFoVFBhS2ptQmEzUDF0NkRGVWJISW9OTHF6c3d6S2Z5cTZVVGltNmllZw?oc=5",
+   "source": "AEF info",
+   "ts": 1795782480,
+   "theme": "alt"
+  },
+  {
+   "title": "300 étudiants en marketing, commerce ou ressources humaines attendus : l’école Pigier de retour à Toulon",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWGlBQUljX21vNTJjTFdvNDRXd1VDeU1CQVBiU09nZmFwaTZ2MXlMVjBuNHBpQUo4TFdrSzNjVmFBQTdMMV93aS0xYWZUdW5Jck9XM2liME1XVW12cXl5YjFRS0NNOWJQenRRS1hDVU1XNkRKTWVvMFNRRmhmb2VuZlRGdFVHa25fY01mblNIVHhJX2ZxS1lYRjNrc2gxNy1lVDZBTTNfVmZuZUIyVUZaNFQ1VGdaTF9KV3hRekswWW9Qc2szLUpHM05xY0ttZmdkeEpVdVhxTVVxWVg3TEE?oc=5",
+   "source": "Nice-Matin",
+   "ts": 1795776592,
+   "theme": "alt"
+  },
   {
    "title": "Supprimer les obstacles pour garantir des remboursements d'impôt en temps opportun.",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUkVvTFk1TFV6YWVrQ25lV3ZJc3ZQMi1EY1ppUU51Tk9PMW5QSG5kZExyaFhVVU5xZ0tLdmptdGtQdl9ZUndCWXVsVzhlQlg0amFyS3VvNXN5LTJfTktWbEEtMjllZHM?oc=5",
@@ -259,6 +287,13 @@
    "source": "Compta Online",
    "ts": 1795698214,
    "theme": "compta"
+  },
+  {
+   "title": "Alexis Marinho : le maçon qui n’aimait pas l’école crée StudentAI, son prof particulier IA",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2ZKZHdlUmZIckJMVE1XMTFyY25BbTBqWUp2eWVqRXc1bHE1NDNodnlRU0RBQWxqQmFpT1NOSFpfdkNZbTUxN3haM1NOYXJLaGhsaVBCMG52VTdhLWtwU096UDQ2bFVJZTFsR1pVYV80cnVjZ242WUREQTR6Wk1PcFNuZjQyR2VxbXg3XzJDR0lyNV9WQVE2Rmw2YzlJRjRCUTRQTEtUUm9Wd3VqelZqRV9oR01iR0xBYjVXaDgxc1BaUmRudUdEdnU1YlFHVWxwVDh1cy03QUlRWDQ?oc=5",
+   "source": "Lyon Décideurs",
+   "ts": 1795695670,
+   "theme": "alt"
   },
   {
    "title": "Fraude à l'apprentissage : Jean-Pierre Farandou annonce la fermeture de 30 établissements en 2026",
@@ -585,7 +620,7 @@
   {
    "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1RLeFgtZTUzTDgzdWRfcVRmUmZsSThORi04WHRncWFrUGFJZzY0dUNxUHUtelp3bDZRU3lYbGdEWGozY2JleFV5c0hWaHFNUWxUYXdyY1JzTEhfc2RyNFIzc3k2TU9vSDJ0UW10YzQwMER3ZTRlamhVdnRnMmJSSlZKQUMzR19qTWtMbHdtZVAyYWxEa0U3NXFHcG5YX0JOTGFheEZvdzF3MG5qQWdHZkVKTHh4WmtBcWVuWW5hbDMzWE96YWVrLXFMdnFLZXlXbkhGMV9hYW5XN2s?oc=5",
-   "source": "franceinfo",
+   "source": "Franceinfo",
    "ts": 1795609253,
    "theme": "alt"
   },
@@ -1078,41 +1113,6 @@
    "source": "Le Progrès",
    "ts": 1795496542,
    "theme": "fact"
-  },
-  {
-   "title": "Facturation électronique : de la boîte à chaussures aux tuyaux électroniques, le maître-mot c’est « l’anticipation »",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHJqQjdWbng2RE1oVm1id2ozZTdfcEdvOV9xSjFRY2ROUjhhTDRNX2R0RkV3N2QwUk5lT1IxS29KQ19iQ0hQWEZhQkFCaEtBblNrTVVXWVRtblNMWGxHTnlOYUM4bl8yWnhJZWpwbFRxS3haeWRlZEUwVmpNWUdGZHA2RmF6d3ZJSlREX21JWmR4Q0RWVmt3ZWdHWnhCVXJGYzQ5YzhZWkFMenRNMVZtNFVXblJpTzZFcjJQZ2VBMzVNYW03Uy0tYUlZczB2UTR3Y09QRDFJZ1RtdHhQeEltYUFsMy04RUgyYmc?oc=5",
-   "source": "Le Progrès",
-   "ts": 1795496511,
-   "theme": "fact"
-  },
-  {
-   "title": "Avec un chiffre d'affaires de 5 milliards de VND, quelle méthode de calcul des impôts est la plus avantageuse pour une entreprise familiale ?",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGNENWhKSXNwMEJCR1kxTWdMLUZ4bHNrY3UzTFd4ZWFnT0RuSDBWWXk0NEJRN2JBUzFfLUVoWWNMbmpKc2RmbzBieVpTVnQ2Z3hUZm5uWDVDS2tqRTdISkVHRzRPUFNTajJjUUw1bm5zMGx5NnZjUjhWNmJuUlk0VFpycldDaTJsM3ZrLWx1Rk9IbGdj?oc=5",
-   "source": "Vietnam.vn",
-   "ts": 1795495693,
-   "theme": "fisc"
-  },
-  {
-   "title": "Éclaircissement fiscal sur les zones franches aux Émirats : règles applicables à l'impôt sur les sociétés, à la TVA et aux droits d'accise - Actualités et statistiques",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPblR5LXdpX2Z2UEZKRDliTlJjWHJOR1o1QXVDNlJ2akdvZDJQTk0yMFp0b1VjX3kzRnJDc0dqMFpmMnFvMjlvRGFKWVlrNU1JQ0VZWnp6cXFiM2pTdl9mWXRyZ0FTaXVCaFlCYnNDa3Z5SEwxZm1uSFp0MGRFdWxwWTV2cGRaSHV0Rk5SY242TDNYRE1xbWFia2RmczNGNng0UFFrZHJIYy1uMzdvT251d21IUm82V3RCaGxESzVZVS12Mkd0QVA3ajZCNEFDWV9yX0RIYkd3?oc=5",
-   "source": "IndexBox",
-   "ts": 1795494021,
-   "theme": "fisc"
-  },
-  {
-   "title": "Nantes : Julien, 26 ans, cherche un employeur en restauration avant le 3 décembre",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSGxvTHdlSWVLOXpLZ1BfeE9qZ2RrU05fNk9ha1BjaTRtaU1UVV90T0dPYWFraFd1V3hSUVZGZ3pETEJDaXMxUFB0aVpLckJUckF1dWI3aUlVYVNleFgzVHd0djBBMGpwQkpOZXBIV0hleXBTaWpBZFhkMkdQUWFoQWc0Q3p0V0RhbGFtZXhmNkk4Q0tIYmlVZnRuSklOLVE?oc=5",
-   "source": "https://infos-media-nantes.fr/",
-   "ts": 1795480691,
-   "theme": "alt"
-  },
-  {
-   "title": "[VIDEO] Arrêts maladie : nouveaux plafonds au 1-9-2026 et impacts pour le salarié et l’employeur",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONnJvektkWWpvU3dZSVl2NXZoMW1nWXlaWXVPZFEyTkotYnRqbllQNjhMeElRRjJ2V21LYklNOTBWU0Z0QndXR0tUZzZ1Z19DUzhYTjF6cXJTdkNQenpUWTNIZDZoVTdQQncwZHEwZ0stSHY3SFlWZmNSM3VJOVY4Nkx0ckIzV2lLNXlsQ0dfelc5TUgzbkQ3Q0ZWeGZhQlFTMTJBYUZ2Z0VHQm9FZXNGWUNzdEN4aXhWcTdfZGg1OGdoeTVJRVZLR0dhajlPVFBMdUU1MjltUQ?oc=5",
-   "source": "Éditions Francis Lefebvre",
-   "ts": 1795471990,
-   "theme": "soc"
   }
  ]
 }
