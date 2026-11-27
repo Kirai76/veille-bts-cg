@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T18:00:06+00:00",
- "last_success": "2026-11-27T18:00:06+00:00",
+ "updated": "2026-11-27T19:11:02+00:00",
+ "last_success": "2026-11-27T19:11:02+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 65
   },
   {
    "query": "e-reporting facture plateforme agréée",
@@ -15,22 +15,22 @@
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 100
+   "count": 34
   },
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 34
+   "count": 59
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 95
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 10
+   "count": 31
   },
   {
    "query": "DSN employeurs paie",
@@ -45,17 +45,17 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 62
+   "count": 64
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 27
+   "count": 11
   },
   {
    "query": "apprentissage alternance réforme",
@@ -65,10 +65,24 @@
  ],
  "items": [
   {
+   "title": "Présidentielle 2027 : Marine Le Pen veut soulager les TPE et PME",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1lhVjZPSHAwZnI4THp6VWtWQzY3OE9WX2xlbTRoa1NKeXJ2bTRmX01rV08tYWNSRHF4dkJqNnItU21oTnpQeUNxWTJpampyMXhHZy04NnpUZVBJV0szbmswOXZLek5KeEdoUnh4WDNxRkVVZWhMTEtBbzEtR0dEUXVleUdydnJ5OTFOQTlMcmN4VHdGRTdBRHZYclVEZjJFcDdIMmt3NkJxX0FLZ25wUUtFVWRNUGhP?oc=5",
+   "source": "Valeurs actuelles",
+   "ts": 1795806026,
+   "theme": "fisc"
+  },
+  {
    "title": "Pour alléger l’impôt sur les sociétés des PME, Marine Le Pen veut alourdir celui des grandes entreprises",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLU5fQXlwZV9PUDN1X0JaaVBtYWR5VUlzbEpZZnNMdGdTdVZ5VkZfb0xYcE8zMnRjbWREdzhrcTVDM0UtTldZVml5aWJNT1kyem1WQk5oNEktajI1Y1g2Q2xjZ0plZ3c2WnduNHlndDlHZE5QTEk5QXdEaEFJbnVtOVV4cnlpel9KSVU0YTBvZ3VLRHV6NlJTOW5QX2pVQno0XzdFVkowM3JpNWtVbUVUV216RlNxQ25pVkNwLXpoU3Z4YVZpVk9JYllJRXk5aEIyZmV3VTZjYlNIX2FSZFE?oc=5",
    "source": "Le Figaro",
    "ts": 1795800600,
+   "theme": "fisc"
+  },
+  {
+   "title": "Donation enfant ou petit-enfant : jusqu’à 50 000 euros sans droits",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2VEcktpcHAwUzBjM2RQVno5eWQzdW5BSjBqMHItUy1LcDJaZjdKU2k0VjNLTXpQYXRxZUlFVXZDRXdONGJMUFU4TU9HX2hJeFBReEdyUU5YN3RnTWp4d2RsUnYyU0tsY3N4ZE5SVVJRbWtRNWRidE1EVWgyOURTXzZtRGxDcWRaYV90ZEFwRGJzQU1GQUlEeGl1MS0?oc=5",
+   "source": "mesinfos",
+   "ts": 1795791900,
    "theme": "fisc"
   },
   {
@@ -105,6 +119,13 @@
    "source": "AEF info",
    "ts": 1795781160,
    "theme": "alt"
+  },
+  {
+   "title": "Guinée : paiements en dollars, crédits de TVA, rapatriement des recettes… Les nouvelles mesures annoncées aux sociétés minières",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUmNlcnhERmpHamtPS0todm1ndWZyajRfdjc3U2kzWFFiZFhUSERfQ1o3Z1FHX0FzWl82dFdxbk53RlphdWxrXzVKMzFFVEJGMnl6RGQyOE91QkVPRE51U09LVWpHaFFBRVJtTnlacVhvX1UtaGlQeGdDZ0Jnckl3ZmlMei1Bc2RvZXE5cDV2U2k4LUZlRnVMWmd0dWQzTzNFYjVPV2dqSENpRVVnT1lQbUthZFM2cldudVNLbUY5eWxTTG9RMmRoMmc5eDJ0M1l2QWFRZmh0R0dIbUlubzl4SnJWczU4QXdocXJj?oc=5",
+   "source": "Africaguinee.com",
+   "ts": 1795779900,
+   "theme": "fisc"
   },
   {
    "title": "300 étudiants en marketing, commerce ou ressources humaines attendus : l’école Pigier de retour à Toulon",
@@ -990,7 +1011,7 @@
   },
   {
    "title": "Électricité. La TVA passe à 20 % sans hausse des tarifs pour les consommateurs | L'observateur",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJabnU1SUVQcjE3ZFpIYzhJX0hCWVBsajBzWV9YbW8tRC1janYwdkZrTGdTTHhHRTMzZXc1dzNWbXV0dmFoMzBVMzFLZjN3d2ZOQ2lPSHhPWl95RWZMSWJFejdBRmRDVTZCUThzZzExSEJnYkNhZVZYc2tBTEU5aXYwaHNFY0Y1SVdpSks0cGZTTUk5VF9aRTlJOUZmcXRzM0owY2xZQldYbjhXN1M2Q2dkMzItUjM3Qy1QM0xRQlV1UzjSAVZBVV95cUxQcFBub0NUQWhmT0ZxeE1rcUVJVEpZZUNNWE1rcmdRTERraEpOZHF2RXlRX2YxdkpucG5lVUh2bmhmTUpuY3o5RW4tTFAyRUpsR3A1VllDZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUG5vQ1RBaGZPRnF4TWtxRUlUSlllQ01YTWtyZ1FMRGtoSk5kcXZFeVFfZjF2Sm5wbmVVSHZuaGZNSm5jejlFbi1MUDJFSmxHcDVWWUNn0gFWQVVfeXFMUHBQbm9DVEFoZk9GcXhNa3FFSVRKWWVDTVhNa3JnUUxEa2hKTmRxdkV5UV9mMXZKbnBuZVVIdm5oZk1KbmN6OUVuLUxQMkVKbEdwNVZZQ2c?oc=5",
    "source": "L'observateur",
    "ts": 1795535460,
    "theme": "fisc"
@@ -1092,27 +1113,6 @@
    "source": "Medias24",
    "ts": 1795516500,
    "theme": "fisc"
-  },
-  {
-   "title": "Le DCG : diplôme de comptabilité et de gestion",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXBOeDVaY0ZvMW1wNHdVZ3N4OTZBWVFuWmJYYXpIaFdiRzhXRTJEd2thaTNJSFBrWEJGVF9wWHZHa3hVMXROcGViNF85SW84ZkRseWRRc1Y0elFkTFVBalB5d3pIRF9tajl2S05TS3ZPTVRhcUhCVzVGUjQyNWdJY3dDLUFrQ3h1VHVxTENWaUlZbU14RXR3bV91NE9JMjBE?oc=5",
-   "source": "enseignementsup-recherche.gouv.fr",
-   "ts": 1795514274,
-   "theme": "compta"
-  },
-  {
-   "title": "La facture électronique prend très progressivement racine",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlQtVXZ2VUZBU2hWOUxhMWpKVDJKcjBveFFEVFM2WVpBalV6WVVhWVFObUdrOU9iSEhWUmF2bk9HY29iT1g5enI2VWVUbTlnZ3R3SVdFd3hlRzdES2lHTW1KN1ZWT2xzUUF6ZHU3OVhIbGhrNzEzWUN3VnlfaDBmUFNmTk5Bbk5ia1hzSUgyRVdtU2xkeEdzOFVkcTZhRkJs?oc=5",
-   "source": "L'Agefi",
-   "ts": 1795510992,
-   "theme": "fact"
-  },
-  {
-   "title": "Régimes social et fiscal de la rupture conventionnelle en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX3NmbHdhbE5YTHZGUWR0Unl2dnV3LTh1aUZVYkZFVmtIWXNlM2hwWVBwYUNtd0JqZV9hUUhkYkRtcE1pZmMxRzJQbU84VFJrUmhUVmh2a2syUUdkWjJtX2E5VVl5eDhXYmZOSmFvbU9ZNkZoOUM3U0JJOTZDUEVOZEtKM01YU3dmX1h4TE9IRGloZ1ZFSF9yRUZydkVMdnMzVlF6cHp4TXpsZjg?oc=5",
-   "source": "Juritravail",
-   "ts": 1795507200,
-   "theme": "soc"
   }
  ]
 }
