@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-27T04:19:42+00:00",
- "last_success": "2026-11-27T04:19:42+00:00",
+ "updated": "2026-11-27T06:13:06+00:00",
+ "last_success": "2026-11-27T06:13:06+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 62
+   "count": 69
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 36
+   "count": 100
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -35,7 +35,7 @@
   {
    "query": "DSN employeurs paie",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "query": "plan comptable général ANC",
@@ -45,12 +45,12 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 44
+   "count": 60
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 33
+   "count": 18
   },
   {
    "query": "BTS comptabilité gestion",
@@ -65,17 +65,38 @@
  ],
  "items": [
   {
-   "title": "La réforme de l'AVS 2030 risque d'avoir beaucoup de retard",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmtSMkQ1ZjZLY3NXZS1ROEIyV0k5RlFYWFhvYVZ2Q2YwTDNLckZndTZqMkpNQmxWMzNpRkw4NUV2eTh6TkJoU3JMOW5JaC12Z2hmVVJfWWwwTWczS3BRYWlwcGxZOGxuZlFnU1RVbk1lRU9QTkJIWWJSS1FVdVBYQlhoZVBrUWg0ODVXZlpR?oc=5",
-   "source": "Blick",
-   "ts": 1795744550,
+   "title": "Expertise comptable : Tyls conseil accélère avec six acquisitions en un mois",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeXlSMWtCVUhINk40N3lwNFVKWE1QMS1ndU5GaWhRRkdDeVBJT2JMNDh4MlotemxYTHZFYUJLTENkaDlCMGFxM1VVcjViRmZlNWQ0SXp0V3FzR2JtZ05ZQl9CUktHZ3h1Y0pnWTJ0V3pZVzM1dVkyUHo1UW55UHMzQ29SajRRNmNSMXlYMGJHRmdPV2dSRmx1YjIwY0Z6VEZUb0YybEJFemRzS2RsUjIwZVhfWlVpWUdWOVJPUUpIRDhXUXpEdUkxNzdMeUFnUUphdENfUkhXN2ExVWVqeTBpLWcyY19VX2N3Z0FhR08ydUtTam50d3hueGV0VFhicUhUS2tZSnp0cm5DR0JHbGVHY1Fn?oc=5",
+   "source": "Ouest-France",
+   "ts": 1795757432,
+   "theme": "compta"
+  },
+  {
+   "title": "Budget 2027 : le Sénat maintient la surtaxe sur les grandes entreprises, à 5 milliards d’euros",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQYXExYjY4dVpkbUYtOEJZbFRIRnRzZTBJMUNCODVMaTREMXdqNE1LREVnQlRYaGZ2MXFmTFZxNUVtV0VnOWI4VWtCWVhwU1NDa1JsOVF1TjFHREszUmE4bEd1YzVMR19ST2tOaTZWVDNoRElRZFdCUXZHTVo?oc=5",
+   "source": "business-times.fr",
+   "ts": 1795752900,
    "theme": "fisc"
   },
   {
    "title": "Proposition du RN : un barème progressif d'IS de 5 tranches favorable aux PME",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXFGMWl3U3QtcU42TjJmWEhzeHp1SzJ4WGxOZi1yNlpUX2hKZ3ppSzZIT1pxSmxFcWdNN3VBRFMyLXVaeXRMbGFiWUgxNTFjQUVoRU5wSGI4RTlRc041ejVTX2Q3TjIzTDNBbnZxWlQ3T2FDY2hwX1pwazBaYWJ3MDdXcjVjNjctQWhpTTEwS2hxd2Z0RWxBeFBnaC1IcllvU05hVTdidzM3S3Y5ZEpwV1NKR1FNbHc?oc=5",
    "source": "LégiFiscal",
-   "ts": 1795734493,
+   "ts": 1795752140,
+   "theme": "fisc"
+  },
+  {
+   "title": "L'achat de produits agricoles sans factures est éligible à une déduction d'impôt sur les sociétés si un ensemble complet de documents (02/TNDN) est fourni et que le paiement est effectué par des moyens autres que l'argent liquide.",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3RSV2hxQThHYnE0cHljc3QxOVZjWndWbXo3SHE3SDVHSGV2ZGRfNkduVGpQVzFuVUgzOUYtU1lhMDZvaTA4N1B1dHlMN3I1ejdRVzViMUFrR25PRHgxcnktTjlsbjR4Zzc5REpPZ0RyWnVYNDUzYVVpcnRpTllEUEw1djBlaE42TlZSdkxBSEpPMFlTME1pZlZHY3BUSmsyRTAxeXhHbjNZYXRBLVl1QmcyVV9PMThDY3Q1bkZEdHBidmx5bmVRWFFad1A?oc=5",
+   "source": "Vietnam.vn",
+   "ts": 1795749256,
+   "theme": "fisc"
+  },
+  {
+   "title": "La réforme de l'AVS 2030 risque d'avoir beaucoup de retard",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmtSMkQ1ZjZLY3NXZS1ROEIyV0k5RlFYWFhvYVZ2Q2YwTDNLckZndTZqMkpNQmxWMzNpRkw4NUV2eTh6TkJoU3JMOW5JaC12Z2hmVVJfWWwwTWczS3BRYWlwcGxZOGxuZlFnU1RVbk1lRU9QTkJIWWJSS1FVdVBYQlhoZVBrUWg0ODVXZlpR?oc=5",
+   "source": "Blick",
+   "ts": 1795744550,
    "theme": "fisc"
   },
   {
@@ -364,6 +385,13 @@
    "source": "Laodong.vn",
    "ts": 1795651684,
    "theme": "fisc"
+  },
+  {
+   "title": "Facturation électronique : Techfive lance la caisse Comptoir 2",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTldHSW5oMXhWeHF2WHFyOGlfYnJwQS1hWk5ncWx1U1FjWHpZR3FocGljNjlpTmZsMGRYVnJ1blZDc3Q1Ny1lcFVJMFlCVW54UGwzSWxmdTA4VlYzbkxUMXd1VzBpcHRFM1h1dVY0eWZPVWd2akxhUFlLZldrYWR1eXR3XzgxbFlOUlBRal9zQWVFd01MVmY4X25EOGcwazBwQjJmTERLUl9NNFIwNS1ZWC1JN0lja0pmeEFOM0o4bWdjRG9Fa08xTWZQdjQzZTlJ?oc=5",
+   "source": "Presse Agence",
+   "ts": 1795651200,
+   "theme": "fact"
   },
   {
    "title": "Actualisation du taux maximum des intérêts déductibles pour les exercices clos au 4ème trimestre 2026",
@@ -870,6 +898,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Fiscalité numérique : Apple ajuste les revenus des développeurs pour intégrer l'impôt camerounais de 3 %",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTzZ1T2E1REs4eGRDRk84YUZDZklXcmRfLTVhOERIbXhoMVNOQno4NFBNeXJ6M0czeGZVSUU1cnd3eER4aHZhVEVrQ1ZTNHdNWEVzeEd1NjZ0M2V6b2tMaG1OLTlTdW1KTmhlXzFraXFnM2pXaThaWTZDdXB3Ums3VjE2NWQxQ0ZXaVZlLWxLZC1JYURQalpqSVVRU3FCcnZ1YzVQamQ2NHNVc1RRQXdRU1VzM2kyb0EtbkUwWGtzNXhTMzJUX0JjTEtwMDdJTGpobzZ4cW55Zk5pY3JacTU1aXVWVnlJQdIB6wFBVV95cUxNZjBsMGVJX2hFcUVlcjc1ZWRfU1hSbm94dW1sNjBCdWtqRHFjSE9QM3NPUktjN1EtZnFwMkYxR2daVzVFNW04Mm9Zd2w5Y010cm9ocEoyQmZKUHlQX1ZPczYxYjBtQ3pRM2NheGhrZTl1NkIxMUVNTG9jeVY0WTRVQ2dqMDlxeERJWHZybzJDYmpFb3dZc2h3NlhqN0pwUXQ5R0VoaV9CR29BTTFHQ3FCbDZZVlNzb2VlbGZFYjUtRUd1XzdKeVhOZ3FNT1VDU0l2ZkdRRURTRVRDUnlVdGxZRkl1UDBHMzFEVWlz?oc=5",
+   "source": "Investir au Cameroun",
+   "ts": 1795517954,
+   "theme": "fisc"
+  },
+  {
    "title": "Lisnard mise sur la Suède, baisser les impôts plutôt que subventionner les entreprises",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1FSS2xZU3FFWnRyTEpBUlJya3FqYkJkY0dnczJSRXNid21NUkJINWJqQWRqODVrNFRRdUFHVG1SZ2ZReHQyLUhfejVUSDg1ZDh5OXFaOE9zcnRJMkxUNk9uMkZtQVRhdFpMQ3otZHJTVW85b2poQ3lYMk5SMmtSUTBnbHRZek1OZ0phWklCRnB1QUNIVEdUcHhrVV9fa3p5QndvN2pSdmhxenNQTnZjM05Ha2pOMVBnSTAtRVFxbk54WWRWTGZuLVB0VQ?oc=5",
    "source": "Atlantico",
@@ -889,13 +924,6 @@
    "source": "L'Agefi",
    "ts": 1795510992,
    "theme": "fact"
-  },
-  {
-   "title": "Fiscalité numérique : Apple ajuste les revenus des développeurs pour intégrer l'impôt camerounais de 3",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ0c5RldTQmNhYVZES080TnJEY3VYS0VTYWJJUVJvUFlPZHJiNnlTcVdFdjJOSm5wSDZHWS1Bb3otbEtuTEYwZFNHX2VoenhlZTk5YkFoMHd0eXlBTXQ3emhRTVRBNWM5bDhGd3lBZHZWU3U2ekxyaWlDaWxEeTI1Q08zM3Z1d3czcFN6Ql9LcWhUUE53Ry12VWQ4bkhLM1FodExUNDVQaTV4NV96dW1iT1RMY29jWFN6UlVHN2hXRkxjRnNBbWMzaEtYeWluZ194bHgxTkN5UEJuNkZpUXFrSmxabGxubk1YWWM3T3ZsYklBZ0hW?oc=5",
-   "source": "Investir au Cameroun",
-   "ts": 1795507740,
-   "theme": "fisc"
   },
   {
    "title": "Régimes social et fiscal de la rupture conventionnelle en 2027",
@@ -1085,34 +1113,6 @@
    "source": "African Manager",
    "ts": 1795438583,
    "theme": "fisc"
-  },
-  {
-   "title": "La TVA sur l’électricité relevée à 20%: pas de hausse des tarifs pour les consommateurs",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXdSMkdJeDM1MEJnVG5pS1hUczg5d1plZDRVOTJnQXNaTXhteVZJQzEwdjdyQXE3blpsTXRrdWx6OTVWaG81T2VFRWNSRG1WbTFDQnVRVVFBY3dDaE5FYVJsQWFBVm4xSVNmYUZWWlh0RWVaTTNNMzM3QUxDREN1SnZ1a3FIRVd5a29pN1JtNlM0OXBXaEZERXlZcnBpdG9MVks1Q01saDRpQU9rOTJpblFzN2VPYTlMTTdVNEdNcl9CeXhZQ0d0c3hQUEYzTWY4QTZhcnNfRFE?oc=5",
-   "source": "Le360",
-   "ts": 1795437900,
-   "theme": "fisc"
-  },
-  {
-   "title": "Facturation électronique : après la plateforme, le vrai chantier commence",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmdoM25wc2hVbXVPNC1mdVFQYlpPZ2xydFBKTmxlX3J5aXE3SFBKdi1RUWowb2wzaEtVNGJXWG9Xak5oWFVUZ1liNVZBdm9HSzhsUkxCY0NBMFBDNThza0RMZUk0RTlSYklOTWhlZjlCS2lhRXpaNzdqaTZPSE5CNncwWWlXYjBDUElwYndqSkRVTmRrbjU4WHZfNFMzUTNFa2VUb3JRZDlmbUtsSXZxX0lQNmg0Snc1YUZTcWFNazk4SW03?oc=5",
-   "source": "Le Journal des Entreprises",
-   "ts": 1795437111,
-   "theme": "fact"
-  },
-  {
-   "title": "Les patients en affection longue durée devront-ils bientôt payer plus d'impôts? Les sénateurs durcissent la fiscalité sur ces arrêts maladie",
-   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZ1duSkJlQWF5cGlNU1RQRGxBSkhnaTcwV1dmdFRNbmluTHZXbkhxd2FxTXl0WTlJck9IUUJqTHBoakt6MzROdFdJUU5BTFNGeFF4REs2UVFBX1ZLTmRmelg2QzctN1E5VktfZDFpYjhwaV9obUh0QWxuSk1VdV9JOGhlMWZUbUVEUW5ZcE5OdE9nQ0ZTNXR5RUwwWUlud0UzVVJ3WHFaV3ZQVGlsckw1cEUtQVNhT1c0Y21vc2pYeGhPQjEteGhwaWY3bDU4WHBhejVwa0VVWXpKdTJhREhfQjJablozajNZMFJFZWpzeVJ2R0xpWHNtOUp0TjVKOEpLbFNWMkVBcHpiT25fdkI0ZjlqMEJ1MEtVT3EwTE92WW02TXpnSzYteG13ZGU2LUdMcU5XUHVOeGlBLTFNV0E?oc=5",
-   "source": "BFM",
-   "ts": 1795432732,
-   "theme": "fisc"
-  },
-  {
-   "title": "Apprentissage : les offres sont là, les aides de 2027 restent à confirmer",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3FPLUplMGtGRWkyTGJoclh0RnBCMzBZNUtwcXJKX05yMV8yQXM1SVlub0VCSmJCX3kzZ2k5cnNqS1BFbDBwSU1RdE15R2JmWTA0WmYzOUhBX0liVGJyVFhGaEk3ZmJQekFDQ0FWVlVKbV9oUFpjd01MOWxqdGlYUTJhRjU2TnhnSVE?oc=5",
-   "source": "Social Mag",
-   "ts": 1795431614,
-   "theme": "alt"
   }
  ]
 }
