@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-28T14:15:07+00:00",
- "last_success": "2026-11-28T14:15:07+00:00",
+ "updated": "2026-11-28T15:02:08+00:00",
+ "last_success": "2026-11-28T15:02:08+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 61
+   "count": 100
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
    "ok": true,
-   "count": 34
+   "count": 97
   },
   {
    "query": "TVA entreprises réforme",
@@ -25,7 +25,7 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 88
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 57
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
@@ -55,12 +55,12 @@
   {
    "query": "BTS comptabilité gestion",
    "ok": true,
-   "count": 15
+   "count": 32
   },
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 43
+   "count": 32
   }
  ],
  "items": [
@@ -77,6 +77,13 @@
    "source": "L'officiel des métiers",
    "ts": 1795864540,
    "theme": "compta"
+  },
+  {
+   "title": "Quand la croissance des bénéfices détruit de la valeur",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQczBBMWpYU0QwcHJwS19qZURTX1BwNkNqbDNzUFRMUjRzRWsyRTBpTjdNUDhET1BhWUxPX0toc3h6VGhtcXVpSjVlX29FWG82Y1g4Zk1tTUtQbXJ5QXNFWk01Mm1aNXBtc0N1dndxVTRrTkdQdkJVekRSTjVSQlRPdHZrTk5KaW1rRGJadVAwSFBoWU1Xdko5YVRLN0tQdkxubG9EZUtwdVo0eTdaTllXTWJxTzJ0MWIzVmRkUTBMMA?oc=5",
+   "source": "JDN",
+   "ts": 1795849220,
+   "theme": "fisc"
   },
   {
    "title": "La Roche-Jaudy. Les formations de BTS vont être présentées aux terminales",
@@ -856,18 +863,18 @@
    "theme": "alt"
   },
   {
+   "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
+   "source": "Compta Online",
+   "ts": 1795593600,
+   "theme": "alt"
+  },
+  {
    "title": "Séance publique du 25 novembre 2026 (soir)",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2ZteHNHbkRLbXRuRFA1R1ZlNlR6RnNDcHA2S2phSWdLV2tmVWZHWGdJVDViNTlwSjUtNG1qYy1QN3BVY2lnb3VvRlNOT21yWjliUEI3bWpMY3kzSk82MlJpVmgwdDBENER2c29lbF9Wd0Z2TmRpeG11eDdaMDYyU1VFaThtU2J0R004eGxZOWRrYjllT3hF?oc=5",
    "source": "Contexte",
    "ts": 1795593600,
    "theme": "fisc"
-  },
-  {
-   "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
-   "source": "Compta Online",
-   "ts": 1795593600,
-   "theme": "compta"
   },
   {
    "title": "Étude Cegid, Silae et Shine : les dirigeants saluent leur expert-comptable mais sont divisés sur l'IA",
@@ -1105,13 +1112,6 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGxwalh3YmhuMlpxUG9BRDI3a1JoTDZBVU8tY29QVnBjVW9IZVhzaGhiTjB0Undha0NLTTZNdTlGLTVzcjZwX3VSb19Lb2xwclF6QlZNS3U3T2tjMVpHaWhNM0Jnd3hhMGhfT1FkSFpsVkRQWlNoRlNwbjdLcDVfb0lCb1I1M3pDSXczaXBZOTlTX3hOeXl6d2xFd3BwMldPUmZkUENxazVvWXlQT3p6TEFUVGstbTlibHc?oc=5",
    "source": "Journal de Brazza",
    "ts": 1795533643,
-   "theme": "fisc"
-  },
-  {
-   "title": "Électricité : 6,5 milliards de DH pour absorber la hausse de TVA et maintenir les tarifs",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXNIeUplS0dYSkI1NlZmdGdfOUVGTFpMR09QM1FYQUdiOXU5SEpMdzVvNmJ6MWhoQUxHeC1ERjRGUy1nYWxEa3YybHB4UWRjTHdxdWJucWpjSHJLUjgzNnF5dFl4dy0tQ1Fab2JvUDdBUk9LNExBaUZoRmpld2wwQVhLaUtlTE14cG9PWDd6YjA4UEpNekowN1c1TmxJeXBDbkdRVExVZnVuMWV3Xzlfb0JyWV93Uk1xMzBKcFVoY0NhMmk3eGdZS0NLd3FobTIxeDBnQQ?oc=5",
-   "source": "Linformation.ma",
-   "ts": 1795533540,
    "theme": "fisc"
   }
  ]
