@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-28T13:13:00+00:00",
- "last_success": "2026-11-28T13:13:00+00:00",
+ "updated": "2026-11-28T14:15:07+00:00",
+ "last_success": "2026-11-28T14:15:07+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
    "ok": true,
-   "count": 100
+   "count": 61
   },
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -25,12 +25,12 @@
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 33
+   "count": 88
   },
   {
    "query": "paie cotisations sociales Urssaf",
    "ok": true,
-   "count": 27
+   "count": 10
   },
   {
    "query": "DSN employeurs paie",
@@ -45,7 +45,7 @@
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 40
+   "count": 57
   },
   {
    "query": "aide embauche apprenti",
@@ -856,18 +856,18 @@
    "theme": "alt"
   },
   {
-   "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
-   "source": "Compta Online",
-   "ts": 1795593600,
-   "theme": "alt"
-  },
-  {
    "title": "Séance publique du 25 novembre 2026 (soir)",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2ZteHNHbkRLbXRuRFA1R1ZlNlR6RnNDcHA2S2phSWdLV2tmVWZHWGdJVDViNTlwSjUtNG1qYy1QN3BVY2lnb3VvRlNOT21yWjliUEI3bWpMY3kzSk82MlJpVmgwdDBENER2c29lbF9Wd0Z2TmRpeG11eDdaMDYyU1VFaThtU2J0R004eGxZOWRrYjllT3hF?oc=5",
    "source": "Contexte",
    "ts": 1795593600,
    "theme": "fisc"
+  },
+  {
+   "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
+   "source": "Compta Online",
+   "ts": 1795593600,
+   "theme": "compta"
   },
   {
    "title": "Étude Cegid, Silae et Shine : les dirigeants saluent leur expert-comptable mais sont divisés sur l'IA",
