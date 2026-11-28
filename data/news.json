@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T11:57:19+00:00",
- "last_success": "2026-11-28T11:57:19+00:00",
+ "updated": "2026-11-28T13:13:00+00:00",
+ "last_success": "2026-11-28T13:13:00+00:00",
  "feeds": [
   {
    "query": "facturation électronique",
@@ -10,7 +10,7 @@
   {
    "query": "e-reporting facture plateforme agréée",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "query": "loi de finances 2027 entreprises",
@@ -20,12 +20,12 @@
   {
    "query": "TVA entreprises réforme",
    "ok": true,
-   "count": 53
+   "count": 52
   },
   {
    "query": "impôt sur les sociétés",
    "ok": true,
-   "count": 88
+   "count": 33
   },
   {
    "query": "paie cotisations sociales Urssaf",
@@ -40,17 +40,17 @@
   {
    "query": "plan comptable général ANC",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "query": "expert-comptable profession comptable",
    "ok": true,
-   "count": 58
+   "count": 40
   },
   {
    "query": "aide embauche apprenti",
    "ok": true,
-   "count": 33
+   "count": 21
   },
   {
    "query": "BTS comptabilité gestion",
@@ -60,10 +60,24 @@
   {
    "query": "apprentissage alternance réforme",
    "ok": true,
-   "count": 44
+   "count": 43
   }
  ],
  "items": [
+  {
+   "title": "Cuir et chaussure : Les professionnels alertent sur la disparition des entreprises",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU1pJRjNtU0pYN003Zzk1YmhfUnVJWll3NmdUNWZPbmNVVEtfTGYyMmVuUU1JQ3JJR2paSXVTVlRibmYzbUVxSk9kSE9wandqVWxIeXNSc1B6YWRtQzVQNDl0eXMzbEI2bm5XOWJVaDVHMFpsdEplOGFVaHFuY2l0aHdyM3lReFdsZWFlYlpaUFVLMXRMZHRiUG5jc2VacnFrVEo3YVFEU2stSEhpZ0dlTVlfSGVqcEdkMWtsZmE1LWVsTERndVRuWlBscw?oc=5",
+   "source": "webdo",
+   "ts": 1795867440,
+   "theme": "fisc"
+  },
+  {
+   "title": "Notaires : nouvelles règles sur les élections et la comptabilité",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTVDY2lxQWJHYW9TYWx3SWQ5cDlJWGRyV1VFYUJkRlpWQXQ3V0JZdHlraDlpQS1rbG52UEJGb0ctTGhBbTV5aWIzNkVxUDhqd0lmNXpLM2Nrd3QzdWxiTW0tVHBQLWdsdmJZdFZZM3pKNnVfbW1rQ1JCMXZtcFQ4d0hPU1BTRGo4SzI0V2tkMXFvOVdJeTBTU0hHaXptWlhsOE1V?oc=5",
+   "source": "L'officiel des métiers",
+   "ts": 1795864540,
+   "theme": "compta"
+  },
   {
    "title": "La Roche-Jaudy. Les formations de BTS vont être présentées aux terminales",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWTBOMFlYT21BdDZUTTBzNDRjZXBndGxtTkdpY3lmM1lqWnV2LUV0V2VueTVmazZrRWZEeHNQN09hSjRnM0hzcDRJcnJnMlhVNjlaM3Y0cHF5ZllET0hNY0w5SE5Wc3RtRVF5Z2dwR2JYaktLWkx2U3ZfT1ctVFMwZEtTTmlBUUZydWM5R2toYXNLU091MjFzNXpFemhSSlgzVWtfQnQxTGFINUh2WGZ6R3BsSktXdEh4RTlrVWxwY0hzYkRTc3JkU3ZoT1FwNlR1YXJTbHJlekhZTVdXa3ZQVmZfcEFUSmctOXJZWjA1eEVma05DTTB5Y0x5RQ?oc=5",
@@ -513,6 +527,13 @@
    "theme": "fisc"
   },
   {
+   "title": "Facturation électronique : ce qui change pour les bailleurs et les loueurs en meublé",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUGRSU3Npb1N3ZDlMWFlHQnU1NmxPTnFOVEZRRkh3MVI5bnRlSjdCVnR6T3BTZU43S2lObFJjdFZ0ZGlIQ0t5dlg1X3ZoLWNlMElRZm92cm1SQmxsUkpreG9fTnNLUVlPcTU5Q3BvZGd0LTMyRkM2bHFuZjQ0N1FXQlQ3UkRBWmJya0Q1ZFJDMlZtaHdHdWZtQWJuSWJaeUdMcmF4SHVZRXEzeUJQbHh5eDNIRjNBYVFrbm9EZjk5cW9YYi1vN3A0UTFn?oc=5",
+   "source": "PAP",
+   "ts": 1795680000,
+   "theme": "fact"
+  },
+  {
    "title": "PLF 2027 : amnistie douanière, avantages fiscaux et soutien aux entreprises, les principales mesures adoptées en commission",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObkVEM0xKd2FLbFNLNHZfb25tdVJwbVoyVkltUjhSZS1teGlQdWxwWUEyelpUR1ZPNUJnR01ZeGpDTC1zTlhWbTVqdzJGbHZVNVZVakdlWVVwSGhnT2VXeklMSGVOSmFzekZLV3doWkZ2RlY5QzJ3Y0sxN05yaHJkSFU5c1BuaS0zenlfSFJVVEhnNVRXemxYU0txZkVUamlNcVFpQmxyRVdGYTdsVXZLNms0QXUtWFRoeVk0cHplNGdDTjNXdzk3QkxxQzhpbWhLM3lTZENlNUV2QlNkLThCZE1CTGVHWGxkNkNnN1Y5a3hBNkpLbi1WUk1Edw?oc=5",
    "source": "Business News",
@@ -835,18 +856,18 @@
    "theme": "alt"
   },
   {
+   "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
+   "source": "Compta Online",
+   "ts": 1795593600,
+   "theme": "alt"
+  },
+  {
    "title": "Séance publique du 25 novembre 2026 (soir)",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2ZteHNHbkRLbXRuRFA1R1ZlNlR6RnNDcHA2S2phSWdLV2tmVWZHWGdJVDViNTlwSjUtNG1qYy1QN3BVY2lnb3VvRlNOT21yWjliUEI3bWpMY3kzSk82MlJpVmgwdDBENER2c29lbF9Wd0Z2TmRpeG11eDdaMDYyU1VFaThtU2J0R004eGxZOWRrYjllT3hF?oc=5",
    "source": "Contexte",
    "ts": 1795593600,
    "theme": "fisc"
-  },
-  {
-   "title": "Rémunération des cadres 2026 : la médiane recule à 54 000€",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWVJBRlk3Z1FYRDZyLUVoRWpXdXZxdzItazFwSHdrZ1Z5MGE5bDdoQVN1cTBqdk9UZnpUcndVbFdUa2tBd2E5d080X2t1VnNEaHFvQ3dyWFctb3FLemcxd2RCTTFrWWFhcTJUNg?oc=5",
-   "source": "Compta Online",
-   "ts": 1795593600,
-   "theme": "compta"
   },
   {
    "title": "Étude Cegid, Silae et Shine : les dirigeants saluent leur expert-comptable mais sont divisés sur l'IA",
@@ -1092,27 +1113,6 @@
    "source": "Linformation.ma",
    "ts": 1795533540,
    "theme": "fisc"
-  },
-  {
-   "title": "SAINT-GERVAIS Grisbi fait le point sur l'Urssaf et la facturation électronique",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY05nZENDa0tWRVlYYUYzTjJCS2JXRWFnazRnMnJsMzExdnEtRTh5Z1IxNF9wNExpLUwtcHpPVU5TNm1MMk10Q3VfSFl3Q1JKLUc1MENqREdEbzJtVVJHZExlWXF2RHFoRTJ2bnZXRHFhSzlpaTdFNjhMLTg4azRCcE5ON3IzaWpSLTZfanoxakN5UVZROFc5Qjk0akxZTzcyTjhxa25LYnZHeGhoVkFkMm9PellPVG9EOGF0WDlmbnBRZDBwY2ROTVFtZldRdw?oc=5",
-   "source": "Objectif Gard",
-   "ts": 1795527391,
-   "theme": "fact"
-  },
-  {
-   "title": "Électricité au Maroc : la TVA passe à 20 %",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ibl92b252ZUd0VnhUd0VLa1JqUldIZ2YwdkVQR1FDZjBHQjVpTFhXdWY3ZWp2QzJkUjR5MXBGTk8yamdDSUw1TVQzYkVERWdGakpaOHhCZ3hZM0F3TFNCMHAzSW5mZ0NLdXc?oc=5",
-   "source": "EcoActu",
-   "ts": 1795526807,
-   "theme": "fisc"
-  },
-  {
-   "title": "Congé supplémentaire de naissance : l'employeur doit-il maintenir la mutuelle ?",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkFMeXNOZTdpaTlUMVFOUnBHTl9aMHAtM1VrdkdTUk15dzMtazJ4ajVjek8wcmxiZ0JUc2o2U2RQdlpwazh6Wnh3dW5LRDloMHVHSlJoQVRKWDdCNkIxX0hSdG8wYkx5UU9VbDlJVzdhOURYWTU0QkQ5QlBEczBwejJDUVYzc3JVbDVxY1dsaDBacjc3bGJkcEtvLXhuS0FPRms4LVRUS3RIWS1sa0o5Y2FqRDU5cWMzMU1kNkRn?oc=5",
-   "source": "Lefebvre Dalloz Compétences",
-   "ts": 1795526292,
-   "theme": "soc"
   }
  ]
 }
